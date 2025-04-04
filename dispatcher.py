@@ -1,0 +1,48 @@
+from agents import Agent, Runner, set_default_openai_key, enable_verbose_stdout_logging
+from datasets.prompts import (
+    calculation_agent_instructions,
+    dreamplan_agent_instructions,
+    finance_agent_instructions,
+    triage_agent_instructions,
+)
+import asyncio
+import os
+import dotenv
+
+dotenv.load_dotenv()
+set_default_openai_key(os.getenv("OPENAI_API_KEY"))
+enable_verbose_stdout_logging()
+
+
+calculation_agent = Agent(
+    name="Calculation Agent",
+    handoff_description="Specialist agent for interacting with the Calculation API",
+    instructions=calculation_agent_instructions,
+)
+
+dreamplan_agent = Agent(
+    name="Dreamplan Agent",
+    handoff_description="Specialist agent for answering questions about Dreamplan",
+    instructions=dreamplan_agent_instructions,
+)
+
+finance_agent = Agent(
+    name="Finance Agent",
+    handoff_description="Specialist agent for answering finance-related questions",
+    instructions=finance_agent_instructions,
+)
+
+triage_agent = Agent(
+    name="triage Agent",
+    instructions=triage_agent_instructions,
+    handoffs=[calculation_agent, dreamplan_agent, finance_agent],
+)
+
+
+async def main():
+    result = await Runner.run(triage_agent, "What is a stock?")
+    print(result.final_output)
+
+
+if __name__ == "__main__":
+    asyncio.run(main())
