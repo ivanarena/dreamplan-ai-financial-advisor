@@ -1,8 +1,5 @@
 import requests
-import json
-import os
 import dotenv
-from pydantic import ValidationError
 from calculation.templates import CalculateRequest, CalculateResponse
 
 dotenv.load_dotenv()

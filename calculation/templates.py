@@ -360,18 +360,21 @@ class BaseRecommendation(BaseModel):
 
 class PensionRecommendationProduct(BaseModel):
     """Base class for pension recommendation products."""
+
     type: str
     minimumContribution: Optional[float] = None
 
 
 class SinglePensionRecommendationProduct(PensionRecommendationProduct):
     """A recommendation product that modifies a single pension coverage."""
+
     type: str = "SinglePensionRecommendationProduct"
     idOfPensionToChange: Optional[str] = None
 
 
 class PriceRule(BaseModel):
     """Base class for price rules."""
+
     type: str
 
 
@@ -726,6 +729,7 @@ class CalculateRequest(BaseModel):
 
 class CalculateResponse(BaseModel):
     """The different outputs from the calculators can be null, if that calculation does not apply to the input data."""
+
     messages: Optional[List[Message]] = None
     statements: Optional[StatementResponse] = None
     houseAndMortgageOutput: Optional[HousingBaselineAndRecommendedOutput] = None
