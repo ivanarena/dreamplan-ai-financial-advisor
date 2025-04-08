@@ -1,9 +1,7 @@
 def test_calculate_target_prices_success(api, payload):
     """Test successful API call to calculate target prices"""
     response = api.calculate_target_prices(payload)
-    import pprint as pp
 
-    pp.pprint(response)
     assert response is not None
     assert "companyOutput" in response
     assert "emergencySavingsOutput" in response
