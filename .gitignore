@@ -13,3 +13,6 @@ wheels/
 
 # Secrets
 .env
+
+# VS Code
+.vscode/
