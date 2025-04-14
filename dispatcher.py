@@ -44,7 +44,9 @@ async def main():
     result = await Runner.run(
         triage_agent,
         """
-        I need to calculate target prices, I'm 43 and my spouse is 42, I earn 40000 per month and my wife 52000.
+        I need to calculate target prices, I'm 43 and my spouse is 42,
+        I earn 40000 per month and my wife 52000. We both have pension policies: my contribution is 
+        10000 with an initial value of 100000 and she contributes 4000, already having 200000. 
         """,
     )
     # pp.pprint(result)

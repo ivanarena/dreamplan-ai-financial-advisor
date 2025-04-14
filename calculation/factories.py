@@ -1,4 +1,4 @@
-from calculation.templates import PersonInput, Income
+from calculation.templates import PersonInput, Income, PensionCoverage
 import uuid
 from typing import List
 
@@ -14,7 +14,6 @@ def build_incomes(salary: float, spouse_salary: float) -> List[Income]:
             "payment": {
                 "type": "Payment",
                 "amount": salary,
-                "paymentFrequency": "Monthly",
             },
             "id": str(uuid.uuid4()),
         }
@@ -26,9 +25,56 @@ def build_incomes(salary: float, spouse_salary: float) -> List[Income]:
                 "payment": {
                     "type": "Payment",
                     "amount": spouse_salary,
-                    "paymentFrequency": "Monthly",
                 },
                 "id": str(uuid.uuid4()),
             }
         )
     return incomes
+
+
+def build_policies(
+    contribution: float,
+    initial_value: float,
+    spouse_contribution: float,
+    spouse_initial_value: float,
+) -> List[PensionCoverage]:
+    policies = [
+        {
+            "type": "PensionPolicy",
+            "owner": "Primary",
+            "coverages": [
+                {
+                    "type": "PensionCoverage",
+                    "owner": "Primary",
+                    "contribution": {
+                        "type": "PensionContribution",
+                        "amount": contribution,
+                    },
+                    "initialValue": initial_value,
+                    "id": str(uuid.uuid4()),
+                },
+            ],
+            "id": str(uuid.uuid4()),
+        }
+    ]
+    if spouse_contribution:
+        policies.append(
+            {
+                "type": "PensionPolicy",
+                "owner": "Spouse",
+                "coverages": [
+                    {
+                        "type": "PensionCoverage",
+                        "owner": "Spouse",
+                        "contribution": {
+                            "type": "PensionContribution",
+                            "amount": spouse_contribution,
+                        },
+                        "initialValue": spouse_initial_value,
+                        "id": str(uuid.uuid4()),
+                    },
+                ],
+                "id": str(uuid.uuid4()),
+            }
+        )
+    return policies
