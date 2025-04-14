@@ -1,12 +1,15 @@
 import requests
 import dotenv
 from calculation.templates import CalculateRequest, CalculateResponse
+import os
 
 dotenv.load_dotenv()
 
 
 class CalculationApiClient:
-    def __init__(self, base_url: str):
+    def __init__(
+        self, base_url: str = os.getenv("CALCULATION_API_URL", "http://localhost:5000")
+    ):
         self.base_url = base_url
 
     def calculate_target_prices(self, payload: CalculateRequest) -> CalculateResponse:
@@ -28,3 +31,6 @@ class CalculationApiClient:
         except requests.exceptions.RequestException as e:
             print(f"Request failed: {e}")
             return None
+
+
+client = CalculationApiClient()

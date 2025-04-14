@@ -156,7 +156,7 @@ class StatementResponse(BaseModel):
 
 class PersonInput(BaseModel):
     birthYear: int
-    pensionAge: int
+    pensionAge: int = 68
     deathAge: int = 88
 
 
