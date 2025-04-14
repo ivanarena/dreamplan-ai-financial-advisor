@@ -1,6 +1,6 @@
 from calculation.client import client
 from agents import function_tool
-from calculation.factories import build_person
+from calculation.factories import build_person, build_incomes
 from pydantic import BaseModel
 from typing import Optional
 
@@ -23,6 +23,12 @@ async def call_calculation_api(user_data: UserData) -> str:
             "spouse": build_person(user_data.spouse_age)
             if user_data.spouse_age is not None
             else None,
+            "incomes": build_incomes(
+                user_data.salary,
+                user_data.spouse_salary
+                if user_data.spouse_salary is not None
+                else None,
+            ),
         }
 
         print("\n====== PAYLOAD ======\n", payload)
