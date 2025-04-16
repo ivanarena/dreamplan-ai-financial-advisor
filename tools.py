@@ -1,8 +1,19 @@
 from calculation.client import client
 from agents import function_tool
-from calculation.factories import build_person, build_incomes, build_policies
+from calculation.factories import (
+    build_person,
+    build_incomes,
+    build_policies,
+    build_houses,
+)
 from pydantic import BaseModel
-from typing import Optional
+from typing import Optional, List
+
+
+class HouseData(BaseModel):
+    value: float
+    debt: float
+    # remaining_tenure: int
 
 
 class UserData(BaseModel):
@@ -14,13 +25,17 @@ class UserData(BaseModel):
     spouse_salary: Optional[float] = None
     spouse_pension_contribution: Optional[float] = None
     spouse_pension_initial_value: Optional[float] = None
+    houses: List[HouseData] = None
 
 
 @function_tool
 async def call_calculation_api(user_data: UserData) -> str:
     """Call Calculate Target Prices endpoint of Calculation API with given user data."""
     try:
-        print("\n====== USER DATA ======\n", user_data)
+        import pprint as pp
+
+        print("\n====== USER DATA ======\n")
+        pp.pprint(user_data)
 
         payload = {
             "primary": build_person(user_data.age),
@@ -43,9 +58,11 @@ async def call_calculation_api(user_data: UserData) -> str:
                 if user_data.spouse_pension_initial_value
                 else 0,
             ),
+            "houses": build_houses(user_data.houses),
         }
 
-        print("\n====== PAYLOAD ======\n", payload)
+        print("\n====== PAYLOAD ======\n")
+        pp.pprint(payload)
 
         return client.calculate_target_prices(payload)
 

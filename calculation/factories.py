@@ -1,4 +1,4 @@
-from calculation.templates import PersonInput, Income, PensionCoverage
+from calculation.templates import PersonInput, Income, PensionCoverage, HouseWithLoans
 import uuid
 from typing import List
 
@@ -78,3 +78,25 @@ def build_policies(
             }
         )
     return policies
+
+
+def build_houses(houses_list: List) -> List[HouseWithLoans]:
+    houses = []
+    for house in houses_list:
+        houses.append(
+            {
+                "id": str(uuid.uuid4()),
+                "houseValue": house.value,
+                "type": "House",
+                "loans": [
+                    {
+                        "remainingPrincipal": house.debt,
+                        "type": "HouseLoan",
+                        "id": str(uuid.uuid4()),
+                    }
+                ],
+            }
+        )
+        # if house.remaining_tenure:
+        # houses[-1]["loans"][0]["remainingTenure"] = house.remaining_tenure
+    return houses
