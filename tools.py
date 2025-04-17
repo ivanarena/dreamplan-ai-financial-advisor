@@ -5,18 +5,24 @@ from calculation.factories import (
     build_incomes,
     build_policies,
     build_houses,
+    build_liquid_assets,
 )
 from pydantic import BaseModel
 from typing import Optional, List
 
 
+class SavingsData(BaseModel):
+    initial_value: float
+    monthly_deposit: float
+
+
 class HouseData(BaseModel):
     value: float
     debt: float
-    # remaining_tenure: int
+    remaining_tenure: int
 
 
-class UserData(BaseModel):
+class HouseholdData(BaseModel):
     age: int
     salary: float
     pension_contribution: Optional[float] = None
@@ -25,40 +31,42 @@ class UserData(BaseModel):
     spouse_salary: Optional[float] = None
     spouse_pension_contribution: Optional[float] = None
     spouse_pension_initial_value: Optional[float] = None
-    houses: List[HouseData] = None
+    houses: Optional[List[HouseData]] = None
+    savings: Optional[List[SavingsData]] = None
 
 
 @function_tool
-async def call_calculation_api(user_data: UserData) -> str:
+async def call_calculation_api(household: HouseholdData) -> str:
     """Call Calculate Target Prices endpoint of Calculation API with given user data."""
     try:
         import pprint as pp
 
         print("\n====== USER DATA ======\n")
-        pp.pprint(user_data)
+        pp.pprint(household)
 
         payload = {
-            "primary": build_person(user_data.age),
-            "spouse": build_person(user_data.spouse_age)
-            if user_data.spouse_age is not None
+            "primary": build_person(household.age),
+            "spouse": build_person(household.spouse_age)
+            if household.spouse_age is not None
             else None,
             "incomes": build_incomes(
-                user_data.salary,
-                user_data.spouse_salary
-                if user_data.spouse_salary is not None
+                household.salary,
+                household.spouse_salary
+                if household.spouse_salary is not None
                 else None,
             ),
             "policies": build_policies(
-                user_data.pension_contribution,
-                user_data.pension_initial_value,
-                user_data.spouse_pension_contribution
-                if user_data.spouse_pension_contribution
+                household.pension_contribution,
+                household.pension_initial_value,
+                household.spouse_pension_contribution
+                if household.spouse_pension_contribution
                 else 0,
-                user_data.spouse_pension_initial_value
-                if user_data.spouse_pension_initial_value
+                household.spouse_pension_initial_value
+                if household.spouse_pension_initial_value
                 else 0,
             ),
-            "houses": build_houses(user_data.houses),
+            "houses": build_houses(household.houses),
+            "liquidAssets": build_liquid_assets(household.savings),
         }
 
         print("\n====== PAYLOAD ======\n")

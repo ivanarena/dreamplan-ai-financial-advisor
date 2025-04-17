@@ -1,4 +1,10 @@
-from calculation.templates import PersonInput, Income, PensionCoverage, HouseWithLoans
+from calculation.templates import (
+    PersonInput,
+    Income,
+    PensionCoverage,
+    HouseWithLoans,
+    LiquidAsset,
+)
 import uuid
 from typing import List
 
@@ -97,6 +103,24 @@ def build_houses(houses_list: List) -> List[HouseWithLoans]:
                 ],
             }
         )
-        # if house.remaining_tenure:
-        # houses[-1]["loans"][0]["remainingTenure"] = house.remaining_tenure
+        if house.remaining_tenure:
+            houses[-1]["loans"][0]["remainingTenure"] = house.remaining_tenure
     return houses
+
+
+def build_liquid_assets(assets: List) -> List[LiquidAsset]:
+    liquid_assets = []
+    for asset in assets:
+        liquid_assets.append(
+            {
+                "id": str(uuid.uuid4()),
+                "assetType": "Cash",
+                "initialValue": asset.initial_value,
+            }
+        )
+        if asset.monthly_deposit:
+            liquid_assets[-1]["monthlyDeposit"] = {
+                "type": "Payment",
+                "amount": asset.monthly_deposit,
+            }
+    return liquid_assets
