@@ -114,7 +114,7 @@ def build_liquid_assets(assets: List) -> List[LiquidAsset]:
         liquid_assets.append(
             {
                 "id": str(uuid.uuid4()),
-                "assetType": "Cash",
+                "assetType": asset.type,
                 "initialValue": asset.initial_value,
             }
         )

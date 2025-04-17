@@ -8,10 +8,11 @@ from calculation.factories import (
     build_liquid_assets,
 )
 from pydantic import BaseModel
-from typing import Optional, List
+from typing import Optional, List, Literal
 
 
 class SavingsData(BaseModel):
+    type: Literal["Cash", "Stocks"]
     initial_value: float
     monthly_deposit: float
 
