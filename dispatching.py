@@ -1,4 +1,4 @@
-from agents import Agent, Runner, set_default_openai_key, enable_verbose_stdout_logging
+from agents import Agent, set_default_openai_key, enable_verbose_stdout_logging
 from datasets.prompts import (
     calculation_agent_instructions,
     dreamplan_agent_instructions,
@@ -23,7 +23,7 @@ calculation_agent = Agent(
 
 dreamplan_agent = Agent(
     name="Dreamplan Agent",
-    handoff_description="Specialist agent for answering questions about Dreamplan",
+    handoff_description="Specialist agent for interpreting the Calculation API responses and answering questions about Dreamplan",
     instructions=dreamplan_agent_instructions,
 )
 
@@ -39,11 +39,7 @@ triage_agent = Agent(
     handoffs=[calculation_agent, dreamplan_agent, finance_agent],
 )
 
-
-async def chat(prompt: str):
-    result = await Runner.run(
-        triage_agent,
-        prompt,
-    )
-    # pp.pprint(result)
-    print(result.final_output)
+judge_agent = Agent(
+    name="Judge Agent",
+    instructions="You are the judge agent. You will receive the final output and decide if it is correct or not.",
+)

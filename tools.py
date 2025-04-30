@@ -40,11 +40,6 @@ class HouseholdData(BaseModel):
 async def call_calculation_api(household: HouseholdData) -> str:
     """Call Calculate Target Prices endpoint of Calculation API with given user data."""
     try:
-        import pprint as pp
-
-        print("\n====== USER DATA ======\n")
-        pp.pprint(household)
-
         payload = {
             "primary": build_person(household.age),
             "spouse": build_person(household.spouse_age)
@@ -69,10 +64,6 @@ async def call_calculation_api(household: HouseholdData) -> str:
             "houses": build_houses(household.houses),
             "liquidAssets": build_liquid_assets(household.savings),
         }
-
-        print("\n====== PAYLOAD ======\n")
-        pp.pprint(payload)
-
         return client.calculate_target_prices(payload)
 
     except Exception as e:

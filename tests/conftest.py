@@ -1,5 +1,5 @@
 import pytest
-from calculation.client import CalculationApiClient
+from calculation.client import CalculationApiClient, CalculateRequest
 import os
 import dotenv
 
@@ -7,13 +7,13 @@ dotenv.load_dotenv()
 
 
 @pytest.fixture
-def api():
+def api() -> CalculationApiClient:
     """Fixture to create a test client with a mock base URL"""
     return CalculationApiClient(base_url=os.getenv("CALCULATION_API_URL"))
 
 
 @pytest.fixture
-def payload():
+def payload() -> CalculateRequest:
     """Fixture to provide a valid calculation payload"""
     return {
         "primary": {"birthYear": 1967, "pensionAge": 68, "deathAge": 88},

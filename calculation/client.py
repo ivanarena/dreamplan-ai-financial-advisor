@@ -22,7 +22,9 @@ class CalculationApiClient:
             response = requests.post(url, json=payload, headers=headers)
 
             if response.status_code == 200:
-                return response.json()  # If the response is JSON
+                response_json = response.json()
+                del response_json["statements"]
+                return response_json
             else:
                 print(f"Error: {response.status_code}")
                 print(response.text)
