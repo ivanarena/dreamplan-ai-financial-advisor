@@ -1,4 +1,4 @@
-from dispatching import triage_agent
+from dispatching import triage_agent, dreamplan_agent
 from agents import Runner
 import json
 
@@ -22,14 +22,14 @@ async def pipeline(prompt: str):
     assert "agent_name" in triage_output
     assert "agent_response" in triage_output
 
-    # dreamplan = await Runner.run(
-    #     dreamplan_agent,
-    #     triage.final_output,
-    # )
+    dreamplan = await Runner.run(
+        dreamplan_agent,
+        triage.final_output,
+    )
     # judge = await Runner.run(
     #     judge_agent,
     #     dreamplan.final_output,
     # )
     # pp.pprint(result)
     print("\n\n======DREAMPLAN FINAL OUTPUT=======\n")
-    # print(dreamplan.final_output)
+    print(dreamplan.final_output)
