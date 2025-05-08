@@ -9,6 +9,7 @@ from calculation.factories import (
 )
 from pydantic import BaseModel
 from typing import Optional, List, Literal
+from rag import rag
 
 
 class SavingsData(BaseModel):
@@ -69,3 +70,11 @@ async def call_calculation_api(household: HouseholdData) -> str:
     except Exception as e:
         print("Error during calculation API call:", str(e))
         return f"An error occurred while processing your request: {e}"
+
+
+@function_tool
+def call_rag(query: str) -> str:
+    result = rag.run(
+        data={"retriever": {"query": query}, "prompt_builder": {"question": query}}
+    )
+    return result["generator"]["replies"][0]

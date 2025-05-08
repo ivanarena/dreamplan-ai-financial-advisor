@@ -6,10 +6,10 @@ from datasets.prompts import (
     triage_agent_instructions,
 )
 import os
-import dotenv
-from tools import call_calculation_api
+from dotenv import load_dotenv
+from tools import call_calculation_api, call_rag
 
-dotenv.load_dotenv()
+load_dotenv()
 set_default_openai_key(os.getenv("OPENAI_API_KEY"))
 enable_verbose_stdout_logging()
 
@@ -29,8 +29,9 @@ dreamplan_agent = Agent(
 
 finance_agent = Agent(
     name="Finance Agent",
-    handoff_description="Specialist agent for answering finance-related questions",
+    handoff_description="Specialist agent for answering finance-related questions with the aid of RAG",
     instructions=finance_agent_instructions,
+    tools=[call_rag],
 )
 
 triage_agent = Agent(
