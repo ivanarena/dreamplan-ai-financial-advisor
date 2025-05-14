@@ -16,3 +16,8 @@ wheels/
 
 # VS Code
 .vscode/
+
+# RAG docs
+documents/html
+documents/txt
+documents/json
