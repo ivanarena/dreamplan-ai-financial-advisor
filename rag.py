@@ -32,7 +32,7 @@ retriever = InMemoryBM25Retriever(document_store=document_store)
 
 generator = OpenAIGenerator(
     api_key=Secret.from_token(os.getenv("OPENAI_API_KEY")),
-    # model="gpt-4o-mini",
+    model="gpt-4.1-nano",
     generation_kwargs={"temperature": 0.3, "max_tokens": 256},
 )
 

@@ -1,5 +1,5 @@
 from agents import Agent, set_default_openai_key, enable_verbose_stdout_logging
-from datasets.prompts import (
+from data.prompts import (
     calculation_agent_instructions,
     dreamplan_agent_instructions,
     finance_agent_instructions,
