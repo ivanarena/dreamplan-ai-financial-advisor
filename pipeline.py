@@ -1,20 +1,23 @@
 from dispatching import triage_agent, dreamplan_agent
 from agents import ItemHelpers, Runner
+from typing import List
 
 
-async def pipeline(prompt: str):
+async def pipeline(chat: List):
     triage = await Runner.run(
         triage_agent,
-        input=prompt,
+        input=str(chat[-1] if chat else ""),
+        context=str(chat[:-1] if chat else ""),
     )
-    print(f"\n\nlast agent: {triage.last_agent.name}\n")
-
+    print(chat)
     dreamplan_prompt = f"""
     Original user input: {triage.input}
     Last agent called: {triage.last_agent.name}
     Last agent output: {triage.final_output}
     """
-    dreamplan = Runner.run_streamed(dreamplan_agent, input=dreamplan_prompt)
+    dreamplan = Runner.run_streamed(
+        dreamplan_agent, input=dreamplan_prompt, context=str(chat)
+    )
     print("=== Run starting ===")
 
     async for event in dreamplan.stream_events():
