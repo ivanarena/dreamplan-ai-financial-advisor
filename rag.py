@@ -38,18 +38,23 @@ generator = OpenAIGenerator(
 
 prompt_builder = PromptBuilder(
     template="""
-        Answer the question using the provided context. Your answer should be concise and in your own words.
-        Make sure to include reference to the documents used to answer the question.
-        If the answer is not in the documents, say "I don't know".
-        If the question is not clear, ask for clarification.
-        If the question is too broad, ask for a more specific question.
+        You are an AI assistant tasked with answering questions using the provided context.
+        Your response must be:
+        - **Concise** and in your own words.
+        - Based **only on the documents** below — **cite them** where relevant.
+        - If the answer is not present, say **"I don't know"**.
+        - If the question is unclear or too broad, ask for clarification.
 
-        Context:
+        --- CONTEXT ---
         {% for doc in documents %}
+        Document {{ loop.index }}:
         {{ doc.content }}
-        {% endfor %}
 
-        Question: {{question}}
+        {% endfor %}
+        ----------------
+
+        Question: {{ question }}
+
         Answer:
     """
 )

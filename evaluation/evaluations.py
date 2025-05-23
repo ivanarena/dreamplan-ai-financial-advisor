@@ -9,7 +9,6 @@ from ragas.metrics import (
     LLMContextPrecisionWithoutReference,
     Faithfulness,
     ContextRelevance,
-    ResponseGroundedness,
 )
 from ragas import evaluate
 from langchain_openai import ChatOpenAI
@@ -83,7 +82,6 @@ async def evaluate_rag():
             LLMContextPrecisionWithoutReference(),
             Faithfulness(),
             ContextRelevance(),
-            ResponseGroundedness(),
         ],
         llm=evaluator_llm,
     )
