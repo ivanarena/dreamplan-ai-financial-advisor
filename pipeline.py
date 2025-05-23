@@ -1,35 +1,42 @@
 from dispatching import triage_agent, dreamplan_agent
-from agents import Runner
-import json
+from agents import ItemHelpers, Runner
 
 
 async def pipeline(prompt: str):
     triage = await Runner.run(
         triage_agent,
-        prompt,
+        input=prompt,
     )
-    import pprint as pp
+    print(f"\n\nlast agent: {triage.last_agent.name}\n")
 
-    print("\n\n====== TRIAGE FINAL OUTPUT =======\n")
-    triage_output = {}
-    try:
-        triage_output = json.loads(triage.final_output.strip("```json\n").strip("```"))
-        pp.pprint(triage_output)
-    except json.JSONDecodeError:
-        print("The output is not a valid JSON string:")
-        print(triage.final_output)
+    dreamplan_prompt = f"""
+    Original user input: {triage.input}
+    Last agent called: {triage.last_agent.name}
+    Last agent output: {triage.final_output}
+    """
+    dreamplan = Runner.run_streamed(dreamplan_agent, input=dreamplan_prompt)
+    print("=== Run starting ===")
 
-    assert "agent_name" in triage_output
-    assert "agent_response" in triage_output
+    async for event in dreamplan.stream_events():
+        # We'll ignore the raw responses event deltas
+        if event.type == "raw_response_event":
+            continue
+        # When the agent updates, print that
+        elif event.type == "agent_updated_stream_event":
+            print(f"Agent updated: {event.new_agent.name}")
+            continue
+        # When items are generated, print them
+        elif event.type == "run_item_stream_event":
+            if event.item.type == "tool_call_item":
+                print("-- Tool was called")
+            elif event.item.type == "tool_call_output_item":
+                print(f"-- Tool output: {event.item.output}")
+            elif event.item.type == "message_output_item":
+                print(
+                    f"-- Message output:\n {ItemHelpers.text_message_output(event.item)}"
+                )
+            else:
+                pass  # Ignore other event types
 
-    dreamplan = await Runner.run(
-        dreamplan_agent,
-        triage.final_output,
-    )
-    # judge = await Runner.run(
-    #     judge_agent,
-    #     dreamplan.final_output,
-    # )
-    # pp.pprint(result)
-    print("\n\n======DREAMPLAN FINAL OUTPUT=======\n")
-    print(dreamplan.final_output)
+    print("=== Run complete ===")
+    return dreamplan.final_output

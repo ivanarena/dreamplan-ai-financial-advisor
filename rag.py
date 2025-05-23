@@ -18,7 +18,9 @@ for filename in os.listdir(documents_dir):
         with open(file_path, "r", encoding="utf-8") as f:
             documents.append(f.read())
 
-splitter = DocumentSplitter(split_by="sentence", split_length=500, split_overlap=50)
+splitter = DocumentSplitter(
+    split_by="sentence", split_length=500, split_overlap=50, language="en"
+)
 splitter.warm_up()
 docs = [Document(content=d, id=str(i)) for i, d in enumerate(documents)]
 split_docs = []
@@ -35,7 +37,6 @@ generator = OpenAIGenerator(
     model="gpt-4.1-nano",
     generation_kwargs={"temperature": 0.3, "max_tokens": 256},
 )
-
 prompt_builder = PromptBuilder(
     template="""
         You are an AI assistant tasked with answering questions using the provided context.
@@ -56,7 +57,8 @@ prompt_builder = PromptBuilder(
         Question: {{ question }}
 
         Answer:
-    """
+    """,
+    required_variables=["documents", "question"],
 )
 
 rag = Pipeline()
