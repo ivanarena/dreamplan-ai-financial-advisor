@@ -10,6 +10,7 @@ from calculation.factories import (
 from pydantic import BaseModel
 from typing import Optional, List, Literal
 from rag import rag
+import json
 
 
 class SavingsData(BaseModel):
@@ -44,13 +45,11 @@ async def call_calculation_api(household: HouseholdData) -> str:
         payload = {
             "primary": build_person(household.age),
             "spouse": build_person(household.spouse_age)
-            if household.spouse_age is not None
+            if household.spouse_age
             else None,
             "incomes": build_incomes(
                 household.salary,
-                household.spouse_salary
-                if household.spouse_salary is not None
-                else None,
+                household.spouse_salary if household.spouse_salary else None,
             ),
             "policies": build_policies(
                 household.pension_contribution,
@@ -61,10 +60,16 @@ async def call_calculation_api(household: HouseholdData) -> str:
                 household.spouse_pension_initial_value
                 if household.spouse_pension_initial_value
                 else 0,
-            ),
-            "houses": build_houses(household.houses),
-            "liquidAssets": build_liquid_assets(household.savings),
+            )
+            if household.pension_contribution
+            else None,
+            "houses": build_houses(household.houses) if household.houses else None,
+            "liquidAssets": build_liquid_assets(household.savings)
+            if household.savings
+            else None,
         }
+        payload = {k: v for k, v in payload.items() if v is not None}
+        print("Payload for Calculation API:", json.dumps(payload, indent=2))
         return client.calculate_target_prices(payload)
 
     except Exception as e:

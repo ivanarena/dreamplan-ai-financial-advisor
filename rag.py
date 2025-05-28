@@ -1,6 +1,7 @@
 from haystack import Pipeline, Document
 from haystack.document_stores.in_memory import InMemoryDocumentStore
 from haystack.components.retrievers.in_memory import InMemoryBM25Retriever
+from haystack.components.rankers import SentenceTransformersDiversityRanker
 from haystack.components.generators import OpenAIGenerator
 from haystack.components.builders import PromptBuilder
 from haystack.components.preprocessors import DocumentSplitter
@@ -15,14 +16,18 @@ documents = []
 for filename in os.listdir(documents_dir):
     if filename.endswith(".txt"):
         file_path = os.path.join(documents_dir, filename)
+        source = filename[:-4].replace("_", "/")
         with open(file_path, "r", encoding="utf-8") as f:
-            documents.append(f.read())
+            documents.append({"source": source, "content": f.read()})
 
 splitter = DocumentSplitter(
     split_by="sentence", split_length=500, split_overlap=50, language="en"
 )
 splitter.warm_up()
-docs = [Document(content=d, id=str(i)) for i, d in enumerate(documents)]
+docs = [
+    Document(content=d["content"], id=str(i), meta={"source": d["source"]})
+    for i, d in enumerate(documents)
+]
 split_docs = []
 for doc in docs:
     split_docs += splitter.run(documents=[doc])["documents"]
@@ -30,7 +35,11 @@ for doc in docs:
 document_store = InMemoryDocumentStore()
 document_store.write_documents(split_docs)
 
-retriever = InMemoryBM25Retriever(document_store=document_store)
+retriever = InMemoryBM25Retriever(document_store=document_store, top_k=100)
+ranker = SentenceTransformersDiversityRanker(
+    model="sentence-transformers/all-MiniLM-L6-v2", similarity="cosine", top_k=1
+)
+ranker.warm_up()
 
 generator = OpenAIGenerator(
     api_key=Secret.from_token(os.getenv("OPENAI_API_KEY")),
@@ -63,7 +72,9 @@ prompt_builder = PromptBuilder(
 
 rag = Pipeline()
 rag.add_component("retriever", retriever)
+rag.add_component("ranker", ranker)
 rag.add_component("prompt_builder", prompt_builder)
 rag.add_component("generator", generator)
-rag.connect("retriever", "prompt_builder.documents")
+rag.connect("retriever.documents", "ranker.documents")
+rag.connect("ranker.documents", "prompt_builder.documents")
 rag.connect("prompt_builder", "generator")

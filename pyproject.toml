@@ -8,6 +8,7 @@ dependencies = [
     "bs4>=0.0.2",
     "fastapi>=0.115.12",
     "haystack-ai>=2.13.1",
+    "hf-xet>=1.1.2",
     "jupyter>=1.1.1",
     "langchain-openai>=0.3.16",
     "nltk>=3.9.1",
@@ -22,6 +23,6 @@ dependencies = [
     "ragas>=0.2.15",
     "requests>=2.32.3",
     "ruff>=0.11.0",
-    "torch>=2.7.0",
+    "sentence-transformers>=4.1.0",
     "uvicorn>=0.34.2",
 ]

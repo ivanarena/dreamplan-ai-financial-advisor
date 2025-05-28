@@ -1,4 +1,4 @@
-from agents import Agent, set_default_openai_key
+from agents import Agent, set_default_openai_key, enable_verbose_stdout_logging
 from data.prompts import (
     calculation_agent_instructions,
     dreamplan_agent_instructions,
@@ -11,7 +11,7 @@ from tools import call_calculation_api, call_rag
 
 load_dotenv()
 set_default_openai_key(os.getenv("OPENAI_API_KEY"))
-# enable_verbose_stdout_logging()  # uncomment for debug
+enable_verbose_stdout_logging()  # uncomment for debug
 
 
 calculation_agent = Agent(

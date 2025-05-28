@@ -3,21 +3,24 @@ from agents import ItemHelpers, Runner
 from typing import List
 
 
+def format_chat(chat: List[dict]) -> str:
+    return "\n".join([f"{msg['role'].capitalize()}: {msg['content']}" for msg in chat])
+
+
 async def pipeline(chat: List):
+    # TODO write about dynamic context injection strategy
+    # TODO implement context cutting strategy (too long chat)
     triage = await Runner.run(
         triage_agent,
-        input=str(chat[-1] if chat else ""),
-        context=str(chat[:-1] if chat else ""),
+        input=format_chat(chat) if chat else "",
     )
     print(chat)
-    dreamplan_prompt = f"""
-    Original user input: {triage.input}
-    Last agent called: {triage.last_agent.name}
-    Last agent output: {triage.final_output}
+    dreamplan_prompt = f"""Chat history: {triage.input}
+Last agent called: {triage.last_agent.name}
+Last agent output: {triage.final_output}
     """
-    dreamplan = Runner.run_streamed(
-        dreamplan_agent, input=dreamplan_prompt, context=str(chat)
-    )
+    print(dreamplan_prompt)
+    dreamplan = Runner.run_streamed(dreamplan_agent, input=dreamplan_prompt)
     print("=== Run starting ===")
 
     async for event in dreamplan.stream_events():
