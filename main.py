@@ -39,6 +39,11 @@ async def chat_endpoint(request: Request, session_id: str = Cookie(default=None)
     reply = await pipeline(history)
     print(f"Generated reply: {reply}")
     history.append({"role": "assistant", "content": reply})
+
+    if len(history) > 10:
+        history.pop(0)
+        history.pop(0)
+
     chats[session_id] = history
 
     return JSONResponse({"reply": reply})

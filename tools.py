@@ -80,6 +80,10 @@ async def call_calculation_api(household: HouseholdData) -> str:
 @function_tool
 async def call_rag(query: str) -> str:
     result = rag.run(
-        data={"retriever": {"query": query}, "prompt_builder": {"question": query}}
+        data={
+            "retriever": {"query": query},
+            "ranker": {"query": query},
+            "prompt_builder": {"question": query},
+        }
     )
     return result["generator"]["replies"][0]

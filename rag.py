@@ -35,9 +35,9 @@ for doc in docs:
 document_store = InMemoryDocumentStore()
 document_store.write_documents(split_docs)
 
-retriever = InMemoryBM25Retriever(document_store=document_store, top_k=100)
+retriever = InMemoryBM25Retriever(document_store=document_store, top_k=10)
 ranker = SentenceTransformersDiversityRanker(
-    model="sentence-transformers/all-MiniLM-L6-v2", similarity="cosine", top_k=1
+    model="sentence-transformers/all-MiniLM-L6-v2", similarity="cosine", top_k=4
 )
 ranker.warm_up()
 

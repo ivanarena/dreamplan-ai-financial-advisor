@@ -1,4 +1,4 @@
-from agents import Agent, set_default_openai_key, enable_verbose_stdout_logging
+from agents import Agent, set_default_openai_key
 from data.prompts import (
     calculation_agent_instructions,
     dreamplan_agent_instructions,
@@ -11,7 +11,7 @@ from tools import call_calculation_api, call_rag
 
 load_dotenv()
 set_default_openai_key(os.getenv("OPENAI_API_KEY"))
-enable_verbose_stdout_logging()  # uncomment for debug
+# enable_verbose_stdout_logging()  # uncomment for debug
 
 
 calculation_agent = Agent(
@@ -35,12 +35,7 @@ finance_agent = Agent(
 )
 
 triage_agent = Agent(
-    name="triage Agent",
+    name="Triage Agent",
     instructions=triage_agent_instructions,
     handoffs=[calculation_agent, dreamplan_agent, finance_agent],
-)
-
-judge_agent = Agent(
-    name="Judge Agent",
-    instructions="You are the judge agent. You will receive the final output and decide if it is correct or not.",
 )

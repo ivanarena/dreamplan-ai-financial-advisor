@@ -1,4 +1,4 @@
-from dispatching import triage_agent, dreamplan_agent
+from dispatching import triage_agent
 from agents import ItemHelpers, Runner
 from typing import List
 
@@ -9,21 +9,13 @@ def format_chat(chat: List[dict]) -> str:
 
 async def pipeline(chat: List):
     # TODO write about dynamic context injection strategy
-    # TODO implement context cutting strategy (too long chat)
-    triage = await Runner.run(
+    triage = Runner.run_streamed(
         triage_agent,
         input=format_chat(chat) if chat else "",
     )
     print(chat)
-    dreamplan_prompt = f"""Chat history: {triage.input}
-Last agent called: {triage.last_agent.name}
-Last agent output: {triage.final_output}
-    """
-    print(dreamplan_prompt)
-    dreamplan = Runner.run_streamed(dreamplan_agent, input=dreamplan_prompt)
     print("=== Run starting ===")
-
-    async for event in dreamplan.stream_events():
+    async for event in triage.stream_events():
         # We'll ignore the raw responses event deltas
         if event.type == "raw_response_event":
             continue
@@ -45,4 +37,4 @@ Last agent output: {triage.final_output}
                 pass  # Ignore other event types
 
     print("=== Run complete ===")
-    return dreamplan.final_output
+    return triage.final_output
