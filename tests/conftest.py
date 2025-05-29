@@ -5,7 +5,7 @@ from fastapi.testclient import TestClient
 from main import app
 from dotenv import load_dotenv
 from haystack import Pipeline
-from rag import rag
+from rag import RAG
 from dispatching import triage_agent
 from agents import Agent
 
@@ -28,6 +28,7 @@ def client() -> TestClient:
 @pytest.fixture
 def rag_pipeline() -> Pipeline:
     """Fixture to create a RAG pipeline for testing"""
+    rag = RAG().get_pipeline()
     return rag
 
 

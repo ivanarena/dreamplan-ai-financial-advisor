@@ -13,7 +13,7 @@ from ragas import evaluate
 from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
 from ragas import EvaluationDataset
-from rag import rag
+from rag import RAG
 import os
 
 load_dotenv()
@@ -38,6 +38,7 @@ async def evaluate_rag():
     with open(dataset, "r") as f:
         lines = f.readlines()
     data = [json.loads(line) for line in lines]
+    rag = RAG().get_pipeline()
     for item in data:
         query = item["user_input"]
         result = rag.run(
