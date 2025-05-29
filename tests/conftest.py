@@ -1,9 +1,34 @@
 import pytest
 from calculation.client import CalculationApiClient, CalculateRequest
 import os
-import dotenv
+from fastapi.testclient import TestClient
+from main import app
+from dotenv import load_dotenv
+from haystack import Pipeline
+from rag import rag
+from dispatching import triage_agent
+from agents import Agent
 
-dotenv.load_dotenv()
+
+load_dotenv()
+
+
+@pytest.fixture()
+def triage() -> Agent:
+    """Fixture to provide the triage agent"""
+    return triage_agent
+
+
+@pytest.fixture
+def client() -> TestClient:
+    """Fixture to create a test client for the FastAPI application"""
+    return TestClient(app)
+
+
+@pytest.fixture
+def rag_pipeline() -> Pipeline:
+    """Fixture to create a RAG pipeline for testing"""
+    return rag
 
 
 @pytest.fixture

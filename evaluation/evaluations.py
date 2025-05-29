@@ -41,7 +41,11 @@ async def evaluate_rag():
     for item in data:
         query = item["user_input"]
         result = rag.run(
-            data={"retriever": {"query": query}, "prompt_builder": {"question": query}},
+            data={
+                "retriever": {"query": query},
+                "ranker": {"query": query},
+                "prompt_builder": {"question": query},
+            },
             include_outputs_from={"retriever", "generator"},
         )
         item["retrieved_contexts"] = [
