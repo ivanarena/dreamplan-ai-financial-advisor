@@ -3,7 +3,7 @@ from fastapi.responses import HTMLResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 from uuid import uuid4
-
+from time import time
 from pipeline import pipeline
 
 app = FastAPI()
@@ -36,8 +36,10 @@ async def chat_endpoint(request: Request, session_id: str = Cookie(default=None)
     history = chats.get(session_id, [])
     history.append({"role": "user", "content": message})
     print(f"Current chat history for session {session_id}: {history}")
+    start_time = time()
     reply = await pipeline(history)
-    print(f"Generated reply: {reply}")
+    end_time = time()
+    print(f"Generated reply in {end_time - start_time:.2f} seconds:\n{reply}")
     history.append({"role": "assistant", "content": reply})
 
     if len(history) > 10:

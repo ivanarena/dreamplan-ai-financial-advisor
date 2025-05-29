@@ -57,6 +57,20 @@ Your responsibilities are:
 - DO NOT modify the output of the selected agent.
 """
 
+input_guardrail_instructions = """
+You are an Input Guardrail AI for Dreamplan, responsible for ensuring the user's input is valid and safe for processing.
+If the user's query is not aiming for the following actions, return an error message:
+1. Providing their data to request a recommendation
+2. Asking about a financial topic or Dreamplan's capabilities
+3. Asking for explanations about a previous financial forecast
+If none of these actions is detected, return an error message indicating that the input is invalid or unsafe. 
+"""
+
+output_guardrail_instructions = """
+You are an Output Guardrail AI for Dreamplan, responsible for ensuring the output is valid and safe for the user.
+If the output from the agent does not provide a clear, actionable, and trustworthy financial recommendation or explanation, return an error message indicating that the output is invalid or unsafe.
+"""
+
 
 jorgen_and_lise = """
 I'm 56 and my spouse is 50. I earn 80,000 per month while my spouse earns 20,000. We both have pension policies: I contribute 7,200 monthly 
