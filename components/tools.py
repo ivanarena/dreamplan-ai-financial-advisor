@@ -9,7 +9,7 @@ from calculation.factories import (
 )
 from pydantic import BaseModel
 from typing import Optional, List, Literal
-from rag import RAG
+from components.rag import RAG
 import json
 
 
@@ -38,40 +38,53 @@ class HouseholdData(BaseModel):
     savings: Optional[List[SavingsData]] = None
 
 
+def _build_spouse(household: HouseholdData):
+    if household.spouse_age:
+        return build_person(household.spouse_age)
+    return None
+
+
+def _build_incomes(household: HouseholdData):
+    spouse_salary = household.spouse_salary if household.spouse_salary else None
+    return build_incomes(household.salary, spouse_salary)
+
+
+def _build_policies(household: HouseholdData):
+    if not household.pension_contribution:
+        return None
+    spouse_contrib = household.spouse_pension_contribution or 0
+    spouse_init = household.spouse_pension_initial_value or 0
+    return build_policies(
+        household.pension_contribution,
+        household.pension_initial_value,
+        spouse_contrib,
+        spouse_init,
+    )
+
+
+def _build_houses(household: HouseholdData):
+    return build_houses(household.houses) if household.houses else None
+
+
+def _build_liquid_assets(household: HouseholdData):
+    return build_liquid_assets(household.savings) if household.savings else None
+
+
 @function_tool
 async def call_calculation_api(household: HouseholdData) -> str:
     """Call Calculate Target Prices endpoint of Calculation API with given user data."""
     try:
         payload = {
             "primary": build_person(household.age),
-            "spouse": build_person(household.spouse_age)
-            if household.spouse_age
-            else None,
-            "incomes": build_incomes(
-                household.salary,
-                household.spouse_salary if household.spouse_salary else None,
-            ),
-            "policies": build_policies(
-                household.pension_contribution,
-                household.pension_initial_value,
-                household.spouse_pension_contribution
-                if household.spouse_pension_contribution
-                else 0,
-                household.spouse_pension_initial_value
-                if household.spouse_pension_initial_value
-                else 0,
-            )
-            if household.pension_contribution
-            else None,
-            "houses": build_houses(household.houses) if household.houses else None,
-            "liquidAssets": build_liquid_assets(household.savings)
-            if household.savings
-            else None,
+            "spouse": _build_spouse(household),
+            "incomes": _build_incomes(household),
+            "policies": _build_policies(household),
+            "houses": _build_houses(household),
+            "liquidAssets": _build_liquid_assets(household),
         }
         payload = {k: v for k, v in payload.items() if v is not None}
         print("Payload for Calculation API:", json.dumps(payload, indent=2))
         return client.calculate_target_prices(payload)
-
     except Exception as e:
         print("Error during calculation API call:", str(e))
         return f"An error occurred while processing your request: {e}"

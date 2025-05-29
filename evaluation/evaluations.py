@@ -1,4 +1,4 @@
-from dispatching import triage_agent
+from components.dispatching import triage_agent
 from agents import Runner
 import pandas as pd
 import json
@@ -13,7 +13,7 @@ from ragas import evaluate
 from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
 from ragas import EvaluationDataset
-from rag import RAG
+from components.rag import RAG
 import os
 
 load_dotenv()

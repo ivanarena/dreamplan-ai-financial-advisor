@@ -4,7 +4,7 @@ import pytest
 
 @pytest.mark.asyncio
 async def test_chat(triage):
-    chat = "User: Hi"
+    chat = "What is the best way to save for retirement?"
     run = await Runner.run(
         triage,
         input=chat,

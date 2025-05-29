@@ -5,8 +5,8 @@ from fastapi.testclient import TestClient
 from main import app
 from dotenv import load_dotenv
 from haystack import Pipeline
-from rag import RAG
-from dispatching import triage_agent
+from components.rag import RAG
+from components.dispatching import triage_agent
 from agents import Agent
 
 

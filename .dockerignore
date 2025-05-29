@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+
+# IDE/editor settings
+.vscode/
+
+# Cache directories
+.ruff_cache/
+.pytest_cache/
+
+# Dependency resolution
+uv.lock
+
+# Test outputs, data, notebooks
+notebooks/
+data/
+scraping/
+tests/
+
+# Local development settings
+.env
+build.sh
+LICENSE
+README.md
+.pre-commit-config.yaml
