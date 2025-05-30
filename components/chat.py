@@ -5,7 +5,9 @@ from agents import InputGuardrailTripwireTriggered, OutputGuardrailTripwireTrigg
 
 
 def format_messages(messages: List[dict]) -> str:
-    return "\n".join([f"{msg['role'].capitalize()}: {msg['content']}" for msg in chat])
+    return "\n".join(
+        [f"{msg['role'].capitalize()}: {msg['content']}" for msg in messages]
+    )
 
 
 async def chat(messages: List):
