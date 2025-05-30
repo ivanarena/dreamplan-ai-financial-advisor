@@ -9,7 +9,7 @@ from agents import (
     set_default_openai_key,
     #    enable_verbose_stdout_logging
 )
-from data.prompts import (
+from components.prompts import (
     calculation_agent_instructions,
     dreamplan_agent_instructions,
     finance_agent_instructions,

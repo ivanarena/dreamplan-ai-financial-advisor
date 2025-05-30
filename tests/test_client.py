@@ -26,7 +26,7 @@ def test_chat_unset_session(client):
 
 
 def test_chat_session(monkeypatch, client):
-    async def fake_pipeline(history):
+    async def fake_pipeline():
         return "Test reply"
 
     monkeypatch.setattr("main.pipeline", fake_pipeline)

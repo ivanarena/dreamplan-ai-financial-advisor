@@ -11,7 +11,7 @@ def format_chat(chat: List[dict]) -> str:
 async def pipeline(chat: List):
     # TODO write about dynamic context injection strategy
     try:
-        triage = Runner.run_streamed(
+        triage = await Runner.run(
             triage_agent,
             input=format_chat(chat) if chat else "",
         )

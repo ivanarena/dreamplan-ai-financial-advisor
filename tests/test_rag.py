@@ -1,4 +1,4 @@
-def test_rag_integration_output(rag_pipeline):
+def test_rag(rag_pipeline):
     query = "What are the different types of Danish tax cards?"
     result = rag_pipeline.run(
         data={

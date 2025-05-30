@@ -1445,7 +1445,6 @@ dependencies = [
     { name = "langchain-openai" },
     { name = "nltk" },
     { name = "openai-agents" },
-    { name = "openapi-generator-cli" },
     { name = "pandas" },
     { name = "playwright" },
     { name = "pre-commit" },
@@ -1472,7 +1471,6 @@ requires-dist = [
     { name = "langchain-openai", specifier = ">=0.3.16" },
     { name = "nltk", specifier = ">=3.9.1" },
     { name = "openai-agents", specifier = ">=0.0.4" },
-    { name = "openapi-generator-cli", specifier = ">=7.12.0" },
     { name = "pandas", specifier = ">=2.2.3" },
     { name = "playwright", specifier = ">=1.52.0" },
     { name = "pre-commit", specifier = ">=4.2.0" },
@@ -1943,15 +1941,6 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/c5/f7/5ae9c34e8381af26ef98c7ef8602a08888c358e2ce0362796a0d134f610d/openai_agents-0.0.4.tar.gz", hash = "sha256:297e8d5faeca753e1b303d860b7ac94d03a7e10382be738163dc6a10a3b7cc1c", size = 599300 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/8c/ef/c71adf656feb405ad5a2eae8175330db928f64ea1cb3ceb41866645e5034/openai_agents-0.0.4-py3-none-any.whl", hash = "sha256:5577c3ee994fe0bd200d7283e4f7a614b3af19afeebcfb07b6ca6039a8a50a5c", size = 76080 },
-]
-
-[[package]]
-name = "openapi-generator-cli"
-version = "7.12.0"
-source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/1b/7d/8f5bb83112179efd887b60390e3b5fdbb38bd993965ef4ce88740d8a6f29/openapi_generator_cli-7.12.0.tar.gz", hash = "sha256:11dc4fd67fc7d839572ae8e29fb1dee5892195a7ac88b98e41a2cd8105e3250f", size = 27094673 }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/9b/a8/23b4e7fca4e7015f461c2c520bc49b9b57a6635fd404dd77b0b6f917493e/openapi_generator_cli-7.12.0-py3-none-any.whl", hash = "sha256:cf97e0e40bacc66ca70963845e52b0c003aaab85da7f1d10cc25abf2f1c8bb6e", size = 27108048 },
 ]
 
 [[package]]

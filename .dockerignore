@@ -20,6 +20,7 @@ notebooks/
 data/
 scraping/
 tests/
+evaluation/
 
 # Local development settings
 .env
