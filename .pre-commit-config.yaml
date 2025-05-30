@@ -7,5 +7,4 @@ repos:
         types_or: [ python, pyi ]
 
       - id: ruff-format
-        exclude: streamlit_app/app.py
         types_or: [ python, pyi ]
