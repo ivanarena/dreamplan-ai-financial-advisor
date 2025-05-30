@@ -4,13 +4,12 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 from uuid import uuid4
 from time import time
-from components.pipeline import pipeline
+from components.chat import chat
 
 app = FastAPI()
 app.mount("/static", StaticFiles(directory="static"), name="static")
 templates = Jinja2Templates(directory="templates")
-
-chats = {}
+sessions = {}
 
 
 @app.get("/", response_class=HTMLResponse)
@@ -33,11 +32,11 @@ async def chat_endpoint(request: Request, session_id: str = Cookie(default=None)
     if not session_id:
         return JSONResponse({"error": "Session ID not set."}, status_code=400)
 
-    history = chats.get(session_id, [])
+    history = sessions.get(session_id, [])
     history.append({"role": "user", "content": message})
     print(f"Current chat history for session {session_id}: {history}")
     start_time = time()
-    reply = await pipeline(history)
+    reply = await chat(history)
     end_time = time()
     print(f"Generated reply in {end_time - start_time:.2f} seconds:\n{reply}")
     history.append({"role": "assistant", "content": reply})
@@ -46,6 +45,6 @@ async def chat_endpoint(request: Request, session_id: str = Cookie(default=None)
         history.pop(0)
         history.pop(0)
 
-    chats[session_id] = history
+    sessions[session_id] = history
 
     return JSONResponse({"reply": reply})

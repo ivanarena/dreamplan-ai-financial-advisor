@@ -26,10 +26,10 @@ def test_chat_unset_session(client):
 
 
 def test_chat_session(monkeypatch, client):
-    async def fake_pipeline():
+    async def mock_chat(messages):
         return "Test reply"
 
-    monkeypatch.setattr("main.pipeline", fake_pipeline)
+    monkeypatch.setattr("main.chat", mock_chat)
 
     cookies = {"session_id": "test-session-id"}
     response = client.post("/chat", json={"message": "Hello"}, cookies=cookies)

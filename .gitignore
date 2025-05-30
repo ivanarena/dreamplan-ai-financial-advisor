@@ -7,6 +7,7 @@ wheels/
 *.egg-info
 .ruff_cache
 .python-version
+.coverage
 
 # Virtual environments
 .venv
@@ -21,3 +22,5 @@ wheels/
 documents/html
 documents/txt
 documents/json
+
+todo.md
