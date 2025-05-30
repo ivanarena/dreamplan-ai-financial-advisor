@@ -27,4 +27,6 @@ jobs:
         run: uv sync
 
       - name: Run tests
+        env:
+          PYTHONPATH: "./components:./documents:./calculation:./templates:./static:."
         run: uv run pytest -vv
