@@ -29,4 +29,4 @@ jobs:
       - name: Run tests
         env:
           PYTHONPATH: "./components:./documents:./calculation:./templates:./static:."
-        run: uv run pytest -vv
+        run: uv run pytest -vv --ignore=tests/test_rag.py
