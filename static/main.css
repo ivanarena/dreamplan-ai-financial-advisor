@@ -9,6 +9,11 @@ body {
     justify-content: center;
     height: 90vh;
     line-height: 1.5em;
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style:normal;
+    letter-spacing: 0.04em;
 }
 
 img {
@@ -44,21 +49,34 @@ h2.intro {
     margin-bottom: 2em;
 }
 
+.user, .bot {
+    opacity: 0;
+    animation: fadeIn 0.7s ease forwards;
+}
+
 .user {
     color: white;
     background-color: #262139;
     border: none;
     border-radius: 2em;
-    padding: .5em 2em .5em 2em;
+    padding: 1em 2em 1em 2em;
     align-self: flex-end;
+    height: auto;
 }
 
 .bot {
     background-color: #f0f0f0;
+    height: auto;
     border: none;
     border-radius: 2em;
     padding: .5em 2em .5em 2em;
     align-self: flex-start;
+}
+
+@keyframes fadeIn {
+    to {
+        opacity: 1;
+    }
 }
 
 
@@ -77,12 +95,17 @@ input[type="text"] {
     background-color: #f0f0f0;
     border-radius: 2em;
     box-sizing: border-box;
+    letter-spacing: 0.04em;
+    font-family: "Lora", serif;
+    transition: background-color 0.3s ease;
 }
 
 input[type="text"]:focus {
     outline: none;
     background-color: #e0e0e0;
+    transition: background-color 0.3s ease;
 }
+
 
 button {
     font-family: Helvetica, sans-serif;
@@ -93,8 +116,12 @@ button {
     width: 100px;
     border-radius: 2em;
     background-color: pink;
+    font-family: "Lora", serif;
+    letter-spacing: 0.04em;
+    transition: background-color 0.3s ease;
 }
 
 button:hover {
     background-color: rgb(238, 160, 173);
+    transition: background-color 0.3s ease;
 }

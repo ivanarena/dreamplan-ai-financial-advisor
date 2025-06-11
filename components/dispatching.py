@@ -7,7 +7,7 @@ from agents import (
     Runner,
     output_guardrail,
     set_default_openai_key,
-    #    enable_verbose_stdout_logging
+    # enable_verbose_stdout_logging
 )
 from components.prompts import (
     calculation_agent_instructions,
@@ -76,6 +76,7 @@ calculation_agent = Agent(
     name="Calculation Agent",
     handoff_description="Specialist agent for interacting with the Calculation API",
     instructions=calculation_agent_instructions,
+    model="gpt-4.1-nano",
     tools=[call_calculation_api],
 )
 
@@ -83,6 +84,7 @@ dreamplan_agent = Agent(
     name="Dreamplan Agent",
     handoff_description="Specialist agent for interpreting the Calculation API responses and answering questions about Dreamplan",
     instructions=dreamplan_agent_instructions,
+    model="gpt-4.1-nano",
 )
 
 finance_agent = Agent(
@@ -90,6 +92,7 @@ finance_agent = Agent(
     handoff_description="Specialist agent for answering finance-related questions with the aid of RAG",
     instructions=finance_agent_instructions,
     tools=[call_rag],
+    model="gpt-4.1-nano",
 )
 
 triage_agent = Agent(
@@ -98,6 +101,7 @@ triage_agent = Agent(
     handoffs=[calculation_agent, dreamplan_agent, finance_agent],
     input_guardrails=[call_input_guardrail],
     output_guardrails=[call_output_guardrail],
+    model="gpt-4.1-mini",
 )
 
 # TODO choose specific models
