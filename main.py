@@ -5,6 +5,8 @@ from fastapi.templating import Jinja2Templates
 from uuid import uuid4
 from time import time
 from components.chat import chat
+import os
+import pandas as pd
 
 app = FastAPI()
 app.mount("/static", StaticFiles(directory="static"), name="static")
@@ -41,7 +43,20 @@ async def chat_endpoint(request: Request, session_id: str = Cookie(default=None)
     if len(history) > 10:
         history.pop(0)
         history.pop(0)
-
     sessions[session_id] = history
+
+    # logging time for experiments using pandas
+    csv_dir = "experiment/data"
+    os.makedirs(csv_dir, exist_ok=True)
+    csv_file = os.path.join(csv_dir, "chat_timings.csv")
+
+    row = {
+        "message_length": len(message),
+        "response_length": len(reply),
+        "time": end_time - start_time,
+    }
+    df = pd.read_csv(csv_file)
+    df = pd.concat([df, pd.DataFrame([row])], ignore_index=True)
+    df.to_csv(csv_file, index=False)
 
     return JSONResponse({"reply": reply})
