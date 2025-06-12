@@ -18,7 +18,6 @@ async def index(request: Request, session_id: str = Cookie(default=None)):
         session_id = str(uuid4())
         response = templates.TemplateResponse("index.html", {"request": request})
         response.set_cookie("session_id", session_id)
-        print(f"New session created: {session_id}")
         return response
     return templates.TemplateResponse("index.html", {"request": request})
 
@@ -27,14 +26,12 @@ async def index(request: Request, session_id: str = Cookie(default=None)):
 async def chat_endpoint(request: Request, session_id: str = Cookie(default=None)):
     data = await request.json()
     message = data.get("message", "")
-    print(f"Received message: {message}")
 
     if not session_id:
         return JSONResponse({"error": "Session ID not set."}, status_code=400)
 
     history = sessions.get(session_id, [])
     history.append({"role": "user", "content": message})
-    print(f"Current chat history for session {session_id}: {history}")
     start_time = time()
     reply = await chat(history)
     end_time = time()

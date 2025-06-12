@@ -13,8 +13,9 @@ load_dotenv()
 
 
 class RAG:
-    def __init__(self, documents_dir="documents/txt"):
-        self.documents_dir = documents_dir
+    def __init__(self, documents_dir=os.path.join("documents", "txt")):
+        root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        self.documents_dir = os.path.join(root_dir, documents_dir)
         self.documents = self._load_documents()
         self.splitter = self._init_splitter()
         self.docs = self._create_documents()

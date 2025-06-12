@@ -103,5 +103,3 @@ triage_agent = Agent(
     output_guardrails=[call_output_guardrail],
     model="gpt-4.1-mini",
 )
-
-# TODO choose specific models
