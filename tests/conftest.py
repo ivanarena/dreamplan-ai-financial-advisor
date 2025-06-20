@@ -9,7 +9,6 @@ from components.rag import RAG
 from components.dispatching import triage_agent
 from agents import Agent
 
-
 load_dotenv()
 
 

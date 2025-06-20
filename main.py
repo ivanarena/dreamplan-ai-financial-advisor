@@ -1,14 +1,22 @@
-from fastapi import FastAPI, Request, Cookie
+from fastapi import FastAPI, Request, Cookie, Body
 from fastapi.responses import HTMLResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 from uuid import uuid4
+from contextlib import asynccontextmanager
 from time import time
 from components.chat import chat
-import os
-import pandas as pd
+from db import connect_db, disconnect_db, insert_chat_log, update_feedback
 
-app = FastAPI()
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    await connect_db()
+    yield
+    await disconnect_db()
+
+
+app = FastAPI(lifespan=lifespan)
 app.mount("/static", StaticFiles(directory="static"), name="static")
 templates = Jinja2Templates(directory="templates")
 sessions = {}
@@ -34,29 +42,40 @@ async def chat_endpoint(request: Request, session_id: str = Cookie(default=None)
 
     history = sessions.get(session_id, [])
     history.append({"role": "user", "content": message})
+
     start_time = time()
     reply = await chat(history)
     end_time = time()
-    print(f"Generated reply in {end_time - start_time:.2f} seconds:\n{reply}")
     history.append({"role": "assistant", "content": reply})
 
-    if len(history) > 10:
-        history.pop(0)
-        history.pop(0)
+    # Keep last 10 user+assistant pairs (20 messages)
+    if len(history) > 20:
+        history = history[-20:]
     sessions[session_id] = history
 
-    # logging time for experiments using pandas
-    csv_dir = "experiment/data"
-    os.makedirs(csv_dir, exist_ok=True)
-    csv_file = os.path.join(csv_dir, "chat_timings.csv")
+    reply_id = await insert_chat_log(
+        session_id=session_id,
+        query=message,
+        response=reply,
+        response_time=int((end_time - start_time) * 1000),
+    )
 
-    row = {
-        "message_length": len(message),
-        "response_length": len(reply),
-        "time": end_time - start_time,
-    }
-    df = pd.read_csv(csv_file)
-    df = pd.concat([df, pd.DataFrame([row])], ignore_index=True)
-    df.to_csv(csv_file, index=False)
+    return JSONResponse({"reply": reply, "reply_id": reply_id})
 
-    return JSONResponse({"reply": reply})
+
+@app.post("/feedback")
+async def feedback_endpoint(
+    request: Request, session_id: str = Cookie(default=None), payload: dict = Body(...)
+):
+    if not session_id:
+        return JSONResponse({"error": "Session ID not set."}, status_code=400)
+
+    feedback = payload.get("feedback")
+    reply_id = payload.get("reply_id")
+
+    if feedback is None or reply_id is None:
+        return JSONResponse({"error": "Invalid payload."}, status_code=422)
+
+    await update_feedback(reply_id, session_id, feedback)
+
+    return JSONResponse({"status": "success"})

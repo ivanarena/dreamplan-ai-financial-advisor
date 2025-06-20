@@ -5,6 +5,7 @@ description = "Dreamplan AI Financial Advisor"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "asyncpg>=0.30.0",
     "bs4>=0.0.2",
     "fastapi>=0.115.12",
     "haystack-ai>=2.13.1",
@@ -16,6 +17,7 @@ dependencies = [
     "pandas>=2.2.3",
     "playwright>=1.52.0",
     "pre-commit>=4.2.0",
+    "psycopg2-binary>=2.9.10",
     "pytest>=8.3.5",
     "pytest-asyncio>=1.0.0",
     "pytest-cov>=6.1.1",
@@ -26,5 +28,6 @@ dependencies = [
     "requests>=2.32.3",
     "ruff>=0.11.0",
     "sentence-transformers>=4.1.0",
+    "sqlalchemy>=2.0.41",
     "uvicorn>=0.34.2",
 ]

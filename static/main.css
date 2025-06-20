@@ -1,3 +1,13 @@
+:root {
+  --bg-light: #f0f0f0;
+  --bg-dark: #262139;
+  --pink: pink;
+  --pink-hover: rgb(238, 160, 173);
+  --feedback-btn-bg: snow;
+  --border-radius: 2em;
+  --font-main: "Lora", serif;
+}
+
 body {
     font-family: Helvetica, sans-serif;
     width: 85vw;
@@ -9,7 +19,7 @@ body {
     justify-content: center;
     height: 90vh;
     line-height: 1.5em;
-    font-family: "Lora", serif;
+    font-family: var(--font-main);
     font-optical-sizing: auto;
     font-weight: 400;
     font-style:normal;
@@ -46,7 +56,7 @@ h2.intro {
 #chat div {
     width: auto;
     max-width: 500px;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
 }
 
 .user, .bot {
@@ -56,7 +66,7 @@ h2.intro {
 
 .user {
     color: white;
-    background-color: #262139;
+    background-color: var(--bg-dark);
     border: none;
     border-radius: 2em;
     padding: 1em 2em 1em 2em;
@@ -65,7 +75,7 @@ h2.intro {
 }
 
 .bot {
-    background-color: #f0f0f0;
+    background-color: var(--bg-light);
     height: auto;
     border: none;
     border-radius: 2em;
@@ -92,11 +102,11 @@ input[type="text"] {
     padding: 1.5em;
     border: none;
     font-family: Helvetica, sans-serif;
-    background-color: #f0f0f0;
+    background-color: var(--bg-light);
     border-radius: 2em;
     box-sizing: border-box;
     letter-spacing: 0.04em;
-    font-family: "Lora", serif;
+    font-family: var(--font-main);
     transition: background-color 0.3s ease;
 }
 
@@ -115,13 +125,60 @@ button {
     cursor: pointer;
     width: 100px;
     border-radius: 2em;
-    background-color: pink;
-    font-family: "Lora", serif;
+    background-color: var(--pink);
+    font-family: var(--font-main);
     letter-spacing: 0.04em;
     transition: background-color 0.3s ease;
 }
 
 button:hover {
-    background-color: rgb(238, 160, 173);
+    background-color: var(--pink-hover);
     transition: background-color 0.3s ease;
+}
+
+.feedback-panel {
+  background-color: white;
+}
+
+.feedback-panel label {
+  display: block;
+  margin-bottom: 1.5em;
+  text-align: center;
+}
+
+button.feedback-btn {
+  cursor: pointer;
+  background-color: snow;
+  width: 3em;
+  padding: 1em 1em;
+  border-radius: 1em;
+  transition: all 0.3s ease;
+  user-select: none;
+  margin-left: 0;
+  margin-right: 1em;
+}
+
+button.feedback-btn:hover,
+button.feedback-btn:focus {
+  background-color: var(--bg-dark);
+  color: white;
+  outline: none;
+  transform: scale(1.1);
+}
+
+button.feedback-btn.selected,
+button.feedback-btn[aria-checked="true"] {
+  background-color: var(--bg-dark);
+  color: white;
+  cursor: default;
+  transform: scale(1.15);
+}
+
+button.submit-feedback {
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.submit-feedback:disabled {
+  cursor: not-allowed;
 }
