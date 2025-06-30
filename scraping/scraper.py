@@ -43,7 +43,7 @@ def extract_links(url: str, html: str) -> set[str]:
     return links
 
 
-def html_to_text(html: str) -> str:
+def html_to_text(url: str, html: str) -> str:
     # apparently this works better than the haystack implementation with the trafilatura library
     soup = BeautifulSoup(html, "html.parser")
     tags_to_remove = [
@@ -63,6 +63,31 @@ def html_to_text(html: str) -> str:
         tag.decompose()
     text = soup.get_text(separator="\n", strip=True)
     lines = [line.strip() for line in text.splitlines() if line.strip()]
+
+    # Remove cookie-related lines
+    if "lifeindenmark.borger.dk" in url:
+        start = None
+        end = None
+        for i, line in enumerate(lines):
+            if start is None and "Accept cookies" in line:
+                start = i
+            if start is not None and "Cookies and lifeindenmark.dk" in line:
+                end = i
+                break
+        if start is not None and end is not None and end >= start:
+            del lines[start : end + 1]
+    elif "skat.dk" in url:
+        start = None
+        end = None
+        for i, line in enumerate(lines):
+            if start is None and "We use cookies" in line:
+                start = i
+            if start is not None and "Go to content" in line:
+                end = i
+                break
+        if start is not None and end is not None and end >= start:
+            del lines[start : end + 1]
+
     return "\n".join(lines)
 
 
@@ -71,17 +96,15 @@ def crawl(page, url: str, root_url: str, delay_range=(1, 3)):
         return
     print(f"Crawling: {url}")
     visited.add(url)
-
     try:
         page.goto(url, timeout=10000)
-        try:
-            # Accept cookie banner if it appears
-            page.locator("button:has-text('Accept all')").click(timeout=3000)
-        except Exception as e:
-            print(f"No cookie banner found: {e}")
+        # Try to accept cookie banner if it appears
+        locator = page.locator("button:has-text('Accept all')")
+        if locator.is_visible():
+            locator.click(timeout=3000)
         html = page.content()
         save_html(url, html)
-        text = html_to_text(html)
+        text = html_to_text(url, html)
         parsed = urlparse(url)
         path = parsed.path.strip("/")
         if not path:
@@ -93,6 +116,7 @@ def crawl(page, url: str, root_url: str, delay_range=(1, 3)):
         with open(filepath, "w", encoding="utf-8") as f:
             f.write(f"URL: {url.replace('_', '/')}\n\n")
             f.write(text)
+        print(f"Saved text content to {filepath}")
         links = extract_links(url, html)
     except Exception as e:
         print(f"Failed to fetch {url}: {e}")
