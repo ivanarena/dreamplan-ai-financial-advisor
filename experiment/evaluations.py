@@ -25,7 +25,7 @@ DATASET_DIR = os.path.join(EXPERIMENT_DIR, "data")
 
 
 async def evaluate_dispatching():
-    dataset = pd.read_csv(os.path.join(DATASET_DIR, "dispatching.csv"))
+    dataset = pd.read_csv(os.path.join(DATASET_DIR, "dispatching.csv"))  # noqa: F841
     for prompt in dataset["prompt"]:
         start_time = time()
         dispatcher = await Runner.run(triage_agent, input=prompt)
@@ -65,7 +65,7 @@ async def evaluate_rag():
 def run_rag_on_dataset():
     dataset = os.path.join(DATASET_DIR, "questions.jsonl")
     with open(dataset, "r") as f:
-        lines = f.readlines()
+        lines = f.readlines()  # noqa: F841
     data = [json.loads(line) for line in lines]
     rag = RAG().get_pipeline()
     print(len(data))
@@ -95,3 +95,13 @@ def run_rag_on_dataset():
     with open(dataset, "w") as f:
         for item in data:
             f.write(json.dumps(item, ensure_ascii=False) + "\n")
+
+
+def evaluate_performance():
+    pd.read_csv(os.path.join(DATASET_DIR, "dispatching.csv"))
+    rag_evaluation = os.path.join(DATASET_DIR, "questions.jsonl")
+    with open(rag_evaluation, "r") as f:
+        f.readlines()
+
+
+# TODO: possibly run real user experiments and get feedback
