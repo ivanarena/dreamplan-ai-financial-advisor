@@ -5,11 +5,13 @@ description = "Dreamplan AI Financial Advisor"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "asgi-lifespan==2.*",
     "asyncpg>=0.30.0",
     "bs4>=0.0.2",
     "fastapi>=0.115.12",
     "haystack-ai>=2.13.1",
     "hf-xet>=1.1.2",
+    "httpx>=0.28.1",
     "jupyter>=1.1.1",
     "langchain-openai>=0.3.16",
     "nltk>=3.9.1",

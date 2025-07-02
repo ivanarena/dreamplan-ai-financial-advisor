@@ -1,27 +1,33 @@
 import pytest
 from calculation.client import CalculationApiClient, CalculateRequest
 import os
-from fastapi.testclient import TestClient
-from main import app
 from dotenv import load_dotenv
 from haystack import Pipeline
 from components.rag import RAG
 from components.dispatching import triage_agent
 from agents import Agent
+from httpx import AsyncClient, ASGITransport
+import pytest_asyncio
+from asgi_lifespan import LifespanManager
+from main import app
+
 
 load_dotenv()
+
+
+@pytest_asyncio.fixture
+async def client():
+    async with LifespanManager(app):
+        async with AsyncClient(
+            transport=ASGITransport(app=app), base_url="http://app.io"
+        ) as client:
+            yield client
 
 
 @pytest.fixture()
 def triage() -> Agent:
     """Fixture to provide the triage agent"""
     return triage_agent
-
-
-@pytest.fixture
-def client() -> TestClient:
-    """Fixture to create a test client for the FastAPI application"""
-    return TestClient(app)
 
 
 @pytest.fixture
