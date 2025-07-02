@@ -17,7 +17,7 @@ load_dotenv()
 
 @pytest_asyncio.fixture
 async def client():
-    async with LifespanManager(app):
+    async with LifespanManager(app, shutdown_timeout=15):
         async with AsyncClient(
             transport=ASGITransport(app=app), base_url="http://app.io"
         ) as client:

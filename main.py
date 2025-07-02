@@ -12,8 +12,13 @@ from db import connect_db, disconnect_db, insert_chat_log, update_feedback
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     await connect_db()
-    yield
-    await disconnect_db()
+    try:
+        yield
+    finally:
+        try:
+            await disconnect_db()
+        except Exception as e:
+            print(f"Error during disconnect_db: {e}")
 
 
 app = FastAPI(lifespan=lifespan)
