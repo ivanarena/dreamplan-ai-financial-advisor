@@ -101,6 +101,3 @@ def evaluate_performance():
     rag_evaluation = os.path.join(DATASET_DIR, "questions.jsonl")
     with open(rag_evaluation, "r") as f:
         f.readlines()
-
-
-# TODO: possibly run real user experiments and get feedback

@@ -7,7 +7,6 @@ from contextlib import asynccontextmanager
 from time import time
 from components.chat import chat
 from db import connect_db, disconnect_db, insert_reply, insert_feedback
-from fastapi import status
 
 
 @asynccontextmanager
@@ -69,16 +68,6 @@ async def chat_endpoint(request: Request, session_id: str = Cookie(default=None)
     return JSONResponse({"reply": reply, "session_id": session_id})
 
 
-@app.post("/end")
-async def end_chat(request: Request, session_id: str = Cookie(default=None)):
-    if not session_id:
-        return JSONResponse({"error": "Session ID not set."}, status_code=400)
-    # Remove session history to terminate chat
-    sessions.pop(session_id, None)
-
-    return JSONResponse({"status": "ended"})
-
-
 @app.post("/feedback")
 async def feedback_endpoint(request: Request, payload: dict = Body(...)):
     session_id = payload.get("session_id") or request.cookies.get("session_id")
@@ -96,4 +85,10 @@ async def feedback_endpoint(request: Request, payload: dict = Body(...)):
     await insert_feedback(session_id=session_id, feedback=feedback)
     sessions.pop(session_id, None)
 
-    return JSONResponse({"status": "success"}, status_code=status.HTTP_200_OK)
+    # Generate a new session ID
+    new_session_id = str(uuid4())
+
+    # Return response with new session_id cookie
+    response = JSONResponse({"status": "success", "new_session_id": new_session_id})
+    response.set_cookie("session_id", new_session_id)
+    return response

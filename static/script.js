@@ -64,10 +64,10 @@ async function streamText(element, fullText, sessionId) {
             feedbackForm.setAttribute('aria-label', 'Feedback form');
 
             const questions = [
-                { id: 'correctness', text: 'How correct was the response?' },
-                { id: 'relevance', text: 'How relevant was the response?' },
-                { id: 'clarity', text: 'How clear was the response?' },
-                { id: 'satisfaction', text: 'How satisfied are you with the response?' }
+                { id: 'correctness', text: 'How do you value the correctness of the responses on a scale 0-9 where 0 is completely incorrect and 9 is completely correct?' },
+                { id: 'relevance', text: 'How do you value how relevant the responses are on a scale 0-9 where 0 is completely irrelevant and 9 is completely relevant?' },
+                { id: 'clarity', text: 'How do you value the clarity of the responses on a scale 0-9 where 0 is impossible to understand and 9 is perfectly clear?' },
+                { id: 'satisfaction', text: 'How do you value your satisfaction with the responses on a scale 0-9 where 0 is extremely unsatisfied and 9 is extremely satisfied?' }
             ];
 
             questions.forEach(q => {
