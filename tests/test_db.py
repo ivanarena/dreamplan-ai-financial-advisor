@@ -12,27 +12,58 @@ async def test_db():
 
 
 @pytest.mark.asyncio
-async def test_chat_log():
+async def test_reply_log():
     await db.connect_db()
 
     # Insert a chat log entry
-    inserted_id = await db.insert_chat_log(
+    await db.insert_reply(
         session_id="test-session-1",
         query="Hello, world!",
         response="Hi there!",
         response_time=50,
     )
-    assert inserted_id is not None
 
     # Fetch the inserted row manually
     async with db.pool.acquire() as conn:
-        row = await conn.fetchrow("SELECT * FROM chat_logs WHERE id = $1", inserted_id)
+        row = await conn.fetchrow(
+            "SELECT * FROM replies WHERE session_id = $1 AND query = $2",
+            "test-session-1",
+            "Hello, world!",
+        )
         assert row is not None
         assert row["session_id"] == "test-session-1"
         assert row["response"] == "Hi there!"
 
-    # Clean up by deleting the inserted row
+        # Clean up by deleting the inserted row
+        await conn.execute("DELETE FROM replies WHERE id = $1", row["id"])
+
+    await db.disconnect_db()
+
+
+@pytest.mark.asyncio
+async def test_feedback_log():
+    await db.connect_db()
+
+    feedback_data = {
+        "correctness": 5,
+        "relevance": 4,
+        "clarity": 5,
+        "satisfaction": 4,
+        "comments": "Very helpful!",
+    }
+
+    await db.insert_feedback("test-session-2", feedback_data)
+
     async with db.pool.acquire() as conn:
-        await conn.execute("DELETE FROM chat_logs WHERE id = $1", inserted_id)
+        row = await conn.fetchrow(
+            "SELECT * FROM feedbacks WHERE session_id = $1",
+            "test-session-2",
+        )
+        assert row is not None
+        assert row["correctness"] == 5
+        assert row["comments"] == "Very helpful!"
+
+        # Clean up by deleting the inserted row
+        await conn.execute("DELETE FROM feedbacks WHERE id = $1", row["id"])
 
     await db.disconnect_db()

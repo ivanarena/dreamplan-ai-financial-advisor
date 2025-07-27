@@ -62,7 +62,7 @@ class RAG:
         return document_store
 
     def _init_retriever(self):
-        return InMemoryBM25Retriever(document_store=self.document_store, top_k=10)
+        return InMemoryBM25Retriever(document_store=self.document_store, top_k=6)
 
     def _init_ranker(self):
         ranker = SentenceTransformersDiversityRanker(
@@ -81,24 +81,23 @@ class RAG:
     def _init_prompt_builder(self):
         return PromptBuilder(
             template="""
-                You are an AI assistant tasked with answering questions using the provided context.
-                Your response must be:
-                - **Concise** and in your own words.
-                - Based **only on the documents** below — **cite them** where relevant.
-                - If the answer is not present, say **"I don't know"**.
-                - If the question is unclear or too broad, ask for clarification.
+            You are an AI assistant tasked with answering questions using the provided context.
+            Your response must be:
+            - **Concise** and in your own words.
+            - Based **only on the documents** below — **cite them** where relevant by providing the URL in parentheses (e.g., (Source: https://example.com)).
+            - If the question is unclear or too broad, ask for clarification.
 
-                --- CONTEXT ---
-                {% for doc in documents %}
-                Document {{ loop.index }}:
-                {{ doc.content }}
+            --- CONTEXT ---
+            {% for doc in documents %}
+            Document {{ loop.index }} (Source: https://{{ doc.meta.source }}):
+            {{ doc.content }}
 
-                {% endfor %}
-                ----------------
+            {% endfor %}
+            ----------------
 
-                Question: {{ question }}
+            Question: {{ question }}
 
-                Answer:
+            Answer:
             """,
             required_variables=["documents", "question"],
         )
@@ -116,3 +115,6 @@ class RAG:
 
     def get_pipeline(self):
         return self.pipeline
+
+
+rag = RAG()

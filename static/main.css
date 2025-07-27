@@ -9,7 +9,6 @@
 }
 
 body {
-    font-family: Helvetica, sans-serif;
     width: 85vw;
     max-width: 1200px;
     margin: 2em auto;
@@ -97,6 +96,70 @@ form {
     width: 100%;
 }
 
+#feedback-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 600px;
+}
+
+#feedback-form fieldset {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: center;
+  border: none;
+  padding: 1em;
+  font-family: var(--font-main);
+  margin-bottom: 2em;
+  text-align: center;
+}
+
+
+#feedback-form input[type="range"] {
+  width: 60%;
+  margin-right: 12px;
+  accent-color: var(--bg-dark);
+  height: 2em;
+  background: transparent;
+  border-radius: 1em;
+}
+
+#feedback-form span {
+  display: inline-block;
+  min-width: 2em;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.1em;
+  margin-left: 0.5em;
+  color: var(--bg-dark);
+}
+
+
+textarea {
+  font-family: var(--font-main);
+  padding: 1em;
+  width: 100%;
+  border-radius: 1em;
+  border: none;
+  background-color: var(--bg-light);
+}
+
+#feedback-form fieldset legend {
+  margin-bottom: 0.5em;
+  text-align: center;
+}
+
+#end-chat {
+  background-color: var(--bg-dark);
+  color: white;
+}
+
+#end-chat:hover {
+  background-color: #524975;
+}
+
 input[type="text"] {
     width: 60%;
     padding: 1.5em;
@@ -182,3 +245,4 @@ button.submit-feedback {
 .submit-feedback:disabled {
   cursor: not-allowed;
 }
+

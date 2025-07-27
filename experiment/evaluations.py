@@ -82,7 +82,6 @@ def run_rag_on_dataset():
                 "ranker": {"query": query},
                 "prompt_builder": {"question": query},
             },
-            include_outputs_from={"retriever", "generator"},
         )
         end_time = time()
         item["retrieved_contexts"] = [

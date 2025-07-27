@@ -29,16 +29,28 @@ pool: asyncpg.Pool | None = None
 
 metadata = MetaData()
 
-chat_logs = Table(
-    "chat_logs",
+replies = Table(
+    "replies",
     metadata,
     Column("id", Integer, primary_key=True),
     Column("session_id", String(40), index=True),
     Column("query", Text),
     Column("response", Text),
     Column("timestamp", TIMESTAMP, server_default=func.now()),
-    Column("feedback", Integer, nullable=True),
     Column("response_time", Integer, nullable=True),
+)
+
+feedbacks = Table(
+    "feedbacks",
+    metadata,
+    Column("id", Integer, primary_key=True),
+    Column("session_id", String(40), index=True),
+    Column("correctness", Integer, nullable=True),
+    Column("relevance", Integer, nullable=True),
+    Column("clarity", Integer, nullable=True),
+    Column("satisfaction", Integer, nullable=True),
+    Column("comments", Text, nullable=True),
+    Column("timestamp", TIMESTAMP, server_default=func.now()),
 )
 
 
@@ -48,7 +60,7 @@ async def connect_db():
         pool = await asyncpg.create_pool(
             DATABASE_URL,
             ssl="require",
-            statement_cache_size=0,  # 💡 disables prepared statement caching
+            statement_cache_size=0,
         )
         print("✅ Database pool created (statement cache disabled)")
 
@@ -65,35 +77,40 @@ async def disconnect_db():
             pool = None
 
 
-async def insert_chat_log(
-    session_id: str, query: str, response: str, response_time: int
-) -> int:
+async def insert_reply(session_id: str, query: str, response: str, response_time: int):
     async with pool.acquire() as conn:
-        row = await conn.fetchrow(
+        await conn.fetchrow(
             """
-            INSERT INTO chat_logs(session_id, query, response, response_time)
+            INSERT INTO replies(session_id, query, response, response_time)
             VALUES ($1, $2, $3, $4)
-            RETURNING id
             """,
             session_id,
             query,
             response,
             response_time,
         )
-        return row["id"]
 
 
-async def update_feedback(reply_id: int, session_id: str, feedback: int):
+async def insert_feedback(session_id: str, feedback: dict):
     async with pool.acquire() as conn:
         await conn.execute(
             """
-            UPDATE chat_logs
-            SET feedback = $1
-            WHERE id = $2 AND session_id = $3
+            INSERT INTO feedbacks (
+                session_id,
+                correctness,
+                relevance,
+                clarity,
+                satisfaction,
+                comments
+            )
+            VALUES ($1, $2, $3, $4, $5, $6)
             """,
-            feedback,
-            reply_id,
             session_id,
+            feedback.get("correctness"),
+            feedback.get("relevance"),
+            feedback.get("clarity"),
+            feedback.get("satisfaction"),
+            feedback.get("comments"),
         )
 
 

@@ -6,7 +6,8 @@ from uuid import uuid4
 from contextlib import asynccontextmanager
 from time import time
 from components.chat import chat
-from db import connect_db, disconnect_db, insert_chat_log, update_feedback
+from db import connect_db, disconnect_db, insert_reply, insert_feedback
+from fastapi import status
 
 
 @asynccontextmanager
@@ -58,29 +59,41 @@ async def chat_endpoint(request: Request, session_id: str = Cookie(default=None)
         history = history[-20:]
     sessions[session_id] = history
 
-    reply_id = await insert_chat_log(
+    await insert_reply(
         session_id=session_id,
         query=message,
         response=reply,
         response_time=int((end_time - start_time) * 1000),
     )
 
-    return JSONResponse({"reply": reply, "reply_id": reply_id})
+    return JSONResponse({"reply": reply, "session_id": session_id})
+
+
+@app.post("/end")
+async def end_chat(request: Request, session_id: str = Cookie(default=None)):
+    if not session_id:
+        return JSONResponse({"error": "Session ID not set."}, status_code=400)
+    # Remove session history to terminate chat
+    sessions.pop(session_id, None)
+
+    return JSONResponse({"status": "ended"})
 
 
 @app.post("/feedback")
-async def feedback_endpoint(
-    request: Request, session_id: str = Cookie(default=None), payload: dict = Body(...)
-):
+async def feedback_endpoint(request: Request, payload: dict = Body(...)):
+    session_id = payload.get("session_id") or request.cookies.get("session_id")
     if not session_id:
         return JSONResponse({"error": "Session ID not set."}, status_code=400)
 
-    feedback = payload.get("feedback")
-    reply_id = payload.get("reply_id")
+    feedback = {
+        "correctness": payload.get("correctness"),
+        "relevance": payload.get("relevance"),
+        "clarity": payload.get("clarity"),
+        "satisfaction": payload.get("satisfaction"),
+        "comments": payload.get("comments", ""),
+    }
 
-    if feedback is None or reply_id is None:
-        return JSONResponse({"error": "Invalid payload."}, status_code=422)
+    await insert_feedback(session_id=session_id, feedback=feedback)
+    sessions.pop(session_id, None)
 
-    await update_feedback(reply_id, session_id, feedback)
-
-    return JSONResponse({"status": "success"})
+    return JSONResponse({"status": "success"}, status_code=status.HTTP_200_OK)
