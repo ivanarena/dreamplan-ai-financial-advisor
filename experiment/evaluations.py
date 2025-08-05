@@ -13,11 +13,16 @@ from ragas import evaluate
 from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
 from ragas import EvaluationDataset
-from components.rag import RAG
+from components.rag import rag
 import os
 from time import time
+from agents import (
+    Agent,
+    set_default_openai_key,
+)
 
 load_dotenv()
+set_default_openai_key(os.getenv("OPENAI_API_KEY"))
 
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 EXPERIMENT_DIR = os.path.join(ROOT_DIR, "experiment")
@@ -40,7 +45,7 @@ async def evaluate_dispatching():
 
 async def evaluate_rag():
     """referencing: https://docs.ragas.io/en/latest/concepts/metrics/available_metrics/#retrieval-augmented-generation"""
-    run_rag_on_dataset()
+    # run_rag_on_dataset() # Uncomment this line to run RAG on the dataset first
     evaluation_dataset = EvaluationDataset.from_jsonl(
         os.path.join(DATASET_DIR, "questions.jsonl")
     )
@@ -67,7 +72,7 @@ def run_rag_on_dataset():
     with open(dataset, "r") as f:
         lines = f.readlines()  # noqa: F841
     data = [json.loads(line) for line in lines]
-    rag = RAG().get_pipeline()
+    pipeline = rag.get_pipeline()
     print(len(data))
     i = 1
     for item in data:
@@ -76,12 +81,13 @@ def run_rag_on_dataset():
         query = item["user_input"]
         print(f"{query[:4]}...")
         start_time = time()
-        result = rag.run(
+        result = pipeline.run(
             data={
                 "retriever": {"query": query},
                 "ranker": {"query": query},
                 "prompt_builder": {"question": query},
             },
+            include_outputs_from={"retriever", "generator"},
         )
         end_time = time()
         item["retrieved_contexts"] = [
@@ -96,8 +102,69 @@ def run_rag_on_dataset():
             f.write(json.dumps(item, ensure_ascii=False) + "\n")
 
 
-def evaluate_performance():
-    pd.read_csv(os.path.join(DATASET_DIR, "dispatching.csv"))
-    rag_evaluation = os.path.join(DATASET_DIR, "questions.jsonl")
-    with open(rag_evaluation, "r") as f:
-        f.readlines()
+# def evaluate_performance():
+#     pd.read_csv(os.path.join(DATASET_DIR, "dispatching.csv"))
+#     rag_evaluation = os.path.join(DATASET_DIR, "questions.jsonl")
+#     with open(rag_evaluation, "r") as f:
+#         f.readlines()
+
+
+async def run_llm_only_on_dataset():
+    agent = Agent(
+        name="Finance Agent",
+        instructions="""
+        You are a specialist agent for answering finance-related questions. The response should be in English but referring to Denmark and Danish financial context.
+        
+        Your role is to:
+            1. Receive general financial questions from the user (e.g., about savings, investment strategies, retirement planning, etc.).
+            2. Provide an accurate and trustworthy answer based on your knowledge.
+        
+        If the information cannot be confidently answered using the available context, respond with: This information is not in my knowledge, sorry.
+        """,
+        model="gpt-4.1-nano",
+    )
+    dataset = os.path.join(DATASET_DIR, "questions_llm_only.jsonl")
+    with open(dataset, "r") as f:
+        lines = f.readlines()  # noqa: F841
+    data = [json.loads(line) for line in lines]
+    i = 1
+    for item in data:
+        print(f"Processing item {i}/{len(data)}")
+        i += 1
+        query = item["user_input"]
+        print(f"{query[:4]}...")
+        start_time = time()
+        runner = await Runner.run(
+            agent,
+            input=query,
+        )
+        end_time = time()
+        item["retrieved_contexts"] = []  # No contexts for LLM only
+        item["response"] = runner.final_output
+        item["time"] = end_time - start_time
+
+    # Save the outputs
+    with open(dataset, "w") as f:
+        for item in data:
+            f.write(json.dumps(item, ensure_ascii=False) + "\n")
+
+
+async def evaluate_llm_only():
+    """Evaluate LLM only on the dataset."""
+    await run_llm_only_on_dataset()  # Run the LLM on the dataset first
+    evaluation_dataset = EvaluationDataset.from_jsonl(
+        os.path.join(DATASET_DIR, "questions_llm_only.jsonl")
+    )
+    print("Features in dataset:", evaluation_dataset.features())
+    print("Total samples in dataset:", len(evaluation_dataset))
+    evaluator_llm = LangchainLLMWrapper(ChatOpenAI(model="gpt-4.1-nano"))
+    result = evaluate(
+        dataset=evaluation_dataset,
+        metrics=[
+            ResponseRelevancy(),
+        ],
+        llm=evaluator_llm,
+    )
+    df = result.to_pandas()
+    df.to_csv(os.path.join(DATASET_DIR, "llm_evaluation.csv"), index=False)
+    return df
