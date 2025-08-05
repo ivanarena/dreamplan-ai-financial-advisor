@@ -13,7 +13,7 @@ from ragas import evaluate
 from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
 from ragas import EvaluationDataset
-from components.rag import rag
+from components.rag import rag, simple_rag, dense_rag
 import os
 from time import time
 from agents import (
@@ -67,6 +67,89 @@ async def evaluate_rag():
     return df
 
 
+async def evaluate_simple_rag():
+    """referencing: https://docs.ragas.io/en/latest/concepts/metrics/available_metrics/#retrieval-augmented-generation"""
+    run_simple_rag_on_dataset()  # Uncomment this line to run Simple RAG on the dataset first
+    evaluation_dataset = EvaluationDataset.from_jsonl(
+        os.path.join(DATASET_DIR, "questions_simple_rag.jsonl")
+    )
+    print("Features in dataset:", evaluation_dataset.features())
+    print("Total samples in dataset:", len(evaluation_dataset))
+    evaluator_llm = LangchainLLMWrapper(ChatOpenAI(model="gpt-4.1-nano"))
+    result = evaluate(
+        dataset=evaluation_dataset,
+        metrics=[
+            ResponseRelevancy(),
+            LLMContextPrecisionWithoutReference(),
+            Faithfulness(),
+            ContextRelevance(),
+        ],
+        llm=evaluator_llm,
+    )
+    df = result.to_pandas()
+    df.to_csv(os.path.join(DATASET_DIR, "simple_rag_evaluation.csv"), index=False)
+    return df
+
+
+async def evaluate_dense_rag():
+    """referencing: https://docs.ragas.io/en/latest/concepts/metrics/available_metrics/#retrieval-augmented-generation"""
+    run_dense_rag_on_dataset()  # Uncomment this line to run Dense RAG on the dataset first
+    evaluation_dataset = EvaluationDataset.from_jsonl(
+        os.path.join(DATASET_DIR, "questions_dense_rag.jsonl")
+    )
+    print("Features in dataset:", evaluation_dataset.features())
+    print("Total samples in dataset:", len(evaluation_dataset))
+    evaluator_llm = LangchainLLMWrapper(ChatOpenAI(model="gpt-4.1-nano"))
+    result = evaluate(
+        dataset=evaluation_dataset,
+        metrics=[
+            ResponseRelevancy(),
+            LLMContextPrecisionWithoutReference(),
+            Faithfulness(),
+            ContextRelevance(),
+        ],
+        llm=evaluator_llm,
+    )
+    df = result.to_pandas()
+    df.to_csv(os.path.join(DATASET_DIR, "dense_rag_evaluation.csv"), index=False)
+    return df
+
+
+def run_dense_rag_on_dataset():
+    dataset = os.path.join(DATASET_DIR, "questions_dense_rag.jsonl")
+    with open(dataset, "r") as f:
+        lines = f.readlines()  # noqa: F841
+    data = [json.loads(line) for line in lines]
+    pipeline = dense_rag.get_pipeline()
+    print(len(data))
+    i = 1
+    for item in data:
+        print(f"Processing item {i}/{len(data)}")
+        i += 1
+        query = item["user_input"]
+        print(f"{query[:4]}...")
+        start_time = time()
+        result = pipeline.run(
+            data={
+                "text_embedder": {"text": query},
+                "ranker": {"query": query},
+                "prompt_builder": {"question": query},
+            },
+            include_outputs_from={"retriever", "generator"},
+        )
+        end_time = time()
+        item["retrieved_contexts"] = [
+            str(doc.content) for doc in result["retriever"]["documents"]
+        ]
+        item["response"] = result["generator"]["replies"][0]
+        item["time"] = end_time - start_time
+
+    # Save the outputs
+    with open(dataset, "w") as f:
+        for item in data:
+            f.write(json.dumps(item, ensure_ascii=False) + "\n")
+
+
 def run_rag_on_dataset():
     dataset = os.path.join(DATASET_DIR, "questions.jsonl")
     with open(dataset, "r") as f:
@@ -85,6 +168,40 @@ def run_rag_on_dataset():
             data={
                 "retriever": {"query": query},
                 "ranker": {"query": query},
+                "prompt_builder": {"question": query},
+            },
+            include_outputs_from={"retriever", "generator"},
+        )
+        end_time = time()
+        item["retrieved_contexts"] = [
+            str(doc.content) for doc in result["retriever"]["documents"]
+        ]
+        item["response"] = result["generator"]["replies"][0]
+        item["time"] = end_time - start_time
+
+    # Save the outputs
+    with open(dataset, "w") as f:
+        for item in data:
+            f.write(json.dumps(item, ensure_ascii=False) + "\n")
+
+
+def run_simple_rag_on_dataset():
+    dataset = os.path.join(DATASET_DIR, "questions_simple_rag.jsonl")
+    with open(dataset, "r") as f:
+        lines = f.readlines()  # noqa: F841
+    data = [json.loads(line) for line in lines]
+    pipeline = simple_rag.get_pipeline()
+    print(len(data))
+    i = 1
+    for item in data:
+        print(f"Processing item {i}/{len(data)}")
+        i += 1
+        query = item["user_input"]
+        print(f"{query[:4]}...")
+        start_time = time()
+        result = pipeline.run(
+            data={
+                "retriever": {"query": query},
                 "prompt_builder": {"question": query},
             },
             include_outputs_from={"retriever", "generator"},
