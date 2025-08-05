@@ -3,7 +3,7 @@ from calculation.client import CalculationApiClient, CalculateRequest
 import os
 from dotenv import load_dotenv
 from haystack import Pipeline
-from components.rag import RAG
+from components.rag import BaselineRAG, RerankerRAG, DenseRAG
 from components.dispatching import triage_agent
 from agents import Agent
 from httpx import AsyncClient, ASGITransport
@@ -31,9 +31,23 @@ def triage() -> Agent:
 
 
 @pytest.fixture
-def rag_pipeline() -> Pipeline:
+def baseline_rag_pipeline() -> Pipeline:
     """Fixture to create a RAG pipeline for testing"""
-    rag = RAG().get_pipeline()
+    rag = BaselineRAG().get_pipeline()
+    return rag
+
+
+@pytest.fixture
+def reranker_rag_pipeline() -> Pipeline:
+    """Fixture to create a RAG pipeline with reranker for testing"""
+    rag = RerankerRAG().get_pipeline()
+    return rag
+
+
+@pytest.fixture
+def dense_rag_pipeline() -> Pipeline:
+    """Fixture to create a Dense RAG pipeline for testing"""
+    rag = DenseRAG().get_pipeline()
     return rag
 
 

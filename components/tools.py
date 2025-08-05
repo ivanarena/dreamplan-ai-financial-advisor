@@ -9,7 +9,7 @@ from calculation.factories import (
 )
 from pydantic import BaseModel
 from typing import Optional, List, Literal
-from components.rag import rag
+from components.rag import reranker_rag
 import json
 
 
@@ -92,7 +92,7 @@ async def call_calculation_api(household: HouseholdData) -> str:
 
 @function_tool
 async def call_rag(query: str) -> str:
-    pipeline = rag.get_pipeline()
+    pipeline = reranker_rag.get_pipeline()
     result = pipeline.run(
         data={
             "retriever": {"query": query},

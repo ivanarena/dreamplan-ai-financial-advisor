@@ -13,7 +13,7 @@ from ragas import evaluate
 from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
 from ragas import EvaluationDataset
-from components.rag import rag, simple_rag, dense_rag
+from components.rag import reranker_rag, baseline_rag, dense_rag
 import os
 from time import time
 from agents import (
@@ -43,11 +43,11 @@ async def evaluate_dispatching():
     return dataset
 
 
-async def evaluate_rag():
+async def evaluate_reranker_rag():
     """referencing: https://docs.ragas.io/en/latest/concepts/metrics/available_metrics/#retrieval-augmented-generation"""
-    # run_rag_on_dataset() # Uncomment this line to run RAG on the dataset first
+    # run_reranker_rag_on_dataset() # Uncomment this line to run RAG on the dataset first
     evaluation_dataset = EvaluationDataset.from_jsonl(
-        os.path.join(DATASET_DIR, "questions.jsonl")
+        os.path.join(DATASET_DIR, "questions_reranker_Rag.jsonl")
     )
     print("Features in dataset:", evaluation_dataset.features())
     print("Total samples in dataset:", len(evaluation_dataset))
@@ -63,15 +63,15 @@ async def evaluate_rag():
         llm=evaluator_llm,
     )
     df = result.to_pandas()
-    df.to_csv(os.path.join(DATASET_DIR, "rag_evaluation.csv"), index=False)
+    df.to_csv(os.path.join(DATASET_DIR, "evaluation_reranker_rag.csv"), index=False)
     return df
 
 
-async def evaluate_simple_rag():
+async def evaluate_baseline_rag():
     """referencing: https://docs.ragas.io/en/latest/concepts/metrics/available_metrics/#retrieval-augmented-generation"""
-    run_simple_rag_on_dataset()  # Uncomment this line to run Simple RAG on the dataset first
+    run_baseline_rag_on_dataset()  # Uncomment this line to run Simple RAG on the dataset first
     evaluation_dataset = EvaluationDataset.from_jsonl(
-        os.path.join(DATASET_DIR, "questions_simple_rag.jsonl")
+        os.path.join(DATASET_DIR, "questions_baseline_rag.jsonl")
     )
     print("Features in dataset:", evaluation_dataset.features())
     print("Total samples in dataset:", len(evaluation_dataset))
@@ -87,7 +87,7 @@ async def evaluate_simple_rag():
         llm=evaluator_llm,
     )
     df = result.to_pandas()
-    df.to_csv(os.path.join(DATASET_DIR, "simple_rag_evaluation.csv"), index=False)
+    df.to_csv(os.path.join(DATASET_DIR, "baseline_rag_evaluation.csv"), index=False)
     return df
 
 
@@ -111,7 +111,7 @@ async def evaluate_dense_rag():
         llm=evaluator_llm,
     )
     df = result.to_pandas()
-    df.to_csv(os.path.join(DATASET_DIR, "dense_rag_evaluation.csv"), index=False)
+    df.to_csv(os.path.join(DATASET_DIR, "evaluation_dense_rag.csv"), index=False)
     return df
 
 
@@ -150,12 +150,12 @@ def run_dense_rag_on_dataset():
             f.write(json.dumps(item, ensure_ascii=False) + "\n")
 
 
-def run_rag_on_dataset():
-    dataset = os.path.join(DATASET_DIR, "questions.jsonl")
+def run_reranker_rag_on_dataset():
+    dataset = os.path.join(DATASET_DIR, "questions_reranker_rag.jsonl")
     with open(dataset, "r") as f:
         lines = f.readlines()  # noqa: F841
     data = [json.loads(line) for line in lines]
-    pipeline = rag.get_pipeline()
+    pipeline = reranker_rag.get_pipeline()
     print(len(data))
     i = 1
     for item in data:
@@ -185,12 +185,12 @@ def run_rag_on_dataset():
             f.write(json.dumps(item, ensure_ascii=False) + "\n")
 
 
-def run_simple_rag_on_dataset():
-    dataset = os.path.join(DATASET_DIR, "questions_simple_rag.jsonl")
+def run_baseline_rag_on_dataset():
+    dataset = os.path.join(DATASET_DIR, "questions_baseline_rag.jsonl")
     with open(dataset, "r") as f:
         lines = f.readlines()  # noqa: F841
     data = [json.loads(line) for line in lines]
-    pipeline = simple_rag.get_pipeline()
+    pipeline = baseline_rag.get_pipeline()
     print(len(data))
     i = 1
     for item in data:
@@ -283,5 +283,5 @@ async def evaluate_llm_only():
         llm=evaluator_llm,
     )
     df = result.to_pandas()
-    df.to_csv(os.path.join(DATASET_DIR, "llm_evaluation.csv"), index=False)
+    df.to_csv(os.path.join(DATASET_DIR, "evaluation_llm_only.csv"), index=False)
     return df
