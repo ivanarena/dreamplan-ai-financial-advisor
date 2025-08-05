@@ -156,6 +156,65 @@ class DenseRAG(RAG):
         self.embeddings = self._embed_documents()
         self.document_store = self._init_document_store()
         self.retriever = self._init_retriever()
+        self.generator = self._init_generator()
+        self.prompt_builder = self._init_prompt_builder()
+        self.pipeline = self._build_pipeline()
+
+    def _init_text_embedder(self):
+        return OpenAITextEmbedder(
+            api_key=Secret.from_token(os.getenv("OPENAI_API_KEY")),
+        )
+
+    def _init_splitter(self):
+        splitter = DocumentSplitter(
+            split_by="sentence", split_length=100, split_overlap=25, language="en"
+        )
+        splitter.warm_up()
+        return splitter
+
+    def _split_documents(self):
+        split_docs = []
+        for doc in self.docs:
+            split_docs += self.splitter.run(documents=[doc])["documents"]
+        return split_docs
+
+    def _embed_documents(self):
+        document_embedder = OpenAIDocumentEmbedder(
+            api_key=Secret.from_token(os.getenv("OPENAI_API_KEY")),
+        )
+        embeddings = document_embedder.run(documents=self.split_docs)["documents"]
+        return embeddings
+
+    def _init_document_store(self):
+        document_store = InMemoryDocumentStore(embedding_similarity_function="cosine")
+        document_store.write_documents(self.embeddings)
+        return document_store
+
+    def _init_retriever(self):
+        return InMemoryEmbeddingRetriever(document_store=self.document_store, top_k=10)
+
+    def _build_pipeline(self):
+        rag = Pipeline()
+        rag.add_component("text_embedder", self.text_embedder)
+        rag.add_component("retriever", self.retriever)
+        rag.add_component("prompt_builder", self.prompt_builder)
+        rag.add_component("generator", self.generator)
+        rag.connect("text_embedder.embedding", "retriever.query_embedding")
+        rag.connect("retriever.documents", "prompt_builder.documents")
+        rag.connect("prompt_builder", "generator")
+        return rag
+
+
+class DenseRerankerRAG(RAG):
+    def __init__(self, documents_dir=os.path.join("documents", "txt")):
+        super().__init__(documents_dir)
+        self.text_embedder = self._init_text_embedder()
+        self.splitter = self._init_splitter()
+        self.docs = self._create_documents()
+        self.split_docs = self._split_documents()
+        self.embeddings = self._embed_documents()
+        self.document_store = self._init_document_store()
+        self.retriever = self._init_retriever()
         self.ranker = self._init_ranker()
         self.generator = self._init_generator()
         self.prompt_builder = self._init_prompt_builder()
@@ -218,3 +277,4 @@ class DenseRAG(RAG):
 baseline_rag = BaselineRAG()
 reranker_rag = RerankerRAG()
 dense_rag = DenseRAG()
+dense_reranker_rag = DenseRerankerRAG()
