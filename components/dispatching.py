@@ -38,14 +38,14 @@ class ValidOutput(BaseModel):
 input_guardrail_agent = Agent(
     name="Input Guardrail",
     instructions=input_guardrail_instructions,
-    model="gpt-4.1-nano",
+    model="gpt-4.1-mini",
     output_type=ValidInput,
 )
 
 output_guardrail_agent = Agent(
     name="Output Guardrail",
     instructions=output_guardrail_instructions,
-    model="gpt-4.1-nano",
+    model="gpt-4.1-mini",
     output_type=ValidOutput,
 )
 
@@ -57,7 +57,7 @@ async def call_input_guardrail(
     result = await Runner.run(input_guardrail_agent, input)
     return GuardrailFunctionOutput(
         output_info=result.final_output,
-        tripwire_triggered=result.final_output.is_input_valid,
+        tripwire_triggered=not result.final_output.is_input_valid,
     )
 
 
@@ -68,7 +68,7 @@ async def call_output_guardrail(
     result = await Runner.run(output_guardrail_agent, input)
     return GuardrailFunctionOutput(
         output_info=result.final_output,
-        tripwire_triggered=result.final_output.is_output_valid,
+        tripwire_triggered=not result.final_output.is_output_valid,
     )
 
 
@@ -82,7 +82,7 @@ calculation_agent = Agent(
 
 dreamplan_agent = Agent(
     name="Dreamplan Agent",
-    handoff_description="Specialist agent for interpreting the Calculation API responses and answering questions about Dreamplan",
+    handoff_description="Specialist agent for interpreting and explaining the Calculation API results",
     instructions=dreamplan_agent_instructions,
     model="gpt-4.1-nano",
 )

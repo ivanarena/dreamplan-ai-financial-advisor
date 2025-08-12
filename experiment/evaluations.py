@@ -1,5 +1,5 @@
 from components.dispatching import triage_agent
-from agents import Runner
+from agents import Runner, InputGuardrailTripwireTriggered
 import pandas as pd
 import json
 from ragas.llms import LangchainLLMWrapper
@@ -30,17 +30,44 @@ DATASET_DIR = os.path.join(EXPERIMENT_DIR, "data")
 
 
 async def evaluate_dispatching():
-    dataset = pd.read_csv(os.path.join(DATASET_DIR, "dispatching.csv"))  # noqa: F841
-    for prompt in dataset["prompt"]:
+    dataset = pd.read_csv(os.path.join(DATASET_DIR, "questions_dispatching.csv"))  # noqa: F841
+    results = []
+    for idx, row in dataset.iterrows():
+        prompt = row["prompt"]
         start_time = time()
-        dispatcher = await Runner.run(triage_agent, input=prompt)
-        end_time = time()
-        dataset["result"] = dispatcher.last_agent.name
-        dataset["time"] = end_time - start_time
-    correct = (dataset["result"] == dataset["expected"]).sum()
-    print(f"{correct} correctly dispatched prompts out of {dataset.shape[0]}.")
-    dataset.to_csv(os.path.join(DATASET_DIR, "dispatching.csv"), index=False)
-    return dataset
+        result = None
+        elapsed = None
+        try:
+            dispatcher = await Runner.run(triage_agent, input=prompt)
+            print("PROMPT:", prompt)
+            print("DISPATCHED TO:", dispatcher.last_agent.name)
+            result = dispatcher.last_agent.name
+            end_time = time()
+            elapsed = end_time - start_time
+        except InputGuardrailTripwireTriggered:
+            print(f"Input guardrail triggered on prompt: '{prompt}'")
+            result = "InputError"
+            elapsed = None
+        except Exception as e:
+            print(f"An error occurred while processing prompt '{prompt}': {e}")
+            result = "Error"
+            elapsed = None
+        results.append(
+            {
+                "prompt": prompt,
+                "expected": row["expected"],
+                "result": result,
+                "time": elapsed,
+            }
+        )
+        print(result, elapsed)
+    results_df = pd.DataFrame(results)
+    correct = (results_df["result"] == results_df["expected"]).sum()
+    print(f"{correct} correctly dispatched prompts out of {results_df.shape[0]}.")
+    results_df.to_csv(
+        os.path.join(DATASET_DIR, "evaluation_dispatching.csv"), index=False
+    )
+    return results_df
 
 
 async def evaluate_reranker_rag():
@@ -87,7 +114,7 @@ async def evaluate_baseline_rag():
         llm=evaluator_llm,
     )
     df = result.to_pandas()
-    df.to_csv(os.path.join(DATASET_DIR, "baseline_rag_evaluation.csv"), index=False)
+    df.to_csv(os.path.join(DATASET_DIR, "evaluation_baseline_rag.csv"), index=False)
     return df
 
 
@@ -277,13 +304,6 @@ def run_baseline_rag_on_dataset():
     with open(dataset, "w") as f:
         for item in data:
             f.write(json.dumps(item, ensure_ascii=False) + "\n")
-
-
-# def evaluate_performance():
-#     pd.read_csv(os.path.join(DATASET_DIR, "dispatching.csv"))
-#     rag_evaluation = os.path.join(DATASET_DIR, "questions.jsonl")
-#     with open(rag_evaluation, "r") as f:
-#         f.readlines()
 
 
 async def run_llm_only_on_dataset():

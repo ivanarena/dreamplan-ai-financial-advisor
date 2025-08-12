@@ -9,8 +9,7 @@ from calculation.factories import (
 )
 from pydantic import BaseModel
 from typing import Optional, List, Literal
-from components.rag import reranker_rag
-import json
+from components.rag import baseline_rag
 
 
 class SavingsData(BaseModel):
@@ -83,7 +82,7 @@ async def call_calculation_api(household: HouseholdData) -> str:
             "liquidAssets": _build_liquid_assets(household),
         }
         payload = {k: v for k, v in payload.items() if v is not None}
-        print("Payload for Calculation API:", json.dumps(payload, indent=2))
+        print("Calling calculation API")
         return client.calculate_target_prices(payload)
     except Exception as e:
         print("Error during calculation API call:", str(e))
@@ -92,11 +91,11 @@ async def call_calculation_api(household: HouseholdData) -> str:
 
 @function_tool
 async def call_rag(query: str) -> str:
-    pipeline = reranker_rag.get_pipeline()
+    print("RAG CALLED")
+    pipeline = baseline_rag.get_pipeline()
     result = pipeline.run(
         data={
             "retriever": {"query": query},
-            "ranker": {"query": query},
             "prompt_builder": {"question": query},
         },
         include_outputs_from={"retriever", "generator"},

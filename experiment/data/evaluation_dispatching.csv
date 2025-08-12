@@ -1,0 +1,346 @@
+prompt,expected,result,time
+"I'm 31 and earn 39,000 per month. No partner. Pension is at 420,000 and I contribute 2,800/month. I rent and invest 1,000 monthly into ETFs. Savings: 110,000.",Calculation Agent,Calculation Agent,5.221764326095581
+"I'm 55 and make 78,000/month. My husband is 53 and earns 69,000. Our pension funds are at 3.5M and 2.8M, with monthly contributions of 5,000 and 4,500 respectively. We own a house worth 6.2M, mortgage remaining: 1.8M, 12 years left. We invest in mutual funds, about 1.2M total.",Calculation Agent,Calculation Agent,9.19433307647705
+"I'm 36 and my spouse is 34. We make 56,000 and 49,000 respectively. We both contribute to pensions (3,000 each), with current values at 1.1M and 900k. We rent and have no investments yet.",Calculation Agent,Calculation Agent,10.751237869262695
+"I'm 43, monthly income is 62,000. No mortgage, I rent. My pension has 1.7 million and I contribute 4,500 monthly. I have stocks worth 250,000 and invest 1,500/month. Also keep 200,000 in savings.",Calculation Agent,Calculation Agent,6.043992280960083
+"I'm 50 and my wife is 48. I earn 88,000/month and she makes 60,000. We just finished paying off our 5M house. Pension funds: 3.2M and 2.1M. Contributions: 6,000 and 4,800/month. Investments: 1.5M in total, no new additions.",Calculation Agent,Calculation Agent,9.726109504699707
+"I'm 34 and earn 46,000/month. I live alone, no property. Pension is at 750,000 with a 3,500 monthly deposit. I invest 1,500 in crypto monthly, currently have 300,000 there.",Calculation Agent,Calculation Agent,7.817807674407959
+"I'm 41 and my partner is 42. Combined income: 120,000/month. Pension status: mine is 2M, hers is 1.6M. Contributions: 5,500 and 4,700. We have a home valued at 4.7M, mortgage 2.9M, 26 years remaining. We invest 3,000/month in stocks.",Calculation Agent,Calculation Agent,6.928058862686157
+"I'm 57, earning 85,000 monthly. Spouse is 58, earns 79,000. Pensions are well funded: 4.3M and 3.9M. Contributions are paused. House fully paid off (worth 6M). We have 2.2M in mutual funds.",Calculation Agent,Calculation Agent,7.986863851547241
+"I'm 38 years old and I make 60,000 per month. I have a house worth 2.9M with 1.7M left on the mortgage (21 years). I contribute 4,000/month to a pension with a current value of 1.6M. Also investing in stocks: 300,000 total, adding 1,200/month.",Calculation Agent,Calculation Agent,4.70111346244812
+"I'm 52. Monthly income: 73,000. No spouse. I rent. Pension has 2.3 million with monthly contributions of 5,000. I also invest in bonds and ETFs — 950,000 total, no new contributions.",Calculation Agent,Calculation Agent,6.460334062576294
+"I'm 29, earning 42,000/month. I don’t own property. I’m contributing 2,000/month to my pension, which currently has 390,000. I also put 1,000 in stocks monthly and have 75,000 saved there.",Calculation Agent,Calculation Agent,6.643723011016846
+"I'm 65 and my spouse is 62. I was earning 100,000/month before retirement. Pension balances: 6M and 4.2M. No active contributions. House is fully paid. We have 3.5M in conservative investments.",Calculation Agent,Calculation Agent,5.951308250427246
+"I'm 48, make 69,000/month. My partner earns 61,000. We have a house worth 4.1M with 2.6M remaining (20 years). Pension funds are at 2.7M and 2.3M, with contributions of 5,000 each. We also invest 2,000 in index funds.",Calculation Agent,Calculation Agent,8.653493642807007
+"I'm 37 and my husband is 38. I earn 55,000/month and he earns 58,000. We live in an apartment worth 3.3M, with 2.5M left on the mortgage (28 years). Pensions: mine has 1.4M (4,000/month), his 1.6M (4,200/month). We invest jointly: 450,000 in total.",Calculation Agent,Calculation Agent,9.880524635314941
+"I'm 60 and single. Monthly salary: 91,000. Pension sits at 5.2 million and I contribute 6,000 monthly. I live in a townhouse worth 3.9 million, no remaining mortgage. I invest 2,000 monthly in a diversified portfolio, total value: 1.1 million.",Calculation Agent,Calculation Agent,7.566014289855957
+"I'm 33, earning 52,000/month. I rent. Pension has 840,000 with 3,200 monthly contributions. I also invest in REITs and ETFs, around 400,000 total, and add 1,500/month.",Calculation Agent,Calculation Agent,9.963802814483643
+"I'm 45. My income is 66,000/month. My wife is 42 and makes 64,000. We own a flat worth 4.2M with 2.7M left (27 years). Pensions are at 2.2M and 2.0M. We contribute 5,000 each. Stocks: 900,000 total.",Calculation Agent,Calculation Agent,8.685091018676758
+"I'm 49 and my spouse is 46. I earn 61,000 and she earns 59,000. We rent. Pension balances: 2.1M and 1.9M. Contributions: 5,500 and 4,500/month. No other investments for now.",Calculation Agent,Calculation Agent,8.498524188995361
+"I'm 31. I earn 47,000 per month and contribute 2,000/month to my pension (currently 600,000). No home yet — I live with roommates. I’ve got 150,000 in stocks and add 1,000/month.",Calculation Agent,Calculation Agent,10.85681962966919
+"I'm 40, single, earning 70,000/month. Pension has 1.8M with 5,000/month contribution. I rent. I invest in a mix of index funds and real estate trusts — total 650,000, monthly addition: 2,000.",Calculation Agent,Calculation Agent,8.104797601699829
+"I'm 33 and make 44,000 a month. No spouse. I rent a flat. Pension account has 670,000 so far and I contribute 3,200 monthly. I’m also investing in stocks: 200,000 in total, adding 1,500/month.",Calculation Agent,Calculation Agent,6.32883620262146
+"Hi! I'm 47 years old. I bring in 75,000 per month and my wife earns around 60,000. We have a family home worth 3.6 million, still paying off 2.2 million (20 years left). Pensions: mine has 2.2 million (5,000/month), hers is at 1.8 million (4,000/month).",Calculation Agent,Calculation Agent,5.119740009307861
+"I'm 59 and earn 80,000. I’m single. Pension plan sits at 3.9 million and I deposit 6,000/month. I don’t own property, but I have 900,000 in stocks and bonds, and I invest 3,000 monthly.",Calculation Agent,Calculation Agent,5.464637279510498
+"I'm 29 and earn 38,000/month. Just started saving — pension is at 200,000 and I add 2,500/month. I don’t own property or invest yet.",Calculation Agent,Calculation Agent,8.448380708694458
+"I'm 42 and my spouse is 41. I earn 55,000 and she earns 53,000. We have two properties: our main home (worth 3.5 million, mortgage 2.4 million, 24 years left) and a rental (worth 2 million, no mortgage). Pensions: 1.5M + 1.3M with 4,000 and 3,500 contributions. Stocks: 500,000 joint, no deposits anymore.",Calculation Agent,Calculation Agent,8.03821587562561
+"I'm 66 and retired. My last salary was 90,000/month. I have a pension fund of 6.8 million, no contributions anymore. Own home, no debt. I have 1.5 million in low-risk investments. No new deposits.",Calculation Agent,Calculation Agent,5.426938772201538
+"I'm 37. Monthly salary is 52,000. I have a pension with 1.1 million saved and add 3,000 every month. No house — I live with my parents. I’ve got 300,000 in a stock portfolio I contribute 2,000 to.",Calculation Agent,Calculation Agent,6.862123966217041
+"I'm 40, and my partner is 39. I make 49,000 per month and they make 51,000. We have 2.4M in pension savings combined, with 5,500 + 5,000 in contributions. We just bought a home worth 4M, loan is 3.2M over 30 years. Stocks: 1.1M total, no further contributions.",Calculation Agent,Calculation Agent,9.214370727539062
+"I'm a 32-year-old making 41,000/month. No real estate, but I have 850,000 in a pension fund and I contribute 3,000 monthly. I invest 2,500/month into crypto and ETFs. Currently at 300,000 combined.",Calculation Agent,Calculation Agent,7.068493127822876
+"Hey, I'm 54, salary is 76,000 monthly. My pension account is at 2.9 million and I contribute 4,800 per month. I own a small condo worth 2.1 million with a 1.6 million mortgage (18 years left). I also have savings in gold and stocks: 450,000, not adding to it.",Calculation Agent,Calculation Agent,7.165687561035156
+"I'm 60 years old and my wife is 58. I make 90,000/month, she makes 72,000. We both have pension funds: mine is 4.5 million, hers 3.2 million. Contributions are 7,000 and 5,500/month. We have a house (fully paid, worth 6 million) and 2 million in investments.",Calculation Agent,Calculation Agent,6.348647832870483
+"I'm 35 and my partner is 34. I earn 65,000/month, they earn 62,000. We're paying off a flat: 2.5M remaining, value is 3.8M. 26 years to go. We contribute 6,000 and 5,000 to our pensions, which are at 1.3M and 1.2M. We invest 2,500 monthly together in ETFs.",Calculation Agent,Calculation Agent,5.837018966674805
+"I'm 45. Monthly salary: 61,000. I rent. Pension balance: 1.7 million, contribution is 4,000/month. I’ve got 600,000 in stocks, currently not contributing. Also keep 150,000 in a savings account.",Calculation Agent,Calculation Agent,11.799555540084839
+"I'm 53 and my spouse is 51. I earn 78,000/month, she earns 65,000. We have a house worth 4.5 million, mortgage of 3.5 million (25 years left). Pensions: mine has 2.8 million with a contribution of 5,500/month; hers has 2.1 million with 4,500/month. We also invest 3,000/month into a joint mutual fund (currently at 400,000).",Calculation Agent,Calculation Agent,7.047049045562744
+"I'm 31 and my partner is 30. I earn 50,000/month, they earn 48,000. We have a condo worth 2.2 million, mortgage of 1.8 million (27 years left). My pension is at 900,000 with a contribution of 3,500/month, and my partner's is at 800,000 with 3,000/month. We also invest 1,500/month into a joint stock account (now 200,000).",Calculation Agent,Calculation Agent,10.134199857711792
+"I'm 39 years old and take home around 55,000 monthly. My wife is 36 and earns about 47,000. We’ve got pensions—mine is at 950,000 with a 4,000/month contribution, and hers is 870,000 with a 3,000/month input. Our house is worth about 3.8 million, with 2.5 million left on the mortgage (22 years).",Calculation Agent,Calculation Agent,9.009366035461426
+"I'm 58. Salary: 82,000/month. No spouse. Pension balance is 3,000,000. Monthly contribution: 6,000. I rent. I invest 5,000/month into index funds and have 450,000 in savings.",Calculation Agent,Calculation Agent,7.16794228553772
+"I'm a 42-year-old professional earning 70,000 per month. I’ve saved 1.4 million in a pension fund and contribute 5,500 every month. I own an apartment valued at 2.6 million, and I owe 1.2 million on it with 24 years to go.",Calculation Agent,Calculation Agent,8.77980351448059
+"Age: 46. Income: 67,000 monthly. My wife is 44, earns 63,000. We have a house worth 3.2 million, mortgage of 2.6 million (23 years left). Pensions: mine has 1.9 million with 4,200 monthly; hers has 1.7 million with 3,900/month. No kids. We also invest 3,000/month into a joint stock account (now 300,000).",Calculation Agent,Calculation Agent,7.911982536315918
+"I'm a 50-year-old nurse making 60,000 per month. I contribute 3,000 to a pension each month (total saved: 2,100,000). No home — I live in a rental. I’ve got 700,000 in a mutual fund and I add 1,000 monthly.",Calculation Agent,Calculation Agent,9.010864734649658
+"I'm 45 and my partner is 43. Combined, we earn about 110,000 a month. We have separate pensions: mine has 2.5 million (I add 6,000 monthly), and hers has 2.1 million (with a 5,000 contribution). Our house is worth 4.1 million with 3 million left on the mortgage (27 years).",Calculation Agent,Calculation Agent,7.681321859359741
+"I'm 36, I earn 48,000 a month and my husband makes 50,000. We just bought a condo worth 2,800,000 — still owe 2,300,000 over 30 years. I put 2,000/month into a pension plan, which has 620,000. My husband contributes 3,000 and has 750,000.",Calculation Agent,Calculation Agent,5.324838876724243
+"I'm 60. My monthly income is 88,000. I have 4 million saved in a pension fund and add 6,500 per month. I have a holiday home worth 2 million (fully owned). I invest 2,000/month in stocks, current portfolio at 600,000.",Calculation Agent,Calculation Agent,5.632247686386108
+"Hello, I'm 51 and earn 58,000 per month. No mortgage, I rent. I have a pension valued at 2.2 million and I put in 4,400 per month. Also, I’ve been investing in mutual funds: 800,000 currently, no new deposits.",Calculation Agent,Calculation Agent,5.937877893447876
+"I'm a 40-year-old freelancer, earning roughly 65,000 monthly. I live in a flat I bought for 2.3 million, and I owe 1.6 million (19 years remaining). I’ve saved 1.5 million in pension and add 5,000 every month. No stock investments.",Calculation Agent,Calculation Agent,5.631946802139282
+"I'm 30 and earn 60,000 per month. I rent my apartment but invest 10,000 monthly into a pension plan, which currently has 800,000. I also invest 2,000 per month in stocks, with a total of 90,000 saved.",Calculation Agent,Calculation Agent,8.687591791152954
+"I'm 62 and my spouse is 60. I earn 95,000 per month and she earns 55,000. We both have pension accounts: I contribute 7,000 and she contributes 5,000. Our savings include 1,200,000 in stocks and 3,000,000 in pension. We paid off our house last year.",Calculation Agent,Calculation Agent,7.286154270172119
+"I'm 38, earning 72,000 per month. I have a pension policy with a balance of 1,800,000 and I contribute 4,500 monthly. I also own a flat worth 2,400,000 with a 1,200,000 mortgage (18 years left). I invest 1,000 in ETFs every month.",Calculation Agent,Calculation Agent,7.066669702529907
+"I'm 48 and my husband is 49. I earn 62,000 per month and he earns 58,000. We have a mortgage on our home worth 4,500,000, with 3,600,000 remaining and 25 years left. I contribute 4,000 monthly to my pension (current value: 1,250,000), and he contributes 3,500 (value: 1,100,000).",Calculation Agent,Calculation Agent,7.492698669433594
+"I'm 52 and I earn 70,000 monthly. I have a pension with 3,500,000 saved, and contribute 8,000 each month. I own two rental properties: one worth 2,500,000 (fully paid) and another worth 3,000,000 with 2,000,000 mortgage and 20 years left. I invest 1,500 monthly in mutual funds.",Calculation Agent,Calculation Agent,6.3300511837005615
+"I'm 35 and my partner is 33. I earn 50,000 and they earn 40,000. We rent our home but have combined pensions of 1,200,000. I contribute 5,000 monthly, and my partner contributes 4,000. We also invest in crypto: 100,000 total, no monthly additions.",Calculation Agent,Calculation Agent,8.192458391189575
+"I'm 44 and my wife is 42. I earn 65,000 per month and she earns 48,000. Our pension accounts total 2,100,000, with contributions of 6,000 and 5,000 per month respectively. We own a house worth 4,000,000, still owing 2,500,000 over 23 years.",Calculation Agent,Calculation Agent,3.7949657440185547
+"I'm 56 and my spouse is 50. I earn 80,000 per month while my spouse earns 20,000. We both have pension policies: I contribute 7,200 monthly and have 2,500,000 already saved, while my spouse contributes 3,600 and has 500,000. We own a house worth 5,000,000 with a mortgage of 4,000,000 left, and 20 years remaining. We also invest 5,000 every month in stocks, and currently have 1,000,000 saved there.",Calculation Agent,Calculation Agent,5.421926259994507
+"I'm 41 and I earn 50,000 per month. I have a pension policy where I contribute 6,000 monthly, and I've already saved 1,500,000. I own a house worth 2,700,000 with a mortgage of 2,000,000 and 28 years left to pay. I also invest in stocks — currently I have 110,000 and I add 1,000 every month.",Calculation Agent,Calculation Agent,8.089996814727783
+"I'm 56 and my spouse is 55. I earn 19,000 per month and my wife earns 37,000. We both have pension policies: mine has a current value of 5,700,000 and my contribution is 0, while hers has a value of 1,638,000 with a monthly contribution of 1,480. We own a house worth 5,000,000 with a debt of 2,300,000 and 10 years left on the mortgage. We also have stocks worth 1,900,000, but we don't add anything to the account anymore.",Calculation Agent,Calculation Agent,5.489135026931763
+"I'm 43, and my wife is 35. Together, we earn 45,000 each per month. We have a house worth 3,950,000, with a mortgage of 3,100,000 and 28 years left to pay. I have a pension plan where I contribute 5,400 each month, and my wife contributes 6,750 monthly to her own pension. We also have stocks worth 150,000, with monthly deposits of 2,000.",Calculation Agent,Calculation Agent,12.020732164382935
+"I'm 46 years old and I earn 45,000 per month. I own a house worth 1,500,000 with a mortgage of 1,300,000 and 29 years left on the loan. I have a pension plan with a balance of 2,000,000, to which I contribute 6,750 monthly. I also have stocks worth 50,000, with monthly deposits of 1,000.",Calculation Agent,Calculation Agent,5.939327239990234
+"I'm 40 and my spouse is 38, I earn 42,500 per month and my wife earns 35,000. We both have pension policies: my contribution is 764,000 with an initial value of 764,000, and she contributes 350,000, already having 350,000. We also own a house worth 850,000 with a debt of 673,853 with 29 years left on the mortgage. We have another house worth 3,150,000 with a debt of 1,450,000 with 29 years left on the mortgage. We have a savings account with 120,000 where we deposit 1,000 each month.",Calculation Agent,Calculation Agent,5.1198601722717285
+"I'm 56 and my spouse is 57, I earn 19,000 per month and my husband earns 37,000. We both have pension policies: my contribution is 5,700,000 with an initial value of 5,700,000, and he contributes 1,638,000, already having 1,638,000. We also own a house worth 5,000,000 with a debt of 2,300,000 with 10 years left on the mortgage. We have a savings account with 1,900,000.",Calculation Agent,Calculation Agent,4.608062028884888
+How do I pay taxes as a foreign worker?,Finance Agent,Finance Agent,11.843682527542114
+How do I declare my income to Skat?,Finance Agent,Finance Agent,10.172573566436768
+What taxes do I need to pay in Denmark?,Finance Agent,Finance Agent,10.035731554031372
+When do I have to file my tax return?,Finance Agent,Finance Agent,4.093579292297363
+How do I get a tax card in Denmark?,Finance Agent,Finance Agent,8.260868787765503
+What is a preliminary income assessment?,Finance Agent,Finance Agent,6.6593403816223145
+Can I change my preliminary tax assessment?,Finance Agent,Finance Agent,9.007407426834106
+How do I log in to skat.dk with MitID?,Finance Agent,InputError,
+Where can I see how much tax I've paid?,Finance Agent,Finance Agent,10.0058274269104
+What is a tax assessment notice (årsopgørelse)?,Finance Agent,Finance Agent,5.675274610519409
+How do I get a NemKonto?,Finance Agent,Finance Agent,7.370542287826538
+What is a NemKonto used for?,Finance Agent,Finance Agent,5.940144777297974
+Can I use a foreign bank account as a NemKonto?,Finance Agent,Finance Agent,10.240849494934082
+How do I change my NemKonto?,Finance Agent,Finance Agent,7.678533315658569
+"What is NemID/MitID, and how do I use it?",Finance Agent,Finance Agent,10.232663869857788
+How do I log in with MitID to access public services?,Finance Agent,InputError,
+Can I access Danish tax services with MitID?,Finance Agent,Finance Agent,5.819121360778809
+Can I get financial support if I lose my job?,Finance Agent,Finance Agent,8.294250249862671
+What social benefits can I apply for as a low-income resident?,Finance Agent,Finance Agent,6.467762231826782
+How do I get financial help from the municipality?,Finance Agent,Finance Agent,5.410529136657715
+Who pays out benefits in Denmark — Udbetaling Danmark?,Finance Agent,Finance Agent,9.830236673355103
+Can I apply for housing support and child benefit at the same time?,Finance Agent,Finance Agent,10.854495763778687
+What is the difference between tax assessment and preliminary income assessment?,Finance Agent,Finance Agent,7.065560579299927
+How do I register my bank account for tax refunds?,Finance Agent,Finance Agent,8.806096076965332
+What do I do if I paid too much tax?,Finance Agent,Finance Agent,5.838852405548096
+What happens if I didn't pay enough tax?,Finance Agent,Finance Agent,6.860360383987427
+How do I correct mistakes in my tax return?,Finance Agent,Finance Agent,10.034441232681274
+Where can I see how much tax I owe?,Finance Agent,Finance Agent,5.5289106369018555
+What deductions can I claim as a student in Denmark?,Finance Agent,Finance Agent,11.989201545715332
+Can I deduct transport expenses from my taxes?,Finance Agent,Finance Agent,9.719724178314209
+Are there tax benefits for parents or families with children?,Finance Agent,Finance Agent,7.57827615737915
+How are scholarships or SU grants taxed?,Finance Agent,Finance Agent,7.986876726150513
+How do I declare freelance or self-employed income?,Finance Agent,Finance Agent,9.52379035949707
+What documents do I need to file my taxes in Denmark?,Finance Agent,Finance Agent,15.461514711380005
+How do I pay outstanding taxes to Skat?,Finance Agent,Finance Agent,7.788558721542358
+Can I set up payment installments with Skat?,Finance Agent,Finance Agent,9.92834758758545
+How do I change my address in Skat's system?,Finance Agent,Finance Agent,5.834239482879639
+What happens to my taxes if I move abroad?,Finance Agent,Finance Agent,8.809149503707886
+What if I receive income from another country while living in Denmark?,Finance Agent,Finance Agent,7.596251964569092
+Do I have to pay taxes on rental income?,Finance Agent,Finance Agent,6.225636005401611
+How are pension contributions taxed in Denmark?,Finance Agent,Finance Agent,5.531735897064209
+How do I report capital gains or investment income?,Finance Agent,Finance Agent,10.035074234008789
+Do I need to report cryptocurrency earnings to Skat?,Finance Agent,Finance Agent,10.035392045974731
+What financial support is available for new immigrants?,Finance Agent,Finance Agent,8.39670705795288
+Can I get a tax refund as an international student?,Finance Agent,Finance Agent,7.780328273773193
+How do I access my annual tax statement?,Finance Agent,Finance Agent,7.8871965408325195
+What does “restskat” mean and how do I pay it?,Finance Agent,Finance Agent,9.538962364196777
+Can I appeal a decision made by Skat?,Finance Agent,Finance Agent,2.5442917346954346
+Can I authorize someone else to handle my taxes?,Finance Agent,Finance Agent,11.877132892608643
+What is a tax number and how do I get one?,Finance Agent,Finance Agent,10.957702875137329
+Can I get help in English on skat.dk?,Finance Agent,Finance Agent,5.01767373085022
+Is it possible to download a copy of my tax return?,Finance Agent,Finance Agent,5.171159029006958
+How long should I keep my tax-related documents?,Finance Agent,Finance Agent,4.646824836730957
+What is the deadline for tax corrections or appeals?,Finance Agent,Finance Agent,4.153895139694214
+What is a mortgage?,Finance Agent,Finance Agent,9.687722444534302
+How do mortgage interest rates affect monthly payments?,Finance Agent,Finance Agent,6.343205690383911
+Are mortgage interest payments tax-deductible?,Finance Agent,Finance Agent,6.143071413040161
+What is the difference between a fixed-rate and adjustable-rate mortgage?,Finance Agent,Finance Agent,6.2454516887664795
+How does a down payment affect mortgage eligibility?,Finance Agent,Finance Agent,5.735364675521851
+What documents are required to apply for a mortgage?,Finance Agent,Finance Agent,6.552786111831665
+Can mortgage interest be deducted on a second home?,Finance Agent,Finance Agent,7.986397743225098
+What is mortgage refinancing and when does it make sense?,Finance Agent,Finance Agent,6.2475807666778564
+What is the impact of mortgage insurance on overall costs?,Finance Agent,Finance Agent,6.216063499450684
+How does the amortization schedule work for mortgages?,Finance Agent,Finance Agent,4.022815942764282
+Are there tax benefits to paying off a mortgage early?,Finance Agent,Finance Agent,7.57834529876709
+What is private mortgage insurance (PMI)?,Finance Agent,Finance Agent,6.7565717697143555
+How do property taxes factor into mortgage payments?,Finance Agent,Finance Agent,9.77859377861023
+What happens if you miss a mortgage payment?,Finance Agent,Finance Agent,4.354768514633179
+What are common fees associated with getting a mortgage?,Finance Agent,Finance Agent,8.488516092300415
+How does credit score influence mortgage approval?,Finance Agent,Finance Agent,4.592880964279175
+What is a mortgage pre-approval?,Finance Agent,Finance Agent,6.477648973464966
+What is a balloon mortgage?,Finance Agent,Finance Agent,5.834203481674194
+Can you deduct points paid on a mortgage loan?,Finance Agent,Finance Agent,6.8407135009765625
+How do you qualify for a mortgage with bad credit?,Finance Agent,Finance Agent,6.678361892700195
+What is an escrow account in relation to mortgages?,Finance Agent,Finance Agent,6.448563098907471
+Are mortgage interest deductions subject to limits?,Finance Agent,Finance Agent,6.758419990539551
+What is the role of a mortgage broker?,Finance Agent,Finance Agent,7.4762067794799805
+Can mortgage interest be deducted on rental properties?,Finance Agent,Finance Agent,5.019031524658203
+What is the effect of inflation on mortgage rates?,Finance Agent,Finance Agent,5.833775997161865
+How do government programs help first-time homebuyers with mortgages?,Finance Agent,Finance Agent,5.241868495941162
+What are the tax implications of mortgage debt cancellation?,Finance Agent,Finance Agent,4.294683218002319
+How is mortgage interest reported on tax returns?,Finance Agent,Finance Agent,7.7691192626953125
+What is a reverse mortgage?,Finance Agent,Finance Agent,8.004186391830444
+What happens to the mortgage after the death of the borrower?,Finance Agent,Finance Agent,5.3168041706085205
+How does Udbetaling Danmark process my personal data when I receive public benefits?,Finance Agent,Finance Agent,9.586927890777588
+What is NemKonto and how do I set it up for public payments?,Finance Agent,Finance Agent,12.012232542037964
+How can I apply for an income-based daycare subsidy or sibling subsidy?,Finance Agent,Finance Agent,7.8853700160980225
+What are the rules for day care facilities in Denmark?,Finance Agent,Finance Agent,5.922709703445435
+What steps do I need to take to get married in Denmark as a foreigner?,Finance Agent,InputError,
+What is child support and how is it arranged after a divorce or separation?,Finance Agent,Finance Agent,7.7842957973480225
+How do I apply for a confirmation clothing allowance for my child?,Finance Agent,InputError,
+What is an education contribution and who is eligible to receive it?,Finance Agent,Finance Agent,6.03936767578125
+What is the process for separation and divorce in Denmark?,Finance Agent,InputError,
+How do I apply for child allowance in Denmark?,Finance Agent,Finance Agent,11.263942003250122
+Who do I contact regarding child and youth benefits?,Finance Agent,Finance Agent,5.427678346633911
+What types of child and youth benefits are available in Denmark?,Finance Agent,Finance Agent,10.749197006225586
+How do I contact Udbetaling Danmark about maternity or paternity benefits?,Finance Agent,Finance Agent,2.6670889854431152
+What are the requirements for maternity and paternity benefits in Denmark?,Finance Agent,Finance Agent,7.576025724411011
+"What support is available in connection with birth, maternity, and naming ceremonies?",Finance Agent,Finance Agent,7.165642261505127
+What preventive healthcare services are available for children and adolescents?,Finance Agent,Finance Agent,7.390127420425415
+How do I apply for funeral benefits in Denmark?,Finance Agent,Finance Agent,8.174551725387573
+What are survivor benefits and who can receive them?,Finance Agent,Finance Agent,13.145936965942383
+What should I do when someone dies in Denmark?,Finance Agent,Finance Agent,8.562907457351685
+How do I apply for the Blue European Health Insurance Card?,Finance Agent,InputError,
+How is my personal data processed when applying for international health insurance?,Finance Agent,Finance Agent,3.475619316101074
+Who is eligible for the Blue European Health Insurance Card in Denmark?,Finance Agent,InputError,
+What health insurance options are available for cross-border workers?,Finance Agent,Finance Agent,5.734875202178955
+How does healthcare work if I live in Denmark but work abroad?,Finance Agent,Finance Agent,9.111748218536377
+What do I need to know about healthcare when posted to Denmark for work?,Finance Agent,Finance Agent,9.627164602279663
+What are my healthcare rights when working in Denmark?,Finance Agent,Finance Agent,7.577160358428955
+How do I use the health insurance card app?,Finance Agent,InputError,
+How do I get a health insurance card in Denmark?,Finance Agent,InputError,
+What should I do about health insurance if I move to Denmark?,Finance Agent,Finance Agent,7.937670707702637
+Where can I find information about health insurance in my country?,Finance Agent,Finance Agent,6.737861394882202
+Can I purchase public healthcare services in Denmark?,Finance Agent,Finance Agent,7.454151630401611
+What is a special health insurance card and who can get one?,Finance Agent,Finance Agent,6.832613945007324
+How does the Danish healthcare system work?,Finance Agent,InputError,
+Can I receive treatment in private hospitals and clinics in Denmark?,Finance Agent,InputError,
+How do I apply for compensation for malpractice or pharmaceutical injuries?,Finance Agent,InputError,
+What home care services are available in Denmark?,Finance Agent,InputError,
+What practical matters should I attend to before leaving Denmark?,Finance Agent,InputError,
+What do I need to do when arriving in Denmark regarding housing?,Finance Agent,InputError,
+How do I rent a home in Denmark?,Finance Agent,Finance Agent,11.987502813339233
+What are resident deposit loans and how do I apply?,Finance Agent,Finance Agent,6.795523166656494
+What are the household costs I should expect in Denmark?,Finance Agent,Finance Agent,7.7356603145599365
+How do I apply for housing benefits?,Finance Agent,Finance Agent,7.887192249298096
+What are the different types of housing benefits in Denmark?,Finance Agent,Finance Agent,6.897301912307739
+How do I pay for water and sewage in Denmark?,Finance Agent,Finance Agent,6.8230719566345215
+"How do I manage electricity, gas, and heating consumption?",Finance Agent,Finance Agent,12.293908834457397
+What is an energy performance certification of buildings?,Finance Agent,Finance Agent,5.727736234664917
+What are property assessments and property taxes in Denmark?,Finance Agent,Finance Agent,8.92546558380127
+What is the process for purchasing real property in Denmark?,Finance Agent,Finance Agent,10.121644496917725
+How do I contact Udbetaling Danmark about housing benefits?,Finance Agent,InputError,
+What financial support can I get from the municipality?,Finance Agent,Finance Agent,11.477631092071533
+What is social assistance and how do I apply?,Finance Agent,Finance Agent,6.141634464263916
+What is the general introduction to the Danish tax system?,Finance Agent,Finance Agent,13.433377742767334
+What deductions and allowances are available in Denmark?,Finance Agent,Finance Agent,7.9299798011779785
+What are the rules on double taxation?,Finance Agent,Finance Agent,7.208042860031128
+What are the special rules for cross-border workers?,Finance Agent,Finance Agent,6.145007610321045
+How is the purchase and sale of real property taxed?,Finance Agent,Finance Agent,9.529859781265259
+What taxes are spent on in Denmark?,Finance Agent,Finance Agent,5.3174967765808105
+How are Danish and non-Danish pensions taxed?,Finance Agent,Finance Agent,10.663656949996948
+What is the tax situation for inheritance from a family member residing abroad?,Finance Agent,Finance Agent,8.23804259300232
+What is ATP Livslang Pension and how do I contribute?,Finance Agent,Finance Agent,11.021834135055542
+What are the contribution rates for ATP in the private and public sectors?,Finance Agent,Finance Agent,11.341370344161987
+How do I contact ATP for pension questions?,Finance Agent,Finance Agent,2.502988815307617
+What legislation covers ATP Livslang Pension?,Finance Agent,Finance Agent,9.376976728439331
+What is the process for early retirement pension?,Finance Agent,Finance Agent,10.826836824417114
+What is the flexi-job scheme and who is eligible?,Finance Agent,Finance Agent,6.5816755294799805
+What health insurance cover is available when living abroad as a pensioner?,Finance Agent,Finance Agent,6.755837440490723
+How do I apply for disability pension in Denmark?,Finance Agent,Finance Agent,6.154147148132324
+What is senior pension and how do I apply?,Finance Agent,Finance Agent,9.412862777709961
+How do I share my ATP information with others?,Finance Agent,InputError,
+How do I contact Udbetaling Danmark about international pension?,Finance Agent,Finance Agent,7.162791013717651
+How do I receive Danish state pension when living abroad?,Finance Agent,Finance Agent,7.3337438106536865
+How do I receive a foreign state pension when living in Denmark?,Finance Agent,Finance Agent,11.305725574493408
+What is partial pension and how do I apply?,Finance Agent,Finance Agent,8.190323829650879
+What is the pension scheme for civil servants?,Finance Agent,Finance Agent,6.6569483280181885
+How do I contact the pension office for state pension questions?,Finance Agent,Finance Agent,6.65360689163208
+How do I manage student debt in Denmark?,Finance Agent,Finance Agent,10.549392461776733
+What should I do if I have received more SU than I am entitled to?,Finance Agent,Finance Agent,10.035220623016357
+What subsidies are available for internships or traineeships abroad?,Finance Agent,Finance Agent,6.041032314300537
+What is SU (State Educational Grant) and how do I apply?,Finance Agent,Finance Agent,6.246966123580933
+What is VEU allowance for adult and further education?,Finance Agent,Finance Agent,7.269905090332031
+What is compulsory liability insurance for motor vehicles?,Finance Agent,Finance Agent,11.367406129837036
+What do I need to know about purchasing and selling a motor vehicle in Denmark?,Finance Agent,Finance Agent,18.43190360069275
+What is the process for importing a motor vehicle temporarily or permanently?,Finance Agent,Finance Agent,8.907972574234009
+How do I claim deductions for pension contributions?,Finance Agent,Finance Agent,10.820078134536743
+How do I claim deduction for interest expenses?,Finance Agent,Finance Agent,7.509417533874512
+How do I claim deduction for trade union fees?,Finance Agent,Finance Agent,6.975428342819214
+How do I claim deduction for transport between home and work?,Finance Agent,Finance Agent,11.252179622650146
+What are the rules for deductions and allowances when working?,Finance Agent,Finance Agent,6.944995164871216
+How do I claim deduction for travel expenses?,Finance Agent,Finance Agent,9.848432302474976
+What is the deduction for home improvement and household services?,Finance Agent,Finance Agent,13.815309762954712
+What are the rules for employee benefits such as company car or free phone?,Finance Agent,Finance Agent,11.579044103622437
+How do I allow third-party access to my e-tax account?,Finance Agent,Finance Agent,12.979828357696533
+How do I order an e-tax password or MitID?,Finance Agent,Finance Agent,14.157887697219849
+How do I access my tax assessment notice as a PDF?,Finance Agent,Finance Agent,9.203870296478271
+What is B-income and how is it taxed?,Finance Agent,Finance Agent,6.8386828899383545
+What are the tax rules for cross-border tax matters?,Finance Agent,Finance Agent,13.754074096679688
+How do I declare non-Danish income if I live in Denmark?,Finance Agent,Finance Agent,8.297503471374512
+How do I understand my payslip in Denmark?,Finance Agent,Finance Agent,8.156623601913452
+How do I calculate my pay for the preliminary income assessment?,Finance Agent,Finance Agent,12.219223737716675
+How do I check and change my preliminary income assessment?,Finance Agent,Finance Agent,10.135313987731934
+What should I do if my income changes during the year?,Finance Agent,Finance Agent,11.36887240409851
+What are the tax rules for sharing economy activities?,Finance Agent,Finance Agent,10.822000503540039
+"How do I declare income from renting out my car, boat, or caravan?",Finance Agent,Finance Agent,10.307788848876953
+How do I declare income from providing services for others?,Finance Agent,Finance Agent,9.998597860336304
+What are the tax rules for state education grants?,Finance Agent,Finance Agent,7.373132228851318
+How do I declare outstanding tax and pay it from outside Denmark?,Finance Agent,Finance Agent,6.4500412940979
+What are the relevant dates for the tax assessment notice?,Finance Agent,Finance Agent,8.602439403533936
+How do I see and change my previous tax assessment notices?,Finance Agent,Finance Agent,8.090662956237793
+How do I get a Danish tax card?,Finance Agent,Finance Agent,5.73299503326416
+What are the different types of Danish tax cards?,Finance Agent,Finance Agent,5.119221448898315
+How do I pay property tax in Denmark?,Finance Agent,Finance Agent,8.295411348342896
+What are the rules for buying a home or holiday home in Denmark?,Finance Agent,Finance Agent,10.035276174545288
+How do I declare rental income from renting out a home or holiday home?,Finance Agent,Finance Agent,10.140387773513794
+What are the rules for selling a home in Denmark?,Finance Agent,Finance Agent,7.647539138793945
+How do I declare gains and losses from buying and selling shares and securities?,Finance Agent,Finance Agent,11.212539911270142
+What are the tax rules for cryptocurrency in Denmark?,Finance Agent,Finance Agent,10.526437997817993
+How do I declare gifts for tax purposes?,Finance Agent,Finance Agent,11.674518823623657
+What is my tax liability when coming to study in Denmark?,Finance Agent,Finance Agent,7.98555064201355
+What do I need to do when setting up life in Denmark?,Finance Agent,InputError,
+What types of tax exist in Denmark?,Finance Agent,Finance Agent,10.90822148323059
+How do I apply for exemption from Danish withholding tax when leaving Denmark?,Finance Agent,Finance Agent,6.646862506866455
+What is the guide to working in Denmark as a foreigner?,Finance Agent,Finance Agent,6.349056243896484
+"I have received my recommendation, Why do my savings go negative starting in 2032?",Dreamplan Agent,Dreamplan Agent,5.321817874908447
+"I have received my recommendation, In my projection, my cash balance drops sharply after I retire — is that normal?",Dreamplan Agent,Dreamplan Agent,2.7658791542053223
+"I have received my recommendation, Why do I have a surplus early on but a deficit later?",Dreamplan Agent,Dreamplan Agent,3.6862733364105225
+"I have received my recommendation, Why does the graph show my emergency fund disappearing by 2045?",Dreamplan Agent,Dreamplan Agent,2.6322021484375
+"I have received my recommendation, Why does my disposable income fall in 2038 in the forecast?",Dreamplan Agent,Dreamplan Agent,2.4876718521118164
+"I have received my recommendation, Why does my net income drop so suddenly after 2050?",Dreamplan Agent,Dreamplan Agent,2.7650368213653564
+"I have received my recommendation, The expenses in my plan spike in 2040 — what’s causing that?",Dreamplan Agent,Dreamplan Agent,3.073533773422241
+"I have received my recommendation, Why does my income stop growing in the projection?",Dreamplan Agent,Dreamplan Agent,2.1484129428863525
+"I have received my recommendation, Why is the model recommending I shift 40% into bonds?",Dreamplan Agent,Dreamplan Agent,4.476208686828613
+"I have received my recommendation, Why does my asset allocation change in 2035?",Dreamplan Agent,Dreamplan Agent,4.023353338241577
+"I have received my recommendation, Why did the recommendation reduce my stock allocation?",Dreamplan Agent,Dreamplan Agent,2.8650145530700684
+"I have received my recommendation, Why am I seeing more conservative investments in later years?",Dreamplan Agent,Dreamplan Agent,3.8909990787506104
+"I have received my recommendation, Why is my coverage ratio only 65% in retirement?",Dreamplan Agent,Dreamplan Agent,5.12551736831665
+"I have received my recommendation, Why does the plan say my probability of meeting my goal is just 70%?",Dreamplan Agent,Dreamplan Agent,3.57800030708313
+"I have received my recommendation, Why does my risk score change halfway through the forecast?",Dreamplan Agent,Dreamplan Agent,2.4596595764160156
+"I have received my recommendation, Why am I not hitting the target wealth despite following the plan?",Dreamplan Agent,Dreamplan Agent,2.9743661880493164
+"I have received my recommendation, Why does my forecast show I can't retire until 68?",Dreamplan Agent,Dreamplan Agent,3.9891490936279297
+"I have received my recommendation, Why is my retirement income lower than expected?",Dreamplan Agent,Dreamplan Agent,4.607003927230835
+"I have received my recommendation, Why is my plan recommending I delay retirement?",Dreamplan Agent,Dreamplan Agent,3.890002727508545
+"I have received my recommendation, Why does my portfolio value drop after I retire?",Dreamplan Agent,Dreamplan Agent,3.1742563247680664
+"I have received my recommendation, Can you explain how my retirement income coverage ratio is calculated?",Dreamplan Agent,Dreamplan Agent,4.815123558044434
+"I have received my recommendation, What does the emergency savings recommendation mean for my finances?",Dreamplan Agent,Dreamplan Agent,3.1716883182525635
+"I have received my recommendation, How will increasing my pension contributions affect my monthly disposable income?",Dreamplan Agent,Dreamplan Agent,2.357269048690796
+"I have received my recommendation, What happens to my home equity if I follow the suggested mortgage plan?",Dreamplan Agent,Dreamplan Agent,3.3778021335601807
+"I have received my recommendation, Why does Dreamplan recommend keeping three years of cash on hand?",Dreamplan Agent,Finance Agent,6.965133905410767
+"I have received my recommendation, How does the recommended additional pension payment improve my coverage ratio?",Dreamplan Agent,Dreamplan Agent,3.5834176540374756
+"I have received my recommendation, What does the term ‘coverage ratio’ mean in my retirement plan?",Dreamplan Agent,Finance Agent,5.734272718429565
+"I have received my recommendation, How should I prioritize paying off debts with different APRs according to Dreamplan?",Dreamplan Agent,Finance Agent,4.3490941524505615
+"I have received my recommendation, Can you clarify the difference between baseline and recommended retirement savings?",Dreamplan Agent,Dreamplan Agent,3.1233468055725098
+"I have received my recommendation, What are the benefits of investing in medium-risk, long-term options suggested by Dreamplan?",Dreamplan Agent,Finance Agent,5.430423259735107
+"I have received my recommendation, What does it mean to have a pension payout of 75% of my current salary?",Dreamplan Agent,Finance Agent,6.429881572723389
+"I have received my recommendation, How is the home equity value at retirement calculated?",Dreamplan Agent,Finance Agent,8.701894998550415
+"I have received my recommendation, What financial impact should I expect if I change my mortgage as recommended?",Dreamplan Agent,Dreamplan Agent,7.580965280532837
+"I have received my recommendation, How does emergency savings protect me financially?",Dreamplan Agent,Finance Agent,7.062435865402222
+"I have received my recommendation, What does ‘free value’ in housing recommendation mean?",Dreamplan Agent,Finance Agent,5.119320392608643
+"I have received my recommendation, Can you explain the rationale behind paying off debts with APR over 8% immediately?",Dreamplan Agent,Finance Agent,3.3791985511779785
+"I have received my recommendation, What is meant by ‘negative impact’ in Dreamplan’s financial recommendations?",Dreamplan Agent,Finance Agent,3.1477608680725098
+"I have received my recommendation, How should I balance home savings with pension contributions according to Dreamplan?",Dreamplan Agent,Finance Agent,4.532452344894409
+"I have received my recommendation, What does the ‘Profit Ultimo’ recommendation suggest for my investments?",Dreamplan Agent,Dreamplan Agent,3.791468858718872
+"I have received my recommendation, Why does Dreamplan recommend saving a rainy-day fund?",Dreamplan Agent,Finance Agent,4.504047393798828
+"I have received my recommendation, How do I know if my current retirement contributions are enough?",Dreamplan Agent,Finance Agent,2.2514071464538574
+"I have received my recommendation, What happens if I don’t create the recommended emergency savings?",Dreamplan Agent,Finance Agent,3.689723491668701
+"I have received my recommendation, Can you explain how my disposable income at retirement is estimated?",Dreamplan Agent,Dreamplan Agent,3.480013608932495
+"I have received my recommendation, What are the advantages of saving less in my home and investing elsewhere?",Dreamplan Agent,Finance Agent,4.81380558013916
+"I have received my recommendation, How does Dreamplan determine the optimal mortgage balance at retirement?",Dreamplan Agent,Finance Agent,6.143709421157837
+"I have received my recommendation, What factors affect the coverage ratio for my pension?",Dreamplan Agent,Finance Agent,7.57657265663147
+"I have received my recommendation, How often should I review and adjust my retirement contributions?",Dreamplan Agent,Finance Agent,7.988030433654785
+"I have received my recommendation, What types of investments does Dreamplan recommend for long-term growth?",Dreamplan Agent,Finance Agent,5.2219154834747314
+"I have received my recommendation, How can I improve my pension coverage ratio before retirement?",Dreamplan Agent,Finance Agent,9.728708267211914
+"I have received my recommendation, What does it mean to have a total pension payment of 75% of my salary?",Dreamplan Agent,Finance Agent,11.568809509277344
+"I have received my recommendation, How do transport and insurance costs typically change after retirement?",Dreamplan Agent,Finance Agent,7.885662078857422
+"I have received my recommendation, Can Dreamplan help me plan for unexpected financial emergencies?",Dreamplan Agent,Finance Agent,6.756484508514404
+"I have received my recommendation, How do my current debts affect my retirement plan?",Dreamplan Agent,Dreamplan Agent,4.29085898399353
+"I have received my recommendation, What is the impact of different APR levels on my debt repayment strategy?",Dreamplan Agent,Finance Agent,10.35176682472229
+"I have received my recommendation, How does Dreamplan’s recommendation compare with having no plan at all?",Dreamplan Agent,Dreamplan Agent,3.7902238368988037
+"I have received my recommendation, Why is it important to maintain a buffer account when repaying debt?",Dreamplan Agent,Finance Agent,13.209418058395386
+"I have received my recommendation, How is the recommended additional retirement contribution calculated?",Dreamplan Agent,Finance Agent,8.909020900726318
+"I have received my recommendation, What is the significance of ‘free value’ in housing recommendations?",Dreamplan Agent,Finance Agent,4.404219627380371
+"I have received my recommendation, How can I balance risk and returns when following Dreamplan’s investment advice?",Dreamplan Agent,Finance Agent,5.323206901550293
+"I have received my recommendation, What are the tax benefits associated with pension savings recommended by Dreamplan?",Dreamplan Agent,Finance Agent,15.972343683242798
+"I have received my recommendation, How does Dreamplan calculate the emergency savings amount?",Dreamplan Agent,Finance Agent,4.404904127120972
+"I have received my recommendation, What happens if my home equity is lower than recommended at retirement?",Dreamplan Agent,Finance Agent,9.224008798599243
+"I have received my recommendation, Can I adjust the risk level in Dreamplan’s investment recommendations?",Dreamplan Agent,Finance Agent,22.976630687713623
+"I have received my recommendation, How does the coverage ratio relate to my quality of life after retirement?",Dreamplan Agent,Finance Agent,7.897475004196167
+"I have received my recommendation, What should I do if my disposable income at retirement is projected to be less than my current needs?",Dreamplan Agent,Finance Agent,10.52789306640625
+"I have received my recommendation, How do Dreamplan’s recommendations account for inflation?",Dreamplan Agent,Finance Agent,4.5704345703125
+"I have received my recommendation, Can Dreamplan help me plan for healthcare costs in retirement?",Dreamplan Agent,Finance Agent,5.11808705329895
+"I have received my recommendation, What is the difference between baseline and recommended retirement contributions?",Dreamplan Agent,Finance Agent,2.983285903930664
+"I have received my recommendation, How do I know if I’m paying off the right debts first?",Dreamplan Agent,Finance Agent,4.080193519592285
+"I have received my recommendation, How frequently does Dreamplan update its financial advice based on market conditions?",Dreamplan Agent,Finance Agent,7.170576333999634
+"I have received my recommendation, Can I use Dreamplan’s advice if I’m planning early retirement?",Dreamplan Agent,Finance Agent,19.967927932739258
+"I have received my recommendation, What role do spouse pensions play in overall retirement planning?",Dreamplan Agent,Finance Agent,10.545536994934082
+"I have received my recommendation, How does Dreamplan factor in tax implications on retirement payouts?",Dreamplan Agent,Finance Agent,9.713085651397705
+"I have received my recommendation, Why does Dreamplan suggest keeping some funds in cash for the next 3 years?",Dreamplan Agent,Dreamplan Agent,4.418220520019531
+"I have received my recommendation, What are the potential downsides of following Dreamplan’s recommendations?",Dreamplan Agent,Finance Agent,2.559612989425659
+"I have received my recommendation, How can I monitor the progress of my retirement savings with Dreamplan?",Dreamplan Agent,Finance Agent,8.910709381103516
+"I have received my recommendation, What happens if my salary changes significantly before retirement?",Dreamplan Agent,Finance Agent,2.7637441158294678
+"I have received my recommendation, Does Dreamplan consider social security or government pensions in its forecasts?",Dreamplan Agent,Finance Agent,5.530113697052002
+"I have received my recommendation, How does Dreamplan recommend balancing pension savings with housing investments?",Dreamplan Agent,Finance Agent,5.835500478744507
+"I have received my recommendation, What should I prioritize first: paying debt, saving emergency funds, or increasing retirement contributions?",Dreamplan Agent,Finance Agent,5.223587274551392

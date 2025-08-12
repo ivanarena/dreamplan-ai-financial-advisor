@@ -17,6 +17,7 @@ async def chat(messages: List):
             triage_agent,
             input=format_messages(messages) if messages else "",
         )
+        print("LAST AGENT: ", triage.last_agent.name)
         return triage.final_output
     except InputGuardrailTripwireTriggered:
         print("Input guardrail was triggered, please rephrase your question.")

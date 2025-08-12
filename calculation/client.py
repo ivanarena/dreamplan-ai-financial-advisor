@@ -24,6 +24,7 @@ class CalculationApiClient:
             if response.status_code == 200:
                 response_json = response.json()
                 del response_json["statements"]
+                print("Calculation Response: ", response_json)
                 return response_json
             else:
                 print(f"Error: {response.status_code}")
