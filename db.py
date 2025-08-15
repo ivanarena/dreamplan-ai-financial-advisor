@@ -57,12 +57,22 @@ feedbacks = Table(
 async def connect_db():
     global pool
     if pool is None:
-        pool = await asyncpg.create_pool(
-            DATABASE_URL,
-            ssl="require",
-            statement_cache_size=0,
-        )
-        print("✅ Database pool created (statement cache disabled)")
+        retries = 5
+        delay = 2
+        for attempt in range(1, retries + 1):
+            try:
+                pool = await asyncpg.create_pool(
+                    DATABASE_URL,
+                    ssl="require",
+                    statement_cache_size=0,
+                )
+                print("✅ Database pool created (statement cache disabled)")
+                return
+            except Exception as e:
+                print(f"❌ DB connection failed: {e} (attempt {attempt}/{retries})")
+                if attempt == retries:
+                    raise
+                await asyncio.sleep(delay)
 
 
 async def disconnect_db():

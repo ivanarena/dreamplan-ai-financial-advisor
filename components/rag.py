@@ -275,6 +275,6 @@ class DenseRerankerRAG(RAG):
 
 
 baseline_rag = BaselineRAG()
-reranker_rag = RerankerRAG()
-dense_rag = DenseRAG()
-dense_reranker_rag = DenseRerankerRAG()
+# reranker_rag = RerankerRAG()
+# dense_rag = DenseRAG()
+# dense_reranker_rag = DenseRerankerRAG()

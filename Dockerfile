@@ -14,4 +14,4 @@ RUN uv sync
 
 COPY . .
 
-CMD ["uv", "run", "uvicorn", "main:app", "--port", "8000", "--host", "0.0.0.0"]
+CMD ["uv", "run", "gunicorn", "main:app", "-k", "uvicorn.workers.UvicornWorker", "-w", "8", "--bind", "0.0.0.0:8000"]
