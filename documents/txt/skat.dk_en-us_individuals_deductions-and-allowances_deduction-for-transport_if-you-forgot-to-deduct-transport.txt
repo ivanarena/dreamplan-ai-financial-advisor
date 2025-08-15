@@ -1,0 +1,79 @@
+URL: https://skat.dk/en-us/individuals/deductions-and-allowances/deduction-for-transport/if-you-forgot-to-deduct-transport
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Deutsch
+If you forgot to deduct transport in 2023, 2022 or 2021
+You can change your tax assessment notices for 2023, 2022 or 2021 by logging on to E-tax (TastSelv). Your tax assessment notice for 2019 or earlier years may only be changed under certain special conditions.
+Change your tax assessment notice
+Deduction rates for 2023
+Transport per day
+Deduction per km per day
+0-24 km
+DKK 0 (no deduction)
+25-120 km
+DKK 2.19
+More than 120 km
+DKK 1.10 (DKK 2.19 in peripheral municipalities)
+Deduction rates for 2022
+Transport per day
+Deduction per km per day
+0-24 km
+DKK 0 (no deduction)
+25-120 km
+DKK 2.16
+More than 120 km
+DKK 1.08 (DKK 2.16 in peripheral municipalities)
+Deduction rates for 2021
+Transport per day
+Deduction per km per day
+0-24 km
+DKK 0 (no deduction)
+25-120 km
+DKK 1.90
+More than 120 km
+DKK 0.95 (DKK 1.90 in peripheral municipalities)
+Peripheral municipalities in Jutland
+Brønderslev, Frederikshavn, Hjørring, Jammerbugt, Læsø, Morsø, Norddjurs, Skive, Struer, Sønderborg, Thisted, Tønder, Vesthimmerland, Aabenraa
+Peripheral municipalities in East Denmark and on Funen
+Bornholm, Faaborg-Midtfyn, Guldborgsund, Langeland, Lolland, Odsherred, Samsø, Slagelse, Svendborg, Vordingborg, Ærø.
+You can only have your tax assessment notice for 2020 or previous years changed under special circumstances. You need to make a request to have the change made and you need to explain the reason and document the relevant changes.
+Request change in previous tax assessment notice
+(in Danish and requires MitID)
+What do we mean by special circumstances?
+Generally, it must be external matters affecting your situation which neither you nor your consultant can be held accountable for. If you or your consultant have forgotten to enter a deduction/an allowance, have misunderstood the rules or have made an incorrect entry in your records, you cannot have your tax assessment notice changed. However, the fact that you cannot both deduct the wage costs for household service and renovation work (håndværkerfradrag) and have an income from solar cell panels or wind turbines for private homes is a valid reason for having your tax assessment notice changed.
+If you have not filed your tax return and the Danish Tax Agency (Skattestyrelsen) has assessed your income based on an estimate, it is not a valid reason for having your tax assessment notice changed. Consequently, you cannot expect to have your tax assessment changed just because you have somebody else prepare your accounts and tax return.
+One of the below conditions must be met for you to have your tax assessment notice changed:
+The basis, on which the tax assessment was generated, has been changed as, for example, you have been ordered to repay your state education grant (SU) or unemployment, sickness and parental leave benefits (dagpenge), or because we have approved that a compensation you already have received must be distributed differently.
+You or your spouse’s tax assessment has been changed for a previous year and it has an impact on the current income year.
+A foreign tax authority has made a decision that has an impact on how you are taxed.
+Past practice has been set aside by a court or the Tax Assessment Council (Skatterådet).
+The Tax Assessment Council has reversed a decision made by a tax appeals board.
+A change in the transfer sum of an asset related to another person whom you have bought something from or sold something to.
+There are other special circumstances, for example long-term illness or mistakes made by the authorities.
+You need to submit your request to the Danish Tax Agency no later than six months after you have become aware of the matter that makes you want to change your tax assessment notice.
+A new tax assessment notice may mean that you are entitled to a tax refund or have to pay outstanding tax
+When you change your tax assessment notice, it may mean that you will have to pay more outstanding tax or are entitled to a larger refund than what has already been calculated or paid out. You can see this in your new tax assessment notice.
+Usually, we transfer the money to your NemKonto within five working days unless you owe money to the public authorities.
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions to this subject?
+Call us
+before
+Kl.
+17:00
+72222795

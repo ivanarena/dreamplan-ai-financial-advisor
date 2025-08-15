@@ -1,0 +1,77 @@
+URL: https://skat.dk/en-us/individuals/deductions-and-allowances/deduction-for-transport/more-information-about-deduction-for-transport
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Deutsch
+More information about deduction for transport
+Are you looking for more information about the deduction for travel between home and work that what you found at
+Deduction for transport between home and work
+?
+Here, we have gathered further information that is relevant when you travel to and from work. It could be that you travel very long distances or that you go by ferry or plane or by car with others.
+It makes no difference how you distribute the driving expenses. You can get a deduction even if you don’t pay towards the transport.
+If you commute across the Øresund Bridge or the Great Belt Bridge, however, only one person in the car is entitled to the additional bridge crossing deduction.
+You are entitled to a deduction for transport between home and work if you live in Germany or Sweden, for example.
+See the video: How to claim your transport deduction in your tax assessment notice if you live outside Denmark
+You are entitled to an additional transport deduction if you live in a peripheral municipality or on certain small islands and travel more than 24 km (120 km in 2023) a day between work and home. When you state your home address and your work address and claim your transport deduction in E-tax, you will automatically get the additional deduction for transport between home and work.
+You can get an island deduction (ø-fradrag) if you live on an island that is not connected to the mainland by a bridge in a peripheral municipality or on one of the mentioned small islands. You can get a deduction of DKK 246 per night in 2024 (DKK 238 in 2023) on the days it's impossible for you to get back home for the night due to the distance between your workplace and you home.
+You claim your island deduction (ø-fradrag) in box 53 (Travelling expenses) in your tax assessment notice (field 429 in you preliminary income assessment).
+Peripheral municipalities in Jutland
+Brønderslev, Frederikshavn, Hjørring, Jammerbugt, Læsø, Morsø, Norddjurs, Skive, Struer, Sønderborg, Thisted, Tønder, Vesthimmerland, Aabenraa
+Peripheral municipalities in East Denmark and on Funen
+Bornholm, Faaborg-Midtfyn, Guldborgsund, Langeland, Lolland, Odsherred, Samsø, Slagelse, Svendborg, Vordingborg, Ærø.
+Small islands
+Aarø, Baagø, Egholm, Endelave, Hjarnø, Mandø, Nekselø, Orø, Sejerø, Tunø.
+You can get a deduction for expenses for ferry and flight tickets if these means of transport are part of the normal transport route between home and work. You can also get a deduction for ferry expenses incurred for your means of transport (car, motorcycle, bike) to be used for the further transport.
+In addition, you may deduct expenses in relation to the number of kilometres driven to the ferry berth/airport and from the ferry berth/airport. You cannot deduct your expenses for the first 24 km which corresponds to DKK 53.52 per day in 2025 (DKK 53.52 in 2024). So if you travel less than 24 km, you should deduct an amount from the ferry or flight expenses (please see the example below).
+You can use our deduction calculator in E-tax (Tast-Selv) to calculate the deduction for transport for most ferry connections. However, the calculator is not able to calculate deductions for flight connections.
+Example: Transport by means of ferry and car, more than 24 km
+Claire lives on an island and works on the mainland 17 km from the harbour. The daily driving is thus 34 km. Claire brings her own car on the ferry. The ticket price is DKK 120 in 2024.
+The daily deduction is (transport of 34 km):
+The daily deduction is (transport of 34 km):
+34 km - 24 km = 10 km x DKK 2.23 per km
+DKK 22.30
+Ferry expenses
+DKK 120
+Daily deduction: DKK 21.60 + DKK 120
+= DKK 142.30
+Example: Transport by means of ferry and car, less than 24 km
+Jean lives on an island and works on the mainland. She brings her car on the ferry and drives 16 kilometres each day. The 16 kilometres don't entitle her to a deduction as the lower limit is 24 kilometres and the difference should be deducted from the ferry expenses.
+Deduction per day (transport of 16 km):
+16 km - 24 km = -8km x DKK 2.23 per km
+- DKK 17.84
+Ferry expenses
+DKK 120
+Deduction per day: DKK 120 - DKK 17.84
+= DKK 102.16
+If you travel very long distances, the documentation requirements are strict.
+If you go by ferry or plane between home and work, you are entitled to deduct the actual expense for the ferry or plane. You document your expenses by means of plane or ferry tickets, receipts for petrol, etc.
+If you travel between the EU and the rest of the world, passport stamps may also be used as documentation for how you travelled.
+If you claim a deduction for travel between home and work that relates to non-Danish income, it must be deducted from your related non-Danish income. As a result, you have to report it along with your salary in E-tax (our self-service system, TastSelv) under
+Udenlandsk indkomst
+(Non-Danish income).
+Read more about
+Deductions for non-Danish income (currently only in Danish
+)
+.
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions about this subject?
+Call us
+before
+Kl.
+17:00
+72222780

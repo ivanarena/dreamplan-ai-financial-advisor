@@ -1,0 +1,206 @@
+URL: https://skat.dk/en-us/individuals/payments-to-the-danish-tax-agency
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Deutsch
+Payments to the Danish Tax Agency
+Below you can see examples of various types of payment requests, where to make your payment and how to contact us.
+Meeting a payment deadline
+You can pay by dankort and MobilePay until 23.59 on the day of payment deadline. Or via online banking within the opening hours of your bank. This way your payment will be registered on the same day.
+About payment of B-tax
+The information stated in your preliminary income assessment is used to calculate your tax for 2025.
+Your employer or pension provider, etc. withholds A-tax (tax withheld from income at source) from your income. However, B-tax (tax not withheld from income at source) may also be payable in certain cases. In such cases, instalments will be generated and it is your responsibility to pay these instalments to the Tax Agency.
+If you have income such as fees or income from consultancy assignments and receive lump sums and/or other minor B-income, you have to make sure to pay B-tax on such income. You can do so by means of dankort or via your online banking.
+Read more about how you calculate your B-tax and labour market contribution (am-bidrag)
+.
+Your preliminary income assessment will show if you have to pay B-tax.
+You can pay B-tax by means of dankort/MoilePay or get a payment ID for your bank/online banking.
+You can set up a standing order with Nets direct debit service (betalingsservice).
+Further information on
+B-income (fees)
+How to pay B-tax
+Log on to E-tax (TastSelv)
+Select
+Pay tax
+Select
+Pay B-tax
+Click Make payment next to the instalment you want to pay
+Select method of payment, Dankort/MobilePay or get the payment ID for your onlie banking
+If you have more instalments to pay and you pay by means of Dankort/mobilePay, you have to repeat step 4 and 5.
+Find the payment ID next to the rate you want to pay.
+If you have paid too little tax throughout the year, your tax assessment notice will tell you that you have to pay the outstanding tax. Please log on to E-tax (TastSelv) to check your tax assessment notice for the relevant year.
+You can pay outstanding tax in various ways, depending on the income year to which the outstanding tax relates. See your tax assessment notice to find out what applies to you.
+Please note: You can't pay your outstanding tax in a tax office
+Pay outstanding tax for 2024
+Outstanding tax for 2024 will be stated in your tax assessment notice which you can see from mid-March 2025. You can pay all or part of it via our payment option in E-tax
+This is what you do
+Log on to E-tax
+Select
+Pay tax
+Select
+Pay outstanding tax/Future payments
+Click
+Make payment
+next to the instalment you want to pay
+Select method of payment, Dankort/MobilePay or get the payment ID for your onlie banking
+If you have more instalments to pay and you pay by means of Dankort/MobilePay, you have to repeat step 4 and 5.
+Make your payment before 1 July 2025 and get a low interest rate
+The deadline for optional payment is 1 July 2025. You can pay by dankort or MobilePay until 23:59 that day or within the opening hours of your online banking.
+When you pay your outstanding tax, it will be registered 2-3 working days after the day you pay.
+You can see your receipt in E-tax under
+Payment - Payment records
+.
+If you use a payment card, it should be approved for online purchases. Please contact your bank or Nets for further information on approval for online purchases of payment cards.
+Instalments
+If your tax assessment notice states that you have to pay by instalments, it is important that you make your payment as prescribed. However, until 1 July 2024, you may still make your payment as described above in the first point.
+If you make your payment after 1 July 2025
+If you pay outstanding tax for 2024 after 1 July 2025 (fully or partially), you have to select
+Prepayment
+under
+Pay tax
+. This is only accessible after 1 July 2025.
+In certain cases, you may even choose not to pay. In such case, your outstanding tax (maximum DKK 24,786) will be included in your preliminary income tax for 2026. Amounts in excess of DKK 24,786 should be paid as described in the two points above. If this option is available to you, it will be stated in your tax assessment notice.
+Read more about payment of outstanding tax
+Paying outstanding tax for 2023 and previous years
+If you get a new tax assessment notice for 2023 or before, your outstanding tax will be payable in instalments. The instalments can be paid with dankort or MobilePay until 23:59 on the date of the deadline. Or via your bank or online banking within the opening hours. This way, your payment will be registered on the same day as it's made.
+It is important that you use the correct payment ID to make the payments. Please find the payment ID and your instalments in E-tax under
+Pay tax
+under
+Future payments
+.
+Set up a payment plan with us
+If you have outstanding tax that you can't pay, you can enter into a payment plan with us. By doing so, you will prevent the outstanding tax from being transferred to the Danish Debt Collection Agency (Gældsstyrelsen).
+Please call the Danish Tax Agency (Skattestyrelsen) on (+45) 72 22 28 21 to hear more about such a plan.
+How to pay B-tax
+Log on to E-tax
+Select
+Pay tax
+Select
+Betal B-tax
+Click
+Make payment
+next to the B-tax rate you want to pay
+Select method of payment, Dankort/mobilePay or get the payment ID for your onlie banking
+If you have more instalments to pay and you pay by means of Dankort/mobilePay, you have to repeat step 4 and 5.
+About B-tax: You will see the payment ID for B-tax which you can pay via your online banking, dankort or Mobilepay. Check your preliminary income assessment for more information about how you got to pay B-tax.
+How to pay outstanding tax
+Log on to E-tax
+Select
+Pay outstanding tax/Future payments
+Click
+Make payment
+next to the instalment you want to pay
+Select method of payment, Dankort/mobilePay or get the payment ID for your onlie banking
+If you have more instalments to pay and you pay by means of Dankort/mobilePay, you have to repeat step 4 and 5.
+Betalingsservice (Nets direct debit service)
+You can register all of some of your tax payments for Betalingsservice for automatic payment.
+if you want to register your giro transfer forms for Betalingsservice, you can do so in 2 ways:
+You can register via a specific link at betalingsservice.dk, or
+You can register in your bank or via online banking.
+How to register your payments for Betalingsservice
+If you got a payment reminder
+Log on to E-tax
+Select
+Pay tax
+Select
+See payment reminder
+(in Danish). There, you can read more about your reminder.
+If you need help
+If you are unsure of how you pay or what to do, please call us at
+72 22 27 80
+.
+Paying outstanding tax charged via your tax assessment notice or B-tax charged via your preliminary income assessment:
+IBAN: DK94 3000 0007540531
+BIC/SWIFT code: DABADKKK
+Please remember to state your civil registration number and the year to which your payment relates.
+Making a voluntary payment of outstanding tax:
+IBAN: DK5502164069075312
+BIC/SWIFT code: DABADKKK
+Please remember to state your civil registration number and the year to which your payment relates.
+Address:
+Danske Bank
+Holmens Kanal 2-12
+1092 København Ø
+Denmark
+How to make your payment
+You will receive a giro transfer form from the Danish Tax Agency (Skattestyrelsen) in your digital mailbox. If you have not signed up for Digital Post, you will receive the giro transfer form by ordinary post.
+You can then choose to:
+Set up a standing order with Nets direct debit service (betalingsservice)
+Pay via your bank or via online banking (please remember to use the payment ID stated on the giro transfer form.
+If your payment is late
+If you don't meet the payment deadline, we will add interest from the payment deadline stated on the charge. A possible payment reminder will cost you a fee of DKK 65.
+Read more about vehicle weight taxes, green taxes and CO2
+If you are responsible for paying the gift tax, you can do so as follows:
+Pay via the online gift tax form if the gift tax is DKK 100,000 or less:
+Use the online form to report the gift if it's a gift of cash, securities registered for trade on a regulated market or other, including car, boat or remission of debt.
+If the gift tax is DKK 100,000 or less, you pay the gift tax by means of payment card via the online form.
+Report and pay gift tax via
+online gift tax form 07.016
+.
+Pay via online banking or bank if the gift tax is higher than DKK 100,000:
+If the gift tax is DKK 100,001 or more, you have to pay the gift tax via online banking or your bank on the same day you report the gift via the online form. The form will give you further payment information.
+Report and pay gift tax via
+online gift tax form 07.016
+.
+If you don't want to use the online form to report the gift, you can do so via the below forms:
+form 07.016 A
+- if it's a cash gift.
+form 07.016 B
+- if it's other kind of gifts than cash gifts.
+Save the forms on your computer before you start completing them. Otherwise, you may risk that your information is lost.
+Payment via online banking:
+Please use giro transfer forms with code 73 and creditor number 8140 6731. Use the message field to state that the payment is tax on gifts and enter the civil registration numbers of the donor and the recipient.
+Payment via your bank:
+Please use code 73 and make a payment to creditor number 8140 6731 and write that the payment is tax on gifts and enter the civil registration numbers of the donor and the recipient.
+Please note
+that the number is a creditor number, not an account number.
+Payment from outside Denmark:
+Please make the payment to:
+Danske Bank
+Account holder: Skatteforvaltningen
+IBAN: DK72 0216 4069 0628 81
+BIC/SWIFT code: DABADKKK
+and state that the payment is tax on gifts and enter the civil registration numbers of the donor and the recipient.
+Payment deadline
+The deadline for submitting a notification of a taxable gift and paying gift tax is 1 May in the year after the gift was donated. The gift tax should be paid and received by the Danish Tax Agency on the same day as the gift notification was submitted. If you are late in paying the gift tax or submitting the notification, you will be charged interest. The interest will be charged separately by the Tax Agency.
+Please note
+that if either the donor or the recipient dies before the payment deadline, the deadline will be reduced to 8 weeks after the donor or recipient has passed away. If the donor or recipient dies less than 8 weeks before the gift should have been declared, the payment deadline remains 1 May. Please also note that the point of contact (the administrator) of the estate and the heirs and legatees of the deceased are all responsible for declaring the gift.
+The recipient is responsible for paying the gift tax. If the recipient does not do so, the donor is jointly and severally liable.
+Find the form Gift tax/cash gifts only
+.
+Read more in Danish about gifts
+.
+If you have received a payment reminder
+Log on to E-tax
+Select
+Pay tax
+Select
+See payment reminder (in Danish)
+. There you can read more about your reminder
+.
+If you don't pay the reminder
+If you don't pay the reminder, your debt will be transferred for collection with the Danish Debt Collection Agency (Gældsstyrelsen).
+Read more in Danish about debt collection
+.
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions to this subject?
+Call us
+before
+Kl.
+17:00
+72222780

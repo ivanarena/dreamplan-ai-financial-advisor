@@ -1,0 +1,69 @@
+URL: https://skat.dk/en-us/individuals/property/agencies-renting-out-holidays-homes-in-denmark
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Deutsch
+Agencies renting out holiday homes in Denmark
+Homeowners are entitled to a standard tax deduction for expenses incurred in relation to renting out holiday homes. This deduction is larger if the holiday homes are rented out through a rental agency, and if the agency reports the owner’s rental income, including payment for electricity, water, heat, etc., directly to the Danish tax authorities.
+The agency must register with the Danish authorities to obtain a business registration no.
+Though optional, failing to register means a lower tax deduction to the owner.
+Consequently, owners of Danish holiday homes have an interest in their rental income being reported to the Danish tax authorities by the agencies, regardless of whether the holiday homes are in or outside Denmark.
+Any reporting must be made online using our self-service system
+E-tax for businesses
+(TastSelv Erhverv). Please note that the main part of the reporting page in E-tax is in Danish.
+The agency may only report the income through the website if this has been agreed by the Danish owner of the holiday home.
+The agency must first register with the Danish authorities to obtain a Danish CVR no. (central business registration no.)/SE no. (VAT no.) and an E-tax password. These are needed to log on to E-tax for businesses (TastSelv Erhverv).
+To register, the agency must complete the forms below and send them to the address of the Danish registration authorities stated in the forms:
+Registration of non-Danish company
+Sign up for reporting
+Within a few weeks, the agency will receive its CVR no./SE no. and a temporary E-tax password for E-tax for businesses. When logging on the first time, the agency will be prompted to change the password. The new password must be used for future logons.
+The password must contain a minimum of eight characters, at least one lower case letter (abc), at least one upper case letter (ABC), a number(1, 2, 3), and one special character (.,+).
+Example of valid E-tax password:                     DK.holi1
+The owner of the holiday home must inform the agency of the relevant Danish property number. This number consists of a three-digit municipality code followed by a serial number of up to six-digits. Thus, the property number can consist of up to nine digits.
+The municipality code is determined by the municipality where the holiday home is located. The agency can search for and check property numbers for holiday homes located in Denmark at
+www.ois.dk
+.
+The municipality code for holiday homes outside Denmark is always 999.
+The owner of the holiday home can find the Danish property number on his/her tax assessment notice.
+It is important that the agency ensures that the property number is correct, for example by asking the owner to send the number in writing or to send documentation.
+Log on to E-tax for businesses by selecting "Log på med TastSelv-kode" (Log on using your E-tax password) under "TastSelv Erhverv" (E-tax for businesses).
+Next, using the agency’s Danish CVR no./SE no. and E-tax password to log on.
+In the menu bar on the left, select "Indtægt af udlejning af fritidsbolig" (Rental income from holiday home).
+Select "Indberet" (Report) and a new page will open.
+Select the calendar year to which the report relates, enter  the property number of the holiday home and the owner’s total rental income for the calendar year.
+The rental income must be stated in whole Danish kroner (DKK).
+Check whether the information entered is correct, and then click "Godkend" (Accept).
+A receipt page will be displayed confirming that we have received the information.
+Click "Forsiden" (Home) to go to a new reporting page.
+Receipts for the information reported are saved in E-tax for businesses, but can also be printed.
+It is important that the agency checks the information and corrects it if necessary.
+The agency must report the owner’s
+total rental income
+, including payments received for electricity, heat, water, etc. as well as for any cleaning done by the owner himself.
+The agency must wait to report the income until the full rental income for the year can be calculated.
+Rental income must be reported within 20 days of the end of the calendar year at the latest. The beginning of January is therefore a good time to report the income.
+The agency may authorise another business to access E-tax to report the income on its behalf.
+The authorisation must be given in the E-tax system. To do this, the agency must log on and enter the Danish CVR no./SE no. of the business that will report the income.
+Please note that the business in question must be registered in E-tax as being allowed to report on behalf of other businesses.
+In order to ensure that the rental income reported is correct, the Danish tax authorities may ask the agency to provide the information on which the report is based.
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions about this subject?
+Call us
+before
+Kl.
+17:00
+72222795

@@ -1,0 +1,74 @@
+URL: https://skat.dk/en-us/individuals/income-preliminary-income-assessment-and-tax-assessment-notice/preliminary-income-assessment/your-income-changes
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Deutsch
+Your income changes
+If your income changes substantially, or if, for example, you start receiving unemployment, sickness or parental leave benefits (dagpenge) or cash benefits (kontanthjælp), you should change your preliminary income assessment. This also applies if you choose to have your frozen holiday pay paid out.
+If you do so, you avoid having to pay outstanding tax next year.
+You can see and correct your preliminary income assessment in E-tax (TastSelv).
+Change your preliminary income assessment, field 201
+Calculate your income after tax
+When you change your salary in your preliminary income assessment during the year, you always have to complete fields 201, 360, 361 and 366.
+You find fields 360, 361 and 366 uner 'Most frequently added fields'. There, you select 'Income and tax paid until change'.
+A substantial change in your salary is important, for example when:
+Your salary becomes higher or lower than DKK 665.000 in 2025 (DKK 640,109 in 2024) inclusive of labour market contributions (AM-bidrag)
+You pay top-bracket tax, and your salary increases
+Your working hours are reduced if, for example, you go from working full time to part time
+You work
+When you find a job, you need to change your preliminary income assessment:
+Log on to E-tax (TastSelv)
+Select ‘Nyt job’ (New job) under ‘Oftest tilføjede felter’ (Frequently added fields)
+Enter your expected salary for the year (before labour market contributions) in field 201
+If you have received unemployment, sickness or parental leave benefits (dagpenge) or cash benefits (kontanthjælp), you need to correct the figure in field 304 (unemployment, sickness or parental leave benefits) or in field 216 (cash benefits) to what you expect to receive in total for the year.
+You are employed in a fixed-term position
+It is a good idea to correct your preliminary income assessment if your job situation changes.
+If you are employed in short, fixed-term positions and temporary jobs for a certain period, you may not know your total earned income for the year. In such cases, we recommend that you calculate your annual income before tax based on the amount you currently earn per month. Then, you enter this amount in your preliminary income assessment in E-tax (TastSelv).
+If you find a new job or if you lose your job, you then correct your preliminary income assessment again.
+You are unemployed
+If you lose your job, you need to change your preliminary income assessment, as you are no longer entitled to an
+employment allowance
+. If you do not change your preliminary income assessment, you will pay too little tax, despite your income being lower than before.
+Log on to E-tax (TastSelv)
+Select ‘Arbejdsløs’ (Unemployed) under ‘Oftest tilføjede felter’ (Frequently added fields).
+Enter what you expect to receive in unemployment, sickness or parental leave benefits (dagpenge) in field 304 or cash benefits (kontanthjælp) in 216 for all of the year.
+If you have been paid a salary, you should correct the amount in field 201 to match your expected salary for the year.
+You start or stop receiving the state education grant (SU)
+Read more about the state education grant (SU) and tax
+You retire or take voluntary early retirement
+When you stop working you should change your preliminary income assessment to pay the right amount of tax:
+Log on to E-tax (TastSelv)
+Select ’På pension/efterløn’ (Retirement/voluntary early retirement) under ’Oftest tilføjede felter’ (Frequently added fields)
+Enter your expected pension/early retirement benefits for the year.
+Remember to correct your expected salary in field 201.
+If your spouse or live-in partner receives social pension, you should not change your preliminary income assessment until the day you actually retire. If you do it this way, the calculation of social pension for you and your spouse or live-in partner will be more accurate.
+Read more about pension and early retirement benefits
+When you start your parental leave, you should check and adjust your income in your preliminary income assessment, so you pay the correct tax throughout the year.
+Read more about parental leave and your preliminary income assessment (Danish link).
+Employment allowance
+Everybody who earns a salary (including wage subsidiary) has an employment allowance. The allowance is calculated automatically when you change your salary in your preliminary income assessment.
+Read more about employment allowance
+Remember to deduct your transport between home and work
+If, for example, you change jobs or if you stop working, you need to remember to change your deduction for transport between home and work in field 417.
+You are entitled to the deduction if you travel more than 12 km to work.
+Read more about deduction for transport between home and work
+Working from home
+If you work from home, you are not entitled to a deduction for transport between home and work.
+So, if you expect the number of days that you will be working from home to differ from last year, you should make the relevant correction in field 417 of your preliminary income assessment. Otherwise, you risk having to pay outstanding tax (money you have to pay back).
+You should enter the number of days that you expect to be working away from home, meaning the number of days for which you are entitled to a deduction for transport between home and work.
+For further legal information in Danish see
+our legal guide .

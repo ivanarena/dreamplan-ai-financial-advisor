@@ -1,0 +1,63 @@
+URL: https://skat.dk/en-us/individuals/shares-and-securities/tax-on-cryptocurrency-know-the-rules-and-avoid-a-tax-bill/questions-and-answers-on-cryptocurrency
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Questions and answers on cryptocurrency
+You get a deduction if you enter your loss in box 58 of your tax assessment notice (årsopgørelsen).
+You pay tax if you enter your gain in box 20 (Anden personlig indkomst ((Other personal income) of your tax assessment notice.
+Read more about how you calculate and declare gains and losses
+.
+When you sell cryptocurrency, you have to calculate whether you earned a profit or suffered a loss. You calculate any profit or loss as the difference between the purchase and the selling price.
+In doing so, you have to use the FIFO principle (First In First Out). This means that the cryptocurrency you bought first, is the one you sell first.
+If you use one type of cryptocurrency to pay for another type of cryptocurrency, this is also considered a sale where you have to calculate profit or loss on the cryptocurrency you sold.
+Each transaction must be calculated separately, which means that you can't normally offset loss on one transaction against profit on another transaction.
+Read more here about calculating and declaring any gains or losses
+.
+No, you can't.
+Generally, you have to calculate each transaction separately. A loss from a transaction in a cryptocurrency can't be offset against profit from another transaction. Losses must be entered in box 58 and profits in box 20 of your tax assessment notice (årsopgørelsen).
+You are only entitled to a deduction if you can document that you are.
+Read more about calculating your profit or loss here
+.
+You should save data and relevant documentation, such as vouchers for orders, purchases, sales and payments you have made in relation to calculating profits and losses for all the income years you have traded in cryptocurrencies.
+Read more here under
+Keep your purchase and sales data
+.
+An undocumented deposit refers to a transfer of crypto assets into your accounts or wallets where you can't provide documentation for the deposit – including the time, method and price of acquisition.
+Documentation means that you must be able to present a receipt, invoice, or similar proof showing that you paid for the crypto assets deposited into your wallet, and thereby proving your ownership.
+Generally, if you get a deposit that you can't document, you must set the acquisition price at DKK 0 when calculating the gain upon its sale. This is because the lack of documentation prevents you from claiming a tax deduction for the acquisition price. If you can't provide any  documentation, the deposit is considered a purchase at DKK 0 at the time of deposit. As a result, you are taxed on the full selling price at the time of a sale.
+Documented internal transfers
+If you transfer crypto assets between your own user accounts or wallets, and you can document ownership, you don't have to set the acquisition price at DKK 0. The transfer should generally not be included in FIFO calculations. The reason is that internal transfers are not considered taxable disposals, but rather private movements of assets.
+Please note: Airdrops and other distributions of crypto assets are subject to different rules.
+You can read more at:
+Airdrops, hardforks and other crypto gifts
+No, you only need to declare any profit or loss if you have sold cryptocurrency. However, you should save all purchase documents so that you can document your calculation to us in case of a sale.
+Read more about calculating and declaring your gains or losses here
+.
+This calls for a specific assessment, so please contact us if you would like us to give you a binding ruling with a specific assessment.
+Apply for a binding ruling
+Read more in Danish about speculation and gifts in the section ‘Spekulationshensigten kan opgives’ (Declaration of intent of speculation) in our Danish-language legal guide
+If a cryptocurrency bought for speculative purposes is lost through fraud, bankruptcy, theft, etc., you are entitled to a deduction for your loss if the following conditions are met:
+you can document your loss
+your claim is subject to the Danish Capital Gains Act (Kursgevinstloven)
+the loss is considered final which requires an individual assessment.
+If the loss is due to a passcode to a virtual wallet you have lost, the contents of the virtual wallet will not be lost as the ownership of the wallet remains.
+In order to be entitled to a deduction for a loss incurred on cryptocurrency bought for speculative purposes, it is a requirement that the cryptocurrency was in fact sold.
+If you have bought cryptocurrency that is no longer supported by an exchange service, you are not entitled to a deduction as this is dependent on the cryptocurrency actually being sold.
+We recommend that you contact us to get a binding ruling based on an individual assessment if you are unsure of whether you are entitled to a deduction.
+Apply for a binding ruling
+Yes, if you are subject to full tax liability, you have to pay tax in Denmark regardless of whether you traded in cryptocurrency in or outside Denmark.
+Chat

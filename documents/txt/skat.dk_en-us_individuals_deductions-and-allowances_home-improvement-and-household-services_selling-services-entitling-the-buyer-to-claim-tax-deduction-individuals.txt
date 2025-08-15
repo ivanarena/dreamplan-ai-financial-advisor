@@ -1,0 +1,53 @@
+URL: https://skat.dk/en-us/individuals/deductions-and-allowances/home-improvement-and-household-services/selling-services-entitling-the-buyer-to-claim-tax-deduction-individuals
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Deutsch
+Selling services entitling the buyer to claim tax deduction (individuals)
+As a private individual, you are only allowed to offer household services, and you customer must deposit the payment directly into your bank account.
+Change your preliminary income assessment, field 207
+Download service statement (form)
+In order for your customer to be entitled to a deduction, you may only carry out household services like cleaning, babysitting, window cleaning and gardening as a private individual. Home improvement services must be carried out by a business registered for VAT.
+You must register for VAT if your sales exceed DKK 50,000 a year.
+Pensioners working in private homes may receive up to DKK 12,200 in 2023 (DKK 11,900 in 2022) tax free (Danish language)
+For a buyer to be entitled to a deduction for your work, you have to be subject to general tax liability in Denmark and you must have turned 18 by the end of the year in which the work was carried.
+The household address where the work is carried out must not have been your permanent residence.
+If the buyer is a cross-border worker, you have to meet other requirements as a supplier.
+You customer is only entitled to a deduction if you provide written documentation for the service.
+If you fill in and sign a service statement, your customer will have all the necessary information.
+Service statement
+You can also prepare another document containing
+your CPR no.
+your bank account no.
+description of the work
+the address where the work was carried out
+the date when the work was carried out or completed
+a labour cost specification.
+For services, it applies that all the costs are considered labour costs if costs such as cleaning detergents make up less than 2%.
+Your customer must be able to document that payment for the work that was carried out was made electronically. Examples of this are bank transfer, online banking, payment card, etc. You must therefore remember to provide your account number to your customer. If you are paid in cash, your customer is not entitled to a deduction.
+If as a private individual you carry out a service for which the buyer gets a tax deduction, this amount will be included in your tax assessment notice.
+Any deductible service you carry out may affect your right to receiving services like state educational grant (SU), pension and housing allowance.
+To avoid paying outstanding tax, you should correct your income in your preliminary income assessment.
+You do so by logging on to E-tax (TastSelv) and selecting ‘Forskudsopgørelsen’ (Preliminary income assessment). Enter your income from household services that are deductible in field 207: ‘Indkomst ved privat dagpleje og hushjælp mv.’ (Income from private daycare, domestic services etc.)
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions to this subject?
+Call us
+before
+Kl.
+17:00
+72222780

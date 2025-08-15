@@ -1,0 +1,134 @@
+URL: https://skat.dk/en-us/individuals/property/charging-property-tax/housing-tax-in-the-preliminary-income-assessment
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Deutsch
+Housing tax in the preliminary income assessment
+It's important that you correct your preliminary income assessment (forskudsopgørelse), if you buy or sell a home so that you pay the correct housing tax (property value tax and land tax) each month.
+Your housing tax in 2025
+In 2025, you have to pay housing tax based on a provisional assessment for 2024.
+The provisional property assessment for 2022 has been adjusted according to the price movement from 2022-2024 in the property market.
+See your provisional assessment for 2024 here (vurderingsportalen.dk)
+Did you buy or sell a home?
+It's important that you correct your preliminary income assessment if you have bought or sold a home.
+Did you buy a home?
+Did you sell a home?
+See your housing tax in your preliminary income assessment:
+You can assess your preliminary income assessment now, and in the assessment you can see your total housing tax for 2025.
+Log on to E-tax (TastSelv)
+Select
+Forskudsopgørelsen 2025 (Preliminary income assessment 2025)
+Scroll down to
+Eksisterende ejendomme og grunde (Existing properties and land)
+and select the relevant property
+This will show you how much land tax and property value tax you pay. Remember that the tax is split between all owners of the property.
+Read more about how your housing tax is calculated (vurderingsportalen.dk)
+Loans to freeze housing tax increases
+The majority of homeowners have registered for the housing tax freeze scheme. This means that possible incresses in your land tax  will be frozen automatically by means of a loan in your preliminary income assessment for 2025.
+Possible increases in your property value tax will not be frozen automatically in your preliminary income assessment. But in your preliminary income assessment you can request that your property value tax is reduced if it has increased from 2024 to 2025.
+See how you request a reduction of your property value tax (vurderingsportalen.dk
+)
+You have to repay the loan and pay interest when you sell your home, but you can also choose to repay the entire loan or part of it before you sell your home.
+See if you're registered for the scheme in your preliminary income assessment
+Log on to E-tax (TastSelv)
+Select
+Forskudsopgørelsen (Preliminary income assessment)
+for the relevant year
+Scroll down to
+Eksisterende ejendomme og grunde (Existing properties and land)
+and select the relevant property
+Under
+Vælg eller fravælg indefrysningslån til betaling af stigninger i din boligskat (Accept or decline loan for paying increases in your housing tax)
+you can see if you're registered for the scheme
+Read more about housing tax freeze (vurderingsportalen.dk)
+If you want to deregister from the housing tax freeze scheme in 2024, you can do so in your preliminary income assessment for 2024 until 31 December 2024.
+If you want to deregister from the scheme in 2025, you can do so in your preliminary income assessment for 2025 until 31 December 2025.
+The loan period i 1 year, so you can decide year by year if you want the loan or not.
+How to deregister from the housing tax freeze scheme:
+Log on to
+E-tax for individuals
+Select
+Forskudsopgørelsen (Preliminary income assessment)
+for the year you want to deregister
+Scroll down to
+Eksisterende ejendomme og grunde (Existing properties and land)
+and select the relevant property
+Click
+Vælg eller fravælg indefrysningslån til betaling af stigninger i din boligskat (Take out or discontinue the loan to pay for the increases in your housing tax)
+Select Nej (No)
+under
+Ønskes indefrysingslån til betaling af skattestigninger (Do you want a loan to pay for tax increases?)
+Click
+Registrer (Register)
+Click
+Beregn (Calculate)
+Click
+Godkend (Accept)
+Read more about registering or deregistering for the housing tax freeze loans (vurderingsportalen.dk)
+If you want to register for the housing tax freeze scheme in 2024, you can do so in your preliminary income assessment for 2024 until 31 December 2024.
+If you want to register for the scheme in 2025, you can do so in your preliminary income assessment for 2025 until 31 December 2025.
+You pay tax on the loan, and the loan period is 1 year. So, you can decide year by year if you want the loan or not.
+How to register for the housing tax freeze scheme:
+Log on to
+E-tax for individuals
+Select
+Forskudsopgørelsen (Preliminary income assessment)
+for the relevant year
+Scroll down to
+Eksisterende ejendomme og grunde (Existing properties and land)
+and select the relevant property
+Click
+Vælg eller fravælg indefrysningslån til betaling af stigninger i din boligskat (Take out or discontinue the loan to pay for the increase in your housing tax)
+Select
+Yes
+under
+Ønskes indefrysningslån til betaling af skattestigninger (Do you want a loan to pay for tax increases?)
+Select
+Registrer
+Select
+Beregn (Calculate)
+Select
+Godkend (Accept)
+Read more about registering for or deregistering from the housing tax freeze loans (vurderingsportalen.dk)
+Until 1 January 2024, housing tax freeze schemes were managed by the local municipalities.
+At borger.dk you can see if you have a housing tax freeze loan for 2023 and earlier. Borger.dk is also where you repay your loan.
+If you have questions about such loans for 2023 or earlier you have to contact your local municipality.
+Repay housing tax freeze loans for 2023 and earlier (borger.dk)
+You can repay housing tax freeze loans from 2024 and forward entirely or partly in E-tax after you have taken out the loan.
+The loan is actually taken out the year after the income year it applies to. So, the loan for 2024 is taken out in early 2025.
+How to reapy the loan:
+Log on to
+E-tax for individuals
+Select
+Boligskattelån (Housing tax loans)
+Select
+Aktive lån og betaling (Current loans and payment)
+The housing tax freeze scheme isn't discontinued automatically, when you repay your loan.
+If you want to deregister from the scheme, you do so in your preliminary income assessment.
+Payment of housing tax in 35 seconds
+On 1 January 2024, new housing tax rules were implemented.
+See the video and find out what the rules mean to you and how you pay your housing tax.
+Play
+00:00
+Play
+Seek 10 seconds backwards
+Seek 10 seconds forward
+00:00 / 00:00
+Mute
+Picture in picture
+Fullscreen
+Copy debug info

@@ -1,0 +1,61 @@
+URL: https://skat.dk/en-us/individuals/guide-to-e-tax/my-e-tax
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Guide to E-tax for individuals
+E-tax (in Danish ’TastSelv’) is our online self-service system. In E-tax, you can see and change your preliminary income assessment and your tax assessment notice and pay your outstanding tax. Almost everybody who pays tax in Denmark can use E-tax - also from outside Denmark.
+Please note that you can now access your tax assessment notice (årsopgørelsen) as well as your contact details and payment information in English in E-tax.
+To access E-tax you have to use your MitID, but some people may access E-tax via authorised logon or E-tax password.
+It's important that you log off (top right) and close all browser windows when you have finished using E-tax. Otherwise other persons using the computer may be able to access your information.
+Log on to E-tax
+MitID is the Danish digital ID. It's a common secure login that you use to access all Danish public websites, your online banking an other private websites.
+You access E-tax for individuals with MitID if you are 15 years of age or older.
+Read about how you get MitID
+If you are authorised to see and enter information in E-tax on behalf of another person, you can log on by means of authorisation using your private MitID.
+Go to E-tax (TastSelv)
+Select
+Authorised logon
+Log on using your own MitID
+Enter CPR no. of the relevant person and select
+Log on
+Next, you will see the E-tax menu of that person
+Read more about giving other people access to your E-tax
+.
+If you're
+not
+registered for Digital Post, you can order an E-tax password to log on to E-tax for individuals (TastSelv Borger). E-tax password can only be used by people who don't have access to Digital Post.
+If you want to deregister from Digital Post, you have to contact your local Citizen Service (Borgerservice). If you've never lived in Denmark, you have to contact the Danish Agency for Digital Government (Digitaliseringsstyrelsen).
+Order an E-tax password
+You get your password right away in a text or an email if you have registered your mobile number or you email address in E-tax under
+Your profile and contact details
+.
+As something new you will then receive a one-time password by text or email. You have to enter the one-time password after you hve entered your E-tax password.
+If you haven't regsitered a phone number or a valid email address under your profile and contact details, you will get the pin code by regular mail within 8-14 days.
+Please note: You can no longer log on to E-tax for individuals using an E-tax password if you have registered for Digital Post. In that case you have to log on to E-tax using MitID or authorise somebody else.
+Read about how you allow third-party access to your E-tax
+If you registered for Digital Post and enter your phone number or email address in E-tax under
+Your profile and contact information
+-
+Contact details
+, you will get a text or an email notification when your tax assessment notice or preliminary income assessment is ready.
+Watch out for fake emails or text messages
+Fake and harmful emails and text messages may look a lot like those sent by the 7 agencies of the Danish Customs and Tax Administration. We recommend that you only click on links in emails and text messages if you are certain that the sender is legitimate.
+We have a page about fake emails and text messages. There, you can read more about how you spot a fake message.
+How to spot fake emails and text messages
+.
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions about this subject?
+Call us
+72222780

@@ -1,0 +1,120 @@
+URL: https://skat.dk/en-us/individuals/employee-benefits/company-car
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Deutsch
+Company car
+If your employer has provided you with a company car and you use it for private purposes, you will have to pay tax on it.
+New rules on company cars took effect on 1 July 2021 and the result is that the value of the company car should be calculated according to new rates. You can see what the rules mean to you and your tax below under Calculating the value of your company car.
+The rules are as follows:
+The taxable amount is calculated as a percentage of the car’s value plus an environmental supplement.
+How much you use the car has no effect on the tax.
+Your employer ensures that this information is stated in your tax assessment notice, and thus that you pay the tax. You can see it on your payslip.
+You should add the value of your company car and your salary and enter the total amount in field 201 in your preliminary income assessment (it is not already there) to include it in the calculation of your withholding rate and your personal allowance.
+You are not entitled to a deduction for transport between home and work if you have a company car.
+Enter the value of the company car in your preliminary income assessment, field 201
+When you calculate the value of the car, you need to know the purchase price or the new-car price and multiply by the fixed rates. The age of the car determines whether you should apply the purchase price or the new-car price. However, the the price is always at least DKK 160,000.
+The car is new or maximum 3 years old
+For new cars and cars which at the time of purchase are up to three years old, the value is the new-car price. This only applies from the date the car was initially registered and the following 36 months. After 36 months the value is reduced to 75%, however not lower than DKK 160,000.
+This means that if your company car was registered in December 2020, the basis of calculation will be reduced to 75% of the new-car price with effect from December 2023.
+The car is more than 3 years old
+For second-hand cars bought more than three years after the initial registration, the purchase price is used as the basis for the calculation; however, a minimum of DKK 160,000.
+Rates for calculating the value of the car
+The rate for determining the value of the car changed on 1 July 2021 and it will do so every other year until 2025 to make it easier to calculate the value of the car. Today, you can use two different rates to calculate the value of your car depending on whether it is worth more or less than DKK 300,000. Whereas, from 2025 only one rate will apply.
+New rates for determining the value of a car
+2023
+2024
+2025 and onwards
+Rates for car value under DKK 300,000
+23,5%
+23%
+22,5%
+Rates for car value of more than DKK 300,000
+21,5%
+22%
+22,5%
+Examples of calculating car values
+Example 1
+The car is worth DKK 300,000 so you should use one rate to calculate the value:
+The value of the car is 23% (2024) of DKK 300,000= DKK 69,000
+The value of the car is 23.5% (2023) of DKK 300,000= DKK 70,500
+Example 2
+The car is worth DKK 500,000 so you should use two rates to calculate the value:
+23% (2024) of DKK 300,000 = 69,000
+22% (2024)of DKK 200,000 = 44,000
+The value of the car is DKK 69,000 + DKK 44,000 = DKK 113,000
+The environmental supplement consists of the periodic tax (either owner’s green tax, weight tax or CO2 owner’s tax) multiplied by a rate. The environmental supplement will be increased from 150% to 250% from 1 July 2021 and is subsequently increased up to 700% as of 2025.
+If you have a diesel car, you deduct the compensatory tax (udligningsafgift) from the periodic tax before you do the calculation. If your car has parrot plates (both for business and private use purposes), you have to deduct the private use supplement from the preiodic tax before you do the calculation.
+From 1 July 2021, you need to calculate the environmental supplement as the annual periodic tax multiplied by 205%.
+New rates for environmental supplement (green vehicle tax)
+2023
+2024
+2025 and onwards
+% of periodic tax
+450%
+600%
+700%
+Calculating the environmental supplement
+You calculate the environmental supplement from 1 July 2021 by multiplying the annual periodic tax or weight tax by 2.5 (250%).
+Examples
+Environmental supplement until 30 June 2021:
+Annual periodic tax DKK 660 x 1.5 (150%) = DKK 990
+Environmental supplement from 1 July 2021 and forward:
+2021: Annual periodic tax DKK 660 x 2.5 (250%) = DKK 1,650
+2022: Annual periodic tax DKK 660 x 3.5 (350%) = DKK 2,310
+2023: Annual periodic tax DKK 660 x 4.5 (450%) = DKK 2,970
+2024: Annual periodic tax DKK 660 x 6 (600%) = DKK 3,960
+2025: Annual periodic tax DKK 660 x 7 (700%) = DKK 4,620
+You calculate the value of your company car for a year by adding the value of the car and the environmental supplement. Then you divide the amount by 12 to obtain the monthly amount you will be taxed on.
+Example 1: The car costs DKK 300,000
+The car was purchased at DKK 300,000 and the annual periodic tax is DKK 660. This means that you have to multiply the value of the car by 23% (2024) and multiply the periodic tax by the rate 600%.
+The value of the car: DKK 300,000 x 0.23 (23%) = 69,000
+Enviromental supplement: DKK 660 x 6 (600%) = DKK 3,960
+Anual value of the company car: DKK 69,000 DKK + 3,960 = 72,960
+Value of the company car per month: DKK 72,960 divided by 12 = DKK 6,080
+Example 2: The car costs DKK 500,000
+The car was purchased at DKK 500,000 and the annual periodic tax is DKK 660. This means that you have to multiply the value of the car by 23% (2024) for the value of less than DKK 300,000 and 22% (2024) for the value of more than DKK 300,000. You multiply the periodic tax by the rate 600%.
+The value of the car, rate 1: DKK 300,000 x 0.23 (23%) = 69,000
+The value of the car, rate 2: DKK 200,000 x 0.22 (22%) = 44,000
+Total value of the car: DKK 69,000 + 44,000 = 113,000
+Enviromental supplement: DKK 660 x 6 (600%) = DKK 3,960
+Anual value of the company car: DKK 113,000 + DKK 3,960 = 116,960
+Value of the company car per month: DKK 116,960 divided by 12 = DKK 9,747.
+New rates were fixed on 1 July 2021, and that means that the value of your company electric har, plug-in hybrid vehicle or other green vehicle should be recalculated. The rates are the same irrespective of the type of car, electric vehicles or vehicles running on petrol or diesel.
+See Calculating the value of your company car here on this page if you need assistance.
+Charging stations
+New rules were established for charging stations on 1 July 2021 so that you will not have to pay tax if your employer pays for a charging station in your home for your electric or plug-in hybrid company car.
+Prior to 30 June 2021, you had to pay tax on the value of the charging station and the installation in your home.
+If your employer provides the charging station for private purposes
+If your employer provides the charging station after 1 July 2021, you will not have to pay tax on the value. However, this only applies if you have had an electric or plug-in hybrid vehicle for at least 6 consecutive months after 1 July 2021.
+If you have had a electric or plug-in hybrid vehicle for less than 6 consecutive months after 1 july 2021, you will still have to pay tax on the value of the charging station and the installation costs.
+Prior to 30 June 2021, you always had to pay tax on the value of the charging station and the installation in your home if provided by your employer.
+You will only have to pay tax on a pro rata amount corresponding to the number of months that you have the car at your disposal. The time is rounded up to whole months.
+If you have a company car placed at your disposal during the year, you must change your preliminary income assessment. You do so by adding the value of the company car to the amount in box 201. You can calculate the value of the company car by making a calculation as in the example above, divide by 12 months and mulitply with the number of months you have the company car at your disposal.
+When you change your preliminary income assessment for this year, you will also find boxes for next year. It is important that you remember to change the amount in box 201 for both years.
+If you pay your employer for the private use of the car, the amount you pay to the employer of your net salary/wages is deducted from the taxable value of having the company car.
+If, for example, you pay for the petrol yourself, this does not entitle you to a deduction or a relief on your tax.
+You may use the car for your own use as much as you like when you pay tax on a company car. Members of your household may also use the car.
+However, you are not entitled to a deduction for transport between home and work if you have a company car at your disposal.
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions about this subject?
+Call us
+before
+Kl.
+17:00
+72222780

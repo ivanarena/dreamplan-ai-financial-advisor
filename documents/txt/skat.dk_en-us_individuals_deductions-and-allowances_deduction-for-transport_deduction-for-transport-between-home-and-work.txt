@@ -1,0 +1,195 @@
+URL: https://skat.dk/en-us/individuals/deductions-and-allowances/deduction-for-transport/deduction-for-transport-between-home-and-work
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Deutsch
+Deduction for transport between home and work
+You can claim a deduction for transport if you have more than 12 kilometres to work (a total of 24 kilometres to and from work a day). This includes all types of paid work on which you pay labour market contribution (am-bidrag), including student jobs and paid internships.
+You are only entitled to a deduction for the days you actually travel to and from work. As a result, you can't claim a deduction for the days you work from home, are sick or on holiday.
+All means of transport, including car, train, bus or bike, are covered.
+4 steps to a correct transport deduction
+See our guide to find out if you are entitled to a deduction
+Calculate your transport deduction (link in Danish)
+Keep track of the days you travel to work
+Your transport deduction is not transferred automatically from your preliminary income assessment to your tax assessment notice
+See the video: How to claim your transport deduction in your preliminary income assessment
+See the video: How to claim your transport deduction in your tax assessment notice
+Claim your transport deduction in your tax assessment notice and preliminary income assessment
+Correct your tax assessment notice (box 51)
+Correct your preliminary income assessment (field 417)
+You can't get a deduction for transport between home and work if:
+your employer pays for your transport
+you have a company car at your disposal
+you travel to and from your place of education (as the state education grant (SU) is not considered a salary)
+you drive to and from unpaid internship.
+Is the transport deduction something I get paid?
+No. If you are entitled to a deduction and report it in your preliminary income assessment, it will be included in your tax during the year. You will also have to claim your transport deduction in your tax assessment notice.
+The value of the deduction is approx. 26%.
+Example:
+If your deduction for transport between home and work is DKK 5,000, you will save approx. DKK 1,300 in tax.
+Deduction rates for 2025 and 2024
+Transport per day
+Deduction per km per day for 2025
+Deduction per km per day for 2024
+0-24 km
+DKK 0
+(no deduction)
+DKK 0
+(no deduction)
+25-120 km
+DKK 2.23
+DKK 2.23
+25-120 km
+DKK 2.47 in peripheral municipalities and certain small islands)
+DKK 2.47 in peripheral municipalities and certain small islands)
+More than 120 km
+DKK 1.12
+DKK 1.12
+More than 120 km
+DKK 2.47 in peripheral municipalities and certain small islands
+DKK 2.47 in peripheral municipalities and certain small islands
+Deduction rates for 2025 and 2024 when crossing toll bridges
+Bridge
+Additional deduction per trip in 2025 and 2024
+Great Belt (Car/motorcycle)
+DKK 110
+Great Belt (Train/public transport)
+DKK 15
+Øresund (Car/motorcycle)
+DKK 50
+Øresund (Train/public transport)
+DKK 8
+Pia lives in Vejle and works in Horsens all of 2024. She travels a total of 60 km each day.
+Pia goes by train and has a commuter ticket.
+Pia's deduction per day is:
+60 km - 24 km = 36 km x DKK 2.23 per km:
+= DKK 80.28
+Pia's transport deduction for 2024:
+Working days (excluding holidays and days off):
+248 days
+Holidays and days off:
+- 30 days
+Days working from home or being away on courses etc.:
+- 10 days
+Days off sick:
+- 5 days
+Pia's total deduction: (203 days) x DKK 80.28
+= DKK 16,297
+Jens lives in Roskilde and works in Odense all of 2024. He travels a total of 258 km every day.
+The toll bridge deduction for the Great Belt Bridge is DKK 110 each way by car and DKK 15 each way by train in 2024.
+Jens' deduction if he goes by car:
+120 km - 24 km = 96 km x DKK 2.23 per km.
+DKK  214.08
+Over 120 km: 258 km - 120 km = 138 x DKK 1.12 per km.
+DKK 154.56
+Toll bridge deduction: 2 x DKK 110 each way
+DKK 220.00
+Jens' deduction per day:
+= DKK 588.64
+(Remember to keep documentation for paying the toll.)
+Jens' deduction per day if he travels by train:
+120 km - 24 km = 96 km x DKK 2.23 per km.
+DKK 214.08
+Over 120 km: 258 km - 120 km = 138 x DKK 1.12 per km.
+DKK 154.56
+Toll bridge deduction: 2 x DKK 15 each way.
+DKK 30.00
+Jens' total deduction per day
+= DKK 398.64
+Use your official address
+Your official address registered in the Danish national register (Folkeregistret) is considered your place of residence. If you are temporarily staying at a different place (like your holiday home, a hotel, with family or friends) you should calculate the deduction between your temporary place of residence and your work. However, your deduction can't be any higher than the deduction you get for transport between your usual place of residence and your work.
+The actual travel distance
+You must use the actual travel distance between your official home address (the one registeret with the Danish national register) and your workplace. This does not have to be the shortest route.
+If you take the train or the bus, the normal distance by car is applicable. If, for example, you pick up colleagues or drop off/pick up children, you should not include the extra kilometres.
+The route to your workplace may in some cases be longer than the route calculated by our system in E-tax (TastSelv). In such cases, you must enter the distance yourself. You do so by changing the number of kilometres in the field
+Afstand per dag
+(Distance per day) to make it match the number of kilometres you actually travel per day.
+If the distance between your home and workplace is unusually long, you may be required to provide documentation.
+If you earn less than DKK 375,800 (before labour market contribution is deducted) in 2025 (DKK 363,7000 in 2024), you are entitled to an additional deduction for transport between home and work.
+The additional deduction amounts to maximum DKK 15,400 in 2025 (DKK 15,400 in 2024). It is reduced gradually for income between DKK 325,800 and DKK 375,800 in 2025 (DKK 313,700 - 363,700 in 2024).
+The system automatically calculates the additional deduction on your preliminary income assessment and tax assessment notice.
+If you work at several places or have several workplaces in a year, you have to enter the number of days you have traveled to each of the places of work.
+See video: How to calculate your transport deduction manually
+You add a new workplace by selecting ‘Tilføj nyt kørselsfradrag’ (Add new deduction for transport between home and work) in E-tax.
+If you drive to and from the same workplace more than once a day, you are entitled to a deduction if travel more than 24 km in total a day.
+You have to claim 2 deductions for transport between home and work where you adjust the number of kilometres per day to match the number you actually travel.
+This is how you claim two deductions for transport in E-tax
+Claim a deduction for transport where you enter the number of days a month where you have travelled to and from work one time.
+Claim a deduction for transport where you enter the number of days for each month where you have travelled more than once to and from work. Enter the number of kilometres you have done in total per day in field ‘Afstand pr. dag’ (Distance per day).
+Example:
+Lynn is a school teacher and has 30 kilometres to and from work. Some days she goes back and forth between home and the school twice as she has parents teacher meetings in the evening. For such days she claims an additional deduction and enters 60 kilometres per day. In this way, the first 24 kilometres will not be deducted from the total distance twice.
+If you travel from your home to several workplaces in the course of one day, you are entitled to a deduction for transport if you travel more than 24 kilometres in total.
+You leave your home for the first workplace. From there you go to workplace no. two and then back home.
+This is how you report this kind of deduction i E-tax
+Claim a deduction for transport between home and work where you enter your home address and the address for workplace no. one.
+Select ‘Tilføj arbejdsadresser til denne rute (trekantskørsel)’ (Add work address to this route) and enter the address of workplace no. two.
+Enter number of days per month.
+If you travel from your home to several workplaces in the course of one day, you are entitled to a deduction for transport if you travel more than 24 kilometres in total.
+This is how you claim your deduction for transport in E-tax:
+Claim a deduction for transport between home and work where you enter your home address and the address for workplace no. one.
+Select ‘Tilføj arbejdsadresse’ (Add work address) and enter the address of workplace no. two.
+Enter number of days per month.
+Manually, enter the total kilometres in the field ‘Afstand pr. dag’ (Distance per day).
+Example:
+Max works as a temp in two different workplaces on the same day. He has 30 kilometres from his home to one of the workplaces. There are 10 kilometres between the two workplaces and from workplace no. two to his home he travels 40 kilometres.
+Sometimes, Max gets home before he heads off to this workplace no. two. He needs to enter the total number of kilometres manually. In this way, the first 24 kilometres will not be deducted twice from the total number of kilometres.
+Do you have a job, where you are only at home at the weekend? Some people travel to work on Mondays and come back home on Fridays.
+In such cases, your travel is considered one daily trip and the first 24 kilometres are only deducted once.
+This is how you claim your deduction for transport in E-tax:
+Example 1: A place to stay the night is not the same as a workplace.
+Deduction for transport 1 is claimed as follows:
+Claim deduction for transport where you enter you home address and the address for your workplace.
+Select ‘Tilføj arbejdsadresse’ (Add work address) and enter the address of where you stay the night.
+Enter the number of such trips (days) per month. In this way, your deduction for transport for Monday and Friday will be calculated automatically.
+Deduction for transport 2 is claimed if the distance from where you stay the night to your workplace is more than 12 kilometres each way.
+Claim another deduction for transport where you enter the address of the place you stay and the address of your workplace for the days Tuesday, Wednesday and Thursday.
+Example 2: If your place to stay is the same as your workplace
+Claim a deduction for transport where you enter you home address and the address of your workplace. Your travel to and from work is considered to have taken place the same day.
+Enter the number of such trips (days) per month. One trip is from home to work on Monday and back home on Friday. In this way, the first 24 kilometres are only deducted once.
+Do you have a job, where you are only at home at the weekend? Some people travel to work on Mondays and come back home on Fridays.
+In such cases, your travel is considered one daily trip and the first 24 kilometres are only deducted once.
+This is how you claim your deduction for transport in E-tax:
+Example 1: A place to stay the night is not the same as a workplace.
+Deduction for transport 1 is claimed as follows:
+Claim deduction for transport where you enter you home address and the address for your workplace.
+Select ‘Tilføj arbejdsadresse’ (Add work address) and enter the address of where you stay the night.
+Enter the number of such trips (days) per month. In this way, your deduction for transport for Monday and Friday will be calculated automatically.
+Deduction for transport 2 is claimed if the distance from where you stay the night to your workplace is more than 12 kilometres each way.
+Claim another deduction for transport where you enter the address of the place you stay and the address of your workplace for the days Tuesday, Wednesday and Thursday.
+Example 2: If your place to stay is the same as your workplace
+Claim a deduction for transport where you enter you home address and the address of your workplace. Your travel to and from work is considered to have taken place the same day.
+Enter the number of such trips (days) per month. One trip is from home to work on Monday and back home on Friday. In this way, the first 24 kilometres are only deducted once.
+If you work as a temp and travel to many different workplaces, you can't use our guide to calculate your deduction for transport between home and work.
+In this case, you have to make a manual overview of transport and you have to keep it for your tax assessment notice.
+See video: How to calculate your transport deduction manually
+You can enter your expected deduction for transport between home and work in field 417 (Deduction for transport between home and work).
+In your tax assessment notice, you have to click the calculator next to box 51 to enter your actual deduction for transport between home and work.
+Please call us at (+45) 72 22 28 28, if you need help to report your deduction for transport between home and work.
+Do you need more information? Let us help and guide you here
+Additional information on the transport deduction
+Read more about the different transport situations. It could be that you travel very long distances to and from work, go by ferry or plane or carpool with colleagues.
+Read more about the transport deduction
+Transport deduction for people with a disability or chronic illness
+People suffering from a disability or chronical illness who have special expenses for transport between home and work, may in certain cases be entitled to an additional deduction..
+Read more in Danish about transport deduction relevant for people with a disability
+Do you have any questions about deductions?
+Call us on
++45 72 22 28 28
+You can call us:
+Monday 9-17
+Tuesday-Thursday 9-16
+Friday 9-14

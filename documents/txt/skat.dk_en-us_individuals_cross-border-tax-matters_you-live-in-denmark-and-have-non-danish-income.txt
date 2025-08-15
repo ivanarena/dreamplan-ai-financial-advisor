@@ -1,0 +1,64 @@
+URL: https://skat.dk/en-us/individuals/cross-border-tax-matters/you-live-in-denmark-and-have-non-danish-income
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Deutsch
+Do you have non-Danish income? Remember your tax
+When you live in Denmark and have non-Danish income, you have to inform us - even if you have paid tax outside Denmark.
+Income from outside Denmark includes e.g.:
+Salary from a non-Danish employer
+Pension from a non-Danish pension scheme
+Property
+Assets, e.g. a non-Danish account
+Income from assets and investments, including shares and crypto currencies
+Enter your non-Danish income from last year in your tax assessment notice
+This is what you do
+Log on to E-tax (TastSelv)
+Select
+Change tax assessment notice/tax return
+Enter the relevant income in your tax assessment notice under Non-Danish income.
+Change your tax assessment notice in E-tax (TastSelv)
+Read more about your tax assessment notice
+Do you need a box for non-Danish tax matters in your tax assessment notice?
+Contact us
+The first time you have to enter non-Danish income in your tax assessment notice, you may need more boxes to enter your non-Danish income. If so, please write to us or call us on:
+(+45) 72 22 28 92
+Mondays 9-17
+Tuesdays to Thursdays 9-16
+Fridays 9-14
+Non-Danish salary
+Generally, when you live in Denmark and get paid by a non-Danish employer, you have to pay tax on the income. This applies no matter where you do the job, in Denmark or outside Denmark.
+Read more (in Danish) about living in Denmark and working outside Denmark
+Non-Danish pension
+Generally, if you live in Denmark and get paid a pension from a non-Danish pension scheme, you have to pay tax to Denmark on these payments.
+However, the actual tax rate depends on whether Denmark and the relevant country have signed a double taxation agreement. The type of pension may also play a part.
+Read more about tax on non-Danish pensions
+Non-Danish property
+If you've bought property outside Denmark, you have to pay property value tax according to the Danish rules. If you rent out the property for short periods, you have to pay tax on the rental income and on the property value for the rental period. Please note that you can claim interest expenses in your tax.
+If you rent out the property for the entire year, you don't have to pay property value tax as it is then considered commercial rental.
+Read more about non-Danish property
+Non-Danish assets and investments
+If you have an account, shares or other securities in a non-Danish bank, you have to state it annually in your tax assessment notice. And remember to enter new investments. If you trade in cryptocurrencies, other rules may also apply.
+Read more (in Danish) about non-Danish investments
+Read more about cryptocurrencies
+Is your non-Danish income stated in E-tax?
+In our self-service system E-tax (TastSelv) at skat.dk/english, you can see the information that we have registered about your non-Danish income.
+Non-Danish income is not automatically registered in your tax assessment notice, you'll have to do that yourself - even if the information is stated in E-tax.
+Read more about the information we get from outside Denmark
+Change your preliminary income assessment when your financial situation changes
+Your preliminary income assessment (forskudsopgørelsen) is your tax budget for the coming year. So, remember to enter your expected non-Danish income in your preliminary income assessment and don't forget to change the figures if your income changes.
+Read more about the preliminary income assessment

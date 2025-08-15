@@ -1,0 +1,47 @@
+URL: https://skat.dk/en-us/individuals/shares-and-securities/tax-on-cryptocurrency-know-the-rules-and-avoid-a-tax-bill/staking-and-mining
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Staking and mining
+Have you been awarded cryptocurrency as staking rewards, or have you received cryptocurrency by mining? Then you have to pay tax on the value or profit.
+Read about the rules for the different types here.
+Declare gains and losses on your tax assessment notice
+Cryptocurrency awarded as staking rewards is in principle taxable on the date you received the cryptocurrency in your portfolio and can use it.
+As a result, you have to calculate the value of your staking rewards on the award date. The cryptocurrency awarded is taxed as personal income and you must declare the value in box 20 of your tax assessment notice (årsopgørelse).
+If you retain the cryptocurrency awarded in order to make a profit on resale, this will in principle be speculation. You must therefore declare any gain or loss when you sell the cryptocurrency.
+Read more about speculation here
+under (Calculate your transactions)
+.
+If you sell your awarded cryptocurrencies, you have to calculate whether you have made a gain or loss according to the FIFO principle, and together with your other cryptocurrency holdings.
+Read more about the FIFO principle here
+under Calculate your transactions
+.
+Read a relevant decision (in Danish)
+Cryptostaking - rebase rewards (SKM2022.323.SR)
+If you receive cryptocurrency by mining, this will in principle concern a hobby business. This is because the costs for mining will typically be very high.
+The profit on mining is taxed as personal income and you have to declare the value in box 20 of your tax assessment notice. Losses are not tax deductible.
+You can read more about hobby business under Non-commercial business at
+Clarify your business status
+.
+You can also read more about hobby business in our Danish-language legal guide:
+Beskatning af selvstændig erhvervsvirksomhed og ikke erhvervsmæssig virksomhed (hobbyvirksomhed) (Taxation of self-employment and non-commercial business (hobby business)
+.
+Read a relevant decision (in Danish)
+Cryptocurrency acquired by mining (SKM 2019.7.SR)
+For further legal information in Danish see
+our legal guide null
+Chat

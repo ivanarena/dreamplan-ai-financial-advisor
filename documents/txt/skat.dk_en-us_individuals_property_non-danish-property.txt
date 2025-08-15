@@ -1,0 +1,269 @@
+URL: https://skat.dk/en-us/individuals/property/non-danish-property
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Non-Danish property
+If you own property outside Denmark, you have to Danish property value tax on it - just like when you own Danish property.
+The actual property value tax depends on the market value of the property. But in contrast to Danish properties, non-Danish properties are not assessed based on a public property assessment. That's why you have to calculate the market value based on the purchase price of your property.
+You have to inform us about the following on your non-Danish property:
+An annually updated calculation of the market value
+Possible property tax paid outside Denmark
+An annually updated tax assessed value of the property
+Possible interest deductions if you have a mortgage
+Possible rental income
+On this page you can read more about how to register the purchase of a non-Danish property and how you calculate market value. You can also get more information on the rules of rental, interest deduction and double taxation.
+In some of the sections you can see who to call for further information.
+When you buy property outside Denmark, you have to report it in your Danish tax assessment notice (årsopgørelse). But before you can do so, you need access to certain boxes in your assessment. See below how you get that access.
+If you buy a non-Danish property in 2025, you report the market value in your tax assessment notice for 2025.
+You can't calculate the market value until April 2026 as you need the price movement index for 2025 which will be available at that time.
+When the index for 2025 is published, you can read about how you calculate the market value and how you report the value in your tax assessment notice for 2025 here on this page.
+If you bought a non-Danish property in 2024, you report it on your tax assessment notice for 2024. But before you can do so, you need access to new boxes in your tax assessment notice before you can register you new property.
+Log  on to your tax assessment notice in E-tax
+Select
+Change tax assessment notice/tax return
+Scroll down to
+Non-Danish income
+Click the calculator next to
+Non-Danish property
+Select
+Add Non-Danish property
+If you don't see
+Non-Danish income
+, you need to get access to some of the boxes. Then you:
+Scroll down until you see
+Missing a box above?
+Follow the instructions
+You can also call us on 72 22 28 92 for help.
+When you have access to the right boxes you need to enter the following:
+the estimated market value of your non-Danish property.
+possible property taxes you pay in the country your property is located.
+tax assessed value of the property.
+interest expenses and debt if you have a mortgage.
+possible interest income and deposits in non-Danish banks
+possible rental income if you rent out the property
+Please see how you do that below.
+You report properties bought before 2024 in your tax assessment notice for 2023.
+This is how you do it:
+Log on to E-tax (TastSelv)
+Select
+Change tax assessment notice/tax return
+Scroll down to
+Non-Danish income
+Click the calcualtor next to
+Non-Danish property
+Select
+Add non-Danish property
+If you don't see
+Non-Danish income
+, you need to get access to some of the boxes. Then you:
+Scroll down until you see
+Missing a box above?
+Follow the instructions
+You can also call us on 72 22 28 92 for help.
+When you have access to the right boxes you need to enter the following:
+the estimated market value of your non-Danish property.
+possible property taxes you pay in the country your property is located.
+tax assessed value of the property.
+interest expenses and debt if you have a mortgage.
+possible interest income and deposits in non-Danish banks
+possible rental income if you rent out the property
+Please see how you do that below.
+In 2024, you pay property value tax on a calculated market value as of 1 January 2022. This corresponds to the date used to assess the property tax on Danish properties.
+If you have already registered a market value for your property outside Denmark, this market value is automataically transferred to your preliminary income assessment (forskudsopgørelse) for 2024. This means that all of 2024 you paid provisional tax on a calculated market value.
+In your tax assessment notice (årsopgørelse) for 2024, you must re-calculate and update the market value as of 1 January 2022. The deadline is 1 July. When you have reported the new market value, it will be part of the re-calculation of your tax for 2024.
+How to calculate the market value as of 1 January 2022
+Your property value tax is calculated by indexing the price you paid for the property. This means that you have to convert the price on your non-Danish property by means of an index on price movement in 2021 and the year you bought the property.
+The index number for 2021 is used to calculate the market value as of 1 January 2022, as in 2024 you pay tax on the value of the property at that time (date of assessment).
+If you have build an extension or converted some of your property, the value of the extension or conversion will be added to the market value. The price of the extension or conversion is converted by means of index numbers in the same way as the purchase price of the property.
+This is what you do:
+Convert the purchase price by means of the index
+Convert to Danish kroner
+Round off the amount to the nearest DKK 1,000
+Example: Swedish property bought for  SEK 1 million in 2017
+1. Convert purchase price:
+(Index number for 2021 / index number for year of purchase 2017) x purchase price
+Find index number for conversion
+(1,186 / 902)
+x 1,000,000
+= SEK 1,314,856
+2. Convert to DKK:
+Converted purchase price in SEK (from step 1) x Danish exchange rate for 2021
+(See below how to find the exchange rate)
+1,314,856 x 0.7260
+= DKK 954,585
+3. Round off:
+Round off to nearest DKK 1,000
+= DKK 955,000
+Convert to Danish kroner:
+Go to
+the Danish Nationalk Bank (exchange rates, DNVALA)
+Currency: Click the relevant currency
+Type: Select ’Exchange rates (DKK per 100 units of foreign currency’
+Methodology: Select ’End-year’
+Year: select 2021
+Click ’Show table’.
+Contact us if you need help
+Please call the Danish Property Assessment Agency on +45 72 22 16 34 if you need help to make the calculation.
+If you haven't registered a property you bought before 2024, you have to do so in your tax assessment notice for 2023. You must calculate the value of your non-Danish property for 2001 (plus 5%), 2002 and 2020. You have to calculate all 3 values nomatter how long you owned the property.
+You find the market values for 2001, 2002 and 2020 by converting the price you paid for the property (purchase price). You pay tax on the lowest of the 3 market values which is multiplied by the applicable tax rate.
+Examples - how to calculate the value of your property for 2001, 2002 and 2020
+Here, you have some examples of how to calculate the value of non-Danish proeprty for 2001, 2022 and 2020 if you have bought a Swedish property for SEK 1 million in 2017.
+1. Convert purchase price
+(Index for 2001/index for year of purchase (2017)) x purchase price
+Find index for conversion
+(335/902) x 1,000,000 = SEK 371,397
+2.
+Convert to Danish kroner
+Convert purchase price in SEK (from stept 1) x Danish exchange rate for the end of 2000 (See how your find the exchange rate below)
+SEK 371,397  x 0.8451 = DKK 313,868
+3. Conversion including distance marker
+Converted purchase price in DKK (from step 2 2) / 1.15 (fixed distance marker for all countries)
+313,868 / 1.15 = DKK 272,929
+4. Increase value by 5%
+Converted value from step 3 x 1.05
+272,929 x 1.05 = DKK 286,575
+5. Round off
+Round off value from step 4 based on
+H.A.2.1.3 Rules for rounding off (in Danish)
+(The rules from 2001 and 2002 still apply).
+280.000 kr.
+1. Convert purchase price
+(Index for 2002/Index for year of purchase (2017)) x purchase price
+Find index for conversion
+(358/902) x 1,000,000 = SEK 396,896
+2.
+Convert to Danish kroner
+Convert purchase price in SEK (from stept 1) x Danish exchange rate for the end of 2001 (See how your find the exchange rate below)
+SEK 396,896 x 0.7989 = DKK 317,080
+3. Conversion including distanced marker
+Converted purchase price in DKK (from step 2) / 1.18 (fixed distance marker for all countries)
+317,080 / 1.18 = DKK 268,712
+4. Round off
+Round off value from step 4 based on
+H.A.2.1.3 Rules for rounding off (in Danish)
+(The rules from 2001 and 2002 still apply).
+DKK 260,000
+You enter the value as of 1 January 2020 in box 212.
+1. Convert purchase price
+(Index for 2019/Index for year of purchase (2017)) x purchase price
+Find index for conversion
+(923/902) x 1,000,000 = SEK 1,023,282
+2.
+Convert to Danish kroner
+Convert purchase price in SEK (from stept 1) x Danish exchange rate for the end of 2019 (See how your find the exchange rate below)
+SEK 1,023,282 x 0.7155 = DKK 732,158
+3. Round off
+Round off to nearest  1,000
+DKK 732,000
+How you find the exchange rate:
+Go to
+the Danish Nationalk Bank (exchange rates, DNVALA)
+Currency: Click the relevant currency
+Type: Select ’Exchange rates (DKK per 100 units of foreign currency)’
+Methodology: Select ’End-year’
+Year: select 2021
+Click ’Show table’.
+When you have registered your property in your tax assessment for 2023, you have to update the value in your tax assessment notice for 2024 - if you haven't already done so. Please see above how you do that.
+Contact us if you need help
+Please call the Danish Property Assessment Agency on +45 72 22 16 34 if you need help to make the calculation.
+If you have paid property taxes outside Denmark, you often get a tax relief in Danish property value tax for your non-Danish property.
+However, you can't get a relief for land taxes, registration fees or other taxes or duties related to the transfer or financing of the property.
+How to report non-Danish property tax
+You must report the non-Danish property tax paid for your non-Danish property yourself.
+If there are multiple owners, you should report the portion of the property tax corresponding to your ownership share. For example, if you own 50% of the property, you must report an amount equal to half of the total non-Danish property tax.
+You can report your paid non-Danish property tax under 'Change tax assessment notice/tax return under Non-Danish property.
+Examples of property taxes that can be deducted:
+Sweden: Fastighetsavgift (for the part used by the owner as a residence)
+Spain: El Impuesto sobre los Bienes Inmuebles (IBI) (for the part used by the owner as a residence)
+France: Taxe foncière sur les propriétés bâties and Taxe d'habitation (for the part used by the owner as a residence)
+Special rule for France
+You're not required to pay Danish property value tax on a property in France if:
+You have been subject to full tax liable in Denmark since 28 November 2007.
+You purchased the property before 29 November 2007.
+If you don't meet both conditions, the general reduction rules apply.
+You can read more in Danish about the double taxation rules in the double taxation agreements at skm.dk.
+Report paid non-Danish property taxes in your tax assessment notice
+Please call the Danish Property Assessment Agency (Vurderingsstyrelsen) on 72 22 16 16 if you have further questions.
+If you own property abroad, you must also report a tax assessed value for the property in box 491 of your tax assessment notice.
+The tax assessed value is the amount you believe the property could be sold for on 1 January of the income year you are providing information for. For example, if you are changing your tax assessment notice for 2024, the value should be as of 1 January 2024.
+You should only report the portion of the value that corresponds to your share of ownership.
+Example:
+Cash purchase price as of 1 January = DKK 1,000,000
+You own 50% of the property
+You must enter (50% of DKK 1,000,000) =
+DKK 500,000
+Remember to convert the relevant number into Danish kroner.
+You can use the currency converter we provide in the tax assessment notice. Please note that you'll then get the average exchange rate for the relevant currency provided by the Danish National Bank.
+If you have loans related to your property, you can deduct the interest expenses in your Danish tax assessment notice.
+It is important that you enter your non-Danish interest expenses under Non-Danish property in your tax assessment notice.
+However, if you rent out your non-Danish property for at least 12 months, you should instead report the interest expenses under Non-Danish business.
+If you have interest expenses with a Danish mortgage credit institution related to your non-Danish property, you must move the interest expenses to be stated under Non-Danish property or Non-Danish business.
+Report interest expenses in your tax assessment notice
+Call us on +45 72 22 27 80 if you have further questions.
+You must pay tax in Denmark if you rent out your non-Danish property.
+The same rules apply as for renting out Danish properties. However, it is important that you enter your non-Danish rental income under Non-Danish property in your tax assessment notice.
+If you rent out your non-Danish property for at least 12 months, you should instead report the rental profit under Non-Danish business.
+If you have paid non-Danish tax on your rental income, you must also include it in your tax assessment notice.
+Read more about the rental rules
+.
+Report your rental income in your tax assessment notice
+Please call us on 72 22 27 80 if you have other questions to this subject.
+Log on the E-tax (TastSelv)
+Select
+Change tax assessment notice/tax return
+Scroll down to
+Non-Danish income
+Click the calculator next to
+Non-Danish property
+Click the pencil to the right of the address of the property you wan to to update
+Enter the calculated market value in
+box 212
+Enter the market value of the property assessed for tax purposes in
+box 491
+If necessary, you adjust the boxes for tax paid outside Denmark or share of ownership
+Click
+Next
+Enter
+Amount
+related to the property, rental income for example
+Click
+Next
+If necessary, you adjust
+Other boxes
+Click
+Save
+to save your changes
+Click
+Back
+at the bottom of the screen
+If you make changes to your tax assessment notice for 2023:
+Write a short explanation of why you have made the changes. It could be 'updated market value' in field
+Give reasons for your changes
+If you make changes to your tax assessment notice for 2024:
+Go to step 16
+Click
+Next
+Click
+Next
+click
+Accept
+For further legal information in Danish see
+our legal guide .
+Read more
+Home improvement and household services
+Index
+See index for calculating the market price

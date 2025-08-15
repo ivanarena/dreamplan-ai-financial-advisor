@@ -1,0 +1,71 @@
+URL: https://skat.dk/en-us/individuals/shares-and-securities/buying-and-selling-shares-and-securities/gain-and-loss-are-determined-according-to-the-average-cost-method
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Gain and loss are determined according to the average cost method
+The gain is determined as the difference between the selling price of the shares sold and the average purchase price of the shares.
+The average purchase price is calculated based on the purchase prices of all shares in each company before the sale.
+When determining the gain, you must take into account any changes in denomination, share capital increases etc.
+However, you must not include shares that can be sold tax-free according to the transitional rule on shares and investment certificates purchased before 1 January 2006 and employee shares held in custody accounts.
+Example of average cost method/unchanged denomination
+The purchase price of the shares sold is determined according to nominal denominations or the number of shares if all the shares had the same denomination on purchase and sale:
+DKK
+Purchase in 2000, nominal value of the shares = DKK 50,000 or 500 shares at DKK 100 each. Price per share = DKK 300
+150,000
+Purchase in 2001, nominal value of the shares = DKK 100,000 or 1,000 shares at DKK 100 each. Price per share = DKK 200
+200,000
+Purchase in 2006, nominal value of the shares = DKK 50,000 or 500 shares at DKK 100 each. Price per share = DKK 150
+75,000
+Total purchase price
+425,000
+Average purchase price per share, DKK 425,000/2,000 shares
+212.50
+Selling price of 1,500 shares in 2014
+400,000
+Acquisition cost of 1,500 shares at DKK 212.50 each
+318,750
+Gain
+81,250
+Acquisition cost of the remaining 500 shares to be used when these shares are sold, 500 shares at DKK 212.50 each
+106,250
+Example of average cost method/changed denomination
+(The purchase price of the shares sold is determined based on nominal denominations or number of shares)
+DKK
+Purchase in 2000, nominal value of the shares = DKK 50,000 or 500 shares at DKK 100 each. Price per share = DKK 300
+150,000
+Purchase in 2001, nominal value of the shares = DKK 100,000 or 1,000 shares at DKK 100 each. Price per share = DKK 200
+200,000
+Total purchase before change in denomination. Nominal value of the shares = DKK 150,000 or 1,500 shares at DKK 100 each. Price per share = DKK 233.33
+350,000
+Change in denomination from DKK 100 to DKK 10 means that the nominal value of the holding is subsequently DKK 150,000 or 15,000 shares at DKK 10 each. Price per share = DKK 23.33 (350,000/15,000)
+350,000
+Purchase in 2006, nominal value of the shares = DKK 50,000 or 5,000 shares at DKK 10 each. Price per share = DKK 15
+75,000
+Total purchase price DKK 350,000 + DKK 75,000
+425,000
+Average purchase price per share, DKK 425,000/20,000 shares
+21.25
+Selling price of 15,000 shares in 2014
+400,000
+Acquisition cost of 15,000 shares at DKK 21.25 each
+318,750
+Gain
+81,250
+Acquisition cost of the remaining 5,000 shares to be used when these shares are sold (5,000 shares at DKK 21.25 each)
+106,250
+For further legal information in Danish see
+our legal guide .

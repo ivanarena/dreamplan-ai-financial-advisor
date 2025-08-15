@@ -1,0 +1,93 @@
+URL: https://skat.dk/en-us/individuals/shares-and-securities/buying-and-selling-shares-and-securities/conditions-for-deduction-of-loss-on-shares-and-investment-certificates
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Conditions for deduction of loss on shares and investment certificates
+You may only deduct a loss on shares admitted for trading and investment certificates if we have been informed about the purchases of the shares or investment certificates on which a loss has been incurred.
+Loss on shares and investment certificates in share-based investment undertakings with minimum taxation incurred in or after the 2015 income year must have been declared in order for the loss to be brought forward for setoff in subsequent years.
+You must inform the Tax Agency about the shares’:
+Identity
+Quantity
+Date of purchase
+Purchase price including trading costs
+Price (only applies to shares and investment certificates in investment companies).
+Date of purchase time etc.
+Deadline for declaring information to the Tax Agency
+Shares
+Shares purchased from and including 1 July 2012 for which you declare information to the Tax Agency yourself
+1 July in the year after you purchased the shares. If 1 July is a Saturday or Sunday, you have to declare the information to the Tax Agency the next working day at 9 am.
+Your bank can subsequently correct and add information to declarations regardless of whether the deadline (1 July in the year after the purchase year) has been met. In such case, you will retain your right of deduction of any loss.
+Shares purchased before 1 July 2012
+The declaration deadline for the purchase year.
+Shares purchased before 1 January 2010
+The declaration deadline for purchases has been met if the shares are included in the portfolio information that your bank has reported to the Tax Agency as at 31 December 2009.
+If your bank does not report the purchase, for example because the shares are held in a foreign custody account, you were obliged to declare the purchase to the Tax Agency before expiry of the declaration deadline for 2010.
+Shares distributed from the estate of a deceased person
+1 July of the year following distribution. However, the deadline is extended to the same date as the submission of the estate inventory if it has been submitted after 1 July. If 1 July is a Saturday or Sunday, you have to declare the information to the Tax Agency the next working day at 9 am.
+Investment certificates in share-based investment undertakings with minimum taxation
+Investment certificates in share-based investment undertakings with minimum taxation
+Same deadlines as for shares.
+Investment certificates in bond-based investment undertakings with minimum taxation
+Investment certificates in bond-based investment undertakings with minimum taxation purchased before 1 June 2014
+Loss incurred on or after 1 June 2014:
+The declaration deadline for purchases has been met if investment certificates in bond-based investment undertakings with minimum taxation are included in the portfolio information that your bank has reported to the Tax Agency as at 31 December 2014.
+If you have investment certificates in bond-based investment undertakings with minimum taxation and these are not reported, you must declare the purchase to the Tax Agency before expiry of the declaration deadline for 2014.
+Investment certificates in bond-based investment undertakings with minimum taxation purchased on or after 1 June 2014
+If the bank has not reported the information for you, you must declare the purchase to the Tax Agency no later than on 1 July in the year after you purchased investments certificates in bond-based investment undertakings with minimum taxation.
+If 1 July is a Saturday or Sunday, you have to declare the information to the Tax Agency the next working day at 9 am.
+Your bank can subsequently correct and add information to declarations regardless of whether the deadline (1 July in the year after the purchase year) has been met. In such case, you will retain your right of deduction of any loss.
+Investment certificates in bond-based investment undertakings with minimum taxation distributed from the estate of a deceased person
+Loss incurred on or after 1 June 2014:
+1 July of the year following distribution. However, the deadline is extended to the same date as the submission of the estate inventory if it has been submitted after 1 July.
+Loss incurred on or after 1 June 2014, and where the acquisition took place before 1 June 2014:
+The declaration deadline for investment certificates in bond-based investment undertakings with minimum taxation acquired before 1 June 2014 has been met if they are included in the portfolio information that your bank has reported to the Tax Agency as at 31 December 2014.
+If you have investment certificates in bond-based investment undertakings with minimum taxation and these are not reported, you must declare the acquisition to the Tax Agency before expiry of the declaration deadline for 2014.
+Shares and investment certificates in investment companies
+Shares and investment certificates in investment companies purchased before 1 June 2014
+Loss incurred on or after 1 January 2015:
+The declaration deadline for purchases has been met if the shares and investment certificates in the investment company are included in the portfolio information that your bank has reported to the Tax Agency as at 31 December 2014.
+If you have shares and investment certificates in an investment company and these are not reported, you must declare the purchase to the Tax Agency before expiry of the declaration deadline for 2014.
+Shares and investment certificates in investment companies purchased on or after 1 June 2014
+Loss incurred before 1 January 2015:
+There is no declaration requirement for purchases.
+Loss incurred on or after 1 January 2015:
+If the bank has not reported the information for you, you must declare the purchase to the Tax Agency no later than on 1 July in the year after you purchased shares and investment certificates in the investment company.
+Your bank can subsequently correct and add information to declarations regardless of whether the deadline (1 July in the year after the purchase year) has been met. In such case, you will retain your right of deduction of any loss.
+Shares and investment certificates in investment companies distributed from the estate of a deceased person
+Loss incurred on or after 1 January 2015:
+1 July of the year following distribution. However, the deadline is extended to the same date as the submission of the estate inventory if it has been submitted after 1 July.
+Loss incurred on or after 1 January 2015, and where the acquisition took place before 1 June 2014:
+The declaration deadline has been met for shares and investment certificates in the investment company acquired before 1 June 2014 if they are included in the portfolio information that your bank has reported to the Tax Agency as at 31 December 2014.
+If you have shares and investment certificates in an investment company and these are not reported, you must declare the acquisition to the Tax Agency before expiry of the declaration deadline for 2014.
+Special rules apply if you purchased shares and investment certificates before you became liable to pay tax in Denmark.
+No exemption
+You cannot be granted an exemption if you do not meet the declaration deadline for the purchase. This means that you forfeit your right to deduct a later ascertained loss.
+If your share purchase is not covered by the bank’s reporting obligation (for example shares purchased through a foreign securities dealer), you must declare the purchase to the Tax Agency yourself.
+You can agree with the foreign securities dealer that the dealer reports the purchase on your behalf. The securities dealer must report purchases before expiry of the deadline for parties that are subject to a reporting obligation, i.e. no later than 20 January in the year following the purchase year. If this day is a Saturday or Sunday, you have to declare the information to the Tax Agency the next working day at 9 am.
+You will therefore retain your right to a deduction of loss if the information is submitted within the above deadline. The foreign securities dealer may subsequently report corrections/supplementary information in the same way as Danish parties that are subject to a reporting obligation.
+No reconsideration
+You cannot have your tax assessment reconsidered after the expiry of the declaration deadline if you have, or your foreign securities dealer has, failed to meet the deadline for declaration or reporting of the purchase to the Tax Agency.
+Some transitional rules are applicable to the taxation of shares purchased before 2006:
+Transitional rules on shares and investment certificates purchased before 2006
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions about this subject?
+Call us
+before
+Kl.
+17:00
+72222894

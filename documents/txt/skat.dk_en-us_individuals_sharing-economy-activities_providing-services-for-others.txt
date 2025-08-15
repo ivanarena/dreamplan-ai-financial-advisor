@@ -1,0 +1,62 @@
+URL: https://skat.dk/en-us/individuals/sharing-economy-activities/providing-services-for-others
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Providing services for others
+When you carry out services for others and receive payment for it, you need to pay tax and possibly VAT on your income. Maybe you help someone with cleaning, gardening, handiwork, homework help or babysitting? It applies no matter how the activity is arranged.
+Other rules apply if the service you provide is done as part of your job or if you are self-employed.
+Read here if you are under 16, retired or providing a service for family or friends (Danish only)
+See your tax assessment notice
+See your preliminary income assessment
+Income like this is normally B-income, which means that tax and labour market contribution have not been deducted before you are paid.
+You pay tax and labour market contribution on your B-income by entering your expected income in
+field 210 of your preliminary income assessment
+and checking that your actual income is entered in
+box 12 or 15 on your tax assessment notice
+. In case it is not, you enter the income in
+box 15 of your tax assessment notice
+.
+If you have expenses related to providing the service, you can deduct them. You do so by entering your expected expenses in
+field 425 of your preliminary income assessment
+and your actual expenses in
+box 29 of your tax assessment notice
+.
+Changing your tax assessment notice:
+Log on to E-tax
+.
+Click ‘Ret årsopgørelsen/oplysningsskemaet’ (Change your tax assessment notice/tax return).
+Check that your income is entered in box 12 ‘Honorarer, indkomst ved hushjælp
+...’
+(Fees, income from providing domestic help) or in box 15 ‘Anden personal indkomst’ (Other personal income). If it is not, you should enter the income in box 15.
+Enter any expenses in box 29 ‘Øvrige fradrag i din personlige indkomst’ (Other deductions from personal income).
+Decide whether you have other information to correct.
+Approve your tax assessment notice at the bottom of the page.
+You will be shown a receipt when you are finished and your tax assessment notice is shown.
+Other rules apply, however, if the service is carried out while you are employed or self-employed.
+Read about the rules for employees and self-employed
+If your income exceeds DKK 50,000 within a 12-month period, you must register for and pay VAT. If you know from the outset that your income will exceed DKK 50,000, you must register for VAT and pay VAT from the outset.
+Once you are registered for VAT, you must enter your income exclusive of VAT in your tax assessment notice.
+You register for VAT at virk.dk (Danish only)
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions about this subject?
+Call us
+before
+Kl.
+17:00
+72222795
+Chat

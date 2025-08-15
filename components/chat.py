@@ -11,7 +11,6 @@ def format_messages(messages: List[dict]) -> str:
 
 
 async def chat(messages: List):
-    # TODO write about dynamic context injection strategy
     try:
         triage = await Runner.run(
             triage_agent,

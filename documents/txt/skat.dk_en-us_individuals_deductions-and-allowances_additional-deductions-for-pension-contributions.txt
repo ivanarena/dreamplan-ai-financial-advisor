@@ -1,0 +1,75 @@
+URL: https://skat.dk/en-us/individuals/deductions-and-allowances/additional-deductions-for-pension-contributions
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Deutsch
+Additional deductions for pension contributions
+You automatically obtain an additional tax deduction when you or your employer contributes to pension schemes approved as deductible for tax purposes.
+The deduction is calculated as a percentage of your or your employer's contributions of up to DKK 83,800 in 2025 (DKK 80,600 in 2024).
+In the calculation the sum of taxable payments from pension schemes of the income year is deducted. However, certain types of pension payments are not deducted.
+The percentage depends on how many years you are from reaching the state pension age.
+15 years or less
+With 15 years or less until you are entitled to a state pension, you obtain an additional deduction of 32% on contributions of up to DKK 83,800 in 2025. This means that your maximum deduction is DKK 83,800 x DKK 0.32 = DKK 26,816 in 2025  (DKK 80,600 x 0.32 = DKK 25,792 in 2024).
+More than 15 years
+With more than 15 years until you are entitled to a state pension, you obtain an additional deduction of 12% on contributions of up to DKK 83,800 in 2025. This means that your maximum deduction is DKK 83,800 kr. x 0.12 = DKK 10,056 in 2025 (DKK 80,600 x 0.12 = DKK 9,672 in 2024).
+15 years or less until state pension
+Year
+Rates
+Maximum amount
+2025
+32% on contributions up to DKK 83,800
+DKK 26,816
+2024
+32% on contributions up to DKK 80,600
+DKK 25,792
+More than 15 years until state pension
+Year
+Rates
+Maximum amount
+2025
+12% on contributions up to DKK 83,800
+DKK 10,056
+2024
+12% on contributions up to DKK 80,600
+DKK 9,672
+The state pension age is adjusted from time to time and is as follows:
+State pension age
+If you were born
+You can retire when you are
+Before 1 January 1954 *
+65 years
+Between 1 January 1954 and 30 June 1954 **
+65.5 years
+Between 1 July 1954 and 31 December 1954 **
+66 years
+Between 1 January 1955 and 30 June 1955
+66.5 years
+Between 1 July 1955 and 31 December 1962 **
+67 years
+Between 1 January 1963 and 31 December 1966
+68 years
+From 1 January 1967 or later
+69 years
+The information in the above table is only usable for guidance. The state pension age may be increased according to the life expectancy.
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions to this subject?
+Call us
+before
+Kl.
+17:00
+72222795

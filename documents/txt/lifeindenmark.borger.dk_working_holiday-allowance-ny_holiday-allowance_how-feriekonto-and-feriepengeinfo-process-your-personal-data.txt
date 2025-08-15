@@ -1,0 +1,96 @@
+URL: https://lifeindenmark.borger.dk/working/holiday-allowance-ny/holiday-allowance/how-feriekonto-and-feriepengeinfo-process-your-personal-data
+
+How Feriekonto and Feriepengeinfo process your personal data
+Read more and self-services
+Introduction
+In the following, you can read more about what personal data FerieKonto and Feriepengeinfo process, how FerieKonto and Feriepengeinfo process the data and your rights in that regard. The situations where FerieKonto/Feriepengeinfo process your personal data include:
+Accrued and receivable holiday allowance
+Application for the disbursement of holiday allowance
+The disbursement of holiday allowance
+FerieKonto and Feriepengeinfo are responsible for processing your personal data.
+Why Feriekonto/Feriepengeinfo process your personal data
+We process your personal data to manage the tasks bestowed upon FerieKonto in accordance to The Danish Holiday Act and The Danish Executive Order on Holiday. This includes:
+Receiving information and payment from employers regarding employees’ accrued holiday allowance
+Displaying information for employees regarding their accrued holiday allowance
+Receiving and processing applications regarding the disbursement and transfer of holiday allowance
+Controlling that holiday allowance has been rightfully received. This also entails controlling whether or not an employee received holiday allowance and public benefits simultaneously, resulting in a reimbursement of holiday allowance
+Administrating the Danish-German holiday agreement and making verdicts regarding the retention and offsetting of holiday allowance at FerieKonto
+Training our employees and improving the customer experience when you call us and confirm that we may record the conversation
+Testing our systems for the purpose of development, optimization and handling mistakes.
+What types of data do FerieKonto and Feriepengeinfo process?
+We only obtain and process the data necessary for our case handling. The data processed by FerieKonto and Feriepengeinfo include:
+Ordinary personal data
+We receive your Civil Registration Number and other basic information from the Central Personal Registry (CPR)
+We receive information about reported holiday allowance from The Danish Tax Agency
+We receive information regarding NemKonto from The Danish Agency for Digital Government (Digitaliseringsstyrelsen)
+We receive information regarding your public benefits from municipalities and unemployment insurance funds (a-kasser)
+We receive information from your employer regarding your employment details. This includes information regarding your accrued holiday allowance and date of termination of employment.
+Sensitive personal data
+You may yourself have provided us with the data if you have applied for disbursement of your holiday pay or contacted us with a general inquiry concerning holiday pay. This information may include health information or your relationship to your workers union or unemployment insurance fund.
+Criminal sentences and legal violations
+We receive information from your employer regarding criminal sentencing that is related to cases of withholding or offsetting holiday allowance.
+How do FerieKonto and Feriepengeinfo process your personal data?
+FerieKonto and Feriepengeinfo process your personal data on the basis of the Danish Holiday Act, the Danish Executive Order on holiday and the executive orders that are warranted by it.
+As part of the case handling, it may be necessary to disclose your personal data to, for example, recognized unemployment insurance funds, municipalities and central government authorities including Arbejdsmarkedets Feriefond, which are legally permitted to obtain personal data.
+Who do we pass on your personal data to?
+We can pass
+on your personal data to others who are legally permitted to obtain the data.
+This includes authorities, institutions and relevant private corporations.
+We pass on
+the following personal data:
+Ordinary personal data:
+We
+pass on information to municipalities and unemployment insurance funds (a-kasser) regarding the disbursement of
+holiday allowance for the purpose of control
+We
+pass on information to your employer regarding your application for holiday
+allowance
+We
+pass on information to Arbejdsmarkedets Feriefond/private holiday funds regarding your undisbursed
+holiday allowance
+We pass on information to the Danish Debt Collection Agency regarding debt in cases of wrongfully disbursed holiday allowance
+We
+pass on information to Ankenævnet for Arbejdsmarkedets
+Tillægspension/Ankestyrelsens Beskæftigelsesudvalg regarding complaints made about
+FerieKonto’s decision
+We
+pass on your case to Rigsarkivet in certain situations.
+How long do we keep your personal data?
+We keep your data for the duration of the processing of your case and delete it after 6 years. We keep the data after we have processed your case because of rules in the Danish Holiday Act and the Bookkeeping Act.
+When you contact FerieKonto and Feriepengeinfo by phone, you might be asked for permission to record the conversation. The conversation will only be recorded if you give us your permission to do so. All recorded conversations will be deleted after two months. You can always contact FerieKonto and Feriepengeinfo, if you wish to have the recording deleted sooner.
+Automatic individual decisions
+We may make decisions that are solely based on automatic case processing. We make automatic decisions by gathering information from you that is compared to information provided by your employer regarding your accrued holiday allowance. Collectively, this determines whether or not you are entitled to the disbursement of holiday allowance.
+What rights do you have?
+You can obtain a copy of the data that we use to handle your case (insight).
+You can file a complaint regarding our treatment of your personal data (right to object).
+You can also request the following:
+to have your personal data rectified or erased
+to have the data sent to you or another party
+FerieKonto/Feriepengeinfo to suspend the processing of your case.
+Finally, you can object to FerieKonto or Feriepengeinfo making automated decisions.
+If you request to have your personal data erased, we cannot guarantee that we can accommodate your request.
+There may be conditions or limitations regarding the rights mentioned above. You can therefore not be certain that it is your right to have your personal data deleted in certain situations. This depends on the conditions of the data processing in question. This may be because personal data are part of a case regarding disbursement made to a third party or the compliance of a legal claim.
+If you have questions
+Do you have any questions regarding your case?
+If you have any questions about your case, please contact FerieKonto or Feriepengeinfo:
+Contact FerieKonto
+Contact Feriepengeinfo
+Do you have questions about your personal data?
+If you have questions concerning FerieKonto or Feriepengeinfo's processing of your personal data or if you want to exercise your rights to, for example, get access to or erase your personal data, you can contact FerieKonto or Feriepengeinfo.
+If you write to FerieKonto or Feriepengeinfo, please write "personal data" in the subject line.
+Are you unsatisfied with the processing of your personal data?
+You can contact the Data Protection Officer if you think:
+that you have not received a satisfactory response to your request for access to your personal data
+that FerieKonto or Feriepengeinfo have not respected your rights.
+Contact the Data Protection Officer
+If you disagree with the way in which FerieKonto or Feriepengeinfo process your personal data, you may submit a complaint to the Danish Data Protection Agency (Datatilsynet).
+Please note that the Danish Data Protection Agency is only a complaints body in respect to FerieKonto’s and Feriepengeinfo’s processing of personal data and not the handling of your case.
+If you disagree with the way in which FerieKonto or Feriepengeinfo is handling your case, you should contact FerieKonto or Feriepengeinfo.
+Legal framework
+You can read more in:
+The Danish Holiday Act
+(new window - in Danish)
+The General Data Protection Regulation
+(new window - in Danish)
+The Danish Data Protection Act
+(new window - in Danish)

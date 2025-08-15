@@ -1,0 +1,119 @@
+URL: https://skat.dk/en-us/individuals/sharing-economy-activities/renting-out-your-car-boat-or-caravan
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Renting out your car, boat or caravan
+If you rent out your car, boat or caravan to private individuals, you must pay tax (and possibly VAT) on your income. Please note that you are entitled to a deduction, which means that you only pay tax on part of the income.
+You can choose between the below deductions:
+Standard deduction – if you rent out your car, boat or caravan through a platform subject to mandatory reporting
+Accounting deduction – you may only deduct your actual expenses.
+Read more about the individual deductions here and try our Danish-language guide to calculate your taxable income.
+Estimate your taxable income (in Danish)
+Log on to E-tax  (TastSelv)
+What is a standard deduction (bundfradrag)?
+A standard deduction is an amount you don't have to pay tax on. You are entitled to a standard deduction if you rent out your car, boat, or caravan through a platform that is subject to reporting, such as an agency that provides a website or app for individuals who wants to offer rentals.
+Which standard deduction are you entitled to?
+For renting out a regular car, boat, or caravan via a such a platform, you are entitled to a standard deduction of DKK 12,000 in 2025 (DKK 11,500 in 2024).
+For renting out a petrol or diesel car (including mild hybrids without plug-in) via a such a platform – because their CO₂ emissions exceed 50 g/km – you are also entitled to a standard deduction of DKK 12,000 in 2025 (DKK 11,500 in 2024).
+For renting out an electric, hydrogen, or hybrid car with CO₂ emissions below 50 g/km, you are entitled to a higher standard deduction of DKK 22,500 in 2025 (DKK 21,600 in 2024).
+Rules for the standard deduction
+If you rent out both a regular vehicle (car/boat/caravan) and an electric, hydrogen or hybrid car, you are entitled to two separate standard deductions, which must be calculated individually.
+You must pay tax on 60% of the income exceeding the standard deduction.
+You can't deduct expenses when using the standard deduction.
+For the years 2023, 2024 and 2025, you are entitled to the standard deduction if the rental was made through a platform subject to mandatory reporting – regardless of whether the platform submitted the report or not.
+If you’re unsure whether a platform is subject to mandatory reporting, you should contact the platform directly. You can see the information reported by the platform in
+your tax details via E-tax
+(our online self-service system).
+Guide: How to check your car’s CO₂ emissions
+Go to the Motor Register (Motorregisteret).
+Search using your car’s registration number.
+Look under “Technical information” → “Consumption”.
+If the CO₂ emission is below 50 g/km, you are entitled to the DKK 22,500 standard deduction.
+If CO₂ emissions are not listed
+If there’s no value under “Samlet beregnet CO2-udslip" (Calculated total CO₂ emissions), check the “Målenorm" (Measurement standard):
+Measurement standard = WLTP: Use the CO₂ value shown.
+Measurement standard = NEDC: Multiply the CO₂ value by 1.21 to calculate the total emission.
+If you have questions about the accuracy of CO₂ emission values, contact the importer of your vehicle, your inspection site, or the Danish Road Traffic Authority (Færdselsstyrelsen).
+Your platform needs your personal data
+New EU law for online platforms
+If you sell goods via an online platform, you may be contacted by the company operating the platform, requesting your full name, CPR number (civil registration number), residential address and other personal information.
+Why does the platform ask for your personal data?
+A new EU directive – DAC7, which took effect on 1 January 2023 – requires online platform operators to report new types of information about their users to the Danish Tax Agency or a non-Danish tax authority.
+These reporting obligations are intended to enable European tax authorities to identify users of online platforms and gain insight into the amounts earned by users through such platforms.
+If the platform doesn't get your personal data
+If the platform doesn't get your personal information, it may be required to suspend payments to your account.
+You can see the income reported by the platform in your tax records by logging on to E-tax (TastSelv).
+Read more about our privacy policy
+.
+What is an expense-based deduction (regnskabsmæssigt fradrag)?
+An expense-based deduction allows you to reduce your taxable income. If you choose this deduction method, you can deduct documented expenses from your total rental income before reporting it on your preliminary income assessment (forskudsopgørelse) and tax assessment notice (årsopgørelse).
+How to do it
+Enter your rental income minus expenses in box 20 on your tax assessment notice.
+Keep all documentation – you must be able to provide receipts if requested.
+You can't switch to the standard deduction (bundfradrag) later on.
+Which expenses can you deduct?
+You may only deduct expenses directly related to the rental activity.
+You must apply the expense-based deduction to your total income from renting out cars, boats, and caravans.
+You can't mix deduction methods, e.g. use the expense-based deduction for car rental and the standard deduction for boat rental.
+Keep records and a mileage log
+Keep detailed accounts and save all receipts. If we request it, you must submit your records. Use a mileage log to calculate the part of expenses related to the rental use.
+Your mileage log should include the vehicle’s odometer reading:
+At the start of the income year
+Before and after each rental
+At the end of the year
+Download a mileage log template here (in Danish)
+Operating and maintenance expenses
+You are entitled to deduct the part of your operating and maintenance costs that relates to the rental activity.
+Calculate this by determining the percentage of rental driving compared to total annual driving.
+Example:
+If rental driving makes up 10% of your total driving, you may deduct 10% of expenses such as service, tires, green ownership tax, insurance, etc. Expenses for fuel can't be deducted.
+Depreciation for the year
+You may deduct a proportional share of the estimated depreciation on your car, boat, or caravan for the year. Again, this is based on the ratio of rental use compared to total use.
+You can't use depreciation under the Depreciation Act (Afskrivningsloven) – this is only available for commercial businesses.
+No deduction for losses
+You can't deduct a loss. If your annual expenses exceed your annual rental income, you simply don't report anything on your tax assessment notice.
+If your income from occasional rental activity exceeds DKK 50,000 within a period of 12 months, you must register for and pay VAT.
+If you know from the first time you rent out that your income will exceed DKK 50,000, you must register for and pay VAT from the beginning.
+Register for VAT via indberet.virk.dk.
+You must report your rental income exclusive of VAT in box 20.
+Only rental cars can claim a VAT deduction.
+Please note that your rental activity will be considered commerncial business.
+Read about commercial and non-commercial businesses
+You register for VAT at virk.dk (Danish only)
+VAT deduction only for already registered rental cars
+Generally, you are not entitled to deduct VAT on the purchase and running of personal vehicles. But, if your personal vehicle is registered and insured as a rental car, you are entitled to a VAT deduction.
+Special rules apply for VAT deductions if the personal vehicle is registered and insured as a rental car and you also use the car for private purposes.
+Estimate your taxabe income
+Deduct the standard deduction from your total rental income
+Next, you deduct 40% (also called a 40% reduction)
+Then you have the taxable amount
+State the taxable amount in box 20 in your tax assessment notice (årsopgørelsen) and in field 250 in your preliminary income assessment (forskudsopgørelsen).
+Please note
+You can't use the standard deduction on income from rental cars, for example, and then use the accounting deduction on income you have from renting out a boat.
+Change your tax assessment noticed (årsopgørelsen) and your preliminary income assessment (forskudsopgørelsen)
+Log on to E-tax (TastSelv)
+(our self-service system)
+Select Change tax assessment notice/tax return
+Enter your taxable income in box 20
+Decide if you need to make other changes to your tax assessment notice
+Click Next and then Accept
+You will not see a receipt and you can see your tax assessment notice
+Find your preliminary income assessment in E-tax rigth next to your tax assessment notice. Enter your taxable income in field 250.
+Read about the tax assessment notice (årsopgørelsen)
+Read about the preliminary income assessment (forskudsopgørelsen)
+For further legal information in Danish see
+our legal guide .

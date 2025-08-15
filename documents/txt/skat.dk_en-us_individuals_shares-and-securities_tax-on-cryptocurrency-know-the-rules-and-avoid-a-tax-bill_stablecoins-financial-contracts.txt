@@ -1,0 +1,52 @@
+URL: https://skat.dk/en-us/individuals/shares-and-securities/tax-on-cryptocurrency-know-the-rules-and-avoid-a-tax-bill/stablecoins-financial-contracts
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Stablecoins (financial contracts)
+If you have bought or sold financial contracts for which the underlying asset is cryptocurrency, the gain or loss must be taxed as capital income.
+If the contract was established and settled in the same income year, the gain or loss must be included for that income year.
+If the contract was not established and settled in the same income year, you must include the gain or loss for each year according to the inventory principle.
+Read more here in Danish on how to calculate gains and losses according to the inventory principle.
+You have to calculate the gain and loss for each contract at the end of the year. If you have multiple financial contracts, you include the year’s total net gain or net loss.
+If you are in doubt as to whether you have bought or sold a financial contract, we recommend that you request a binding ruling.
+Request a binding ruling
+.
+Declare gains and losses on your tax assessment notice
+You are liable to pay tax on gains on financial contracts and the gains must be included in taxable income. You must declare the gains in box 346 of your tax assessment notice (årsopgørelse).
+You can deduct losses on your financial contracts if the loss does not exceed tax-liable, declared net gains for the 2002 income year and subsequent income years. Losses must be declared in box 346 of your tax assessment notice (årsopgørelse), preceded by a minus sign.
+A loss against which your gain cannot be offset (for carryforward) must be entered in box 85 of your tax assessment notice.
+Read more in Danish on how to declare gains and losses on financial contracts.
+Gains and losses on financial contracts have to be taxed as capital income.
+If you receive cryptocurrency as a gain on a financial contract, the gain has to be taxed as capital income, and the cryptocurrency you have received will be deemed to have been acquired with the intention of speculation.
+Read more in Danish on speculation here
+under Calculate your transactions
+.
+If you incur a loss on a financial contract that you pay in cryptocurrency, the loss will be deductible as capital income, and the payment in cryptocurrency will be deemed to be subject to tax on speculation.
+Gains or losses on financial contracts deposited to or withdrawn from your account on the settlement of the contract have to be assessed at the value of the cryptocurrency on this date.
+See decision
+SKM2018.130.SR
+(in Danish),where agreements were entered into for the purchase or sale of bitcoins and ethers for difference settlement at a later date.
+Cryptocurrency as an underlying asset (SKM 2018.130.SR)
+(in Danish)
+Cryptocurrency and stablecoins (SKM 2022.300.SR)
+(in Danish)
+If you have entered into a financial contract based on cryptocurrency, you have to follow
+the guidelines for financial contracts
+(in Danish). See also
+the decision of the Danish Tax Assessment Council (Skatterådet) (in Danish) concerning financial contracts based on virtual currency (cryptocurrency).
+For further legal information in Danish see
+our legal guide null

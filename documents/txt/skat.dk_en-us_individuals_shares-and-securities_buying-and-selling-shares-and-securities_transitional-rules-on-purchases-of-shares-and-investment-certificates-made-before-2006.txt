@@ -1,0 +1,100 @@
+URL: https://skat.dk/en-us/individuals/shares-and-securities/buying-and-selling-shares-and-securities/transitional-rules-on-purchases-of-shares-and-investment-certificates-made-before-2006
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Transitional rules on purchases of shares and investment certificates made before 2006
+Listed shares and investment fund shares that you purchased before 1 January 2006, but have sold after 1 January 2006, are tax-free on certain conditions.
+Go to ’Aktier og investeringsbeviser’ (Shares and investment certificates) to declare that you have a tax-free holding as at 31 December 2005
+You can sell listed shares and investment certificates tax-free if the following four conditions have all been met:
+The market value of all your listed shares as at 31 December 2005 was maximum DKK 136,600 (for spouses, the total amount is DKK 273,100).
+You purchased the shares before 1 January 2006.
+The shares were listed as at 31 December 2005 and are still admitted for trading on a regulated market when you sell them.
+You have owned the shares for at least three years when you sell them.
+In turn, if you meet the conditions for not having to pay tax on the gain, you cannot deduct a loss or bring it forward to subsequent years in your tax return form.
+Securities to be included in the statement as at 31 December 2005
+You must calculate the total market value of your listed shares and investment certificates as at 31 December 2005. This concerns:
+Listed shares.
+Listed investment certificates.
+Listed shares and listed investment certificates issued by an investment company.
+Listed employee shares (including employee shares held on trust).
+Securities that can be sold tax-free if the conditions have been met
+You can sell these securities tax-free if all four conditions for a tax exemption have been met:
+Listed shares etc. where gain and loss are treated according to the general rules of the Danish Capital Gains Tax Act (Aktieavancebeskatningsloven).
+Listed investment certificates in accumulated investment funds that are not an investment company, i.e. investment certificates covered by section 20 of the Capital Gains Tax Act.
+Listed investment certificates in distributing share-based investment funds covered by section 21 of the Capital Gains Tax Act.
+Bonus shares
+Bonus shares allocated on the basis of a parent share that meets the conditions for tax exemption may also be sold tax-free.
+You can't sell these securities tax-free, but you must nevertheless include them in your statement of the holding as at 31 December 2005 if the securities were listed on that date.
+Trade shares covered by section 17 of the Capital Gains Tax Act.
+Shares and investment fund shares issued by an investment company covered by section 19 of the Capital Gains Tax Act.
+Investment certificates in distributing bond-based investment funds covered by section 22 of the Capital Gains Tax Act.
+Shares that were covered by the previous rules in section 2 C of the Capital Gains Tax Act before 1 January 2006 (certain shares acquired for borrowed funds).
+Shares that were covered by the previous rules in section 2 E of the Capital Gains Tax Act before 1 January 2006 (exchange of shares linked to an invention or a development project - so-called
+idéaktier
+(‘idea shares’)).
+Bonus shares (however, not bonus shares allocated on the basis of a parent share that meets the conditions for tax exemption).
+Shares acquired on the basis of a subscription right.
+Example of a sale from the tax-free holding and a partial tax-free sale
+Example
+DKK
+Purchase of 800 shares/certificates at price 100 on 30 Dec. 2005 (tax-free holding)
+80,000
+Purchase of 400 shares/certificates at price 110 on 5 Jan. 2006
+44,000
+Purchase of 400 shares/certificates at price 200 on 3 July 2007
+80,000
+Tax-free sale of 600 shares/certificates at price 250 on 5 Jan. 2012.
+The four conditions for tax exemption have been met.
+150,000
+Partial tax-free sale of 600 shares/certificates at price 300 on 12 May 2012.
+The four conditions for tax exemption have been met for 200 shares/certificates (DKK 60,000).
+400 shares/certificates are taxed on sale (DKK 120,000).
+180,000
+The tax-free gain for sale on 12 May 2012 will consequently be:
+Total sales price of DKK 180,000, of which 200 shares/certificates at price 300 =
+60,000
+Purchase price for 200 shares/certificates, purchased on 30 Dec. 2005 at price 100 =
+20,000
+Tax-free portion of gain (200 shares/certificates)
+40,000
+The taxable gain for sale on 12 May 2012 will be:
+Total sales price DKK 180,000, of which 400 shares/certificates at price 300 =
+120,000
+The purchase price for the 400 shares/certificates must be calculated according to the average method:
+400 shares/certificates at price 110 + 400 shares/certificates at price 200 = DKK 44,000 + DKK 80,000 = DKK 124,000 / 2 =
+62,000
+Taxable portion of gain (400 shares/certificates)
+58,000
+The example presupposes that the denominations of the shares/certificates of DKK 100 have not changed during the period.
+If, on 31 December 2005, you had listed shares with a total market value of more than DKK 136,600 (DKK 273,100 for spouses in total), you must pay tax on the gain when you sell the shares.
+Choose between artificial purchase price and actual purchase price
+Certain listed shares purchased before 1 January 2006 have been allocated a so-called synthetic opening value. This is also called artificial purchase price. The artificial purchase price was fixed if the market value of the shares at a given time and under certain conditions exceeded the then applicable limit of DKK 100,000. The limit is now DKK 136,600 (for spouses, the total amount is DKK 273,100).
+If you purchased listed shares before 1 January 2006 and were allocated such an artificial purchase price for these shares, you may choose, when selling the shares on or after 1 January 2006, to use the artificial purchase price or the actual purchase price when calculating the gain or loss on the shares sold. Your choice applies to all your shares in the company in question.
+As these shares are taxable, you also have the right to set off a loss. However, the loss you are entitled to set off (if the actual purchase price is applied) must not exceed the loss you would have incurred if the artificial purchase price had been used to calculate the loss.
+If you are unsure what type your security is, you can contact your bank/investment fund. You can also get help defining the type of security (classification) in the program Aktier og investeringsforeningsbeviser (Shares and investment fund shares) in
+E-tax (TastSelv)
+or call us on +45 72 22 28 94.
+Further information
+Classification list of investment funds + distribution (in Danish)
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions about this subject?
+Call us
+before
+Kl.
+17:00
+72222894

@@ -1,0 +1,94 @@
+URL: https://skat.dk/en-us/individuals/income-preliminary-income-assessment-and-tax-assessment-notice/tax-assessment-notice/when-your-child-gets-a-tax-assessment-notice
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Deutsch
+When your child gets a tax assessment notice (årsopgørelse)
+Your child will receive a tax assessment notice when it is time for him/her to start paying tax, see the below examples.
+Children and young people are liable to pay tax if they:
+have an after-school job;
+own shares and other securities and receive returns on them;
+receive pension (for example from a deceased parent);
+earn money from gaming, participation in e-sports, as youtuber, influencer and more.
+As a parent, you are responsible for handling your child’s tax affairs, checking the tax assessment notice and the like.
+All young people will get a tax assessment notice from the year in which they turn 15. Even if they use their tax exemption card, for example for their after-school job.
+Parents are responsible for handling their child’s tax affairs. As a parent, you have to check and change the tax assessment notice so that it is accurate. You must also help link a NemKonto account to your child’s bank account and help your child pay any outstanding tax.
+Young people aged 15 to 18 years are responsible, together with their parents, for their own tax affairs.
+As a result, they also receive their own tax assessment notice and must check, together with their parents, that the information is accurate and make any necessary changes.
+Until your child turns 18, you, as a parent, still have the ultimate responsibility for his or her tax affairs. So, you act on behalf of your child’s – and check that the information in the tax assessment notice is correct.
+Young people aged 15 to 18 have access to their tax assessment notice in our online self-service system E-tax (TastSelv). They must log in using their own MitID,
+see MitID for 15-year-olds
+.
+As a parent, you have to help your child report any changes to the tax assessment notice, pay any outstanding tax and more – even if you don't live together or if one parent is exempt from digital self-service.
+Watch out for attempted fraud
+Help your child watch out for fake emails and text messages about tax so that you avoid becoming victims of fraud.
+Read about how you spot fake email and texts
+.
+How to open your child’s tax assessment notice in E-tax:
+Go to
+E-tax for individuals (TastSelv Borger)
+Click
+Authorised logon
+Log on with your MitID
+Enter the CPR number of the child whose tax assessment notice you wish to access and click
+Show list
+. Or click
+Show list
+.
+Select your child’s CPR number from the drop-down menu.
+Click
+Next
+The child’s name appears at the top of the page
+Click
+Tax assessment notice
+As a general rule, parents have access to their child’s E-tax with authorisation until the child turns 18.
+If your child is aged 0 to 14
+and has a tax assessment notice, you, as parent, will receive Digital Post from us, where we advise you to log on and see the tax assessment notice. See how to access the tax assessment notice in the above step guide.
+If you have opted out of Digital Post, we will send the tax assessment notice by regular post to the child’s address.
+If your child is aged 15 to 18 years
+, we will send a notification of the tax assessment notice by Digital Post to both your child and to you as a parent.
+You can see and change your child’s tax assessment notice in E-tax. See how to access the tax assessment notice in the above step guide.
+From when your child turns 15, he or she can access the tax assessment notice in E-tax.
+The child must first create a MitID to be able log on at E-tax
+.
+If you are exempt from Digital Post or from digital self-service, we will send your child’s tax assessment notice by regular post to his or her address.
+Children and young people must have a NemKonto if they receive money from public authorities – for example if they are entitled to a tax refund.
+As a result, make sure that your child has registered a NemKonto before April:
+If your child is aged under 15, you contact his or her bank and inform them which bank account to register as your child’s NemKonto.
+If your child is aged 15 years or more, you can use digital self-service to create a NemKonto.
+Read more in Danish about Young people and NemKonto
+.
+If the tax assessment notice shows that your child has paid too much tax in a full year, we will refund the overpaid tax to the child’s NemKonto in April in the following year.
+If the tax assessment notice shows that the child or young person has paid too little tax in the past year, he or she must pay the outstanding tax – just like adults.
+As a parent, you need to help your child pay the outstanding tax.
+Log on to your child’s tax assessment notice in E-tax (use
+Authorised logon
+at
+Log on at E-tax for Individuals
+) and select
+Pay tax
+. Make sure to pay before expiry of the deadline to avoid interest and additional interest charge.
+Read more about payment of outstanding tax
+.
+Please see the below links for further information in Danish about children and young people and tax.
+The first job: Children and young people
+After-school job and tax exemption card
+Tax for gamers, youtubers, influencers and others
+Do-it-yourself guides for young people and students
+Young people aged under 16 can work tax-free in private homes
+For further legal information in Danish see
+our legal guide .

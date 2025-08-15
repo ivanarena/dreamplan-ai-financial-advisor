@@ -1,0 +1,90 @@
+URL: https://skat.dk/en-us/individuals/guide-to-e-tax/allow-third-party-access-to-your-e-tax
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Allow others to access your E-tax
+Good to know
+You decide what you give others access to in E-tax.
+You can revoke the authorisation at any time.
+You can give access to several people.
+You may authorise somebody else to see and enter your information in E-tax (our self-service system - TastSelv). This person could be your adviser, your accountant, your spouse or another family member).
+You can set up an authorisation via the authorisation scheme in E-tax. There, you can also decide what part of your data you want to give others access to. If you're not comfortable with doing it online, you can also complete a form and send it to us via regular post. See how you do that further down on this page.
+Log on to E-tax (TastSelv)
+If you have MitID
+Log on to
+E-tax (TastSelv)
+Select
+Your profile and contact details
+Select
+Authorise your accountant or others
+.
+Click
+Create new
+Enter the CPR no. or CVR/SE no. (business reg. no./VAT no.) of the person you want to authorise.
+Click
+Next
+Answer the questions
+Click
+Accept
+Your representative logs on using his own MitID and selecting Aughorised logon.
+If you don't have MitID
+If you don't have MitID, you can authorise somebody else (who has MitID) to access your E-tax. You can do this in 2 ways:
+by completing
+form 02.052 - Power of attorney for authorisation of party representative in E-tax (TastSelv)
+and submiting it to us digitally or by regular post.
+by calling us on +45 72 22 18 18
+If you need authorisation to help somebody else
+If you contact us to request authorisation to help somebody else, you need a written power of attorney from the principal. However, in some cases you may not need the power of attorney.
+How to send us the form
+Digitally:
+Log on to
+E-tax (TastSelv)
+Select Contact > Write to us > 'Indsend/indberet til os (fx blanket/bilag)' (Submit/report (including form/appendices)
+By regular post:
+Skattestyrelsen
+Nykøbingvej 76
+Bygning 45
+4990 Sakskøbing
+Do you want us to notifty your representative?
+If you want us to inform your representative and not you (it could be of changes to your preliminary income assessment, tax assessment notice, etc.), you need to replace your contact details in E-tax with those of your representative. Please note that if you do so, we will only send information to your representative.
+If you want to receive information from us again at a later point in time, you change the contact details to state your own.
+This is what you do:
+Log on to E-tax (TastSelv)
+Select Profile and contact details
+Select Contact details
+Enter the relevant contact details
+Save.
+Lawyers and accountants
+If your representative is an expert, we may not always need a power of attorney. Please aks your representative to contact us, if you're unsure if you need a power of attorney or if you have problems accessing E-tax.
+Authorisation of lawyers and accountants
+If your lawyer, accountant or similar needs to be authorised on behalf of several people, they can send a list of the relevant CPR nos. to us and we will then help you generate the authorisations
+Please send the list to
+Autorisationer@sktst.dk
+.
+If you've been authorised to see and enter information in somebody else's E-tax, you can use auhtorised logon using your own MitID:
+Hvis du har fået rettigheder til at se og indtaste oplysninger i en anden persons TastSelv, kan du logge på med autorisation ved hjælp af dit eget MitID.
+This is what you do:
+Go to E-tax (TastSelv)
+Select Authorised logon
+Log on using your own MitID
+Enter the CPR no. of the person and log on
+Next, you will see the E-tax menu of the person you are helping
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions about this subject?
+Call us
+72222780
+How to log on to E-tax when you're helping somebody else
+If you've been authorised to see and enter information in somebody else's E-tax, you can log use the authrised logon using your own MitID.
+Read more at Guide to E-tax for individuals

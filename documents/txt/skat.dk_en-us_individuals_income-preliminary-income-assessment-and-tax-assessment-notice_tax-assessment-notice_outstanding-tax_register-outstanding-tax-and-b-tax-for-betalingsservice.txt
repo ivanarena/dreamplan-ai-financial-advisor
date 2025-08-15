@@ -1,0 +1,58 @@
+URL: https://skat.dk/en-us/individuals/income-preliminary-income-assessment-and-tax-assessment-notice/tax-assessment-notice/outstanding-tax/register-outstanding-tax-and-b-tax-for-betalingsservice
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Deutsch
+Register outstanding tax and B-tax for Betalingsservice
+You can register your giro transfer forms to be paid automatically via Betalingsservice (nets direct debit service) in two ways: Via a specific link to
+betalingsservice.dk
+or via your bank or online banking. You can follow our step-by-step guide below.
+Once the payments appear from your Betalingsservice statement, they will be paid automatically.
+Register your B-tax and labour market contributions at betalingsservice.dk
+B-tax can be ordinary B-tax, included outstanding tax, penalty interest and property value tax.
+Go to ’Tilmeld’ (Register) at betalingsservice.dk (’B-skat og am-bidrag’ (B-tax and labour market contributions))
+Complete the fields using your CPR no. and your banking information (registration no. and account no.)
+Enter your CPR no. again in the field "16xxxxxx9xxxx25" where the xs are your CPR no.
+Confirm your registration and your information by signing with your MitID. You can only register payments from your own account.
+Register your personal taxes (B-tax, outstanding tax, labour market contributions and outstanding labour market contributions) at betalingsservice.dk
+Register (all personal taxes) at betalingsservice.dk
+Complete the fields using your CPR no. and your banking information (registration no. and account no.)
+Enger your CPR no. again in the field "16xxxxxx9xxxx25" where the xs are your CPR no.
+Confirm your registration and your information by signing with your MitID. You can only register payments from your own account.
+You can also register with Betalingsservice by giving this information to your bank or online banking.
+Register your B-tax and labour market contributions
+PBS no.: 02056372
+Debtor group: 00001
+Customer no.: 16xxxxxx9xxxx25 (the xs represent your CPR no. (civil reg. no.).
+Register all your personal taxes (B-tax, outstanding tax, labour market contributions and outstanding labour market contributions)
+PBS no.: 03663833
+Debtor group: 00002
+Customer no.: 16xxxxxx9xxxx25 (the xs represent your CPR no. (civil reg. no.).
+Deadline for registering or cancelling your payment by Betalingsservice is the 6
+th
+last banking day of the month at 9 a.m. For further information in Danish on deadlines please see
+betalingsservice.dk
+.
+Please note that you may be unable to pay outstanding tax from earlier years via Betalingsservice. In this case, please make your payment via E-tax (TastSelv).
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions to this subject?
+Call us
+before
+Kl.
+17:00
+72222795

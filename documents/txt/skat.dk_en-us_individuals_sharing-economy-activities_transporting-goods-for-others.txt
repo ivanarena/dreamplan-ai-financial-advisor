@@ -1,0 +1,66 @@
+URL: https://skat.dk/en-us/individuals/sharing-economy-activities/transporting-goods-for-others
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Transporting goods for others
+If you occasionally transport goods for others, via TagDetMed and Mover, for example, you must pay tax and possibly VAT on your income. This applies no matter how the contact is established.
+When you calculate your income, you can deduct your expenses related to such transport.
+You must pay tax on the income you earn if you transport goods or perform home delivery services occasionally.
+You have to keep accounts of your income and expenses related to such transport. Upon request, you have to submit your accounts to us.
+Enter your expected income minus your expenses in
+field 250 in your preliminary income assessment
+and your final income minus expenses in
+box 20 in your tax assessment notice
+.
+Changing your tax assessment notice:
+Log on to our self-service system E-tax
+.
+Click ‘Ret årsopgørelsen/oplysningsskemaet’ (Change your tax assessment notice/tax return).
+Enter your income minus expenses in box 20.
+Decide whether you have other information to correct.
+Click ‘Næste’ (Next) and then ‘Godkend’ (Accept).
+You will then see a receipt and you can access your tax assessment notice.
+You may deduct expenses related to the transport. However, you cannot deduct expenses relating to private use of your car.
+Keep receipts as documentation
+In order to deduct expenses related to the transport, you will have to be able to document such expenses. You do that by keeping the receipts (vouchers) on all your expenses for the entire income year.
+Deductions for operating and maintenance expenses
+You are entitled to deduct the part of your operating and maintenance expenses on your car relating to the transport. You calculate the proportionate expenses which the transport represents of the total annual number of kilometres. This means that if the transport only makes up 20% of your total annual kilometres, you are only entitled to deduct 20% of your expenses for ongoing maintenance, petrol, green vehicle tax, insurance, etc.
+Deductions for the expected annual loss of value
+You may deduct a proportionate part of the expected annual loss of value of your car. This proportionate part is calculated as the total number of kilometres minus those you travelled to transport items.
+The rules of the Danish Act on Amortisation and Depreciation (Afskrivningsloven) do not apply to your car - it is only possible to apply these rules if you run a business.
+Keep a mileage log
+You should keep a mileage log in order to document your deductions.
+In the mileage log, you register the mileage at the beginning and the end of the income year, and the mileage when you start and stop a transport of items for someone.
+Loss is not tax deductible
+You cannot deduct any loss. This means that if your annual expenses exceed your annual income, you have to enter DKK 0 in your tax assessment notice.
+A loss is only tax deductible if you run a commercial business.
+If your income from occasional transport of goods for others exceeds DKK 50,000 within a period of 12 months, you must register for and pay VAT.
+If you know that your income from occasional transport of goods will exceed DKK 50,000 from your first transport, you should register for and pay VAT from the beginning.
+Once you are registered for VAT, you should enter your income exclusive of VAT minus your expenses in your tax assessment notice.
+At the same time, you should consider whether your income from occasional transport is considered a commercial business. This is relevant for how you pay tax on your income.
+Read about non-commercial and commercial businesses
+Register for VAT at virk.dk
+No VAT deduction on cars
+Generally, you are not entitled to deduct VAT on the purchase and operation of cars (white number plates).
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions about this subject?
+Call us
+before
+Kl.
+17:00
+72222795

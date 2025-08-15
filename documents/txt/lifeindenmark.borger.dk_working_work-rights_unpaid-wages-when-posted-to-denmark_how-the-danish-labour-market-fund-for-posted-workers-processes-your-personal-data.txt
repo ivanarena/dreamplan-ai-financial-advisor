@@ -1,0 +1,79 @@
+URL: https://lifeindenmark.borger.dk/working/work-rights/unpaid-wages-when-posted-to-denmark/how-the-danish-labour-market-fund-for-posted-workers-processes-your-personal-data
+
+How the Danish Labour Market Fund for Posted Workers processes your personal data
+Read more and self-services
+Introduction
+Here you can read about what information The Danish Labour Market Fund for Posted Workers (the Fund) processes, how the information is processed and what rights you have when we process cases and inquiries concerning cover for salary receivables. In addition, we also process personal data about employees who are posted in Denmark for the purposes of collecting contributions from their employer.
+The Fund is responsible for the processing of the personal data that we have about you.
+Why the Fund is processing your personal data
+We process your personal data for the following purposes:
+To ensure that you can be covered for salary receivables that have been determined via professional legal processing
+To ensure that your employer pays your contributions to finance the Fund
+To train our employees and improve the customer experience (if you call us and accept that we can record the conversation).
+To test our systems in connection with development, optimisation of operations and, if relevant, fixing errors.
+What type of data do we process?
+We only collect information about you that we need to process your case.
+When processing your claim, we retrieve the following types of your personal data:
+Common personal data
+We receive your civil registration no. from the Danish Tax Agency.
+We receive your name, address, account no. (if relevant), salary receivables and information about your employer that owes you salary receivables, information about partial payments from your employer (if relevant). From either you or your labour union we receive your TIN-number (tax identification number) and tax exemption in Denmark (if relevant).
+From the Register for Foreign Service Providers (RUT), we receive the following information: name, your employer, your period of posting and your workplace in Denmark.
+Sensitive personal data
+We receive information about your membership in a labour union from your labour union.
+When calculating contributions from your employer, we retrieve the following personal data about you.
+How do we process your personal data?
+We process your personal data on the basis of the Act on the Danish Labour Market Fund for Posted Workers and the executive order on the Danish Labour Market Fund for Posted Workers.
+We can pass on information about you to other public authorities such as the Danish Tax Agency which, by law, is entitled to receive information or other public authorities which the Fund cooperates with.
+Who do we pass on your personal data to?
+We can pass on information about you to others who are entitled to receive the information, such as authorities, institutions and relevant private companies (see below).
+We pass on the following types of personal data about you:
+Common personal data
+We pass on information about the payment of cover, your TIN (The Tax Identification Number) etc. to the Danish Tax Agency.
+We pass on information about your claim to your employer for the purposes of allowing your employer to object to the cover if your employer, for example, believes it has already paid you.
+In some cases, we have to pass on your case to the Danish National Archives.
+For how long do we store your personal data
+We store your personal data when processing your case and we delete them after 10 years. The information is stored after the case has been closed due to rules in the Danish Limitation Act, the Danish Bookkeeping Act and the Danish Archiving Act.
+If you have consented to allowing the Fund to record a conversation, the Fund will delete this after two months. You can always have the conversation deleted earlier by contacting the Fund.
+What are your rights
+You can receive a copy of the data we process about you (insight).
+You can complain about us processing your personal data (objection).
+You may also request:
+to have your personal data rectified or erased
+to have the data sent to you or another party (data portability)
+that we suspend the processing of your data.
+And finally, you can object to us making automated decisions.
+If you ask to have your personal data erased, we may not be able to comply with your request.
+There may be conditions or limitations to the rights mentioned above. It is therefore not guaranteed that, for example, you have the right to have your personal data deleted in a specific context - this will depend on the specific circumstances in connection with the data processing. Among other things, this may be due to your personal data being used in a case involving a payment to a third party or for legal compliance reasons.
+If you have questions
+Do you have any questions about your case?
+If you have any questions about your case, please contact the Danish Labour Market Fund for Posted Workers (the Fund).
+Contact The Danish Labour Market Fund for Posted Workers
+Do you have any questions about your personal data?
+If you have any questions concerning the Fund's processing of your personal data or if you want to exercise your rights to, for example, gain access to or erase your personal data, you can contact the Fund.
+Contact The Danish Labour Market Fund for Posted Workers
+If you write to us, please write “personal data” in the subject line.
+Are you dissatisfied with our processing of your personal data?
+You can contact the Data Protection Officer, if you think
+that you have not received a satisfactory response to your request for access to your personal data
+that the Fund has not respected your rights
+Contact the Data Protection Officer
+If you disagree with the way in which we processes your personal data, you may submit a complaint to the Danish Data Protection Agency.
+Please note that the Danish Data Protection Agency is only a complaints body regarding the Fund’s processing of your personal data - it does not deal with complaints regarding the processing of your case.
+If you disagree with the way in which we are processing your case, you must contact the Fund.
+Data Controller
+AFU - The Danish Labour Market Fund for Posted Workers
+Kongens Vænge 8DK-3400 Hillerød
+Central Business Registration (CVR) No. 37624837
+Legal framework
+Article 6(1)(e) of the General Data Protection Regulation (common personal data)
+Article 9(2)(f)(1) of the General Data Protection Regulation (sensitive personal data)
+Section 11(1) of the Danish Data Protection Act (civil registration no.)
+Section 2 of the Danish Act on The Labour Market Fund for Posted Workers
+Article 45(1) of the General Data Protection Regulation (transfers to safe non-EU/EEA countries)
+Article 46(2)(a) of the General Data Protection Regulation (transfers to an unsafe non-EU/EEA country)
+Article 49(1)(e) of the General Data Protection Regulation (transfers take place for legal compliance reasons)
+You can find the legal basis at
+www.retsinformation.dk/
+and
+www.eur-lex.eu
+.

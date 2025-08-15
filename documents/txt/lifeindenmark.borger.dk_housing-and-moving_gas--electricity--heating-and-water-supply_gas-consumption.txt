@@ -1,0 +1,103 @@
+URL: https://lifeindenmark.borger.dk/housing-and-moving/gas--electricity--heating-and-water-supply/gas-consumption
+
+Gas consumption
+Information on rights and obligations regarding gas consumption
+Choose your local municipality in order to see information and online services that apply to you
+Read more and self-services
+How do I connect my house to the gas grid?
+If you want to connect to the gas grid, you have to a connection contract with Evida, which is the Danish gas distribution company. You can do so, by completing a form on Evida's homepage (note that the information is in Danish).
+In the form, you must include a drawing of where you wish to place the gas meter and the distance between house corners, windows and doors. You can find more information about criteria for the placement of the gas meter.
+When you have a signed contract with Evida you must choose a plumbing contractor with experience in gas, and who can give guide to gas stove and more. You can contact the gas supplier of your choice to give you guidance regarding the gas furnace and plumping contractor.
+You can find prices for installation of a gas pipe on Evida's homepage.
+Evida.dk – how to switch to gas (in Danish)
+Evida.dk – prices for installation of a gas pipe (in Danish)
+Which gas supplier do I automatically have?
+In Denmark, we have a free gas market and, therefore you can chose, from which gas supplier you want to purchase gas.
+You contact the gas supplier of your choice. If you do not actively chose a gas supplier, you will automatically get the gas company, which has the universal service obligation in the area you live in.
+You can at any time chose to change gas supplier.
+You can find a list of the different gas suppliers at GasprisGuiden. Choose your municipality to see the relevant list (note that the information is in Danish).
+GasprisGuiden (in Danish)
+Information about gas meters
+The gas meter registers your gas consumption. The distribution company owns the gas meter.
+Once a year, 1 April, you have to read the gas meter to get your annual statement. You will receive a note on either SMS, email, or mail, when it is time to read your gas meter.
+You can read more about how to read the gas meter on the homepage of the gas distribution company. Please note, that the information is only available in Danish.
+If there is anything wrong with your gas meter, you have to contact the gas distribution company and they will send a contractor to look at your gas meter.
+Evida.dk – how to read the gas meter (in Danish)
+Nice to know about your gas boiler
+Here you can find some good advice regarding your gas boiler, if it for instance, you smell gas or your boiler makes unusual noises.
+Do you smell gas?
+A smelling substance is added to the natural gas to quickly detect even small leakages from the gas boiler. If you smell gas in your home you must immediately contact the 24 hour service by calling +45 62 25 91 14.
+Furthermore, you should:
+turn of the main valve
+avoid turning on/off light or electric devises
+not use the doorbell or landline
+avoid open fire
+open doors and windows
+inform other people inside the building or neighbours
+contact medical help If you feel dizzy or discomfort.
+No heat or hot water?
+In the case, your gas boiler shuts down there are some things you can check before contacting a plumber.
+If there is no light in the control panel, check if the boiler has been switch off, or if the power has been disconnected because of a fuse blowing. If this does not work, contact a plumber.
+If the boiler makes a howling noise, water is most likely missing. You can read the water pressure on the boiler. If the boiler is operating at a pressure below one bar you must fill the boiler with water until the pressure is again 1.5 bar.
+You can find information on how to add water on Evida.dk.
+If you get a fault indication, note the indication, turn off the gas boiler, and turn it on again. The boiler will possibly start again. You can find the explanation of the fault indication in the user manual, which might be able to help you from there.
+Maintenance
+To ensure proper and safe operation of your gas boiler, it is important that your boiler is in good condition. To do so you can:
+regularly check the water pressure
+deaerate the radiator
+keep it nice and tidy around the gas installation
+regularly check the chimney
+take out a service agreement with your plumber or gas supplier.
+Evida.dk – how to add water to your gas boiler (in Danish)
+My gas bill
+You will receive 2 separate bills for your gas consumption and distribution, depending on which gas supplier you have.
+The gas supplier bills the gas consumption whereas the distribution company, Evida, bills the gas distribution. However, you can receive an overall bill if your gas supplier and the distribution company have made a cooperation agreement.
+If your gas supplier and the distribution company have not made such an agreement, you receive 2 separate bills. In total, you pay the same price regardless of whether you receive an overall bill or 2 separate bills.
+You will receive consumption and distribution bills 4 times a year (for instance March, June, September, and December), which are paid on account. On account means, that you pay a fixed amount every month or quarter based on your predicted consumption.
+The price will later be adjusted to your actual consumption that year. Therefore, once a year you will receive an annual statement, which is used to calculate your forthcoming on account bills.
+How do I change my gas supplier?
+You always have the right to change gas supplier. However, prior to changing gas supplier, you should investigate whether your current agreement is binding or not.
+There is a maximum binding period of 6 month for an agreement. If you want to change gas supplier despite the binding period has not ended you may have to pay a fee.
+GasprisGuiden is a price-comparison portal across all gas suppliers in Denmark. Energinet, which is the owner of the Danish electricity and gas transmission grid, facilitates the homepage GasprisGuiden. Be aware that the information is only available in Danish.
+To change gas supplier you must contact the customer service of the new gas supplier you have chosen. The new gas supplier will need your meter number (aftagenummer), which can be found on a recent gas bill. The new gas supplier has to inform the distribution company about the change of supplier at least 10 working days prior to the change. Subsequently, the distribution company will contact you to get a meter reading on the day of change to make a final settlement with the former gas supplier.
+GasprisGuiden (in Danish)
+Disconnection of your gas line
+If you want to change your source of heating, your gas line needs to be disconnected immediately. To do so, you must contact the gas distribution company to make an appointment for the disconnection.
+If your gas meter is integrated in the wall, you have to cover the re-establishment of the wall as well as missing covering of the floor underneath the gas boiler.
+The disconnection and removal of the gas meter entails a fee. You can read more about the fee on Evida.dk. Note, that the information is only available in Danish.
+Evida.dk – disconnection of your gas line (in Danish)
+Information about the supply obligation
+In Denmark, there is a designated gas supplier, which has a supply obligation. The supply obligation is regulated in chapter 4 in the Danish Natural Gas Act.
+The supplier with the designated supply obligation in your area must supply gas to any household customers in that area upon the customer’s request.
+Greener alternatives to gas boilers
+Natural gas is a fossil fuel and emits CO2 when combusted. Compared to other fossil fuels such as oil and coal, natural gas emits 25 per cent and 49 per cent less, respectively.
+Furthermore, more biogas is upgraded and infused to the gas grid reducing the CO2 emissions from the gas boiler.
+However, different alternatives to your gas boiler exist:
+Electric heat pump
+District heating, if you live in an area with a district heating grid.
+You can read more about the technologies:
+The Danish Energy Agency's website SparEnergi.dk (in Danish)
+Danish District Heating Association: check to see if you can get district heating (in Danish)
+Appeals
+If you have any reasons to and want to complain about your gas bill, or other consumption related matters, you can send a complaint via Digital Post, to the Danish Energy Supplies Complaint Board (Ankenævnet på Energiområdet).
+The Danish Energy Supplies Complaint Board provide a complaints guide, which can be used for this matter. The guide can be found on the Appeals Board for the Energy Sector. Please be aware that the information is only available in Danish.
+However, before filing a complaint to the Danish Energy Supplies Complaint Board, you should contact you gas supplier first and try to solve the issue.
+About Digital Post
+Appeals Board for the Energy Sector (in Danish)
+Legislation
+There are different acts and executive orders that apply to gas supply and consumption in Denmark. You can find the most important ones below.
+If you click on the link and it says 'historisk', which means historical, it means a new version of the law was adopted. You can find the newest law on the webpage. Please note that all the acts are in Danish.
+The Gas Supply Act (in Danish)
+Executive Order on the Natural Gas Companies Publication of Prices, Rates, Discounts, and terms (in Danish)
+Executive Order on Consumer Agreement for the Supply of Gas (in Danish)
+Executive Order on the gas companies' invoicing and specification of costs to recipients of transport and energy services (in Danish)
+Law on Consumer Contracts (in Danish)
+Please see also
+Please note that the webpages are in Danish.
+About gas supply in Denmark (in Danish)
+Security of supply of gas (in Danish)
+Written by the Danish Energy Agency
+Last updated: 28 April 2025
+A part of
+Your Europe
+Information services survey

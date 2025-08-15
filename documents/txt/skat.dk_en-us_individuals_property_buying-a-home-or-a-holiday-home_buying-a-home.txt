@@ -1,0 +1,88 @@
+URL: https://skat.dk/en-us/individuals/property/buying-a-home-or-a-holiday-home/buying-a-home
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Deutsch
+Buying a home
+Checklist when you have bought a new home
+Sign a purchase agreement and get the deed:
+When you have the deed of your new home, you are considered a home owner.
+Change your preliminary income assessment:
+You need to register your new home and enter your interest expenses. You are entitled to deduct the interest expenses if you have borrowed money to buy your home.
+Accept your land tax:
+When the change of ownership is registered, you have to accept the land tax in your preliminary income assessment.
+Change your preliminary income assessment
+When you buy a home or a holiday home, you have to enter the information in your preliminary income assessment.
+This is what you do:
+1.
+Log on to E-tax (TastSelv)
+2. Select ‘
+Forskudsopgørelse
+’ (Preliminary income assessment) in the menu
+3. Select ‘
+Købt ejendom
+’ (Property bought) under ‘
+Oftest tilføjede felter
+’ (Frequently added fields)
+4. Select ‘
+Købt dansk ejendom
+’ (Danish property bought)
+5. Enter the address or property number and select ‘Søg’ (Search)
+6. Select ‘
+Fortsæt
+’ (Continue)
+7. Complete the following fields:
+’
+Renteudgifter
+’ (Interest expenses)
+’
+Overtagelsesdato
+’ (Takeover date) and ’
+Indflytningsdato
+' (moving-in date) if this is different from the date you took over the property. Please be aware that if you buy property after 1 September, you must correct your preliminary income assessment for the year in which you buy the property as well as the year after.
+’
+Ejerandel i %
+’ (Percentage of property owned) (for example 50% if you buy the property with your spouse)
+’
+Personoplysninger
+’ (Personal information) if you or your spouse receive any kind of pension benefits
+8. Select ‘
+Registrer
+’ (Register)
+9. Select ‘
+Beregn
+’ (Calculate) and check your changes
+10. Select ‘
+Godkend
+’ (Accept) if you agree.
+We will now generate a new tax card including your interest expenses and property value tax. If your land tax is registered, it will also be included in your preliminary income assessment. Under 'Ejendomme' (Properties) you can see if both the property value tax and land tax are included.
+Your employer (or other provider) automatically receives your new tax card and it will take effect from your next salary.
+If the distance to your job from you new home is more than 12 km each way, you will be entitled to deduction for transport between home and work.
+Read more about deduction between home and work
+When you have registered your new home in your preliminary income assessment, and accepted your land tax, you automatically pay your housing tax (property value tax and land tax) each month.
+Read more in Danish about property value tax (Vurderingsportalen.dk)
+Read more about land tax (Vurderingsportalen.dk)
+You can share the property value tax by entering your respective share of the property owned in your preliminary income assessments.
+Likewise, you can share interest expenses by entering your share in field 481, 483 or 485 in your preliminary income assessments.
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions about this subject?
+Call us
+before
+Kl.
+17:00
+72222795

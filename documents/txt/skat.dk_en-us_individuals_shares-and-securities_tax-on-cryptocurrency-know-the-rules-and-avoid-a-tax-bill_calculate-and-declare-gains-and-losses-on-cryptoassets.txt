@@ -1,0 +1,306 @@
+URL: https://skat.dk/en-us/individuals/shares-and-securities/tax-on-cryptocurrency-know-the-rules-and-avoid-a-tax-bill/calculate-and-declare-gains-and-losses-on-cryptoassets
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+Your tax assessment notice is ready
+Don't forget that you have to report profit or loss on cryptocurrencies to your tax assessment notice yourself.
+See your tax assessment notice
+English
+Dansk
+Calculate and declare gains and losses on cryptoassets
+When you buy and sell cryptocurrencies, special rules apply to how your transactions must be calculated. It is important to be familiar with the rules before you declare your gains and losses to us.
+As a general rule, gains are taxed just like your earned income (but without labour market contributions at 8%), because they are included in your personal income. Your personal income depends on your specific income circumstances, and gains on cryptocurrencies can be taxed at up to 53%.
+Losses are deductible at a rate equivalent to 26% of your losses.
+When you buy and sell cryptocurrencies as a private individual, this is in principle considered to be speculation. This means that the cryptocurrency was purchased with the intention of making a gain on selling the cryptocurrency again.
+When you sell or exchange (relinquish) cryptocurrency, you must calculate whether you have made a gain or a loss.
+In some cases, you are required to calculate the gain and loss even if you have not yet sold or exchanged your cryptocurrency. This applies, for example, to trading in certain stablecoins.
+Read more about stablecoins here
+.
+How to calculate gains and losses
+When you trade in cryptocurrencies, you will probably have made both gains and losses during the year. You must calculate gains and losses separately. This means that, as a general rule, you may not offset the loss on one transaction against the gain on other transactions.
+This means that you may not deduct a loss from a gain. You must therefore declare the total gains and the total losses in two different boxes on your tax assessment notice.
+Use the FIFO principle
+Gains and losses are calculated as the difference between the purchase price and the selling price. As a general rule, you must calculate gains and losses according to the FIFO (First In First Out) principle.
+The FIFO principle means that the cryptocurrency you buy first is also the cryptocurrency that is sold first. This applies regardless of which exchange service or wallet you have sold or exchanged from, because your holdings are deemed to be one single holding.
+This means that if, for example, you buy 8 Ethereum in April and 5 Ethereum in May, and you want to sell 4 Ethereum in June, you must use the purchase price for the first 4 Ethereum you purchased in April to calculate the gain and loss.
+Please note that even if you have only made one transaction, it may well consist of several underlying transactions. In these cases, you must also use the FIFO principle.
+See examples of calculation: Trading in one type of cryptocurrency
+Markus has not traded in cryptocurrency before. But this year he makes 2 purchases and 2 sales in Bitcoin against DKK.
+Purchase 1 in January = 1 BTC at rate 1,000 corresponding to DKK 1,000.
+Purchase 2 in February = 1 BTC at exchange rate 1,500 corresponding to DKK 1,500.
+Markus' total holding is 2 BTC.
+Sale 1
+In March, Markus sells 0.5 BTC at exchange rate 1.600 corresponding to DKK 800.
+First, he has to calculate the purchase price for the first 0.5 BTC that he bought in Purchase 1.
+Purchase 1 = DKK 1,000 per BTC.
+Purchase 1 is split, da he is only selling half:
+Purchase price:
+DKK 1,000
+x 0,5 BTC
+=
+DKK 500
+Gain:
+(Sales price - purchase price)
+DKK 800
+- DKK 500
+=
+DKK 300
+Sale 2 (consists of 2 calculations)
+In April, Markus sells his remaining 1.5 BTC at exchange rate 1.200 corresponding to DKK  1,800.
+To calculate his gain/loss he has to include the following:
+The remaining 0.5 BTC from Purchase 1
+All of Purchase 2
+Calculation 1:
+First, he has to calculate the purchase price of the first 0.5 BTC of Purchase 1.
+Purchase price:
+DKK 1,000
+x 0,5 BTC
+=
+DKK 500
+Then, he has to calculate the sales price of 0.5 BTC from Purchase 1.
+Sales price:
+(exchange rate)
+DKK 1,200
+x 0,5 BTC
+=
+DKK 600
+Gain:
+(sales price - purchase price)
+DKK 600
+- DKK 500
+=
+DKK 100
+Calculation 2:
+Now, he has to calculate the purchase price of 1 BTC in Purchase 2.
+Purchase 2 = DKK 1,500 per BTC.
+Then, he has to calculate the sales price of 1 BTC in Purchase 2.
+Sales price:
+(exchange rate)
+DKK 1,200
+x 1 BTC
+=
+DKK 1,200
+Loss:
+(sales price - purchase price)
+DKK 1,200
+DKK - 1,500
+=
+- DKK 300 kr.
+Markus' total statement:
+Gains:
+DKK 300
++ DKK 100
+=
+DKK 400
+Gains to declare in box 20.
+Loss:
+=
+- DKK 300 kr.
+Losses to declare in box 58.
+If you use one type of cryptocurrency as payment for another type
+If you use one type of cryptocurrency (for example bitcoins) as payment for the purchase of another type of cryptocurrency (for example ripples), you have sold bitcoins to buy ripples. You must therefore also calculate the gain and loss on the sale of bitcoins according to the FIFO principle.
+See examples of calculation: Trading in several types of cryptocurrencies
+You bought 10 bitcoins at a value of DKK 1,000 apiece in January and 10 bitcoins at a value of DKK 2,000 in February.
+You sell 8 of these in March at a value of DKK 3,000 apiece
+Purchase price:
+8 x DKK 1,000
+=
+DKK 8,000
+Selling price:
+8 x DKK 3,000
+=
+DKK 24,000
+Profit:
+DKK 24,000
+- DKK 8,000
+=
+DKK 16,000
+You should enter the profit of DKK 16,000 in your tax assessment notice in box 20.
+You are now left with 2 bitcoins from the purchase in January with a purchase price of DKK 1,000 a piece.
+At a later point, you sell the remaining 12 at a value of DKK 1,000 apiece.
+Purchase price:
+2 x DKK 1,000
++ 10 x DK 2,000
+=
+DKK 22,000
+Selling price:
+12 x DKK 1,000
+=
+DKK 12,000
+Loss:
+DKK 12,000
+- DKK 22,000
+=
+- DKK 10,000
+You should enter your loss of DKK 10,000 in box 58 in your tax assessment notice.
+You have no bitcoins left as you sold all 20 of them.
+Watch the video: How to calcuylate gains or losses using the FIFO principle
+Play
+00:00
+Play
+Seek 10 seconds backwards
+Seek 10 seconds forward
+00:00 / 00:00
+Mute
+Settings
+Picture in picture
+Fullscreen
+Duration: 2:55 minutes
+Click CC to enable subtitles and the wheel to select English or Danish.
+If you do not have Ethereum, for example, in your portfolio, but you buy 10 Ethereum at the same time and then sell them in several stages within the same income year, you are permitted to offset losses against gains. This is subject to the assumption that you do not buy new Ethereum between your sales, and that your sales with a gain take place in the same income year as your sales with a loss.
+This means that if, for example, you sell 3 Ethereum with a gain and 3 Ethereum with a loss in the same income year, you must make a net calculation. A net loss may not be deducted from personal income, but must be declared in box 58 of your tax assessment notice.
+You may not offset losses against gains between different types of cryptocurrencies purchased in several stages and sold in the same income year.
+If you are in any doubt, please contact us on (+45) 72 22 28 94.
+Read more about the calculation of gains (our Danish-language legal guide)
+Read a relevant decision (in Danish)
+Speculative loss on cryptocurrency is not personal income (SKM2022.583.SR)
+Your expenses for buying and selling cryptocurrencies are deductible if the expenses are related directly to the actual purchase or sale.
+Expenses relating to internal transfers between, for example, own wallets, and expenses for tax calculation reports etc., are not related to specific cryptocurrency transactions. These expenses are therefore not deductible.
+When you buy cryptocurrencies with the intention of making a profit on selling them again, this is called speculation. As a general rule, cryptocurrency trading is considered to be speculation, and you must therefore disclose sales gains and losses on your tax assessment notice.
+In case of doubt, we undertake an overall assessment, taking various circumstances of the purchase into consideration.
+This might be:
+Which cryptocurrency did you buy - for example bitcoins?
+What can it be used for?
+Is it attractive for speculation - such as rising or falling prices?
+Is it possible to sell the cryptocurrency at a profit?
+Why did you buy the cryptocurrency?
+Are you the owner of the cryptocurrency purchased?
+Read more about speculation (our Danish-language legal guide)
+We recommend that you contact us to receive a binding ruling with a specific assessment, if you are in any doubt. The binding ruling is our decision on what the sale of cryptocurrency specifically entails for the tax you pay.
+If you have sold cryptocurrency in the course of this year
+If you sell cryptocurrency in the course of this year and are unsure of whether you have to pay tax on the sales gain, you can contact us to request a binding ruling.
+Request a binding ruling
+.
+Log on and correct your tax assessment notice
+Once you have calculated your transactions for the year, you have to declare the results on your tax assessment notice. You enter your total gains and your total losses in two different boxes:
+Enter gains in box 20.
+Enter losses in box 58.
+The deadline for declaring your results on the tax assessment notice is 1 May of the year after you sold or exchanged cryptocurrency.
+How to enter gains in box 20:
+Log on to E-tax (TastSelv Borger)
+Select
+Ret årsopgørelsen/oplysningsskemaet (Correct your tax assessment notice/tax return).
+Go to box 20 Anden personlig indkomst (Other personal income). If you have not filled in the box before, you will find it under
+Anden indkomst (Other income)
+and then
+Fradrag (Deductions)
+.
+Enter your total gains.
+Select
+Næste (Next)
+at the bottom of the page.
+Select
+Godkend (Accept)
+.
+How to enter losses in box 58:
+Log on to E-tax (TastSelv Borger)
+Select
+Ret årsopgørelsen/oplysningsskemaet (Correct your tax assessment notice/tax return).
+Go to box 58 Øvrige lønmodtagerudgifter (Other earned income expenses). If you cannot see box 58 on your tax assessment notice,
+please contact us
+and request it to be opened.
+Enter your total losses.
+Select
+Næste (Next)
+at the bottom of the page.
+Select
+Godkend (Accept)
+.
+If you have sold cryptocurrency in previous years
+If you have sold cryptocurrency in previous years without entering gains or losses on your tax assessment notice, you must correct the tax assessment notice for the year in question.
+Read more about correcting previous tax assessment notices here.
+If you are in any doubt, please contact us on (+45) 72 22 28 94.
+See video: How to report profit and loss when you have traded with crypto assets (4:18)
+Play
+00:00
+Play
+Seek 10 seconds backwards
+Seek 10 seconds forward
+00:00 / 00:00
+Mute
+Settings
+Picture in picture
+Fullscreen
+Click cc for English subtitles
+If you want to avoid having to pay outstanding tax, you can state your expected gains and losses on your preliminary income assessment (forskudsopgørelsen).
+The information on your preliminary income assessment will not be transferred to your tax assessment notice automatically. You must therefore always make sure that your tax assessment notice is also updated.
+Enter your expected gains in field 250.
+Enter your expected losses in field 449.
+How to enter gains in field 250:
+Log on to E-tax (TastSelv Borger)
+Select
+Forskudsopgørelsen (Preliminary income assessment)
+Go to field 250 Anden personlig indkomst (Other personal income). If you have not filled in the field before, you can find it under
+Andre felter (Other fields)
+and then
+Indkomst (Income).
+You can also search for the field in
+Søg felt (Search field)
+.
+Enter your expected gains.
+Select
+Beregn (Calculate)
+at the bottom of the page.
+Select
+Godkend (Accept)
+.
+How to enter losses in field 449:
+Log on to E-tax (TastSelv Borger)
+Select
+Forskudsopgørelsen (Preliminary income assessment)
+Go to field 449 Øvrige lønmodtagerudgifter (Other earned income expenses). If you have not filled in the field before, you can find it under
+Andre felter (Other fields)
+and then
+Fradrag (Deductions).
+You can also search for the field in
+Søg felt (Search field)
+.
+Enter your expected losses.
+Select
+Beregn (Calculate)
+at the bottom of the page.
+Select
+Godkend (Accept)
+.
+When you buy and sell cryptocurrencies, you should keep certain information as documentation of your profit/loss calculation.
+Such documentation could be:
+Vouchers on orders, purchases, sales and payment. Take screenshots or download CSV files.
+E-mails and other correspondence
+Information about your wallet provider
+Basis of agreement with your wallet provider
+Information about the number of your wallet, meaning the public code
+Basis of agreement in force at the time of purchase and possible subsequent changes
+Printout of your cryptocurrency holdings
+Bank account statements related to purchases and sales of cryptocurrencies
+Printout of your transactions
+Possible other relevant documentation of your purchases and sales to verify your ownership
+Deposits or withdrawals (When we receive the transaction  statements of deposits or withdrawals of the exchange services or wallets, we have to be able to follow the transactions to and from the senders)
+See video: Documentation from used exchange services and wallets (1:59)
+Play
+00:00
+Play
+Seek 10 seconds backwards
+Seek 10 seconds forward
+00:00 / 00:00
+Mute
+Settings
+Picture in picture
+Fullscreen
+Click cc for English subtitles
+For further legal information in Danish see
+our legal guide
+Copy debug info
+Copy debug info
+Copy debug info

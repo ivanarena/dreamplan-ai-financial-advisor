@@ -1,0 +1,104 @@
+URL: https://lifeindenmark.borger.dk/apps-and-digital-services/nemkonto-your-public-bank-account
+
+NemKonto
+Residents and companies in Denmark are required to have a NemKonto to receive payments from public authorities
+Choose your local municipality in order to see information and online services that apply to you
+Read more and self-services
+What is a NemKonto?
+As a resident in Denmark, you will need to have a NemKonto assigned to be able to receive payments from Danish public authorities. This can be payments such as:
+tax refunds
+child subsidies
+student loans
+unemployment benefits
+holiday allowances.
+A NemKonto is a normal bank account you already own. You choose yourself which of your accounts – foreign or Danish – you want to be your NemKonto. Payments from public authorities will be transferred directly to this account.
+Your NemKonto is secure
+Public authorities can only transfer money to your NemKonto. They cannot withdraw money from your account or view your balance or account transactions.
+You need a CPR number to establish a NemKonto
+You need a Danish civil registration number (CPR number) to establish a NemKonto.
+You can read more about how to get a CPR number through the International Citizen Service:
+International Citizen Service (ICS)
+How do I assign a bank account as my NemKonto?
+A NemKonto is a normal bank account you already own. You choose yourself which of your accounts – foreign or Danish – you want to be your NemKonto.
+You can establish a NemKonto in one of the following ways:
+Assign an account yourself at NemKonto's self-service using MitID.
+Contact your Danish bank and inform them which account to assign as your NemKonto.
+Fill out a form if you wish to assign a foreign bank account as your NemKonto.
+It is free of charge to assign an account as your NemKonto.
+Assign your Danish or foreign bank account as your NemKonto at nemkonto.dk
+If you use NemKonto's self-service: You will receive an activation letter
+If you have assigned or changed your NemKonto via the self-service, you will be sent an activation letter with an activation code. The letter contains instructions on how to activate your NemKonto.
+The activation letter will be sent by postal service to the address registered in the CPR register. Unfortunately, you cannot have the letter sent via email or Digital Post at the moment.
+NemKonto self-service: view, change or assign your NemKonto
+Start
+Start NemKonto self-service
+If you do not have a Danish bank account yet
+If you wish to have a Danish bank account assigned as your NemKonto and do not have a Danish bank account yet, you need to contact a bank of your choice.
+In Denmark, banks must offer a basic payment account to all consumers with legal residence in a country within the EU or with residence in a country which the European Union has a financial agreement with.
+However, the bank can refuse to set up an account, for instance if you already have a payment account in another Danish bank.
+Which documentation do I need to open an account?
+Documentation requirements may vary depending on the bank. Most banks ask for:
+Proof of identity (for instance passport, driving licence or health insurance card)
+Employment contract or invitation letter
+Tax card (not obligatory)
+US citizens only: American social security card
+You can assign a foreign bank account as your NemKonto
+You can assign your foreign bank account as your NemKonto. In order to do that you must follow these steps:
+Step 1:
+Obtain the registration form
+You can find the registration form on www.nemkonto.dk. The form is in English:
+Assign your Danish or foreign bank account as your NemKonto at nemkonto.dk
+Step 2:
+Read the instructions carefully
+Before
+filling out the form, carefully read the instructions provided. Ensure that you understand each section of the form and any requirements
+for providing supporting documentation.
+Step 3: Enter your personal information
+Begin by entering your personal information in the
+designated fields on the form. This includes:
+Full name
+Danish civil registration number (CPR number)
+Residential address in Denmark (including postcode, city and country)
+Step 4: Fill in the banking information
+Fill in the sections related to your bank account information. This includes:
+Bank name
+Bank/branch address (including postcode, city and country)
+IBAN (International Bank Account Number) (if applicable)
+SWIFT/BIC code (if applicable)
+Account number (if applicable)
+Bank code/routing number (if applicable)
+Please note that not all countries use IBAN and SWIFT as their main banking information. Some countries use account number and bank code or account number, bank code and SWIFT.
+Step 5: Sign, date and provide your email address
+Sign and date the form as required and provide your email address in the designated fields on the form on page 2. You must sign in front of 2 witnesses or a notary or attorney.
+If you choose to sign the form in front of 2 witnesses, the witnesses must fill out the designated fields reserved for witnesses.
+If you choose to sign in front of a notary or an attorney, they must fill out the designated fields reserved for notary or attorney
+Please note that the registration form will not be accepted if the dates provided by the signee and witnesses do not match.
+Step 6: Provide a copy of your official and valid identification papers
+In order to have a NemKonto assigned you must include a copy of your official and valid identification papers. This can, for example, be:
+Passport
+Driving license
+Birth certificate
+Residence permit
+Witnesses are not required to submit a copy of their official identification papers.
+Step 7: Review and Submit
+Review the completed form to ensure all information is
+accurate and legible. Double-check that you haven't missed any required fields
+or made any errors. Once satisfied, submit the form using our contact form.
+Contact NemKonto Support
+Alternatively, you can send the registration form and copy of identification papers by postal service to:
+Erhvervsstyrelsen
+Att.: NemKonto Support
+Dahlerups Pakhus
+Langelinie Allé 17
+2100 Copenhagen Ø
+Denmark
+Step 8: You will receive an activation letter
+Once you have had a NemKonto assigned, you will receive an activation letter. The letter will be sent to the address registered in the CPR register. It is therefore important that your address information is correct before you select or change your NemKonto.
+The letter contains instructions on how to activate the NemKonto.
+Where can I get help?
+If you need assistance with assigning, changing or other issues with your NemKonto, you can contact NemKonto Support. You can call NemKonto Support at  +45 33 98 00 10 or send a message through the contact form.
+Contact NemKonto Support
+You can also find answers on the NemKonto website.
+How to assign a NemKonto
+Written by the Agency for Digital Government
+Last updated: 31 October 2024

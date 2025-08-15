@@ -1,0 +1,79 @@
+URL: https://skat.dk/en-us/individuals/income-preliminary-income-assessment-and-tax-assessment-notice/tax-assessment-notice/you-have-not-received-a-tax-assessment-notice
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Deutsch
+You have not received a tax assessment notice
+There may be several reasons why you have not received your tax assessment notice. The reason could be that:
+you or your spouse own a business
+you have previously had your own business
+you have had an income outside Denmark (for instance foreign shares or other securities)
+you have previously had foreign income (but not in 2023)
+you have lived abroad for some of the year
+If, for example, you have your own business or income outside Denmark, you will receive a service letter in E-tax (TastSelv) and a tax return. Once you have filed your tax return, we will generate your tax assessment notice.
+If you are married to a person who is required to file a tax return, you will receive a service notification in E-tax (TastSelv). You will receive your tax assessment notice when your spouse has filed his/her tax return.
+If the information in your service notification is correct and you have nothing to add, you do not have to do anything further.
+If you would like to make any corrections, you can enter the new amounts and click ‘Næste’ (Next) and ‘Godkend’ (Accept). Your corrections will be included in your updated tax assessment notice which is available when your spouse has filed his/her tax return.
+If you have previously been self-employed and therefore received a tax return, you need to state in box 71 that you no longer have your own business and accept the figures entered in your tax return. We will generate your tax assessment notice once you have filed your tax return.
+If you have had non-Danish income in the past (but not in 2023), you need to complete box 496 and accept the figures entered in you tax return. We will generate your tax assessment notice once you have filed your tax return.
+If you have moved to or from Denmark during the year and your tax status has changed from full tax liability to limited tax liability or vice versa, you cannot use E-tax (TastSelv) to file your tax return that year. Instead, you need to complete one or more tax returns.
+You can use the following form:
+Form 04.076 Tax return with two tax liability periods
+If you have also had a business and/or income from rental property, you also need to complete:
+Form 04.009 Tax return for the period when you lived outside Denmark
+Form 04.003 Tax return for the period when you lived in Denmark
+In addition, you should complete:
+Form 04.012
+if you have had income or assets in another country whilst living in Denmark
+Form 04.053
+if you have had property in another country whilst living in Denmark
+Form 04.031
+if you meet the conditions for and want to apply the rules for cross-border workers for the period you lived outside Denmark.
+Filing your tax returns
+You can send us your tax returns in the following way:
+Log on to E-tax (TastSelv)
+Select
+Kontakt
+(Contact)
+Select
+Skriv til os
+(Write to us)
+Select
+Indsend oplysningsskema for xxxx -
+>
+Oplysningsskema for udlandsforhold -> Oplysningsskema for 2 skattepligtsperioder -> Blanket 04.076
+Complete the information, attach the tax returns and press
+Send
+You can also send your tax returns by regular post to:
+Skattestyrelsen
+Nykøbingvej 76
+Bygning 45
+4990 Sakskøbing
+Denmark
+Filing deadline
+You must complete and file your tax returns by 1 July 2025. You will receive your tax assessment notice in late October 2025.
+Please see also
+Let us help you report your non-Danish income
+.
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions to this subject?
+Call us
+before
+Kl.
+17:00
+72222795

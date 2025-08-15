@@ -1,0 +1,32 @@
+URL: https://skat.dk/en-us/individuals/shares-and-securities/tax-on-cryptocurrency-know-the-rules-and-avoid-a-tax-bill/interest-on-cryptocurrency
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Interest on cryptocurrency
+Declare gains and losses on your tax assessment notice
+When you deposit cryptocurrency into an account with ongoing accrual of a return (interest) in the form of cryptocurrency, you must pay tax on the value of the return on the date on which the return is credited to your account and available to you.
+As a result, you have to calculate the value of the return on the date of receipt. This value is taxed as personal income, which you must declare in box 20 'Anden personlig indkomst' (Other personal income) on your tax assessment notice (årsopgørelse).
+If you retain the return in cryptocurrency in order to achieve a gain on resale, this will in principle be speculation. Therefore, you have to declare any gain or loss when you sell the cryptocurrency.
+Read more about speculation here
+under Calculate your transactions.
+If you sell these cryptocurrencies, you have to calculate whether you have achieved a gain or a loss according to the FIFO principle, and together with your other cryptocurrency holdings.
+Read more about the FIFO principle here
+under the heading
+Calculate your transactions.
+For further legal information in Danish see
+our legal guide null
+Chat

@@ -1,0 +1,136 @@
+URL: https://skat.dk/en-us/individuals/guide-to-e-tax/powers-of-attorney-in-the-tax-agency
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Powers of attorney and the Tax Agency
+Do you want to allow/authorise somebody else to change your tax assessment notice or manage the contact with us on your behalf in a specific case?
+Or do you want to help somebody else? Then, you will need a power of attorney/authorisation.
+Here, you get an overview of the various power of attorneys we have in the Tax Agency and in the other agencies of the Customs and Tax Administration and how you use them.
+The guidance we offer is for people who want to give a power of attorney to somebody else and for people who request a power of attorney in order to help somebody.
+Ways to give or request a power of attorney
+Third-party access to your profile in E-tax (TastSelv)
+Authorise others to access your profile in E-tax (TastSelv)
+Limited power of attorney
+Give others limited authorisation to represent you in matters with the Tax Agency (form 02.056)
+Unlimited power of attorney
+Give others unlimited authorisation to represent you in matters with the Tax Agency (form 02.043)
+Digital Power of Attorney - Borger.dk (in Danish)
+Authorise others to get messages about your Tax Account or Register of Motor Vehicles on your behalf
+Legal Guide (in Danish)
+See legislation
+Good to know when you give a power of attorney
+You decide the scope of the power of attorney and who you give to. This means that you can authorise somebody else to see your data in E-tax, but not to make any changes.
+You can always revoke a power of attorney.
+You can give a power of attorney to several people. However, we only communicate with the person who got the most recent power of attorney.
+Power of attorney and representation
+A power of attorney is a legal document that proves you have authorised another person to handle your affairs with the Danish Tax Agency. This can apply to one or more specific areas. The person you authorise becomes your representative in dealings with the Tax Agency.
+There are several ways to give (or request) a power of attorney with the Tax Agency. You can read more in the section 'How you give a power of attorney' below.
+When should you give a power of attorney?
+A power of attorney may be useful if you become ill, are travelling or for other reasons need help managing your tax matters.
+Who can you give a power of attorney to?
+You decide who you want to give a power of attorney to. This can be a lawyer, an accountant, a family member or someone else.
+Professionals may not always need a power of attorney
+If your representative is a professional, such as a lawyer or an accountant, we may in some cases accept them as your representative without a power of attorney. Ask your representative to contact us if you are unsure if you need a power of attorney or if you experience issues with access.
+Read more in Danish in our leagal guide under "Undtagne grupper" (Exempt groups)
+.
+Guardians
+Guardians, including holders of parental custody and future proxies, are legal representatives for persons under guardianship and for those who have granted a future power of attorney.
+Minors
+As a rule, minors can't act as representatives unless this has been assessed and approved by the Tax Agency and the holders of parental custody.
+In such cases, the assessment will focus on whether the minor has the necessary maturity to assist you in your dealings with the Danish Tax Agency.
+Overview of powers of attorney with the Tax Agency
+There are several ways to give a power of attorney with the Tax Agency. The type of power of attorney you need depends on what kind of assistance you require:
+Limited power of attorney:
+With a
+limited power of attorney (form 02.056)
+, you can authorise another person to assist you with a specific area or case.
+Digital power of attorney:
+With a
+digital power of attorney
+, you can authorise another person to communicate with the Tax Agency on your behalf regarding your Tax Account and/or the Motor Register.
+Unlimited power of attorney:
+With an
+unlimited power of attorney (form 02.043)
+, you can authorise another person to assist you with multiple areas within the Tax Agency.
+Give others access to your profile in E-tax (TastSelv)
+You can give access to your E-tax profile by using the authorisation feature in E-tax for individuals.
+How to give access:
+Log on to E-tax (TastSelv)
+Select 'Profile and contact details'
+Select 'Authorise your accountant or others'
+Enter the CPR or CVR/SE-number of the person you wish to authorise
+Select the areas you want to give access to
+Set an expiry date
+Accept
+Alternatively, you can fill out and submit the authorisation using
+form 02.052
+.
+Learn more about access to E-tax (TastSelv)
+Give others access to your E-tax
+Get access to another person’s E-tax
+For businesses: Give access to E-tax for businesses
+This is what you do
+You can request a power of attorney to assist another person, for example, a relative, by completing and submitting one of the following forms:
+Limited power of attorney:
+With a
+limited power of attorney (form 02.056)
+, you can request authorisation to represent somebody else with a specific area or case.
+Digital power of attorney:
+With a
+digital power of attorney
+, you can request authorisation to communicate with the Tax Agency on behalf of somebody else regarding the Tax Account and/or the Motor Register.
+Unlimited power of attorney:
+With an
+unlimited power of attorney (form 02.043)
+, you can request authorisation to represent somebody lese in all areas of the Tax Agency.
+How to get access to somebody else's E-tax by means of authorisation
+Submit digitally
+Log on to E-tax (TastSelv)
+Select Contact > Write to us > Indsend/indberet til os (fx blanket/bilag)
+Please note that if you request a power of attorney for the Tax Account or Register of Motor Vehicles, you can't do so via E-tax. Instead you make your request via
+Digital fuldmagt (Digital power of attorney)
+.
+Submit by regular post
+Skattestyrelsen
+Nykøbingvej 76
+Bygning 45
+4990 Sakskøbing
+Denmark
+Who can submit the power of attorney?
+The power of attorney is completed and submitted by the person giving it (the principal) or the person who holds a power of attorney (the agent). The principal always have to sign the power of attorney, no matter who actually sends it.
+Get an overview of powers of attorney
+Below we've listed the powers of attorney available in the other agencies under the Customs and Tax AdministrationHerunder får du et overblik over de fuldmagter, der findes i de andre styrelser i Skatteforvaltningen.
+Motor Vehicle Agency:
+Forms, Motor Vehicle Agency
+Digital power of attorney
+Property Assessment Agency:
+Give others access to your property assessment
+Debt Collection Agency:
+Power of attorney, form Debt Collection Agency
+Customs Agency:
+Read more in Danish about powers of attorney and representation within customs
+A.A.7.4.2.3 Toldrepræsentant (Customs representative) - info.skat.dk
+Are you exempt from digital post?
+If you have been exempt from digital post, you can send your request to us by regular post. You find the releant address and phone numbers to the different agencies at
+Contact us
+.
+Any questions?
+Please call us on
+72 22 18 18
+You can also write to us at
+Contact us
+Opening hours
+Mondays 9-17
+Tuesdays-Thursdays 9-16
+Fridays 9-14

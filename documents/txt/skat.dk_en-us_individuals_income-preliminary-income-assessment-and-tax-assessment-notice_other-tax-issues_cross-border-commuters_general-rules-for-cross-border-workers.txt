@@ -1,0 +1,54 @@
+URL: https://skat.dk/en-us/individuals/income-preliminary-income-assessment-and-tax-assessment-notice/other-tax-issues/cross-border-commuters/general-rules-for-cross-border-workers
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Deutsch
+General rules for cross-border workers
+Learn about the cross-border worker rules and how it may apply to you.
+You can choose to be taxed according to the rules for cross-border workers if:
+you are subject to limited tax liability in Denmark and earn at least 75% of your total income in Denmark.
+you are subject to full tax liability (dual residency) and considered to be domiciled for tax purposes in your home country and you earn at least 75% of your total income in Denmark.
+If you choose to be taxed according to the rules for cross-border workers, you are entitled to deduct a number of personal and family-related expenses. And you are entitled to deduct certain expenses related to your income in Denmark.
+In certain cases the cross-border workers rules may not be beneficial to you. If, for example, you have income from shares and you choose to be taxed according to the rules for cross-border workers, there will be a change in the way you are taxed on dividend income and royalties. Such income will no longer be taxed according to the gross taxation scheme but according to the ordinary rules for individuals subject to full tax liability.
+If Denmark has entered into a double taxation agreement with your country of residence and the two countries have agreed on a maximum tax rate, you will be taxed according to such agreements.
+These countries have entered into a double taxation agreement with Denmark (skm.dk)
+You must include your income from Denmark that is subject to limited tax liability in Denmark when you calculate the 75% of your total income. Such income from Denmark may be salary, pensions, early retirement benefits, sickness benefits, unemployment benefits, the state education grant (SU), income from self-employment or similar. You subtract any deductible expenses you have incurred in order to receive this income, union membership fees, deduction for transport between home and work or travelling expenses, for example.
+Generally, all income is included in your total (global) income. This means that income earned both in Denmark and abroad irrespective of the type of income, interest, dividends, royalties and real property, for example, is included. This income must be included in the calculation of your global income even if Denmark has no right to tax the income according to a double taxation agreement. This could be interest income, pension or the state education grant (SU), for example, from Denmark. Please see our legal guide
+Den juridiske vejledning C.F.5.3.
+for further information in Danish about how to calculate the 75% of your total income.
+You have two options if you are subject to limited tax liability or if you are a dual resident:
+Subject to limited tax liability/dual residency and not taxed according to the rules for cross-border workers
+Subject to limited tax liability/dual residency and taxed according to the rules for cross-border workers
+If you want to be taxed according to the rules for cross-border workers, you need to tell us each relevant year you want to make use of the option. You need to make your choice for an income year by 1 September (moved from 1 July) in the following income year. You can change your mind about choosing to be taxed according to the cross-border worker rules until 31 August (moved from 30 June due to the corona situation) in the second calendar year after the end of the relevant income year. You need to state that you want to be taxed according to the rules for cross-border workers in your preliminary income assessment and/or tax assessment notice.
+If you want to state that you choose to be taxed according to the rules for cross-border workers in your preliminary income assessment, you should contact us on (+45) 72 22 28 92 or send an email by logging on at
+skat.dk/english
+.
+In your tax assessment notice, you need to enter the relevant information under ‘Ret årsopgørelsen’ (Change your tax assessment notice) once you have logged on at www.skat.dk.
+If there is no self-service option in E-tax (our self-service facility - TastSelv) for you, you need to complete the following two forms as you are subject to limited tax liability;
+form 04.009 - Tax return for taxpayers with limited tax liability
+form 04.031 - Supplement to tax return for taxpayers with limited tax liability
+Dual residents need to complete the following forms:
+form 04.003 - Extended tax return
+form 04.032 - Supplement to tax return for taxpayers with full tax liability
+It will be appear from forms 04.031 and 04.032 if you need to complete and submit other special forms.
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions to this subject?
+Call us
+before
+Kl.
+17:00
+72222780

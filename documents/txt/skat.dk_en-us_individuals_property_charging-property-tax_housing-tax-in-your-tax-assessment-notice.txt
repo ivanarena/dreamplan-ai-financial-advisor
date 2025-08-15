@@ -1,0 +1,181 @@
+URL: https://skat.dk/en-us/individuals/property/charging-property-tax/housing-tax-in-your-tax-assessment-notice
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Deutsch
+Housing tax in your tax assessment notice
+Your tax assessment notice shows you your housing taxes and housing tax loans for 2024.
+This is the first time that your tax assessment notice holds information about your housing tax that is calculated based on the new rules that took effect on 1 January 2024.
+Step by step: This is how you see your housing tax and housing tax loans
+As a home owner, you pay 2 types of housing tax: Property value tax and land tax.
+It's the first time you can see your land tax in your tax assessment notice. It's still a municipal tax for, but you are no longer charged by your municipality.
+See how much housing tax you paid in 2024
+Log on to E-tax (TastSelv)
+Click
+See tax assessment notice
+Go to
+Property taxes
+There, you can see  your
+property value tax
+and
+land tax
+for 2024
+If you own several homes, you can see the taxes for each individual property in the PDF at the top of your tax assessment notice. There, you can also see how much you own of the property and the base we have used to calculate the tax.
+Generally, the base of taxation is the property value tax and the land tax minus 20%, but other deductions may also be relevant.
+Read more about calculating your housing tax (vurderingsportalen.dk)
+In some cases, there may be errors in your tax assessment notice. This applies for example if you retain undivided posession of an estate or own a two-family home.
+Check if your share of ownership is correct:
+Log on to E-tax (TastSelv)
+Click
+Change tax assessment notice
+Go to
+Danish property
+Click the wheel next to the property you want to make changes to
+Go to
+Land tax data
+See your share of ownership of the land next to
+Share of ownership, percentage
+Go to
+Share of ownership
+See your share of ownership of the property in box 177.
+You can't change an incorrect share of ownership yourself.
+If
+the share of ownership of the land is incorrect
+, you have to contact your local municipality.
+If
+the share of ownership of the property is incorrect
+, you have to call the Danish Property Assessment Agency (Vurderingsstyrelsen) at 72 22 16 16.
+In 2024, most home owners got a tax rebate, because of a reduction of tax rates. But in some areas property assessments increased so much that taxes also increased.
+If, in 2024, your housing tax was higher than it used to be according to the past tax rules, you got a tax rebate.
+See if you got a tax rebate:
+Log on to E-tax (TastSelv)
+Click
+See tax assessment notice
+Select
+PDF
+at the top of the assessment
+Go to
+Specification of property data
+The rebate is stated opposite the line
+Rebate as you owned the property before 1 January 2024
+.
+The rebate is personal and based on your share of ownership. If you are more owners, each of you obtain a rebate. If you own more properties, you get a statement for each individual property
+Read more about calculation of tax rebate (vurderingsportalen.dk)
+If you divorced or retain undivided possession of an estate, you can assume a possible tax rebate from your former spouse.
+You can't make the relevant corrections in your tax assessmet notice. Please call the Danish Property Assessment Agency (Vurderingsstyrelsen) at 72 22 16 16.
+As a home owner you may have up to 3 types of housing tax loans:
+Housing tax freeze loans
+for possible tax increases
+Loans for pensioners
+for payment of land tax
+Supplementary loans
+if the tax rebate in your preliminary income assessment was too high.
+Read more about housing tax loans (vurderingsportalen.dk)
+See your loans in your tax assessment notice
+In your tax assessment notice, housing tax loans is called
+Deferred property tax
+.
+Log on to E- tax (TastSelv)
+Select
+See tax assessment notice
+Go to
+Calculation and statement of tax
+at the bottom
+Select
+Provisional tax
+by clicking the small triangle
+Your total loans are stated at
+Deferred property tax (housing tax loans)
+Get an overview of your housing tax loans for 2024
+Log on to E-tax (TastSelv)
+Selct
+Active loans and payment
+Select
+Go to payment
+if you want to repay part of or all of your loan.
+You will automatically be charged in relation to all loans in a property once it is sold.
+The calculation of possible supplementary loans is made at the same time as the tax assessment notice is generated.
+These loans are included in the tax assessment notice – in the box 'Deferred property tax' – but it may take some days before you get a notice of funding. Once you have the notice, you can see/pay the loan under 'Housing tax loans'.
+Generally, home owners were notified in 2024 if they will get a supplementary loan as part of their tax assessment notice.
+However, changes may have occurred prior to the release of the tax assessment notice meaning that new home owners may risk having to pay outstanding tax or getting a loan - or the fact that the loan itself has changed compared to what was stated in the notification that the home owner received.
+In 2024, the minimum threshold of housing tax freeze loans was DKK 296. If your tax increase was less, you didn't get a loan to freeze housing tax increases.
+There is no such minimum threshold of supplementary loans. And a result, some home owners have very small loans.
+In E-tax (TastSelv) you can only see loans taken out in 2024. If you have housing tax freeze loans or loans for pensioners from 2023 or before, they are managed by your local municipality.
+Please contact your local municipality if you want an overview of loans prior to 2024.
+Did you buy or sell a property in 2024, you need to check if it's registered correctly in your tax assessment notice, for example, the date of transfer.
+Log on to E-tax (TastSelv)
+Click
+Change tax assessment notice
+Go to
+Danish property
+Click the wheel next to the proeprty you want to make changes to
+Go to
+Purchase
+State the date of transfer in 2024 in box 181
+State your moving in date in 2024 in box 183, but only if it's after the date of transfer. This only applies to all-year homes.
+If you moved in after the income year of 2024, you need to mark
+Yes
+in box 185. This only applies to all-year homes.
+Did you buy or sell a property in 2024, you need to check if it's registered correctly in your tax assessment notice, for example, the moving out date.
+Log on to E-tax (TastSelv)
+Click
+Change tax assessment notice
+Go to
+Danish property
+Click the wheel next to the proeprty you want to make changes to
+Go to
+Sale
+State buyer's date of transfer in box 187
+If the moving out date is after the buyer's date of transfer, you state the date of moving out in box 189. This only applies to all-year homes.
+In special cases your property value tax may be reduced if the property has been temporarily uninhabitable and this is no fault of yours.
+It could be due to repairs or damage by water or vandalism resulting in broken windows, or due to installation, electricity or water supply cut-offs. You can't get a reduction of property value tax if you are converting our home, building an extension or renovating your existing home unless it is done to repair such damages as described above.
+Your property value tax can only be reduced if the damage has an impact on the entire home.
+Register the period of the home being uninhabitable:
+Log on to E-tax (TastSelv)
+Click
+Change tax assessment notice
+Go to
+Danish property
+Click the wheel next to the property you want to make changes to
+Go to
+Uninhabitable
+Enter number of days that the home was uninhabitable in box 195.
+Special rules apply if you took over the property in 2024.
+Read the guidance by clicking the question mark in box 195 before you enter the number of days.
+When you own property outside Denmark, you have to pay Danish property value tax - just as if you owned a Danish property.
+The actual property value tax depends on the market value of the property. But in contrast to Danish properties, non-Danish properties are not assessed based on a public property assessment.
+That's why you have to calculate the market value based on the purchase price of your property.
+You are obliged to inform us of about the following on your non-Danish property:
+An updated calculation of the market value
+Possible rental income
+Possible non-Danish property tax
+Possible interest deductions
+Please note
+You may miss out on a tax rebate, if you don't update the market value in you tax assessment notice for 2024.
+You may risk being taxed twice if you don't inform us of possible property taxes you pay outside Denmark.
+Read more about non-Danish properties
+In 2024, you paid housing tax based on a provisional assessment of property for 2022 (or in few cases a property assessment for 2023).
+When your final property assessment is released, your housing tax for 2024 will be re-calculated and re-adjusted.
+Read more about re-adjustment (vurderingsstyrelsen.dk)
+Read more
+Calculation of housing tax for 2021-23 (vurderingsportalen.dk)
+Do you have any questions about this subject?
+Call us
+before
+Kl.
+17:00
+72222828

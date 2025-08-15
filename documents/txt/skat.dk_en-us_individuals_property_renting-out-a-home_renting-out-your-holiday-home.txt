@@ -1,0 +1,3727 @@
+Source: skat.dk_en-us_individuals_property_renting-out-a-home_renting-out-your-holiday-home.html
+
+We use cookies
+We and third parties use two types of cookies: Strictly necessary cookies and statistic cookies.
+Strictly necessary cookies ensure that the website functions correctly.
+Cookies for statistic purposes are used to improve the user experience. When you click ‘Accept’, you agree to statistic cookies.
+You can always change your consent to cookies by clicking the link at the bottom of the page.
+About cookies
+Service:
+BIG-IP, F5
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+BIG-IP, F5 - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+TS[0-9]
+Provider:
+.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+Flow
+Provider:
+nemlog-in.mitid.dk
+Service:
+BIG-IP, F5
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+BIG-IP, F5 - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+TS[0-9]
+Provider:
+pdcs.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Used for supporting technical functions of the website.
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+UFST_persistency
+Provider:
+pdcs.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Used for preserving user states across page requests.
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+AuthnTicket
+Provider:
+nemlog-in.mitid.dk
+Service:
+Cisco, AppDynamics
+Purpose:
+Ensures the website and application security.
+Data Processor Privacy Policy:
+Cisco, AppDynamics - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a few seconds
+Name:
+ADRUM_BTa
+Provider:
+nemlog-in.mitid.dk
+Service:
+Cisco, AppDynamics
+Purpose:
+Ensures the website and application security.
+Data Processor Privacy Policy:
+Cisco, AppDynamics - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+ADRUM
+Provider:
+.mitid.dk
+Service:
+Microsoft, ASP.NET
+Purpose:
+Supports the integration of a third-party platform on the website.
+Data Processor Privacy Policy:
+Microsoft, ASP.NET - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+__RequestVerificationToken
+Provider:
+nemlog-in.mitid.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Used for preserving user states across page requests.
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a few seconds
+Name:
+SameSite
+Provider:
+nemlog-in.mitid.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Used for preserving user states across page requests.
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+SessionUuid
+Provider:
+nemlog-in.mitid.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Used for preserving user states across page requests.
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+DCS_JSESSIONID
+Provider:
+pdcs.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Used for preserving user states across page requests.
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+Challenge
+Provider:
+nemlog-in.mitid.dk
+Service:
+Dynatrace
+Purpose:
+Supports the functions of a "Content Management System" to ensure that the website works properly.
+Data Processor Privacy Policy:
+Dynatrace - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+dtCookie
+Provider:
+.skat.dk
+Service:
+New Relic
+Purpose:
+Collects information about the website and its contents for reporting and security purposes.
+Data Processor Privacy Policy:
+New Relic - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+jsessionid_ejendomsvurdering
+Provider:
+www.vurdering.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Used for preserving user states across page requests.
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+DCS_IDP_JSESSIONID
+Provider:
+pdcs.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Used for preserving user states across page requests.
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+LoginTargetUrl
+Provider:
+pdcs.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+2 days
+Name:
+INGRESSCOOKIE
+Provider:
+manifest.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+MAN2PORTAL
+Provider:
+manifest.skat.dk
+Service:
+Cisco, AppDynamics
+Purpose:
+Ensures the website and application security.
+Data Processor Privacy Policy:
+Cisco, AppDynamics - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a few seconds
+Name:
+ADRUM_BT1
+Provider:
+nemlog-in.mitid.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Used for preserving user states across page requests.
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+rqIs
+Provider:
+pdcs.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Used for preserving user states across page requests.
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+cr
+Provider:
+pdcs.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Used for preserving user states across page requests.
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+reSt
+Provider:
+pdcs.skat.dk
+Service:
+Purpose:
+Bevarer brugertilstand på tværs af sideforespørgsler.
+Expiry:
+15 hours
+Name:
+gwroute
+Provider:
+motorregister.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Collects information about the website and its contents for reporting and security purposes.
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+JSESSIONID
+Provider:
+motorregister.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+SKATstyle
+Provider:
+motorregister.skat.dk
+Service:
+Cookie Information
+Purpose:
+Used to share consent across domains.
+Data Processor Privacy Policy:
+Cookie Information - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+CookieInformationConsent_xxx
+Provider:
+policy.app.cookieinformation.com
+Service:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Cookie Information - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+CookieInformationConfig
+Provider:
+policy.app.cookieinformation.com
+Service:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Cookie Information - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+betal.gaeldst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+TEST_AMCV_COOKIE_WRITE
+Provider:
+.skm.dk
+Service:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Cookie Information - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+skm.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+cookie4u
+Provider:
+www.tastselv.skat.dk
+Service:
+BIG-IP, F5
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+BIG-IP, F5 - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+TS[0-9]
+Provider:
+.tastselv.skat.dk
+Service:
+BIG-IP, F5
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+BIG-IP, F5 - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+TS[0-9]
+Provider:
+www.tastselv.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Used for preserving user states across page requests.
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+UFST_persistency
+Provider:
+info.skat.dk
+Service:
+Dynatrace
+Purpose:
+Ensures the website and application security.
+Data Processor Privacy Policy:
+Dynatrace - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+rxvt
+Provider:
+.skat.dk
+Service:
+Purpose:
+Bevarer brugertilstand på tværs af sideforespørgsler.
+Expiry:
+Session
+Name:
+jsessionid_tsb_index
+Provider:
+tastselv.skat.dk
+Service:
+New Relic
+Purpose:
+Collects information about the website and its contents for reporting and security purposes.
+Data Processor Privacy Policy:
+New Relic - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+jsessionid_partlogin
+Provider:
+www.tastselv.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+jsessionid_tsb_beregn2023
+Provider:
+www.tastselv.skat.dk
+Service:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Cookie Information - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+tastselv.skat.dk
+Service:
+New Relic
+Purpose:
+Collects information about the website and its contents for reporting and security purposes.
+Data Processor Privacy Policy:
+New Relic - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+jsessionid_tsadg_borger
+Provider:
+www.tastselv.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Supports the integration of a third-party platform on the website.
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+ASP.NET_SessionId
+Provider:
+www.tastselv.skat.dk
+Service:
+BIG-IP, F5
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+BIG-IP, F5 - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+BIGipServerxxx
+Provider:
+www.tastselv.skat.dk
+Service:
+BIG-IP, F5
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+BIG-IP, F5 - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+TS[0-9]
+Provider:
+.www.tastselv.skat.dk
+Service:
+Dynatrace
+Purpose:
+Supports the functions of a "Content Management System" to ensure that the website works properly.
+Data Processor Privacy Policy:
+Dynatrace - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+dtPC
+Provider:
+.skat.dk
+Service:
+Purpose:
+Bevarer brugertilstand på tværs af sideforespørgsler.
+Expiry:
+Session
+Name:
+jsessionid_tsb_index
+Provider:
+www.tastselv.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+cookie4u
+Provider:
+tastselv.skat.dk
+Service:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Cookie Information - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+www.tastselv.skat.dk
+Service:
+Dynatrace
+Purpose:
+Ensures the website and application security.
+Data Processor Privacy Policy:
+Dynatrace - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+rxVisitor
+Provider:
+.skat.dk
+Service:
+Dynatrace
+Purpose:
+Supports the functions of a "Content Management System" to ensure that the website works properly.
+Data Processor Privacy Policy:
+Dynatrace - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+dtSa
+Provider:
+.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+UFST_persistency
+Provider:
+ntse.skat.dk
+Service:
+BIG-IP, F5
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+BIG-IP, F5 - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+TS[0-9]
+Provider:
+ntse.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+cookie4u
+Provider:
+pdcs.skat.dk
+Service:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Cookie Information - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+vurdst.dk
+Service:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Cookie Information - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+sktst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+TEST_AMCV_COOKIE_WRITE
+Provider:
+.sktst.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+__Secure-next-auth.callback-url
+Provider:
+betaling.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+__Host-next-auth.csrf-token
+Provider:
+betaling.skat.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+TEST_AMCV_COOKIE_WRITE
+Provider:
+.motorst.dk
+Service:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Cookie Information - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+motorst.dk
+Service:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Cookie Information - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+gaeldst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+TEST_AMCV_COOKIE_WRITE
+Provider:
+.gaeldst.dk
+Service:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Cookie Information - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+www.stopspillet.dk
+Service:
+Microsoft, ASP.NET
+Purpose:
+Supports the integration of a third-party platform on the website.
+Data Processor Privacy Policy:
+Microsoft, ASP.NET - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+ASPSESSIONIDxxx
+Provider:
+vita.skat.dk
+Service:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Cookie Information - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+toldst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+TEST_AMCV_COOKIE_WRITE
+Provider:
+.ufst.dk
+Service:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Cookie Information - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+ufst.dk
+Service:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Cookie Information - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+bogføringsguide.skat.dk
+Service:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Cookie Information - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+skatteankestyrelsen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+TEST_AMCV_COOKIE_WRITE
+Provider:
+.skatteankestyrelsen.dk
+Service:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Cookie Information - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+skat.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+TEST_AMCV_COOKIE_WRITE
+Provider:
+.skat.dk
+Service:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Cookie Information - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+www.styrpaaspillet.dk
+Service:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Cookie Information - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+skatteforvaltningen.dk
+Service:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Cookie Information - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+www.rofus.nu
+Service:
+Skatteforvaltningen
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+isFirstRun
+Provider:
+info.skat.dk
+Service:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Cookie Information - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+info.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Supports the integration of a third-party platform on the website for analysis and reporting purposes.
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+gpv_v3
+Provider:
+.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Supports the integration of a third-party platform on the website.
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+ASP.NET_SessionId
+Provider:
+info.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+7 days
+Name:
+supchatCanSetCookie
+Provider:
+.skat.dk
+Service:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Cookie Information - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+adst.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+7 days
+Name:
+supchatCanSetCookie
+Provider:
+.vurderingsportalen.dk
+Service:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Cookie Information - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+www.vurderingsportalen.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+language
+Provider:
+tarif.skat.dk
+Service:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Cookie Information - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+itti.dk
+Service:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+Cookie Information - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+www.spillemyndigheden.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+AUTH_SESSION_ID_LEGACY
+Provider:
+sso.api.moms-ved-salg-til-private-i-eu.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+sf
+Provider:
+pdcs.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+AUTH_SESSION_ID
+Provider:
+sso.api.moms-ved-salg-til-private-i-eu.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+KC_RESTART
+Provider:
+sso.api.moms-ved-salg-til-private-i-eu.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a day
+Name:
+moss-cookie
+Provider:
+indberetning.moms-ved-salg-til-private-i-eu.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+jsessionid_xxx
+Provider:
+www.tastselv.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+jsessionid_xxx
+Provider:
+www.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+TSBORGERSESSION
+Provider:
+www.tastselv.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+TSERHVERVSESSION
+Provider:
+.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+users_resolution_width
+Provider:
+www.tastselv.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+TS_FSK_CCP
+Provider:
+www.tastselv.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+users_resolution_height
+Provider:
+www.tastselv.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+tsbsp
+Provider:
+www.tastselv.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+TSBORGERINIT
+Provider:
+www.tastselv.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Collects information about the website and its contents for reporting and security purposes.
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+JSESSIONID
+Provider:
+www.tastselv.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+TSERHVERVINIT
+Provider:
+.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+BigipServer_xx
+Provider:
+www.tastselv.skat.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+TSPARTSESSION
+Provider:
+www.tastselv.skat.dk
+Service:
+Cisco, AppDynamics
+Purpose:
+Ensures the website and application security.
+Data Processor Privacy Policy:
+Cisco, AppDynamics - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+an hour
+Name:
+ADRUM_BTs
+Provider:
+nemlog-in.mitid.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+tserhvervntse
+Provider:
+.skat.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+AMCV_[0-9A-Z]*%40AdobeOrg
+Provider:
+.skm.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website for analysis and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+gpv_v4
+Provider:
+.skm.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The information is used to track and analyze user behaviour and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+AMCVS_xxx
+Provider:
+.skm.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+This cookie is set and read by the JavaScript code to determine if cookies are enabled.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_cc
+Provider:
+.skm.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+s_dur
+Provider:
+.skm.dk
+Service:
+Adobe Analytics
+Purpose:
+Supports the functions of a "Content Management System" with built-in user behavior analyzes.
+Data Processor Privacy Policy:
+Adobe Analytics - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ips
+Provider:
+.skm.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website for analysis and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+6 months
+Name:
+demdex
+Provider:
+.demdex.net
+Service:
+Adobe Experience Cloud
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+at_check
+Provider:
+.skm.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+mbox
+Provider:
+.skm.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_tp
+Provider:
+.skm.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ppv
+Provider:
+.skm.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+AMCVS_675D35BB5CF11D690A495C46%40AdobeOrg
+Provider:
+.skat.dk
+Service:
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+Expiry:
+Session
+Name:
+s_cc
+Provider:
+.skat.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+2 years
+Name:
+AMCV_675D35BB5CF11D690A495C46%40AdobeOrg
+Provider:
+.skat.dk
+Service:
+Purpose:
+Collects information about the users and their activity on the website. The information is used to track and analyze user behavior and to meet individual user needs.
+Expiry:
+Session
+Name:
+userType
+Provider:
+pdcs.skat.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+mbox
+Provider:
+.vurdst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+AMCV_[0-9A-Z]*%40AdobeOrg
+Provider:
+.vurdst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website for analysis and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+s_dur
+Provider:
+.vurdst.dk
+Service:
+Adobe Analytics
+Purpose:
+Supports the functions of a "Content Management System" with built-in user behavior analyzes.
+Data Processor Privacy Policy:
+Adobe Analytics - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ips
+Provider:
+.vurdst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_tp
+Provider:
+.vurdst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The information is used to track and analyze user behaviour and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+AMCVS_xxx
+Provider:
+.vurdst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+at_check
+Provider:
+.vurdst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+This cookie is set and read by the JavaScript code to determine if cookies are enabled.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_cc
+Provider:
+.vurdst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+gpv_v4
+Provider:
+.vurdst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ppv
+Provider:
+.vurdst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The information is used to track and analyze user behaviour and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+AMCVS_xxx
+Provider:
+.sktst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+mbox
+Provider:
+.sktst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+at_check
+Provider:
+.sktst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website for analysis and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+s_dur
+Provider:
+.sktst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website for analysis and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+gpv_v4
+Provider:
+.sktst.dk
+Service:
+Adobe Analytics
+Purpose:
+Supports the functions of a "Content Management System" with built-in user behavior analyzes.
+Data Processor Privacy Policy:
+Adobe Analytics - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ips
+Provider:
+.sktst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+AMCV_[0-9A-Z]*%40AdobeOrg
+Provider:
+.sktst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+This cookie is set and read by the JavaScript code to determine if cookies are enabled.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_cc
+Provider:
+.sktst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_tp
+Provider:
+.sktst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ppv
+Provider:
+.sktst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_tp
+Provider:
+.motorst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website for analysis and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+s_dur
+Provider:
+.motorst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+AMCV_[0-9A-Z]*%40AdobeOrg
+Provider:
+.motorst.dk
+Service:
+Adobe Analytics
+Purpose:
+Supports the functions of a "Content Management System" with built-in user behavior analyzes.
+Data Processor Privacy Policy:
+Adobe Analytics - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ips
+Provider:
+.motorst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+at_check
+Provider:
+.motorst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ppv
+Provider:
+.motorst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The information is used to track and analyze user behaviour and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+AMCVS_xxx
+Provider:
+.motorst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+This cookie is set and read by the JavaScript code to determine if cookies are enabled.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_cc
+Provider:
+.motorst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+mbox
+Provider:
+.motorst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website for analysis and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+gpv_v4
+Provider:
+.motorst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The information is used to track and analyze user behaviour and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+AMCVS_xxx
+Provider:
+.gaeldst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+at_check
+Provider:
+.gaeldst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ppv
+Provider:
+.gaeldst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+AMCV_[0-9A-Z]*%40AdobeOrg
+Provider:
+.gaeldst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+mbox
+Provider:
+.gaeldst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_tp
+Provider:
+.gaeldst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+This cookie is set and read by the JavaScript code to determine if cookies are enabled.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_cc
+Provider:
+.gaeldst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website for analysis and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+s_dur
+Provider:
+.gaeldst.dk
+Service:
+Adobe Analytics
+Purpose:
+Supports the functions of a "Content Management System" with built-in user behavior analyzes.
+Data Processor Privacy Policy:
+Adobe Analytics - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ips
+Provider:
+.gaeldst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website for analysis and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+gpv_v4
+Provider:
+.gaeldst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The information is used to track and analyze user behaviour and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+AMCVS_xxx
+Provider:
+.stopspillet.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_tp
+Provider:
+.stopspillet.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+This cookie is set and read by the JavaScript code to determine if cookies are enabled.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_cc
+Provider:
+.stopspillet.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+AMCV_[0-9A-Z]*%40AdobeOrg
+Provider:
+.stopspillet.dk
+Service:
+Adobe Analytics
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Analytics - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+s_visit
+Provider:
+.stopspillet.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website for analysis and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+gpv_v4
+Provider:
+.stopspillet.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ppv
+Provider:
+.stopspillet.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+at_check
+Provider:
+.toldst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_tp
+Provider:
+.toldst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+AMCV_[0-9A-Z]*%40AdobeOrg
+Provider:
+.toldst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+s_dur
+Provider:
+.toldst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website for analysis and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+gpv_v4
+Provider:
+.toldst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ppv
+Provider:
+.toldst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+This cookie is set and read by the JavaScript code to determine if cookies are enabled.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_cc
+Provider:
+.toldst.dk
+Service:
+Adobe Analytics
+Purpose:
+Supports the functions of a "Content Management System" with built-in user behavior analyzes.
+Data Processor Privacy Policy:
+Adobe Analytics - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ips
+Provider:
+.toldst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The information is used to track and analyze user behaviour and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+AMCVS_xxx
+Provider:
+.toldst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+mbox
+Provider:
+.toldst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+mbox
+Provider:
+.ufst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_tp
+Provider:
+.ufst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website for analysis and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+s_dur
+Provider:
+.ufst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+This cookie is set and read by the JavaScript code to determine if cookies are enabled.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_cc
+Provider:
+.ufst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+AMCV_[0-9A-Z]*%40AdobeOrg
+Provider:
+.ufst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+at_check
+Provider:
+.ufst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website for analysis and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+gpv_v4
+Provider:
+.ufst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The information is used to track and analyze user behaviour and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+AMCVS_xxx
+Provider:
+.ufst.dk
+Service:
+Microsoft Azure
+Purpose:
+Collects information about the users, which is used for market analytics and reporting purposes.
+Data Processor Privacy Policy:
+Microsoft Azure - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+ai_session
+Provider:
+ufst.dk
+Service:
+Adobe Analytics
+Purpose:
+Supports the functions of a "Content Management System" with built-in user behavior analyzes.
+Data Processor Privacy Policy:
+Adobe Analytics - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ips
+Provider:
+.ufst.dk
+Service:
+Microsoft Azure
+Purpose:
+Collects information about the users, which is used for market analytics and reporting purposes.
+Data Processor Privacy Policy:
+Microsoft Azure - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+ai_user
+Provider:
+ufst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ppv
+Provider:
+.ufst.dk
+Service:
+Adobe Analytics
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Analytics - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+s_visit
+Provider:
+.skat.dk
+Service:
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+Expiry:
+Session
+Name:
+s_tp
+Provider:
+.skat.dk
+Service:
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+Expiry:
+Session
+Name:
+s_ppv
+Provider:
+.skat.dk
+Service:
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+Expiry:
+Session
+Name:
+test
+Provider:
+.skat.dk
+Service:
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+Expiry:
+30 minutes
+Name:
+gpv_v4
+Provider:
+.skat.dk
+Service:
+Adobe Analytics
+Purpose:
+Supports the functions of a "Content Management System" with built-in user behavior analyzes.
+Data Processor Privacy Policy:
+Adobe Analytics - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ips
+Provider:
+.skatteankestyrelsen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_tp
+Provider:
+.skatteankestyrelsen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+AMCV_[0-9A-Z]*%40AdobeOrg
+Provider:
+.skatteankestyrelsen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website for analysis and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+s_dur
+Provider:
+.skatteankestyrelsen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The information is used to track and analyze user behaviour and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+AMCVS_xxx
+Provider:
+.skatteankestyrelsen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+This cookie is set and read by the JavaScript code to determine if cookies are enabled.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_cc
+Provider:
+.skatteankestyrelsen.dk
+Service:
+Microsoft Azure
+Purpose:
+Collects information about the users, which is used for market analytics and reporting purposes.
+Data Processor Privacy Policy:
+Microsoft Azure - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+ai_session
+Provider:
+skatteankestyrelsen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+mbox
+Provider:
+.skatteankestyrelsen.dk
+Service:
+Microsoft Azure
+Purpose:
+Collects information about the users, which is used for market analytics and reporting purposes.
+Data Processor Privacy Policy:
+Microsoft Azure - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+ai_user
+Provider:
+skatteankestyrelsen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+at_check
+Provider:
+.skatteankestyrelsen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website for analysis and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+gpv_v4
+Provider:
+.skatteankestyrelsen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ppv
+Provider:
+.skatteankestyrelsen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+mbox
+Provider:
+.skat.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+s_dur
+Provider:
+.skat.dk
+Service:
+Adobe Analytics
+Purpose:
+Supports the functions of a "Content Management System" with built-in user behavior analyzes.
+Data Processor Privacy Policy:
+Adobe Analytics - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ips
+Provider:
+.skat.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+at_check
+Provider:
+.skat.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ppv
+Provider:
+.styrpaaspillet.dk
+Service:
+Adobe Analytics
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Analytics - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+s_visit
+Provider:
+.styrpaaspillet.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+gpv_v4
+Provider:
+.styrpaaspillet.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The information is used to track and analyze user behaviour and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+AMCVS_xxx
+Provider:
+.styrpaaspillet.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+AMCV_[0-9A-Z]*%40AdobeOrg
+Provider:
+.styrpaaspillet.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+This cookie is set and read by the JavaScript code to determine if cookies are enabled.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_cc
+Provider:
+.styrpaaspillet.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_tp
+Provider:
+.styrpaaspillet.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ppv
+Provider:
+.skatteforvaltningen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website for analysis and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+gpv_v4
+Provider:
+.skatteforvaltningen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+This cookie is set and read by the JavaScript code to determine if cookies are enabled.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_cc
+Provider:
+.skatteforvaltningen.dk
+Service:
+Adobe Analytics
+Purpose:
+Supports the functions of a "Content Management System" with built-in user behavior analyzes.
+Data Processor Privacy Policy:
+Adobe Analytics - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ips
+Provider:
+.skatteforvaltningen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+mbox
+Provider:
+.skatteforvaltningen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_tp
+Provider:
+.skatteforvaltningen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The information is used to track and analyze user behaviour and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+AMCVS_xxx
+Provider:
+.skatteforvaltningen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+AMCV_[0-9A-Z]*%40AdobeOrg
+Provider:
+.skatteforvaltningen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+at_check
+Provider:
+.skatteforvaltningen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+s_dur
+Provider:
+.skatteforvaltningen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+AMCV_[0-9A-Z]*%40AdobeOrg
+Provider:
+.rofus.nu
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_tp
+Provider:
+.rofus.nu
+Service:
+Adobe Experience Cloud
+Purpose:
+This cookie is set and read by the JavaScript code to determine if cookies are enabled.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_cc
+Provider:
+.rofus.nu
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The information is used to track and analyze user behaviour and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+AMCVS_xxx
+Provider:
+.rofus.nu
+Service:
+Adobe Analytics
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Analytics - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+s_visit
+Provider:
+.rofus.nu
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website for analysis and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+gpv_v4
+Provider:
+.rofus.nu
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ppv
+Provider:
+.rofus.nu
+Service:
+Adobe Analytics
+Purpose:
+Supports the functions of a "Content Management System" with built-in user behavior analyzes.
+Data Processor Privacy Policy:
+Adobe Analytics - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ips
+Provider:
+.adst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+at_check
+Provider:
+.adst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+mbox
+Provider:
+.adst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The information is used to track and analyze user behaviour and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+AMCVS_xxx
+Provider:
+.adst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+AMCV_[0-9A-Z]*%40AdobeOrg
+Provider:
+.adst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website for analysis and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+gpv_v4
+Provider:
+.adst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ppv
+Provider:
+.adst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website for analysis and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+s_dur
+Provider:
+.adst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+This cookie is set and read by the JavaScript code to determine if cookies are enabled.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_cc
+Provider:
+.adst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_tp
+Provider:
+.adst.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_tp
+Provider:
+.vurderingsportalen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The information is used to track and analyze user behaviour and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+AMCVS_xxx
+Provider:
+.vurderingsportalen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website for analysis and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+gpv_v4
+Provider:
+.vurderingsportalen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ppv
+Provider:
+.vurderingsportalen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+AMCV_[0-9A-Z]*%40AdobeOrg
+Provider:
+.vurderingsportalen.dk
+Service:
+Skatteforvaltningen
+Purpose:
+Data Processor Privacy Policy:
+Skatteforvaltningen - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ac
+Provider:
+.vurderingsportalen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website for analysis and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+s_dslv
+Provider:
+.vurderingsportalen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website for analysis and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+s_dur
+Provider:
+.vurderingsportalen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+This cookie is set and read by the JavaScript code to determine if cookies are enabled.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_cc
+Provider:
+.vurderingsportalen.dk
+Service:
+Adobe Analytics
+Purpose:
+Supports the functions of a "Content Management System" with built-in user behavior analyzes.
+Data Processor Privacy Policy:
+Adobe Analytics - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ips
+Provider:
+.vurderingsportalen.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_tp
+Provider:
+.itti.dk
+Service:
+Microsoft Azure
+Purpose:
+Collects information about the users, which is used for market analytics and reporting purposes.
+Data Processor Privacy Policy:
+Microsoft Azure - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+ai_session
+Provider:
+itti.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+mbox
+Provider:
+.itti.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website for analysis and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+gpv_v4
+Provider:
+.itti.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The information is used to track and analyze user behaviour and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+AMCVS_xxx
+Provider:
+.itti.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+at_check
+Provider:
+.itti.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ppv
+Provider:
+.itti.dk
+Service:
+Microsoft Azure
+Purpose:
+Collects information about the users, which is used for market analytics and reporting purposes.
+Data Processor Privacy Policy:
+Microsoft Azure - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+ai_user
+Provider:
+itti.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+AMCV_[0-9A-Z]*%40AdobeOrg
+Provider:
+.itti.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+s_dur
+Provider:
+.itti.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+This cookie is set and read by the JavaScript code to determine if cookies are enabled.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_cc
+Provider:
+.itti.dk
+Service:
+Adobe Analytics
+Purpose:
+Supports the functions of a "Content Management System" with built-in user behavior analyzes.
+Data Processor Privacy Policy:
+Adobe Analytics - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ips
+Provider:
+.itti.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_tp
+Provider:
+.spillemyndigheden.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The information is used to track and analyze user behaviour and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+AMCVS_xxx
+Provider:
+.spillemyndigheden.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+This cookie is set and read by the JavaScript code to determine if cookies are enabled.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_cc
+Provider:
+.spillemyndigheden.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+s_ppv
+Provider:
+.spillemyndigheden.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+AMCV_[0-9A-Z]*%40AdobeOrg
+Provider:
+.spillemyndigheden.dk
+Service:
+Adobe Analytics
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Analytics - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+s_visit
+Provider:
+.spillemyndigheden.dk
+Service:
+Adobe Experience Cloud
+Purpose:
+Supports the integration of a third-party platform on the website for analysis and reporting purposes.
+Data Processor Privacy Policy:
+Adobe Experience Cloud - Data Processor Privacy Policy
+(opens in a new tab)
+Expiry:
+30 minutes
+Name:
+gpv_v4
+Provider:
+.spillemyndigheden.dk
+Service:
+Purpose:
+Expiry:
+30 minutes
+Name:
+afd_azwaf_jsclearance
+Provider:
+skm.dk
+Service:
+Purpose:
+Expiry:
+30 minutes
+Name:
+afd_azwaf_jsclearance
+Provider:
+vurdst.dk
+Service:
+Purpose:
+Expiry:
+30 minutes
+Name:
+afd_azwaf_jsclearance
+Provider:
+sktst.dk
+Service:
+Purpose:
+Expiry:
+30 minutes
+Name:
+afd_azwaf_jsclearance
+Provider:
+motorst.dk
+Service:
+Purpose:
+Expiry:
+30 minutes
+Name:
+afd_azwaf_jsclearance
+Provider:
+gaeldst.dk
+Service:
+Purpose:
+Expiry:
+30 minutes
+Name:
+afd_azwaf_jsclearance
+Provider:
+toldst.dk
+Service:
+Purpose:
+Expiry:
+30 minutes
+Name:
+afd_azwaf_jsclearance
+Provider:
+ufst.dk
+Service:
+Purpose:
+Expiry:
+Session
+Name:
+s_ac
+Provider:
+.skat.dk
+Service:
+Purpose:
+Expiry:
+30 minutes
+Name:
+afd_azwaf_jsclearance
+Provider:
+skat.dk
+Service:
+Purpose:
+Expiry:
+30 minutes
+Name:
+afd_azwaf_jsclearance
+Provider:
+adst.dk
+Strictly necessary
+Statistical
+Cookie declaration
+Your consent applies to the following domains:
+ics.skat.dk, vurdering.skat.dk, manifest.skat.dk, test4.vurderingsportalen.dk, motorregister.skat.dk, betal.gaeldst.dk, skm.dk, tastselv.skat.dk, test.vurderingsportalen.dk, ntse.skat.dk, pdcs.skat.dk, test2.vurderingsportalen.dk, vurdst.dk, sktst.dk, betaling.skat.dk, test3.vurderingsportalen.dk, motorst.dk, gaeldst.dk, stopspillet.dk, skttsit52-por.skat.dk, publish.skat.dk, vita.skat.dk, demo.tastselv.skat.dk, toldst.dk, ufst.dk, designguide.skatteforvaltningen.dk, skttsit51-por.skat.dk, bogføringsguide.skat.dk, skatteankestyrelsen.dk, skat.dk, styrpåspillet.dk, skatteforvaltningen.dk, uumds.skat.dk, trn.vurderingsportalen.dk, ntst3.vurderingsportalen.dk, dev4.vurderingsportalen.dk, rofus.nu, info.skat.dk, export.skat.dk, adst.dk, vurderingsportalen.dk, tarif.skat.dk, itti.dk, spillemyndigheden.dk, indberetning.moms-ved-salg-til-private-i-eu.skat.dk, indberetning.moms-ved-salg-til-private-i-eu.ccta.dk, conformance.uumds.skat.dk, non-danish-businesses.moms-ved-salg-til-private-i-eu.skat.dk, registrering.moms-ved-salg-til-private-i-eu.skat.dk, styrpaaspillet.dk
+Cookie declaration last updated on 13.05.2025
+What are cookies?
+A cookie is a small data file which is saved on your computer, tablet or mobile phone. Cookies cannot contain viruses or other harmful programmes.
+This website’s use of cookies
+This website only uses two kinds of cookies, strictly necessary cookies and statistic cookies.
+Strictly necessary cookies ensure that the website functions correctly. These cookies remember if you are logged on, for example, so you will remain logged on until you log off.
+Statistic cookies give us an overview of our users’ visit on the website so that we can continue to improve the content to meet their needs.
+Under Cookies at www.skat.dk/english you can read more about where our cookies come from and why we use cookies.
+How long will the cookies be saved on my device?
+It varies how long a certain cookie is saved on your devices or browsers. The lifetime of a cookie is calculated from your most recent visit at the website. When the lifetime of the cookies ends, it is automatically deleted.
+Declining or deleting cookies
+You can always decline statistic cookies by only accepting strictly necessary cookies. If you do not accept cookies, we set a cookie that remembers that you have not accepted cookies. In this way, you will not be asked to accept or decline cookies the next time you visit our website.
+If you have accepted all cookies (strictly necessary and statistic cookies), you can always withdraw your accept at the bottom of the page, and then we will no longer use the statistic cookies on your device.
+Moreover, you may also delete statistic cookies by changing the settings in your browser on your computer, tablet or mobile phone.
+Depending on the browser you use, you find the settings in various locations. You cannot decline strictly necessary cookies as they are essential for the website to function.
+Typically, you delete cookies under Settings > Safety and Privacy, but it may vary from browser to browser. The below guides may help you delete cookies:
+Internet Explorer
+Microsoft Edge
+Mozilla Firefox
+Google Chrome
+Opera
+Safari
+Flash cookies
+Apple
+Android
+Windows 7
+Remember: If you use several browsers, you have to delete the cookies in all of these browsers.
+Changing your acceptance of cookies
+You change your consent by either deleting the cookies in the browser or by changing your original choice:
+Change your consent by clicking here
+Statistical
+Go to content
+Skat
+Skat
+Limited acces to E-tax (TastSelv)
+We're currently having problems with some of our IT systems.
+As a result, you may have difficulties logging on to E-Tax for individuals and E-tax for businesses.
+We're working hard to solve the problem and apologize for any inconvenience it may cause.
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Deutsch
+Renting out your holiday home
+You will be taxed on some of your rental income if you rent out your holiday home. You can choose between a fixed standard tax deduction or an accounting tax deduction (in Danish regnskabsmæssigt fradrag).
+Please note that the information on this page is only relevant for rental.
+Read more in Danish about the reporting deadline (planinfo.dk)
+.
+Calculate your taxable income (when you apply the standard deduction, in Danish)
+Enter your rental income in your tax assessment notice
+Enter your rental income in your preliminary income assessment
+When you rent out your holyday home, you get a standard deduction. The size of this deduction dependt on how you do it.
+In 2025, the first DKK 13,100 (DKK 12,700 in 2024) is tax exempt per holiday home if you rent it out as a private individual.
+In 2025, the first DKK 47,900 (DKK 46,100 in 2024) is tax exempt per holiday home if you rent it out via an agency.
+You pay tax on 60% of the excess rental income.
+Your actual expenses are not deductible. This means that you can only deduct expenses related to rental. You are entitled to the full standard deduction even if you buy or sell your holiday home during the year.
+Example of renting out as a private individual
+Rental income, incl. electricity, heating and water
+DKK 33,800
+Standard deduction
+DKK -12,700
+Income in excess of standard deduction
+DKK 21,100
+Taxable income (60% of DKK 21,100)
+DKK 12,660
+Enter your taxable income on your tax assessment notice in box 37 or in your preliminary income assessment in field 218.
+If you choose to make use of the accounting deduction, you will be taxed on your rental income minus the actual expenses. This income is considered income from capital.
+Enter your income minus your expenses in box 37 in your tax assessment notice and in field 218 in your preliminary income assessment.
+You should keep a record of rental income and expenses that you must be able to present to us upon request. You must have receipts for items you are deducting.
+Income:
+The rental income is the total amount you receive, including payment for electricity, water and heating, for example.
+Expenses:
+You are entitled to deduct expenses you incur in the period you rent out your holiday home.
+Expenses directly related to renting out your holiday home, advertising expenses, for example.
+Electricity, water, heating, for example.
+Maintenance expenses and depreciation of fittings and furniture (domestic appliances excepted).
+You are not entitled to deduct maintenance expenses related to the actual property.
+If you use the accounting deduction method, you cannot revert to the standard deduction.
+Land tax (property tax) deduction
+You can deduct your land tax for the weeks you rent out your holiday home. A year has 52 weeks, so if you rent out your holiday home for four weeks, for example, you can deduct 4/52 of your land tax as an expense.
+Property value tax relief
+You do not have to pay property value tax for the period you rent out your holiday home. You obtain the relief by entering the rental period in your tax assessment notice.
+Example: 8 weeks of rental
+Renting out
+DKK
+Rental income, including electricity, heating and water
+33,600
+Expenses for electricity, heating and water in the rental period
+-3,600
+Proportional part of house contents insurance (8/52)
+-1,000
+Proportional part of house contents insurance (8/52)
+-1,000
+Proportional part of expenses for maintenance of furniture (8/52)
+-1,000
+Proportional part of land tax (8/52)
+-2,000
+Advertising expenses
+-3,000
+Rental income to be reported
+22,000
+If you rent out your Danish holiday home via an agency or a platform that reports to us, you automatically obtain the standard deduction.
+In 2025, the standard deduction is DKK 47,900 (DKK 46,100 in 2024).
+If you are paying for electricity, heating, water, final cleaning, etc. you need to add the relevant amount in box 37 in your tax assessment notice and in field 218 in your preliminary income assessment.
+If you co-own the holiday home, we distribute the rental income and standard deduction between the owners according to how much you each own.
+If you have only owned the holiday home for part of the year, you need to enter the taxable amount in box 37/field 218.
+If you want the accounting deductions to apply to you, you need to enter your income minus your actual expenses in box 37 in your tax assessment notice and in field 218 in your preliminary income assessment.
+Holiday homes located outside Denmark
+From 1 January 2023, the reporting of holiday rental income has to figure on the BFE no. of the property. Non-Danish property doesn't have such a number.
+If you rent out a holiday home located otside Denmark, you have to calculate your taxable income and enter the amount in box 37 of your tax assessment notice.
+When the agency reports the rental income to us without a BFE no., you are still entitled to the standard deduction for holiday home rental even though we can't included that in our calculation.
+Calculate your taxable income (when you apply standard deduction)
+A new act means that the rental agency needs your personal data
+If you rent out your holiday home via a digital platform, you may be contacted by the the agency running the platform to get your full name, you CPR no., your home address and other personal data.
+And especially for rental of holiday homes, the agency will ask for the BFE no. of the property. It's optional if you want to state this number, but it is required to preprint taxable income in your tax assessment notice.
+About the EU directive DAC7
+On 1 January 2023, a new EU directive, DAC7, took effect instructing platform operators (agencies offering platforms for owners who want to rent out something) to report new information about their users (the owners) to us. The information will enable European tax authorities to identify the users of the platforms and get information on the money the users earn via the platform.
+If the agency doesn't get your personal data
+If the agency doesn't get your personal data, it may be ordered to stop payments to your account.
+If you rent out your holiday home privately in addition to letting an agency/platform rent it out, you need to pay 60% tax of the rental income you earn on the private rental.
+If your income from the agency rental is less than the standard deduction for renting out your holiday home privately, which is DKK 13,100 in 2025 (DKK 12,700 in 2024), you are entitled to deduct the remaining amount of your standard deduction before calculating your taxable income.
+You need to enter you taxable income in box 37 of your tax assessment notice.
+If you have only owned the holiday home for part of the year, you need to enter the taxable amount in box 37/field 218.
+Example: Agency rented out for less than DKK 12,700 (standard deduction for 2024)
+Renting out
+DKK
+Rental income from agency incl. electricity, water and heating
+5,200
+Standard deduction not used: DKK 12,700 - DKK 5,200 =
+7,500
+Rental income from private rental, incl. electricity, water and heating
+10,000
+Private income less the remaining standard deduction: DKK 10,000 - DKK 7,500 kr.=
+2,500
+Taxable income: DKK 2,500 x 60% =
+1,500
+Example: Agency rented out for more than DKK 12,700
+Renting out
+DKK
+Rental income from agency, incl. electricity, water and heating
+15,000
+Rental income from private rental, incl. electricity, water and heating
+10,000
+Taxable income: DKK 10,000 x 60% =
+6,000
+If you only use your holiday home for renting out, it is considered commercial rental. Commercial rental of holiday homes requires an authorisation from the Danish Nature Agency (Naturstyrelsen). Generally, the Nature Agency does not issue such authorisation.
+Read more here: Naturstyrelsen.dk
+For further legal information in Danish see
+our legal guide .

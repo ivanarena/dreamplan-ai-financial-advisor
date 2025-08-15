@@ -1,0 +1,46 @@
+URL: https://skat.dk/en-us/individuals/shares-and-securities/tax-on-cryptocurrency-know-the-rules-and-avoid-a-tax-bill/airdrops-hardforks-and-other-crypto-gifts
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Airdrops, hardforks and other crypto gifts
+Have you been awarded or received cryptocurrency as airdrops, hardforks, or as a gift? Then you may have to pay tax on the value. Read about the rules for the different types here.
+Declare gains and losses on your tax assessment notice
+Random awarding of cryptocurrency
+If you are awarded free cryptocurrency as airdrops, the cryptocurrency is considered to have been received as a form of promotional gift, for which you are liable to pay tax.
+You have to state the value of the gift on your tax assessment notice (årsopgørelse) in box 20 Other personal income.
+If you subsequently sell cryptocurrency that you have received as a promotional gift, the tax consequences of any gain or loss must be specifically assessed. As a result, we recommend that you contact us or request a
+binding ruling
+.
+Awarding of cryptocurrency based on a specific currency
+If you are awarded free cryptocurrency as a consequence of a hardfork because you own a particular cryptocurrency, the cryptocurrency awarded is considered to have been acquired with the same intention as the cryptocurrency originally acquired.
+Example: You are awarded 1 free bitcoin cash because you own 1 bitcoin. If your bitcoin purchase is for the purpose of speculation, the intention of the bitcoin cash awarded will also be considered to be speculation. If you subsequently want to sell your bitcoin cash, you must therefore calculate a gain according to the FIFO principle, and together with your other bitcoin cash holdings.
+You do not have to pay tax on your awarded hardfork until you sell it. The purchase price is DKK 0 for the awarded hardfork, and therefore any sale thereof will always result in a gain equivalent to the selling price.
+If you subsequently make additional purchases of the type of cryptocurrency you were originally awarded, the FIFO principle is applied. This entails that both gains and losses can be realised because the cryptocurrencies first purchased are considered to have been sold first.
+Read more about the FIFO principle here
+under the heading Calculate your transactions.
+Awarding of cryptocurrency as a gift
+Cryptocurrency received as a gift to mark a special occasion such as a birthday, confirmation, anniversary or similar event is in principle not liable to income tax if the gift has a modest value. If the gift to mark a special occasion is larger than what is normally appropriate, you will have to pay tax on it. You do this by entering the value of the gift in box 20 ’Anden personlig indkomst’ (Other personal income) on your tax assessment notice (årsopgørelsen).
+There are no set limits to define a normal gift and when a gift is large enough for you to be liable to pay tax on it. If you are in any doubt, please contact us.
+If the gift is not intended to mark a special occasion, you will be liable to pay tax on the gift, regardless of its value.
+Read more about speculation and gifts in the section
+Spekulationshensigten kan opgives (The speculative intention can be abandoned)
+in our Danish-language legal guide
+Read a relevant decision (in Danish)
+Surrender of cryptocurrency received as a gift (SKM 2019.78.SR)
+For further legal information in Danish see
+our legal guide null
+Chat

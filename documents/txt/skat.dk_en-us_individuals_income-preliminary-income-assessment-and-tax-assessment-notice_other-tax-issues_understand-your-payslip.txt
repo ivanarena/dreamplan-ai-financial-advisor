@@ -1,0 +1,51 @@
+URL: https://skat.dk/en-us/individuals/income-preliminary-income-assessment-and-tax-assessment-notice/other-tax-issues/understand-your-payslip
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+Understand your payslip
+Your payslip must include the following:
+Employer information
+- Name, address and CVR/SE number
+Payment period and income year
+- Payment period and income year must appear from the payslip. For example: 01-01/20xx - 31-01/20xx or January 20xx.
+Salary before deduction of tax
+- The salary before tax is called gross salary. The amount shows the agreed salary before the deduction of A-tax (tax deducted from income at source) and labour market contributions (AM-bidrag).
+Number of working hours
+- Danish labour market supplementary pension contributions (ATP) depend on your number of working hours. The number of working hours is also important in relation to daily benefits in the case of unemployment, sickness, maternity/paternity leave (dagpenge), early retirement benefits, etc. The number of working hours reported to the E-income system by the employer is used for the calculation of these benefits.
+Pension scheme contributions
+- Contributions to pension schemes and the Danish Labour Market Supplementary Pension Scheme (ATP).
+Labour market contributions (AM-bidrag) withheld
+- This is the part of the salary which your employer withholds for the Danish Tax Agency (Skattestyrelsen). Labour market contributions amount to 8% of the gross salary.
+A-tax withheld
+- This is the part of the salary which your employer withholds for the Danish Tax Agency. It is calculated on the basis of the A-income.
+Tax card information
+- Primary/secondary tax card. Tax exemption card. Deduction and allowances and withholding rate.
+Salary after deduction of tax
+- This is the actual amount paid to the employee. It is also called net pay.
+Other information relating to salary
+Sick pay
+Group life assurance
+Insurance
+Flexible spending account
+Transport allowance
+Tax-free travel allowance
+Employer-paid phone (free phone)
+Sunday and public holiday allowance
+Job allowances
+Everyone who earns a salary subject to labour market contributions or who earns a business profit automatically receives a job allowance also. The job allowance is 4.50% of income over DKK
+202.700
+or a maximum of DKK 2,700 in 2022.
+For further legal information in Danish see
+our legal guide .

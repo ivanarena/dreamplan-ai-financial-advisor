@@ -1,0 +1,39 @@
+URL: https://skat.dk/en-us/individuals/shares-and-securities/tax-on-cryptocurrency-know-the-rules-and-avoid-a-tax-bill/nfts-non-fungible-tokens
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+NFTs (Non-Fungible Tokens)
+A non-fungible token (NFT) is a unique digital asset. Non-fungible means that the asset is a non-interchangeable or irreplaceable. It could be songs, images, or representations of ownership of both digital and non-digital items.
+SFTs (Semi-Fungible Tokens)
+A semi-fungible token (SFT) is a digital asset that is not unique. We don't cover SFTs here. If you are unsure whether you have bought or sold an SFT and therefore uncertain about how to report losses and gains, we recommend that you request a binding ruling.
+If you buy and sell NFTs in order to make a profit through resale, the profit is taxable.
+When you sell or exchange (dispose of) NFTs, you have to calculate your profit or loss.
+NFTs are inherently unique digital assets. Profits and losses should be calculated on an asset-by-asset basis when the acquisition cost of the unique asset can be identified. You get the result (profit or loss) by deducting the selling price from the acquisition price.
+Profits from sales are taxed as personal income. You must report the profit in box 20 in your tax assessment notice. Losses are reported in box 58 as a tax deduction.
+Rewards
+If you have NFTs that generate rewards, you will have to pay tax on the value of the rewards at the time they are credited to your account and you have them at your disposal.
+If you create and sell NFTs, such as images, in a professional, comprehensive and systematic way and the purpose is to make a profit, your activities may be considered a business. And any profit you make is taxable.
+Royalties stemming from NFTs that you have sold are also considered taxable profit of your business. You have to pay tax on the value of the royalties at the time they are credited to your account and you have them at your disposal.
+Business profits are taxed as personal income. You report the profit in box 111 in your tax assessment notice. Losses should be reported in box 112.
+You should consider the VAT aspect if you create and sell NFTs.
+Please contact us or request a binding ruling, if you're unsure how the sales of NFTs you create should be taxed.
+If you have sold NFTs in previous years
+If you have sold NFTs in previous years without reporting the profit or loss in your tax assessment notice, you must correct the notice for the relevant year.
+Read more about correcting you tax assessment notice of a previous yea
+r.
+Call us on (+45) 72 22 28 94 if you need help.
+Read relevant rulings in Danish
+Creation of NFTs was a business activity (SKM2022.101.SR)
+Crypto art was exempt from VAT (SKM2023.329.SR)

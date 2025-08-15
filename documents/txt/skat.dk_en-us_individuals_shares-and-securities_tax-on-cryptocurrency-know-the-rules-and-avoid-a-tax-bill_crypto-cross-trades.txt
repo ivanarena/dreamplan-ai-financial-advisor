@@ -1,0 +1,40 @@
+URL: https://skat.dk/en-us/individuals/shares-and-securities/tax-on-cryptocurrency-know-the-rules-and-avoid-a-tax-bill/crypto-cross-trades
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Crypto cross trades
+A cross trade is a transaction between 2 different crypto assets – for example, buying a certain amount of Bitcoin (BTC) in exchange for selling of a certain amount of Ether (ETH).
+To ensure that both the purchase and the sale in a cross trade have the same value, a principle has been introduced stating that there can be no difference of value between the purchased and the sold asset. As a result, general priority lists have been created and they are used for valuing cross trades. The prioritisation is done individually for each trade. These lists are used to identify the asset in the cross trade with the most reliable market price, which is then used to determine the value of the traded crypto assets.
+For cross trades, the prioritisation is:
+Stablecoins backed by fiat currency (official government-issued currencies like DKK), and
+Major crypto assets, meaning widely used cryptocurrencies which take precedence over less stable or less commonly used ones.
+The valuation is based on the price of the asset that has the highest priority according to the list and is part of the cross trade.
+See example of how the priority lists are used: Marcus does a cross trade where he sells 1 BTC for 3 ETH.
+At the time of the transaction, the value of 1 BTC is DKK 50,000.
+The value of 1 ETH at the same time is DKK 20,000, meaning DKK 60,000 for 3 ETH.
+BTC has a higher priority than ETH according to the list. This means the value of the BTC determines the value of the cross trade. Therefore, the sale price of the 1 BTC and the purchase price of the 3 ETH will both be set at DKK 50,000.
+The priority lists are intended as guidance, and in specific cases, there may be valid reasons to deviate from the lists.
+See the priority lists for each income year:
+List of priority of cryptocurrency uo to and including 20222 (Currently in Danish)
+For further legal information in Danish see
+our legal guide .
+Do you have questions about cryptocurrency?
+Call us
+before
+Kl.
+17:00
+72222894

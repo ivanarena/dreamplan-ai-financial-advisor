@@ -1,0 +1,46 @@
+URL: https://skat.dk/en-us/individuals/shares-and-securities/buying-and-selling-shares-and-securities/transitional-rules-on-unutilised-losses-on-shares-from-previous-years
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Transitional rules on unutilised losses on shares from previous years
+Some losses on shares are only deductible against certain dividends and gains from other shares. If you cannot use the loss in the year in which it has been incurred, the loss is transferred to your spouse or carried forward to subsequent years. In your tax assessment notice, you can see the Danish Tax Agency’s information about share loss carryforwards from previous years. If you have declared the loss, we will automatically set off the loss against subsequent dividends and gains according to the following rules:
+Unutilised losses from the 2001 income year and previous years can no longer be used. They are barred by limitation.
+Unutilised losses from the 2002 income year and subsequent years on shares admitted for trading on a regulated market (previously listed shares) are set off by us against dividends and gains from shares admitted for trading on a regulated market.
+Unutilised losses from the 2002-2005 income years on unlisted shares sold after an ownership period of less than three years are set off by us against dividends and gains from shares. Set-off is done regardless of whether or not the shares are admitted for trading on a regulated market.
+Losses in the 2002-2005 income years on unlisted shares sold after an ownership period of three years or more were deductible in the year in which the shares were sold.
+Losses in the 2006 income year and subsequent years on shares not admitted for trading on a regulated market (previously unlisted shares) are deductible in the year in which the shares are sold.
+The set-off loss and any new balance carried forward to subsequent years are shown in your tax assessment notice. If you disagree with the stated losses, you must contact us so they can be corrected.
+Rules on deduction of losses in the various years:
+Unutilised losses on shares admitted for trading on a regulated market (listed shares before 1 January 2010)
+Unutilised losses on shares not admitted for trading on a regulated market (unlisted shares before 1 January 2010)
+Losses ascertained in 2001 or previous years:
+The loss is now barred by limitation.
+The loss is now barred by limitation.
+Losses ascertained in the 2002-2005 income years:
+The loss is deductible against income from like-kind sources and can only be used for set-off against dividends and gains from shares admitted for trading on a regulated market ot a multilateral trading facility.
+If you had owned the shares for three years or more, the loss was deductible in the year of loss. If you had owned the shares for less than three years, the loss is deductible against income from like-kind sources and can only be used for set-off against dividends and gains from shares (regardless of whether or not the shares are admitted for trading on a regulated market).
+Losses ascertained in the 2006 income year or subsequent years
+The loss is deductible against income from like-kind sources and can only be used for set-off against dividends and gains from shares admitted for trading on a regulated market.
+The loss is deductible in the year of loss.
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions about this subject?
+Call us
+before
+Kl.
+17:00
+72222894

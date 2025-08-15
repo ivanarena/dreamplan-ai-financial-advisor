@@ -1,0 +1,205 @@
+URL: https://skat.dk/en-us/individuals/income-preliminary-income-assessment-and-tax-assessment-notice/tax-assessment-notice/declaring-non-danish-income
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Deutsch
+Let us help you report your non-Danish income
+Each year you have to report your income and your deductions. In some cases, you receive a tax assessment notice (årsopgørelse) automatically with the numbers and information we have received from your employer, pension provider, bank etc. In other cases you need to complete a tax return to get a correct tax assessment notice.
+It's your responsibility to check that all information is included and correct.
+The deadline for changing your tax assessment notice is 1 May if you have received one automatically.
+If you have not received a tax assessment notice, the deadline for completing your tax return is 1 July.
+You can use E-tax (TastSelv) to report most income and deductions and allowances.
+Report in Danish kroner
+Remember to convert non-Danish income to Danish kroner.
+See your tax assessment notice/tax return
+Log on to E-tax (TastSelv) and select
+Change tax assessment notice/tax return
+.
+At the very bottom om that page you can click
+Contact us if you are missing a box
+if you need boxes til declare your non-Danish tax matters.
+When you report non-Danish income or non-Danish property, you may need access to certain boxes in your tax assessment notice. If this is the case, please contact us so we can make them available to you.
+Log on to E-tax
+Select Change your tax assessment notice/tax return
+At the very bottom om that page you can click
+Contact us if you are missing a box
+if you need boxes til declare your non-Danish tax matters.
+We can only transfer your tax return to your NemKonto, which is an ordinary bank account that you have registered as your NemKonto.
+Register your Danish account as your NemKonto
+You can register your Danish account as your NemKonto in 2 ways:
+Contact your bank
+Log on to nemkonto.dk and register your account as your NemKonto
+Register your non-Danish account as your NemKonto
+Log on to nemkonto.dk and register your non-Danish account as your NemKonto
+All Danish public authorities send information to you via Digital Post unless you are exempt  from or not included in the scheme. If you have registered for Digital post, you will not receive your tax return forms etc. in print. But if you have 2 tax liability periods in a year, you will receive an email with links to the relevant forms to complete.
+If you are not registered for Digital Post, you will receive a printed copy of your tax return no later than late May/early June. It is irrelevant for your access to E-tax whether you have signed up for Digital Post or not.
+Read more about Digital Post
+You have to convert non-Danish currency to Danish kroner when you do your reporting. You can use the exchange rate that applied at the time of payment. If you use our currency converter, please note that we use the average exchange rate of the Danish National Bank for the relevant non-Danish currency of the income year.
+See the current rate at the website of the Danish National Bank (nationalbanken.dk)
+.
+You are subject to full tax liability to Denmark when you live or stay in Denmark for more than 6 months (only disrupted by shorter breaks outside Denmark, including holidays). When you are subject to full tax liability and have non-Danish income, loans or property, you have to report this in your tax return (under Udlandsforhold (non-Danish tax matters)) – even if you have paid tax outside Denmark. Such matters are not automatically transferred to your tax assessment notice.
+Read more about how you declare non-Danish income and assets (in Danish)
+You are subject to limited tax liability to Denmark when you live away from Denmark and have Danish income subject to limited tax liability. When your tax liability is limited you don’t have to report your non-Danish income or property. In most cases, you will get a tax assessment notice stating the information we have received from your employer, your bank, etc. It’s your responsibility to check that the information is correct.
+Pay special attention to your deductions
+In the period you are subject to limited tax liability you may only deduct expenses related to the inome on which you are subject to limited tax liability.
+There may be different rules if you are subject to the cross-border worker rules and want to apply these rules.
+Boxes 51 and 53
+If you are entitled to a transport deduction or a decution for travelling expenses, you have to claim it yourself in your tax assessment notice.
+Box 28
+If your pension or student grant (SU) is tax exempt, you enter the part of your income that is tax-free in Denmark in box 28.
+Box 69
+If you have been subject to limited tax liability to Denmark for part of the year, you don’t get your personal allowance automatically for this period. In box 69 in your tax assessment notice, you can select personal allowance and make an annual calculation based on your income for part of the year if you want to get the personal allowance for the period you were subject to limited tax liability to Denmark. If the limited tax liability applies to the entire year, you will get your personal allowance automatically.
+Please note that certain types of income do not entitle your to a deduction.
+If the cross-border worker rules apply to you, you may deduct a number of expenses. But to do so, you have to let us know that you want to apply the rules. You do that by logging on to E-tax (TastSelv) and entering the relevant information in your tax assessment notice.
+This is what you do
+Log on to E-tax (TastSelv)
+Select Change tax assessment notice/Tax return
+Click ’Vis’ (Display) next to ’Grænsegængerdata’ (Cross-border worker information).
+If you are subject to full tax liability (dual residence)
+If you are subject to full tax liability to Denmark, you have to complete and submit the following forms:
+form 04.003
+form 04.032
+.
+You can send the forms by logging on to E-tax at skat.dk and selecting:
+Contact
+→
+Write to us
+→
+'Indsend oplysningsskema for 2023' (Submit tax return) → 'Oplysningsskema for udlandsforhold' (Tax return, non-Danish tax matters)
+Please read more about studying in Denmark at
+Coming to study
+.
+How to report your income to us if you have to different types of tax liability in one year
+If you have more than one type of tax liability in Denmark within a year, you can't report in E-tax (TastSelv). In this case, you have to complete and submit your tax return
+form 04.076
+by no later than 1 July.
+You have two types of tax liability periods in a year if as a student you have one period of limited tax liability within the first 365 days of your stay in Denmark and another period of full tax liability which takes effect on day 366 of your stay.
+Please see the video below on how to completer
+form 04.076
+as a student.
+Play
+00:00
+Play
+Seek 10 seconds backwards
+Seek 10 seconds forward
+00:00 / 00:00
+Mute
+Settings
+Picture in picture
+Fullscreen
+(Duration: 8:57)
+You can choose English subtitles by clicking 'CC'.
+Full screen is available by clicking the 2 arrows.
+If your tax liability to Denmark has changed during the year from full tax liability to limited tax liability or vice versa, you have two different tax liability periods in a year. When you have lived outside Denmark for part of the year and had income from Denmark you are subject to limited tax liability for that period of time. For the period you lived in Denmark you are subject to full tax liability and the principle of global income.
+When you have two types of tax liability in a year, you can't use E-tax (TastSelv) to report your income. So, you have to complete one or more tax returns and send them to us via our contact form in E-tax. You select Contact -> Write to us -> Submit tax return (Send oplysningsskema) -> Tax return for non-Danish tax matters (Oplysningsskema for udlandsforhold).
+The reporting deadline is 1 July.
+Please see the video below on how to complete
+form 04.076
+.
+Play
+00:00
+Play
+Seek 10 seconds backwards
+Seek 10 seconds forward
+00:00 / 00:00
+Mute
+Settings
+Picture in picture
+Fullscreen
+(Duration: 05:13)
+You can choose Danish, English or German subtitles by clicking the "CC" icon. Full screen is available by clicking the 2 arrows.
+You can see the income and deductions that have been reported to us in your service letter. The letter gives you a good idea of the boxes that are relevant for you to complete in your tax return. If you have other income and deductions than those already stated in your service letter, you have to report them in your tax return. This could be a deduction for transport between home and work.
+You will get your service letter by regular post. But you can also get it by logging on to E-tax (TastSelv).
+See your service letter in E-tax (TastSelv)
+Log on to E-tax (TastSelv)
+Select
+See tax assessment notice
+Select
+Document
+and then
+Service letter
+You can also see your information
+Tax information
+in E-tax.
+You have 2 types of tax liability
+form 04.076 Tax return with two tax liability periods
+You have a business and/or rental property
+Form 04.009, Tax return for the period you have lived outside Denmark
+Form 04.003 Tax return for the period you have lived in Denmark
+and possibly
+Form 04.068 Appendix - shares and investment certificates (in Danish)
+We will send you forms 04.003 and 04.009 by regular post in the end of May. If you have already submitted the information to us, please disregard our letter.
+Other forms/tax returns
+Form 04.012, Tax return for foreign income
+if you had income or shares outside Denmark while living in Denmark
+Form 04.053, Appendix- Property value tax concerning foreign property
+if you owned property outside Denmark while living in Denmark
+Form 04.031 Supplement to tax return for taxpayers with limited tax liability
+if you meet the requirements for and want to apply the cross-border worker rules while you lived outside Denmark.
+This is how you submit your forms online:
+Log on to E-tax (TastSelv)
+Select
+Contact
+Select
+Write to us
+Select 'Indsend oplysningsskema for 2023' (Submit tax return for 2023)
+Select 'Oplysningsskema for udlandsforhold' (Tax return for non-Danish tax matters)
+Select '04.076 Oplysningsskema med to skattepligtsperioder' (04.076 Tax return with two tax liability periods)
+Attach the completed tax return
+Click
+Send
+.
+You can also send the forms by regular post to:
+Skattestyrelsen
+Postboks 9
+4930 Maribo
+Denmark
+What happens next?
+When we have received your tax returns, we generate a new tax assessment notice for you. However, you have to expect a processing time of at least 6 months. We will send you forms 04.003, 04.009 and your service letter by regular post in the end of May. Please disregard these if you have already submitted the relevant tax returns.
+The first time you have to report non-Danish income or non-Danish property, you may not have access to all the relevant boxes in your tax assessment notice. If so, please contact us so we can give you access:
+Log on to E-tax at
+tastselv.skat.dk
+Select
+Change tax assessment notice/tax return
+.
+At the bottom of the page you can click
+Contact us
+if you need boxes to report non-Danish tax matters.
+If you are entitled to a tax refund, we can only transfer the refund to your NemKonto. A NemKonto is an ordinary bank account which is registered as your NemKonto.
+Register your Danish account as your NemKonto
+You can register your Danish account as your NemKonto i 2 ways:
+Contact your bank
+Log on at nemkonto.dk and register your account as your NemKonto
+Register your non-Danish account as your NenKonto
+Log on at nemkonto.dk and register your non-Danish account as your NemKonto
+Register your non-Danish account as your NemKonto
+All public authoriies use Digital Post to send you notifications unless you are exempt from or don't have to register. If you are registered for Digital Post, you will not receive your tax return forms etc. in print. If you have had 2 types of tax liability in a year, you will always receive your tax return forms and your service letter in print.
+If you are not registered for Digital Post, you will receive your tax return in print no later than late May/early June. If you are registered for Digital Post or not will not impact your access to E-tax (TastSelv) our self-service system.
+Read more about Digital Post
+.
+Your tax assessment notice only accepts Danish kroner. You may use the exchange rate of the actual date when the payment was made. If you choose to use our currency converter, please note that it is based on the average exchange rate for the year of the currency in question used by the Danish National Bank.
+See (in Danish) the actual current rate at nationalbanken.dk
+.
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions about this subject?
+Call us
+before
+Kl.
+17:00
+72222795
+Copy debug info
+Copy debug info

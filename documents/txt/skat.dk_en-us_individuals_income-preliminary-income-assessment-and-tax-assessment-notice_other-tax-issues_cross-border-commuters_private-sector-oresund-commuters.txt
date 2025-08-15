@@ -1,0 +1,110 @@
+URL: https://skat.dk/en-us/individuals/income-preliminary-income-assessment-and-tax-assessment-notice/other-tax-issues/cross-border-commuters/private-sector-oresund-commuters
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+Private-sector Oeresund commuters
+Are you a private-sector employee, who commute/travel between Denmark and Sweden every day to get to and from work? If so, you are probably entitled to apply the Oeresund agreement.
+What is the Oeresund agreement?
+The Oeresund agreement is a tax agreement between Denmark and Sweden stating that as a commuter you will be taxed on your entire income in the country (Denmark/Sweden) where you work (country of work).
+To be included in the agreement, you have to be present physically in the country of work for at least half of your total working hours in any 3-month period. If that isn't so for periods during the year (working from home could be an example), you are not included in the agreement in those periods and you will then be taxed in the country you live.
+When your tax affairs change, you have to make adjustments in your tax assessment notice/tax return.
+New rules from 1 January 2025
+On 1 January 2025, a new Oeresund agreement was implemented and with that new rules on your physical presence in your country of work for the agreement to apply.
+According to the new rules, your total working hours in your country of work must be at least half of your total working hours throughout a calendar year (any 12-month period).
+The new Oeresund agreement applies to income year 2025 and forward. This means that you can wait to translate the rules until you have to calculate your tax for income year 2025. So until 2026, the old rules apply.
+The Oeresund agreement from 2024 and earlier years
+According to the old agreement (until and including 2024), your working hours in the country of work had to be at least half of your working hours for any 3-month period.
+Use our guide to calculate your tax
+If there are periods of the year when you work a lot from home or in a third country, you may drop out of the agreement. In such case, you have to change your tax assessment notice. Use our guide below to get insight into the following:
+When you are included in the agreement
+When you are not included in the agreement
+How you calculate your tax
+Where you included in the Oeresund agreement all of income years 2023 and 2024? Use the relevant guide below to find out. Please note that you need to fill in information for 18 months.
+Guide for 2024
+Guide 2024: You live in Denmark and work in Sweden
+Guide 2024: You live in Sweden and work in Denmark
+Guide for 2023 (in Danish only)
+Guide 2023: You live in Denmark and work in Sweden
+Guide 2023: You live in Sweden and work in Denmark
+Guide for 2022
+Please note that the guides for 2022 are available in Danish only.
+Guide 2022: You live in Denmark and work in Sweden
+Guide 2022: You live in Sweden and work in Denmark
+Guide for years prior to 2022
+Please note that the guides for 2020 and 2021 are available in Danish only.
+Guide 2021: You live in Denmark and work in Sweden
+Guide 2021: You live in Sweden and work in Denmark
+Guide 2020: You live in Denmark and work in Sweden
+Guide 2020: You live in Sweden and work in Denmark
+If a guide on this page tells you that you drop out of the Oeresund agreement during the year, you can calculate how much of your salary is taxable in either Denmark or Sweden.
+Use the guides on this page
+Count the number of days marked 'S' and 'DK' in the guide for periods you are not included in the agreement and compare them with the salary you have earned in this period/these periods. The right of taxation is distributed based on your active working hours. This means that:
+salary for working days in your home country and third country is taxed in your home country
+salary for working days in the country of work is taxed in that country
+'Deferred compensation', such as bonus, share-based compensation, paid leave, early payout of frozen holiday funds, is taxed based on how the salary was distributed during the aacural periods.
+If you need to be taxed in both Sweden and Denmark for income year 2024, you need to send us documentation. You can submit your tax return in E-tax from March 2025.
+Please see how you do that below:
+How to report the salary to be taxed in Sweden:
+Log on to E-tax
+Select Change tax assessment notice/tax return
+Under Non-Danish income you state the part of your salary to be taxed in Sweden
+Select My work was performed for a private non-Danish employer
+Select country (Sweden)
+Answer the questions
+How to report the salary to be taxed in Sweden:
+Under Other non-Danish income you enter the part of your salary to be taxed in Denmark'
+Select country (Sweden)
+Under Other non-Danish income you enter the amount in box 1015 - Salary from non-Danish employer for work performed in Denmark. If you have paid tax in Sweden to be transferred to Denmark, you need to mark this in box 1015A.
+When you have entered the salary, you need to attach documentation or calculations for the part of the salary, that you find taxable in Denmark and Sweden respectively.
+This is what you do:
+Select Contact - Write to us - Send/report information to us (forms/appendix) - Other forms/appendices
+Attach your documentation, it could be a completed version of our guide on this page with your calculation.
+Write Oeresund agreement in your mesasge and then the relevant information about the distribution.
+If you have paid tax in Sweden to be transferred to the Danish Tax Agency, you have to include the following information in your message:
+Period of work
+your Swedish personal ID number
+Name, address and CVR/SE or organisation number of your employer
+Do you still need a box in your tax assessment notice?
+If it's the first time you enter non-Danish income, you may not have access to all the boxes you need in your tax assessment notice.
+Please call us on the number shown on this page, or write to us by selecting Contact us if you need access to a box (Non-Danish tax matters) in E-tax.
+If you have worked from home, please contact the tax authorities in your home country to find out how such days will be taxed in your home country.
+How to read your tax assessment notice
+The salary reported by your employer is stated in boxes 11 and 16 in your tax assessment notice. You can see the notice by loggin on to our self-service system, E-tax:
+Box 11 is the part of your salary to be taxed in Denmark
+Box 16 is the part of your salary that will not be taxed in Denmark.
+You can't change the amounts in boxes 11 and 16 yoursef. If you need a change, you have to send us an email - and you can do so in our self-service system.
+How to contact us
+Select See where the amount comes from next to boxes 11 and 16
+Select Send email
+Type ' Private employer, distribution' in your message and write that you want us to delete the amount not to be taxed in Denmark if you disagree with the distribution. If you disagree, you have to state your reasons.
+Click Send.
+If you are a public-sector Øresund commuter, you can find guidance on the following page
+Public-sector cross-border worker
+If, during lockdown, your employer has received compensation for pay, you should tick those days as working days in your country of work in the help tool calendar.
+If you live in Sweden and your income for 2022 is to be distributed for taxation between Denmark and Sweden, you check whether the rules for cross-border workers still apply in your case. They apply when you earn at least 75% of your total income in Denmark. If you no longer live up to the rules, you cannot deduct private interest expenses for financing your property in Sweden, for instance.
+Read more about the rules for cross-border workers
+If you are entitled to a tax refund in Denmark, please note that you may have to wait a while for the money. This is because Denmark and Sweden have to settle the money between them first.
+If you live in Sweden and work in Denmark, it is your responsibility to inform the Swedish Tax Agency if part of your income is to be taxed in Sweden due to more work-from-home days in 2022.
+This means that you have to send information about the distribution of your income to both the Danish Tax Agency and the Swedish Tax Agency.
+As the rules of the Oresund agreement are based on a rolling 3-month period, you need to look at the entire period from October 2021 up to and including March 2023. You need to fill in the help tool for all of the 18 months to determine which periods, if any, you are not covered by the Øresund agreement.
+If you have not been employed all of income year 2022, but only part of the year because you started your job during 2022, you fill in the help tool for the period from when you started until you finished working. Or up to and including March 2023 if you are still employed.
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions to this subject?
+Call us
+before
+Kl.
+17:00
+72222780

@@ -1,0 +1,28 @@
+URL: https://skat.dk/en-us/individuals/shares-and-securities/investment-and-tax/use-the-securities-system
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Deutsch
+Use the securities system
+By means of
+the securities system (link in Danish)
+, the Tax Agency automatically calculates the result of your investments in shares and investment certificates registered for trade in a regulated market, if the agency has the required information.
+This is how you open the Securities system
+Log on to E-tax (TastSelv)
+Select
+'Ret Årsopgørelsen/oplysningsskema' (Correct your tax assessment notice/tax return)
+Click the calculator next to box 30, 38, 66 or 345
+You will then enter the securities system and you will see your investments if we have the required information. You can see an example here:

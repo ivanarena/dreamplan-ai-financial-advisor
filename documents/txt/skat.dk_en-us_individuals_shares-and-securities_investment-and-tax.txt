@@ -1,0 +1,61 @@
+URL: https://skat.dk/en-us/individuals/shares-and-securities/investment-and-tax
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Deutsch
+Investment and tax
+Do you have shares, other securities or cryptocurrency?
+You have to pay tax on the profit from your investments. Generally, you have to make sure that the Tax Agency gets the correct information to calculate the right tax.
+You will need to report certain information depending on how and what you have invested in.
+Do you know what you have invested in?
+Are you unsure if you have invested in individual shares, in investment funds or cryptocurrency? And do you know if your custody account is held in a Danish or non-Danish bank?
+It matters a great deal in relation to what you have to report to us for us to calculate the correct tax.
+Follow 2 steps and get on top of your investments.
+There are many ways to invest. You can invest in securities held in a custody account, for example in a bank, or via trading platforms both in and outside Denmark.
+If you have a Danish custody account or trade via a Danish platform, we automatically get certain information on your investments. You can see this information in your 'Skatteoplysninger' (Tax information) in E-tax (TastSelv).
+Generally, if you can see information on your investments in your 'Skatteoplysninger', your custody account is held in a Danish bank.
+But there may be cases where 'Skatteoplysninger' displays information even though your investment is held in a non-Danish custody account. It could be purchase reports on share-based remuneration.
+Please contact your supplier, if you need further information.
+If your securities are held in a non-Danish custody account or if you trade via a non-Danish platform, information on your investment is not generally submitted to us automatically.
+Normally, your securities are held in a non-Danish custody account, if we have no information on your investments.
+As we don't get information on your investments, you have to know which type of securities you trade in and let us know how they should be tax according to the Danish rules.
+Please contact your supplier, if you need further information.
+When you are logged on to E-tax (TastSelv), you can select  'Skatteoplysninger' (tax information)
+.
+In the menu, you can select your type of investment and see the information that has been reported on your investments automatically by, for example, your bank or the platform you use.
+Generally, "Skatteoplysninger" only shows your investment if your securities are held in a Danish custody account.
+The information stated in 'Skatteoplysninger' can help you when you need to report information to us. 'Aktieoplysninger' (Share information) tells you whether or not your shares are admitted for trade.
+Read more in Danish about when shares are admitted for trade here
+.
+Also, you can see under 'Papirlandekode' for each share if the shares are Danish or not.
+This information will help you find out which box you have use use when you report a profit or loss.
+See which information we have in E-tax (TastSelv) on your investments
+Do we have all the relevant information?
+There er many ways of investing. You can invest in securities in a custody account, such as in a bank, or via a trading platform in Denmark or outside Denmark.
+We have stated all the information we have about your profit or loss on your securities in your tax assessment notice. But we may not have all the information. Depending on your form of investment, some information is transferred to your tax assessment notice and some information is not. So, check your tax assessment notice and report any missing or incorrect information.
+Check your information in E-tax (TastSelv)
+When you have logged on to E-tax (TastSelv), you can see the information that is automatically reported on your investments by, for example, your bank or the trading platform you use.
+Find your tax information here
+Calculate profit and loss on your shares
+When you sell shares or other securities, you have to make a calculation to see if you have made a profit or a loss.
+Generally, you have to use the average cost method to calculate the correct result.
+This is how you use the average cost method (link in Danish)
+Use the securities system
+The securities system is a giant calculator. It can calculate your profit and loss based on the information you or other parties have reported to us on your investments.
+Read more about the Securities system
+Do you need to speak with us?
+You can call us on (+45) 72 22 28 94

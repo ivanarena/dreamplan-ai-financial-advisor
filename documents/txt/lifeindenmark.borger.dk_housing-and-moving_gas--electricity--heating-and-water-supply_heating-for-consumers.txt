@@ -1,0 +1,60 @@
+URL: https://lifeindenmark.borger.dk/housing-and-moving/gas--electricity--heating-and-water-supply/heating-for-consumers
+
+Heating for consumers
+If you are a tenant, you can contact your landlord for information concerning your heating supply
+Choose your local municipality in order to see information and online services that apply to you
+Read more and self-services
+Whether you as a consumer always have a right to be connected
+Denmark's heating supply systems are generally divided into 3 categories:
+areas supplied with district heating
+areas supplied with natural gas
+areas with individual heating.
+It should be noted that if you are a tenant, you can contact your landlord for information concerning your heating supply and your options for changing your heating supply, which will require the consent of your landlord.
+District heating and natural gas heating are both means of collective supply and are generally available in towns/cities and residential areas where there are many houses situated close to each other.
+Further information on natural gas supplies for heating is found on the information page for gas.
+If you live in an area where district heating is established, you have a right to be connected to the district heating network. The municipality is responsible for planning heating supplies and can tell you what supplies are available in the area.
+If no collective supply is available at an address, consumers can use other individual heating solutions, such as heat pumps, wood pellet stoves, etc. It should be noted that it is not legal to install an oil boiler or electric heating as individual heat supply solutions if you live in an area where collective heat supply (gas or district heating) is provided.
+If, as a consumer, you wish to replace the existing individual heating solution, you can contact your municipality to find out your options.
+How you as a consumer find out the name of the universal service provider and contact them
+If district heating is supplied to your address, you can, as a consumer, find out which company supplies the district heating in the area in question by contacting the municipality or using the website of the Danish District Heating Association. The website has a search function called: ‘Kan jeg få fjernvarme?’ (Can I get district heating?).
+Here, enter the postcode for the address and the search engine will then state whether district heating is available and, if so, provide information on the district heating company concerned.
+Danish District Heating Association: check to see if you can get district heating (in Danish)
+Whether you as a consumer have to pay to get connected
+When you move into a residential property which is already connected to the district heating network, you will normally take over the heating installation.
+If you live in an area where district heating connections are available, but the property is not connected, there will typically be a connection fee if you decide to connect to the network. In addition, there will be an expense associated with the purchase of a heat exchanger.
+The prices for connection can be obtained from the district heating company concerned and can normally also be found on the websites of the district heating companies concerned.
+What if you move to a house where there is already a connection?
+When you move into a residential property which is already connected to a district heating network, you will normally take over the heating installation.
+The website of Bygnings- og Boligregistret (Building and Housing Register) contains information on how the address concerned is heated. The website also has a search function. Enter the address here and the search engine will then provide comprehensive information on the building, including the building’s heating installation. The information can be found under the heading ‘Varme og energi’ (Heating and energy).
+Bygnings- og Boligregistret (in Danish)
+Whether and how you as a consumer can change suppliers
+In district heating areas, there is only one district heating company which supplies the heat. If you wish to heat your property using district heating, there will therefore be just one provider.
+In some areas, consumers are obliged to connect to the district heating network and pay the costs associated with the connection.
+As a consumer, you do not have to use district heating, but if you are obliged to connect to the network, it will normally be financially advantageous to use district heating as well.
+If you wish to switch to a non-collective supply, you must contact your existing provider and terminate the supply agreement with them and enter into a new agreement concerning the set-up of an individual supply.
+The national digital register for spatial planning in Denmark, plandata.dk, contains information on whether the municipality is planning changes at the address concerned concerning the connection or disconnection of the collective heating supply. On this platform, search for the address in question in the search field and select the filters that concern heating supply, respectively 'Varmeforsyning, vedtaget' (Heating supply, adopted) and 'Varmeplan' (Heating plan).
+Alternatively, you can contact the municipality directly.
+National digital register for spatial planning: Plandata.dk (in Danish)
+Official website where you as a citizen can compare prices from different suppliers
+The price statistics prepared by the Danish Utility Regulator (Forsyningstilsynet) also include heating prices for different district heating companies, which provides an overview of the various prices for district heating in Denmark. Information on individual heating solutions can be found on the Danish Energy Agency's website (SparEnergidk), where if you enter an address, you can also see any relevant alternative heating solutions available at the address concerned.
+The Danish Energy Agency’s platform ‘SparEnergi’ contains the ‘heat pump list’, which enables you to compare heat pumps available on the Danish market. The efficiencies of the various heat pumps have been tested by an independent test laboratory. Amongst other things, they comply with product requirements regarding environmentally friendly design (ecodesign).
+Price statistics prepared by the Danish Utility Regulator (Forsyningstilsynet) (in Danish)
+The Danish Energy Agency's website SparEnergi.dk (in Danish)
+What you should do if you can not pay your bill
+You can apply for a heating grant if you are on a state pension or you were granted an early retirement pension before 2003, regardless of whether you are an owner or a landlord.
+Apply for a heating grant (in Danish)
+Any citizens who is in financial difficulty can apply to the municipality for a grant for a wide range of expenses. You can for example get help with reasonable unforeseeable expenses if your circumstances have changed.
+You can also contact your supply company and ask for an extension or enter into an agreement concerning a payment scheme.
+Any special assistance services available to you as a customer with disabilities?
+There are no solutions aimed at citizens requiring
+special assistance.
+Appeals
+It is the Danish Utility Regulator that oversees that district heating companies set their prices in accordance with the rules in the Heat Supply Act. As a consumer, you can always contact the regulator if you believe that the legislation is not being complied with.
+The Danish Utility Regulator does not, however, deal with civil law disputes about financial claims between the consumer and the utility company. In this case you can submit a complaint to the Appeals Board for the Energy Sector.
+Information on the Danish Utility Regulator (in Danish)
+Appeals Board for the Energy Sector (in Danish)
+Written by the Danish Energy Agency
+Last updated: 26 February 2025
+A part of
+Your Europe
+Information services survey

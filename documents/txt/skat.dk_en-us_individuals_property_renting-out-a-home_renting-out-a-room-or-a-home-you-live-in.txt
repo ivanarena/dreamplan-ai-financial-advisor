@@ -1,0 +1,333 @@
+URL: https://skat.dk/en-us/individuals/property/renting-out-a-home/renting-out-a-room-or-a-home-you-live-in
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Deutsch
+Renting out a room or a home you live in
+You must pay tax and possibly VAT on any rental income if you
+rent out property you live in for part of the year
+rent out one or more rooms.
+However, you will only be taxed on some of the rental income. You are entitled to a deduction, either a standard deduction or an accounting deduction. This means that you only pay tax on the rental income that exceeds the deduction.
+You pay your tax by reporting your taxable income in your tax assessment notice.
+Let us help you calculate your taxable income if you choose to apply the standard deduction.
+Please note that the information on this page only refers to tax rules on property rental.
+Read more in Danish about the reporting deadline (planinfo.dk)
+.
+Calculate your taxable income (when you apply the standard deduction)
+Enter your taxable income in your tax assessment notice
+Enter your taxable income in your preliminary income assessment
+A standard deduction is an amount of money you may earn free of tax. The actual deduction depends on a number of things and there are two different methods you can apply:
+If you rent out your home for less than 4 months
+- we call this short-term rental (method 1).
+If you rent out your home for 4 months or more
+- we call this long-term rental (method 2).
+More or less than 4 months
+Your standard deduction varies depending on whether you rent out for more or less than 4 months. You look at the length of period you rent out your home to the same person or persons.
+If, for example, you rent out your home 4 weeks 5 times during the year, all periods are considered short-term rental, as they are all less than 4 months. If you rent out your home to the same person or persons for 4 months or more, it is considered long-term rental.
+If you have done both short-term and long-term rental, you can choose which one of the methods you want to apply when you calculate your rental income.
+Read about the two methods and see examples
+You can read about the methods and see examples of how you calculate your taxable income when you rent out your home for more or less than 4 months below in Standard deduction and rental periods of less than 4 months and Standard deduction and rental periods of 4 months or more.
+Platforms can declare your rental income to us
+If you rent out your home via a platform, it will declare your rental income to us and you will be entitled to a higher standard deduction if you apply the rules on short-term rental.
+This is what you have to do
+We have a solution which the relevant platform links you to. You have to follow the link to skat.dk from your platform so that it can declare your income. From skat.dk you log on using your MitID.
+Simple and secure solution - the platform does not access your personal data
+Once you are logged on at skat.dk, a code is generated automatically and sent to the platform directly. The platform uses the code to declare your income to us without seeing any of your personal data. After you have logged on using MitID, you will be reverted to the platform.
+You can see the income that has been declared in your tax information when you
+log on to E-tax (TastSelv)
+.
+Read about our privacy policy
+If you rent out your home for less than 4 months, your standard deduction depends on whether you rent out via a platform that declares your income to us or if you do it privately/without using a platform.
+Moreover, it also depends on whether you use the entire or only part of the standard deduction if you co-own the home or if you share the rent with others. You can read more about this under If you share the rent or co-own the home with others.
+If you rent out via a platform
+that declares your income to us, your maximum standard deduction is: DKK 33,500 in 2025 (DKK 32,300 in 2024).
+If you rent out privately
+(or via platform that does not declare your income to us) your maximum standard deduction is: DKK 13,100 in 2025 (DKK 12,700 in 2024).
+You use your rental income and one of the two standard deductions.
+Which of the two above standard deductions you should use depends on whether you rent out via platform or not.
+If you share the rent or the co-own the home with others, you are only entitled to part of the standard deduction. Read more about this in If you share the rent or co-own the home with others.
+The rental income includes payment for water, electricity, heat and internet, for example.
+Deduct the standard deduction from your rental income.
+Then deduct 40% - we call this a 40% reduction.
+You do so because you only have to pay tax on 60% of the income that exceeds your standard deduction when you provide short-term rental.
+Now you have the amount that you will be taxed on (meaning your taxable income)
+Enter your taxable income in your tax assessment notice in box 37.
+You pay tax throughout the year by entering the income in your preliminary income assessment in field 218.
+If the amount is DKK 0 or less, you do not have to enter anything.
+See specific examples of calculating the taxable income below.
+This means that you cannot deduct expenses such as electricity, water and heating or your land tax (property tax). And you are not entitled to property tax relief when you use your standard deduction.
+If you share the rent or co-own the home with others, you are generally only entitled to a deduction corresponding to your part of the rent or share of ownership.
+However, sometimes there may be more than one standard deduction per all-year home.
+When you co-own the home with others
+If you co-own the home with your spouse or partner, for example, you share the standard deduction between you.
+If you own 50% of the home, you are entitled to 50% of the standard deduction.
+When you live with other people and you share the rent between you
+If you share the rent with others, you also share the standard deduction.
+If, for example, you pay 25% of the rent, you are entitled to 25% of the standard deduction.
+When you live with other people and you each have your own rent
+If you live with others and you are each paying your own rent to the landlord, each of you are entitled to a standard deduction which you do not have to share with the others.
+As a result, you are entitled to the entire standard deduction.
+Example: Rental of owner-occupied home that is co-owned with others
+Mark owns 50% of his owner-occupied home and as a result he is only entitled to 50% of the standard deduction (50% of DKK 29,900). His rental income is DKK 45,000 including payment for electricity, water and heating for renting out his home via a platform.
+The calculation looks like this:
+Annual rental income, including electricity, water and heating
+DKK 45,000
+Standard deduction (50% of DKK 32,300 for 2024)
+DKK 16,150
+Amount after standard deduction (DKK 45,000 - DKK 16,150)
+DKK 28,850
+a 40% reduction of the amount after the standard deduction (40% of DKK 28,850)
+DKK 11,540
+Taxable income (DKK 28,850 - DKK 11,540)
+= DKK 17,310
+In this example, Mark has to pay tax on DKK 17,310, and he enters this amount (his taxable income) in his tax assessment notice in box 37.
+Example: Renting out a rented home where the rent is shared
+Aylin shares a rental home with three friends and pays 25% of the total rent. As a result, she is entitled to 25% of the standard deduction. Aylin has rented out her room via a platform several times during the year and her rental income is DKK 25,000.
+The calculation looks like this:
+Annual rental income, including electricity, water and heating
+DKK 27,000
+Standard deduction (25% of DKK 32,300 for 2024)
+DKK 8,075
+Amount after standard deduction (DKK 27,000 - DKK 8,075)
+DKK 18,925
+a 40% reduction of the amount after the standard deduction (40% of DKK 18,925)
+DKK 7,570
+Taxable income (DKK 18,925 - DKK 7,570)
+= DKK 11,355
+In this example, Aylin has to pay tax on DKK 11,355 and she enters this amount (her taxable income) in her tax assessment notice in box 37.
+Standard deduction and rental via a platform
+When you rent out your home via a platform and the platform declares your income to us, your standard deduction is DKK 32,500 in 2025 (DKK 32,300 in 2024).
+Example: Renting out via a platform
+Eric has rented out a room of his home via a platform a couple of times during the year and the platform declares his income to us. Therefore, Eric is entitled to a standard deduction of DKK 32,300 (2024). His annual rental income is DKK 39,000 including payment for electricity, water and heating.
+The calculation looks like this:
+Annual rental income, including electricity, water and heating
+DKK 39,000
+Standard deduction
+DKK 32,300
+Amount after standard deduction (DKK 39,000 - DKK 32,300)
+DKK 6,700
+a 40% reduction of the amount after the standard deduction (40% of DKK 6,700
+DKK 2,680
+Taxable income (DKK 6,700 - DKK 2,680)
+= DKK 4,020
+In this example, Eric has to pay tax on DKK 4,020. He declares this amount (his taxable income) in his tax assessment notice in box 37.
+Standard deduction when you rent out privately
+If you rent out your home privately, or if the platform you use does not declare your rental income to us, the standard deduction is DKK 13,100 in 2025 (DKK 12,700 in 2024).
+Example: Renting out privately
+Lisa rents out her home to a couple she has met via friends. This means that she has privately and with no use of a platform rented out her home and as a result, her standard deduction is DKK 12,700 in 2024. Her annual rental income is DKK 33,600 including payment for electricity, heating and water.
+The calculation looks like this:
+Annual rental income, including electricity, water and heating
+DKK 33,600
+Standard deduction (2024)
+DKK 12,700
+Amount after standard deduction (DKK 33,600 - DKK 12,700)
+DKK 20,900
+a 40% reduction of the amount after the standard deduction (40% of DKK 20,900)
+DKK 8,360
+Taxable income (DKK 20,900 - DKK 8,360)
+= DKK 12,540
+In this example, Lisa has to pay tax on DKK 12,540 and she enters this amount (her taxable income) in her tax assessment notice in box 37.
+If you rent out both via a platform and privately, you have to use the standard deduction on the rental income from the platform. Next, you have to pay tax on 60% of the income from your private renting (what we call a 40% reduction).
+If your income via the platform is less than DKK 13,100 in 2025 (DKK 12,700 in 2024), you may deduct the rest of the standard deduction from you income made via private rental before you calculate your taxable income.
+Example: Renting out your home privately and via a platform - when the income is less than DKK 12,700
+Naja has rented out her home privately and via a platform. Her income via the platform is DKK 8,000 and the income from the private rental is DKK 12,000.
+When she deducts the standard deduction of DKK 12,700 in 2024 from her income via the platform, there is DKK 4,700 left of the standard deduction (what we call an unused standard deduction). She deducts the unused standard deduction from the income she has earned from renting out her home privately.
+The calculation looks like this:
+Rental income via platform including payments for electricity, water and heating:
+DKK 8,000
+Standard deduction (2024)
+DKK 12,700
+Unused standard deduction (DKK 12,700 - DK 8,000)
+DKK 4,700
+Rental income including payment for electricity, water and heating from renting out her home privately
+DKK 12,000
+Rental income from private renting minus unused standard deduction (DKK 12,000 - DKK 4,700)
+DKK 7,300
+a 40% reduction after the unused standard deduction (40% of DKK 7,300)
+DKK 2,920
+Taxable income (DKK 7,300 - DKK 2,920)
+= DKK 4,380
+In this example, Naja has to pay tax on DK 4,380. She enters this amount (her taxable income) in her tax assessment notice in box 37.
+Example: Renting out both via a platform and privately - when the income exceeds DKK 12,700 (2024)
+Naja has rented out her home via a platform and also privately. Her income via the platform is DKK 14,000 and the income from the private rental is DKK 12,000.
+The calculation looks like this:
+Rental income via platform including payments for electricity, water and heating:
+DKK 14,000
+Standard deduction (cannot exceed rental income via the platform)
+DKK 14,000
+Taxable income via a platform (DKK 14,000 - 14,000)
+DKK 0
+Rental income from private rental including payment for electricity, water and heating
+DKK 12,000
+Unused standard deduction (DKK 12,700 - DK 14,000)
+0 kr.*
+Rental income from private rental minus unused standard deduction (DKK 12,000 - DKK 0)
+DKK 12,000
+a 40% reduction after the unused standard deduction (40% of DKK 12,000)
+DKK 4,800
+Taxable income (DKK 12,000 - DKK 4,800)
+= DKK 7,200
+* The standard deduction can never be less than DKK 0.
+In this example, Naja has to pay tax on DKK 7,200. She enters this amount (her taxable income) in her tax assessment notice in box 37.
+When you rent out your home for 4 months or more and apply method 2, your standard deduction primarily depends on whether you own your home, rent it or you are a housing cooperative member.
+It also matters whether you have lived in the home all or part of the year and whether you own the home with others or share the rent with others.
+Read more under If you share the rent or co-own the home with others.
+When you own your home:
+You have to use your rental income and your property value from the year before you rented out your home and your rental income
+:
+You find the property value by
+logging on to E-tax (TastSelv)
+and then you fint the PDF version of your most recent tax assessment notice or
+you can look up the property value at ois.dk
+.
+The rental income includes payment for, water, electricity, heat and internet, for example.
+Now, you have to calculate your standard deduction.
+You do so by taking 1 1/3 % of your property value (for example, DKK 2,000,000 kr. /100 x 1 1/3). However, your standard deduction will always be minimum DKK 24,000.
+Then deduct your standard deduction from your income.
+Now, you have the amount you have to pay tax on (your taxable income).
+Enter your taxable income in your tax assessment notice in box 37.
+You pay tax throughout the year by entering the income in your preliminary income assessment in field 218.
+When you have a cooperative home or rent your home:
+You need your rental income and your rent/cooperative housing fee.
+The rental income includes payment for, water, electricity, heat and internet, for example.
+Now, you have to calculate your standard deduction.
+You do so by taking 2/3 of your own annual property tax/cooperative housing fee (for example, 2/3 of DKK 25,000).
+Then deduct your standard deduction from your income.
+Now, you have the amount you have to pay tax on (your taxable income).
+Enter your taxable income in your tax assessment notice in box 20.
+You pay tax throughout the year by entering the income in your preliminary income assessment in field 250.
+This means that you cannot deduct expenses such as electricity, water and heating or your land tax (property tax). And you are not entitled to property tax relief when you use your standard deduction.
+If you share the rent or co-own the home with others, you are generally only entitled to a deduction corresponding to your part of the rent or share of ownership.
+However, sometimes there may be more than one standard deduction per all-year home.
+When you co-own the home with others
+If you co-own the home with your spouse or partner, for example, you share the standard deduction between you.
+If you own 50% of the home, you are entitled to 50% of the standard deduction.
+When you live with other people and you share the rent between you
+If you share the rent with other people, you also share the standard deduction between you.
+If, for example, you pay 25% of the rent, you are entitled to 25% of the standard deduction.
+When you live with other people and you each have your own rent
+If you live with others and you are each paying your own rent to the landlord, each of you are entitled to a standard deduction which you do not have to share with the others.
+As a result, you are entitled to the entire standard deduction.
+Example: Owner renting out a room for the year
+Jens has an owner-occupied home and rents out a room for 12 months. In his tax assessment notice he can see that the property value is DKK 1,500,000. The standard deduction is 1 1/3 of the property value meaning: DKK 1,500,000/100 x 1 1/3 = DKK 20,000. As the standard deduction is at least DKK 24,000, Jens’ standard deduction is in this case DKK 24,000.
+The calculation looks like this:
+Annual rental income, including electricity, water and heating
+DKK 39,000
+Standard deduction (1 1/3 of DKK 1,500,000 - however minimum DKK 24,000)
+DKK 24,000
+Taxable income (DKK 39,000 - DKK 24,000)
+= DKK 15,000
+In this example, Jens has to pay tax on DKK 15,000. He enters this amount (his taxable income) in his tax assessment notice in box 37.-
+Example: Cooperative home-owner rents out a room for the year
+Hanna has a cooperative home and has rented out a room for 12 months. Her annual cooperative housing fee is DKK 45,000. Her standard deduction is 2/3 of the total annual cooperative housing fee meaning DKK 30,000. (2/3 of DKK 45,000).
+The calculation looks like this:
+Rental income
+DKK 38,600
+Standard deduction (2/3 of DKK 45,000)
+DKK 30,000
+Taxable income (DKK 38,600 - DKK 30,000)
+= DKK 8,600
+In this example, Hanna has to pay tax on DKK 8,600. She enters this amount (her taxable income) in her tax assessment notice in box 20.
+If you rented out a room or your home in 2018-2022 and you want to correct a relevant tax assessment notice, you can choose to apply method 1 (short-term rental) or method 2 (long-term rental).
+The only difference is that the applicable rates are different and that in the period of 2018-2020 it did not matter whether you rented out privately or via a platform. As a result, you can only apply the standard deduction of DKK 29,300 in 2020, DKK 28,600 in 2019 and DKK 28,000 in 2018 no matter who facilitated the rental.
+You can read about the two methods above:
+Read about short-term rental (method 1) in:
+Standard deduction and rental periods of less than 4 months
+Read about long-term rental (method 2) in:
+Standard deduction rental periods of 4 months or more
+If you choose to apply the accounting deduction, you will have to pay tax on your rental income minus actual expenses.
+When you own your home, the income is considered income from capital. As a result, you have to enter your income minus your expenses in your tax assessment notice in box 37 and in your preliminary income assessment in field 218.
+You should keep a record of rental income and expenses to show us if we ask for it. You must keep the receipts for items you are deducting.
+Deductible expenses:
+Electricity, water, heating, for example.
+Maintenance costs and write-off of fittings and furniture (except domestic appliances).
+Expenses related to rental such as advertising.
+You cannot deduct expenses for maintenance of the actual property or regular costs including rubbish collection, sweeping of chimney, insurance.
+Property value tax relief
+You are liable to pay property value tax on the part of the property you rent out. You obtain the relief by entering the rental period and how much of the property you rent out in your tax assessment notice.
+Land tax deduction (property tax for your local municipality)
+You can deduct a proportionate part of your land tax as an expense if you rent out at least 10% of your home.
+If, for example, you rent out 15% of your home, you deduct 15% of your land tax in the period you rent out part of your home.
+Example: Accounting deduction when you own your home
+Rental income
+DKK 18,000
+Payment for electricity, water and heating
+DKK 3,000
+Total income (DKK 18,000 3,000)
+DKK 21,000
+Proportionate deduction of land tax
+DKK 6,000
+Proportionate deduction of electricity, heating and water
+DKK 3,000
+Taxable income (DKK 21,000 - DKK 9,000)
+= DKK 12,000
+You should enter DKK 12,000 in box 37 of your tax assessment notice and in field 218 of your preliminary income assessment. You also need to enter how much of your property you rent out and for how long.
+Your total deductions cannot exceed your rental income.
+If you choose to apply the accounting deduction, you will have to pay tax on your rental income minus actual expenses.
+When you rent out your home or have a cooperative home, the income is considered capital income or personal income, depending on how long you rent it out.
+Less than 4 months:
+Capital income
+4-12 months:
+You can decide if it is capital income or personal income.
+12 months or more:
+personal income.
+How and where to enter your capital and personal income
+Preliminary income assessment
+Tax assessment notice
+Capital income
+Field 218
+Box 37
+Personal income
+Field 250
+Box 20
+Enter your income minus your expenses. You should keep a record of rental income and expenses to show us if we ask for it. You must keep the receipts for items you are deducting.
+Deductible expenses:
+Electricity, water, heating, for example.
+Maintenance costs and write-off of fittings and furniture (except domestic appliances).
+Expenses related to the rental, such as advertising and rent
+You cannot deduct expenses for maintenance of the actual property or regular costs including rubbish collection, sweeping of chimney, insurance.
+Example: Accounting deduction when you rent out your home or own a cooperative home
+Søren’s monthly rent is DKK 5,000 and he rents out 10% of his home for 3 months.
+The rent expense is: 3 months x DKK 5,000 x 10% = DKK 1,500
+During the same period, he pays DKK 1,500 for electricity, water and heating:
+The expense is: 3 months x DKK 1,5000 x 10% = DKK 450
+The calculation looks like this:
+Rental income
+DKK 4,500
+Payment for electricity, water and heating
+DKK 500
+Total income: DKK 4,500 + DKK 500
+DKK 5,000
+Deduction for proportionate share of rent
+DKK 1,500
+Proportionate deduction of electricity, heating and water
+DKK 450
+Taxable income (DKK 5,000 - DKK 1,950)
+= DKK 3,050
+As a result, Søren has to enter DKK 3,040 in box 20 of his tax assessment notice and in field 250 of his preliminary income assessment.
+The total deduction amount cannot exceed the rental income.
+If you rent out a room for less than 30 days at a time, you must pay VAT on any income in excess of DKK 50,000 within a period of 12 months. This applies to room rental in owner-occupied homes, housing cooperatives and rented accommodation, but it does not apply to renting out entire homes.
+If you know from the first time you rent out accommodation that your income will exceed DKK 50,000, you must register for VAT and pay VAT from the beginning.
+If you are registered for VAT for short-term room rental, you must enter the rental income exclusive of VAT, less the standard deduction or any expenses, in your tax assessment notice.
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions about this subject?
+Call us
+before
+Kl.
+17:00
+72222795

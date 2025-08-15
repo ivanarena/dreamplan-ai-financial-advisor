@@ -1,0 +1,182 @@
+URL: https://lifeindenmark.borger.dk/working/holiday-allowance-ny/frozen-holiday-funds---loenmodtagernes-feriemidler/how-loenmodtagernes-feriemidler-processes-your-personal-data
+
+How Lønmodtagernes Feriemidler processes your personal data
+Read more and self-services
+Introduction
+Here you can learn about
+what data Lønmodtagernes Feriemidler processes, how the data is processed and
+what rights you have when we process cases and inquiries concerning:
+Reporting of outstanding holiday funds
+Account statements and account indexation
+Payment of holiday funds
+Repayment of holiday funds that the recipient was not entitled to
+Registration of guardianships or powers of attorney
+Lønmodtagernes Feriemidler is responsible for the
+processing of the personal data that we have about you.
+The data controller for
+Lønmodtagernes Feriemidler is LD Fonde, central business registration number
+61552812.
+Why Lønmodtagernes Feriemidler processes your personal data
+We process your personal data for the following
+purposes:
+To ensure that you get your outstanding holiday funds registered as
+they are reported by your employer(s).
+That the amounts are adjusted during the period the holiday funds
+are placed with the fund.
+That you get paid your holiday funds automatically or when applying
+for them.
+That you pay back holiday funds that you received without being
+entitled to.
+To verify information in connection with reporting, application,
+payment or when contacting the fund.
+To train our employees and improve the customer experience (if you
+call us and accept that we can record the conversation).
+To test our systems in connection with development, optimisation of
+operations and, if relevant, fixing errors.
+What data do we process?
+We only collect information about you that we need to
+process your case.
+We collect the following types of personal data about
+you:
+Common personal data
+We receive civil registration numbers and other basic data from the
+Danish Civil Register.
+We receive information about income, etc. from the Danish Tax
+Agency.
+We receive information about account numbers/NemKonto from the Agency for Digital Government.
+We receive information about your employment conditions and accrued
+holiday funds from your employer.
+From you we receive information about your TIN (tax identification number)
+Sensitive personal data
+From yourself we can retrieve health information
+that has an impact on dispensation from applications sent in too late
+about an early payment or for benefits that you have been granted in
+connection with the application for a payment in the event of early retirement.
+How do we process your data?
+We process your personal data on the basis of the Act concerning the amendment of the
+Danish Act on the Processing and Administration of Outstanding Holiday Pay (Lov
+om forvaltning og administration af tilgodehavende feriemidler), Act no. 58 of
+30/01/2018 with amendments.
+We can
+obtain and coordinate data for case processing and for checking payments, etc.
+This can be done with the help of Udbetaling Danmark – Public Benefits
+Administration on the basis of special provisions in the Danish Udbetaling
+Danmark Act and established guidelines, including those for erasure of data.
+We can
+pass on information about you to other public authorities such as the Danish
+Tax Agency, Lønmodtagernes Garantifond, the Danish Debt Collection Agency,
+Udbetaling Danmark or financial institutions which are legally entitled to
+receive this information or to parties that Lønmodtagernes Feriemidler
+collaborates with. In special cases, we will pass on your personal data to
+countries outside of the EU/EEA, though only if your employer is domiciled
+outside of the EU/EEA.
+For how long do we store your personal data?
+We store your information
+during the processing of your case and delete them at the earliest three years
+after the holiday funds have been disbursed or, if relevant, repaid and the
+holiday funds from your employer have been fully contributed to the fund,
+Lønmodtagernes Garantifond or the Danish Debt Collection Agency. The information is stored after the case has been closed due to rules in
+the Danish Limitation Act, the Danish Bookkeeping Act and the Danish Archiving
+Act.
+If you have consented to Lønmodtagernes Garantifond
+recording a conversation, we will delete this conversation after two months.
+You can always have the conversation deleted earlier by contacting
+Lønmodtagernes Garantifond.
+Automated individual decisions
+We
+can make decisions that are solely based on automated processing. The automated
+decisions are made by us retrieving information from public registries that are
+then compared by a computer programme with information in your case and this
+together determines whether you are entitled to a payment, if you have received
+more than you were entitled to or if your case should be transferred to the
+Danish Debt Collection Agency or be subject to a control.
+What are your rights?
+You can receive a copy of the data we process about
+you (insight).
+You can complain about us processing your personal
+data (objection).
+You may also request:
+to have your personal data rectified or erased
+to have the data sent to you or someone else (data portability)
+that we suspend the processing of your data.
+And finally, you can object to us making automated
+decisions.
+If you ask to have your personal data erased, we may
+not be able to comply with your request.
+There may be conditions or limitations to the rights
+mentioned above. It is therefore not guaranteed that, for example, you have the
+right to have your personal data deleted in a specific context – this will
+depend on the specific circumstances in connection with the data processing.
+Among other things, this may be due to your personal data being used in a case
+involving a payment to a third party or for legal compliance reasons.
+If you have questions
+Do you have questions about your case?
+If you have questions concerning your case, please contact Lønmodtagernes Feriemidler.
+Contact Lønmodtagernes Feriemidler
+Do you have any questions about your personal data?
+If you have any questions concerning our processing of
+your personal data or if you want to exercise your rights to, for example, get
+access to or erase your personal data, you can contact Lønmodtagernes Feriemidler.
+Contact Lønmodtagernes Feriemidler
+If you write us, please write “Personal data”
+in the subject line.
+Are you dissatisfied
+with the processing of your personal data?
+You can contact the Data
+Protection Officer, if you think
+that you have not received a satisfactory response to
+your request for access to your personal data
+that Lønmodtagernes Feriemidler has violated your
+rights.
+LD Fonde’s data protection
+officer is Compliance Team ApS.
+Contact Data Protection Officer for LD Fonde (in Danish)
+If you disagree with the way
+in which we process your personal data, you can also submit a complaint to the
+Danish Data Protection Agency.
+Please note that the Danish
+Data Protection Agency is only a complaints body for Lønmodtagernes
+Feriemidler’s processing of your personal data – it does not handle complaints
+about the processing of your case itself.
+If you disagree with how we
+have processed your case, you must contact Lønmodtagernes Feriemidler.
+Data controller
+The
+data controller for Lønmodtagernes Feriemidler is LD Fonde, central business
+registration number 61552812.
+Legislation
+Legal framework
+Article
+6(1)(e) of the General Data Protection Regulation (common personal data)
+Article
+9(2)(f)(1) of the General Data Protection Regulation (sensitive personal data)
+Article 45(1) of
+the General Data Protection Regulation (transfers to safe non-EU/EEA countries)
+Article 46(2)(a)
+of the General Data Protection Regulation (transfers to an unsafe non-EU/EEA
+country)
+Article 49(1)(e)
+of the General Data Protection Regulation (transfers take place for legal
+compliance reasons)
+Act concerning the amendment of the Danish Act on the
+Processing and Administration of Outstanding Holiday Pay (Lov om forvaltning og
+administration af tilgodehavende feriemidler), Act no. 58 of 30/01/2018 with
+amendments.
+You can find the legal basis at
+Retsinformation (in Danish)
+EUR-Lex – European Union law
+Acts
+The General Data Protection Regulation
+The Danish Data Protection Act
+Lov om forvaltning og administration af tilgodehavende feriemidler (in Danish)
+Seneste ændring af Lov om forvaltning og administration af tilgodehavende feriemidler vedrørende udbetalingsrunden i 2021(in Danish)
+Loven er ændret ved § 1 i Lov om ændring af lov om forvaltning og administration af tilgodehavende feriemidler vedrørende udbetalingsrunden i 2020 (in Danish)
+Change in the Act by § 3 in Lov om forvaltning og administration af tilgodehavende feriemidler (in Danish)
+Change in the Act by §22 in Lov om social pension mv. (in Danish)
+Executive orders
+Bekendtgørelse om forvaltning og administration af tilgodehavende feriemidler (in Danish)
+Bekendtgørelse om førtidig udbetaling af feriemidler ved en ansøgningsrunde i 2021 (in Danish)
+Bekendtgørelse om førtidig udbetaling af feriemidler ved en ansøgningsrunde i 2020 (in Danish)
+Bekendtgørelse om fondsferiedage (in Danish)
+Bekendtgørelse om indeksering af tilgodehavende feriemidler hos arbejdsgivere i perioden 1. september 2020 til 31. maj 2021 (in Danish)
+Written by Lønmodtagernes Feriemidler

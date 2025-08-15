@@ -1,0 +1,67 @@
+URL: https://skat.dk/en-us/individuals/shares-and-securities/tax-on-shares-if-you-leave-denmark
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Tax on shares if you leave Denmark
+If you leave Denmark and have shares with a market value of DKK 100,000 or more, we regard any gains or losses on your shares as having been realised. If you have a net gain, we therefore levy tax on the gain in accordance with the general rules of the Danish Capital Gains Tax Act.
+However, you can postpone the tax (be granted deferral) so that you instead pay tax on an ongoing basis, as if you were living in Denmark, by filling in form 04.065 EN each year. If you do not fill in the form, or if you do not submit the tax return to us, you will be liable to pay tax on the gain you could have realised if you had sold the shares on the day you left Denmark.
+You must fill in form 04.065 EN and a portfolio overview to postpone the tax (be granted deferral).
+You must fill in the form every year after you have left Denmark.
+The deadline is 1 May or 1 July of the year after you have left Denmark. The deadline is subsequently 1 July.
+If you fail to meet the deadline, you must pay tax on your shares now.
+Fill in tax return - Postponed tax payments - Capital gain on shares at emigration (form 04.065)
+Log on and fill in ’Beholdningsoversigt’ (Portfolio overview) - select ’Beregn aktier - fraflytterhenstand’ (Calculate shares - deferral at emigration)
+You must include all shares, shares in private limited companies, investment fund shares and other securities, where gains and losses are treated according to the rules of the Capital Gains Tax Act when you calculate whether the market value of your shares amounts to DKK 100,000 or more. Shares that you can sell tax-free must also be included.
+These rules normally only apply if you have been liable to pay tax in Denmark on capital gains on shares for a total of minimum seven years before leaving Denmark or if you were subrogated to the transferor’s tax position when you acquired the shares.
+You cannot have your tax postponed on gains on shares and investment fund shares that have been issued by an investment company and are therefore subject to taxation of unrealised capital gains.
+You do not have to fill in the form if you wish to pay the emigration tax, if you only have shares that can be sold tax-free, if you only have shares and investment fund shares that have been issued by an investment company or if you have net losses on your shares and investment fund shares.
+If you move to a country outside the Nordic region and the EU, you must provide adequate collateral for the deferred tax payment. If you move to a country within the Nordic region or the EU, however, you do not need to provide any collateral.
+You are not liable to pay interest on the deferred tax payment.
+If you own shares with a market value of DKK 100,000 or more or own shares with a negative acquisition cost, you must fill in a portfolio overview and form 04.065 EN when leaving Denmark.
+In the portfolio overview, you must include all shares and investment fund shares that you own when leaving Denmark. You must also include shares that can be sold tax-free and shares for which you can calculate a loss when leaving Denmark. However, shares for which the calculated tax has been paid when you left Denmark must not be included.
+If you have previously moved abroad or to the Faroe Islands or Greenland and have been granted a deferral of tax on the capital gain on shares you could have realised if you had sold the shares on the day you left Denmark, you must also fill in the portfolio overview and the form.
+The tax you have had postponed (been granted a deferral on) has been assessed on a so-called postponed tax payments balance. The postponed tax payments balance is the amount which you are liable to pay in tax on the gain on your shares, but which you have been allowed to postpone.
+As long as there is an amount on the postponed tax payments balance, you must fill in form 04.065 EN no later than on 1 July each year. The deadline is 1 September in 2020 due to the coronavirus situation.
+Fill in Tax return - Postponed tax payments - Capital gain on shares at emigration (Form 04.065 EN)
+When you sell shares that form part of the portfolio overview, you must calculate the gain or loss on the sale. The gain or loss is included, together with your dividends, distributions and other transactions, in a total assessment of income from the shares. We calculate the amount that you are liable to pay based on your information.
+Tax-free shares
+Gains and losses on shares which you can sell tax-free and which are contained in your portfolio overview must not be included in the assessment of the total income. If you receive a dividend on these shares, you must pay an instalment on the postponed tax payments balance, and the dividend must therefore be included in the assessment of the total income.
+When calculating gains on the shares, you must use the actual consideration and, as acquisition cost, you must use the acquisition cost that you also used for calculating the emigration tax.
+If the consideration for the sale of your shares etc. is lower than the acquisition cost, you have incurred a loss on the sale of the shares. However, the loss can amount to maximum the value on the emigration date less the sales value.
+We will send you a demand for payment when you are liable to pay tax
+If the calculated Danish tax on the securities exceeds the tax that you may have paid in Denmark or abroad, we will send you a demand for payment for the tax that you are liable to pay.
+In situations in which you are liable to pay tax, the tax will always be calculated according to the rules on income from shares.
+You will receive a deduction for the tax you have paid abroad, on the Faroe Islands or in Greenland.
+The payment deadline is 1 October in the year following the income year. The last due payment date is 20 October. If this day is a Saturday or Sunday, the payment deadline is extended to the following weekday.
+If you move back to Denmark, you must use the market value of the shares at the time of your re-emigration as the acquisition cost for the shares. If you still have a postponed tax payments balance, the market value must, however, be reduced according to special rules.
+If you move back to Denmark and had losses on your shares that you could not utilise when you left Denmark, you may, in certain cases, have the market value increased when you move back to Denmark, thus allowing you to utilise the loss for tax purposes after all. You can only increase the market value of shares that you owned both when leaving and when returning to Denmark. The rule only applies if you have moved back to Denmark on or after 1 July 2012.
+If you submit the share information too late, your postponed tax payments balance becomes an outstanding tax payable by you according to the same deadlines as for all other outstanding tax. However, you may apply to us to disregard your failure to meet the deadline.
+If you receive dividend after leaving Denmark
+You must pay an instalment on the postponed tax payments balance if you receive dividend on shares contained in the portfolio overview. This applies to both Danish and non-Danish shares.
+When you move abroad, you must continue to pay Danish tax on Danish dividends. This applies regardless of whether or not you have a postponed tax payments balance. If Denmark has a double taxation convention with the country in question, the tax may, however, be lower.
+If you borrow money from the company in which you have shares
+As long as you have deferred tax on a postponed tax payments balance, we will charge an amount equal to the amount you borrow in a company in which you have shares. This also applies if you raise a loan with a company owned by a company in which you have shares. If the loan is from a company owned by a company in which you have shares, tax is only payable on the loan equal to the company’s ownership interest. When you have paid the amount to us, your postponed tax payments balance will be written down by the amount. However, you are not obliged to pay an instalment on the postponed tax payments balance if the lending company is a bank and you own less than five per cent of the share capital.
+Tax paid outside Denmark
+If you have paid tax outside Denmark on the income that you declare in the tax return, the tax will be deducted from the assessment of whether you are liable to pay part of the postponed tax payments balance. However, this does not apply if the tax concerns the sale of shares that can be sold tax-free under the transitional rule for minor holdings of listed shares. However, you may only deduct tax paid abroad up to maximum the amount that corresponds to the share of the total Danish tax levied that is proportionally attributable to the income taxed abroad. This means that you are not entitled to a greater setoff against a Danish tax levied than the tax you have actually paid abroad.
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions about this subject?
+Call us
+before
+Kl.
+17:00
+72222894

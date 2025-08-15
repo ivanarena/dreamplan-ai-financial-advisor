@@ -1,0 +1,113 @@
+URL: https://skat.dk/en-us/individuals/income-preliminary-income-assessment-and-tax-assessment-notice/other-tax-issues/cross-border-commuters/working-in-denmark-but-living-in-another-country
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Deutsch
+Working in Denmark but living in another country
+When you work in Denmark but live in another country, you are subject to limited tax liability. If you travel between your home outside Denmark, Sweden or Germany for example,  and your workplace in Denmark every day, you will never become subject to full tax liability no matter how long a period you work in Denmark.
+This means that you are taxed on your salary here in Denmark and that you are entitled to deduct expenses related to your Danish salary such as deduction for transport between home and work, travel expenses, trade union fees and unemployment fund contributions.
+If you live outside Denmark and work in Denmark, you need a NemKonto. It is an ordinary bank account that we use if you are entitled to a tax refund.
+If you do not have a Danish NemKonto, you can set up a non-Danish NemKonto.
+Register a non-Danish account as your NemKonto
+Log on to nemkonto.dk to register your non-Danish bank account as your NemKonto
+Register your non-Danish bank account as your NemKonto at nemkonto.dk
+When you live outside Denmark and have income from Denmark, including your salary, pension or other public benefits, you have to give your employer certain identification information.
+Your provider reports the information to the Tax Agency who has to inform your home country about your Danish income.
+You need give your provider the following information:
+Your address
+Your home country
+Your Danish CPR no.  If you don’t have a CPR no., you have to state your date of birth.
+Your Tax Identification Number (TIN) from 1 January 2024)
+Your home country issues your TIN.
+It is used by national tax administrations to identify income recipients to assess tax liability for example.
+You can read more about TIN here
+Each country has its own TIN rules.
+If you live in an EU country, you can
+find information about TIN in your home country at the website of the European Commission (europa.eu)
+.
+If you live outside the EU, in the US for example, you can
+find further information at the website of the OECD (OECD.org)
+.
+FAQ about TIN
+The reason is that your employer knows that you are not registered with an address in Denmark.
+When your employer reports your salary to the Tax Agency, your employer has to provide your name, address, country, date of birth, possible CPR no. and now also TIN.
+The reason is that the Danish Tax Agency reports the information to your home country.
+TIN is your tax identification number in your home country.
+If you live in the EU, you can get
+help to find your TIN at the EU website TIN on-the-web (europa.eu)
+.
+You can see if your home country has TIN on the OECD’s website for TIN (oecd.org)
+.
+You inform your employer that you have contacted the authorities in your home country and wait for a reply. You give your employer all the other information - your name, address, country, date of birth, possible Danish CPR no. And once you have your TIN, you give your employer that as soon as you receive it.
+You need to register with us and you need a digital tax card to pay tax on your Danish income. If you have never lived in Denmark, you also will need a personal tax number (CPR no.).
+You can get your digital tax card in two ways. You can generate it yourself at skat.dk/tastselv, if you meet the below 3 criteria.
+You live in Denmark and have a health insurance card stating your CPR no.
+You are registered with a Danish address before you start your job.
+You have MitID or an E-tax password (TastSelv-kode).
+Or you can use our digital form 04.063.
+Read more about documentation requirements and apply for a tax card as a non-Danish employee.
+Do you live in Sweden?
+Read more about Private-sector Oresund commuters
+Read more about Public-sector cross-border commuters
+If at least 75% of your total income is taxed in Denmark, you may apply the cross-border worker rules.
+If you earn such a large part of your income in Denmark, we can extend your right to deductions to also include deductions for expenses not relating to the income subject to tax in Denmark. This could be non-Danish interest payments or your spouse’s personal allowance if your spouse has no income in Denmark or abroad.
+If you want to state in your preliminary income assessment that you want to be taxed according to the rules for cross-border workers, you should
+contact us
+and submit further information.
+Read more about the cross-border worker rules
+If you live in Sweden:
+Read more about Private-sector Oresund commuters
+Read more about Public-sector cross-border commuters
+If you are not directly employed by the Danish enterprise, but are sent on the job by a non-Danish employer to perform a job with a Danish enterprise, it is a matter of international hiring-out of labour. This means that the non-Danish enterprise hires you out to perform work for the Danish enterprise which decides what you are to do and provides the tools you need to do the job, for example.
+If this is how you are employed, you do not need a tax card as you will be taxed gross. As a result, you will have to pay 8% labour market contributions (AM-bidrag) and 30% income tax. You are not entitled to any deductions and allowances, but your tax rate is low.
+Instead, you can choose to be taxed according to the general Danish tax rules.
+Read more in Danish in our legal guide about choosing taxation according to the general tax rules
+.
+It is the responsibility of the Danish business to ensure that you pay your labour market contributions and income tax.
+Read more about international hiring-out of labour
+If you have an all-year home at your disposal in Denmark or if you are staying in Denmark for more than 6 months without visiting your home country, you will be subject to full tax liability in Denmark according to Danish rules.
+If, at the same time, you are subject to full tax liability in your home country, you will be subject to full tax liability in two countries. This is why you need to send us information documenting that you are subject to full tax liability in your home country. Next, we will decide which country will be your country of residence for tax purposes  according to
+a double taxation agreement (link in Danish)
+.
+We will then assess your specific situation, including your personal and financial interests. This means that you will be considered to be residing in the country with which your financial and personal interests are greatest. Generally, you will be subject to full tax liability in the country in which your interests are greatest and subject to limited tax liability in the other.
+If we are unable to decide in which country your primary personal and financial interests are, it will be decided based on which country you are in the most.
+Will the rules on dual residence apply to you?
+We need you to submit information documenting that you are subject to full tax liability in your home country. Such documentation must be issued byt the tax authorities in your home country.
+You can submit the documentation by logging on to
+skat.dk/tastselv
+and selecting
+Contact
+-
+Write to us
+-
+’Indsend-indberet til os (fx blanket/bilag)’
+(Submit/report to us (including forms) -
+’Udland’
+(Non-Danish tax matters) -
+’Bekræftelse af skattepligt’
+(Confirmation of tax liability).
+Denmark as country of residence
+If Denmark is your country of residence, and you have bank accounts, property, pension schemes or other assets in your home country, you have to inform us of this. When you live in Denmark, you always have to report all your income and deductions and allowances, no matter if the are Danish or not.
+Read more at You live in Danmark and have non-Danish income
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions to this subject?
+Call us
+before
+Kl.
+17:00
+72222780
+Chat

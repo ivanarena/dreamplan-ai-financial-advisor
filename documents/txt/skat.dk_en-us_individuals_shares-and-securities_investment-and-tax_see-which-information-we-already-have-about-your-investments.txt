@@ -1,0 +1,34 @@
+URL: https://skat.dk/en-us/individuals/shares-and-securities/investment-and-tax/see-which-information-we-already-have-about-your-investments
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Deutsch
+See which information we already have about your investments
+Once you have logged on to E-tax (TastSelv), you can select
+'Skatteoplysninger' (Tax information)
+. In the menu, you can select your type of investment and see which information is automatically reported by your bank or the platform you use.
+In
+'Skatteoplysninger'
+you can also see if your investment is registered for trade.
+Read more about when shares are registered for trade (currently in Danish)
+.
+It is your responsibility to make sure that the information is correct.
+Please note that even if there is information about your investments in
+'Skatteoplysninger',
+it is not cure that we can base a calculation of profit or loss on it.
+This is why it is important that you always check your tax assessment notice and report your profit or loss, if it is not already stated.
+Log on to E-tax (TastSelv)

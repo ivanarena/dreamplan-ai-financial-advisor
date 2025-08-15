@@ -1,0 +1,147 @@
+URL: https://skat.dk/en-us/individuals/pension-and-early-retirement/tax-and-deductions-related-to-pension-and-early-retirement
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Deutsch
+Tax and deductions related to pension and early retirement
+Your income and tax when you retire or begin early retirement
+It is important that you correct your preliminary income assessment (forskudsopgørelse) the first month after you have retired or begun your early retirement. Udbetaling Danmark uses the information in your preliminary income assessment to calculate your pension. We use the information to ensure that you don’t pay too much or too little tax.
+If you receive pension and earned income from more than one provider, you have to make sure that only one of the providers use your primary tax card (this could be Udbetaling Danmark or your pension provider). You have to inform the providers whether to use your primary or secondary tax card.
+Remember to check your new preliminary income assessment again in late November in the year after you retired or began early retirement. You should do so to make sure you are getting the correct pension, the correct deductions and avoid having to pay outstanding tax.
+Read more below under Change your preliminary income assessment when you retire or begin receiving early retirement benefits.
+Your deductions when you contribute to a pension scheme
+In the majority of cases, you automatically receive your tax relief and pay the right amount of tax on your pension and early retirement benefits. Your bank or pension provider automatically pays 15.3% tax on returns from your pension scheme assets (interest, dividends and capital gains/losses).
+Remember to check or correct your preliminary income assessment when you contribute to a pension scheme.
+Annuity pension scheme: enter your contributions in field 416.
+Life annuity: enter your contributions in field 436.
+Change your preliminary income assessment
+See your tax assessment notice
+When you stop working, you should change your preliminary income assessment to pay the right amount of tax:
+Log on to E-tax (TastSelv)
+Select ’På pension/efterløn’ (Retirement/voluntary early retirement) under ’Oftest tilføjede felter’ (Frequently added fields) in your preliminary income assessment. Here you enter your expected pension/early retirement benefits during 2025. Do not change your preliminary income assessment until the day you retire.
+Remember also to correct your expected salary in field 201.
+If your spouse or live-in partner receives social pension, you should not change your preliminary income assessment until the day you actually retire. If you do it this way, the calculation of social pension for you and your spouse or live-in partner will be more accurate.
+If you receive payments from more than one provider, you need to ensure that only one of the them uses your primary tax card. You need to inform the providers whether to use your primary or secondary tax card.
+Pension benefits
+Udbetaling Danmark pays your pension benefits based on your preliminary income assessment.
+If your income changes during the year, all you need to do is change your preliminary income assessment. The Danish Tax Agency (Skattestyrelsen) informs Udbetaling Danmark directly. Please see
+lifeindenmark.dk
+for further information.
+Holiday pay and unused holidays
+If you have been entitled to paid holidays, your holiday pay will be paid out when you stop working.
+Any unused holidays will be transferred to a holiday card, and the amount will be taxed in the month when your employment ends. You can see the amount in your tax assessment notice, box 11.
+If you wonder why your total income for the year is higher than expected, this may be because your holiday pay has been included in the calculation and taxed in connection with your termination.
+Calculate your income after tax
+Rates and tax relief for pension schemes
+Type of scheme
+Tax relief or no tax relief
+Early retirement benefits
+Flex allowance
+When you make a contribution:
+You automatically receive tax relief for your own contribution.
+When you receive payment:
+You pay income tax, but not labour market contributions, on payments.
+State pension
+Early retirement pension
+Civil service pension
+No tax relief because you do not contribute to the pension scheme.
+When you receive payment:
+You pay income tax, but not labour market contributions, on payments.
+Capital pension
+Supplementary one-off payment
+When you make a contribution:
+No tax relief.
+When you receive payment:
+You pay 40% tax in the case of disbursement from 2016 onwards if the pension was not paid out or converted in 2015 at the latest.
+Annuity pension
+Temporary old-age pension (life annuity)
+When you make a contribution:
+In 2024, you can obtain tax relief on up to DKK 63,100 (DKK 60,900 in 2023) in total for contributions to these two pension types. You receive your tax relief automatically and it appears in your tax assessment notice.
+If you contribute via your employer, such contributions are also included in the total amount on which you can obtain tax relief. When you contribute via your employer, the amount (‘the relief’) will be deducted from your salary before your tax deduction. Consequently, you cannot see the amount (‘the relief’) in your tax assessment notice.
+If you contribute more than DKK 63,100 in 2024 (DKK 60,900 in 2023):
+You can obtain tax relief on contributions over and above DKK 63,100 in 2024 (DKK 60,900 in 2023) if you contact your bank or pension provider and transfer your contribution to a pension scheme with lifelong payments. This applies to both privately set up schemes and payments made via your employer.
+You can also choose to have your bank or pension provider refund your contribution (however, you will not obtain tax relief by doing so).
+If you do not take action, we will remove the tax relief from your tax assessment notice in the case of a privately set up scheme. If you are contributing to a pension scheme set up by your employer, you will be taxed on the amount. In your tax assessment notice we will inform you of the measures we have taken and what you can do to obtain tax relief and/or avoid being taxed on the amount.
+When you receive payment:
+You pay income tax, but not labour market contributions, on payments.
+Pension providing a regular income e.g. :
+ATP (Labour Market Supplementary Pension)
+Lifelong old-age pension (life annuity)
+Surviving spouse or cohabiting partner pension
+Children’s pension
+Disability pension
+When your employer makes a contribution:
+Such contributions qualify for full tax relief.
+When you make a contribution:
+If you set up the pension scheme and contribute for 10 years or
+more
+, you can obtain full relief on the contributions.
+If you set up the pension scheme and agree to contribute for
+less than
+10 years or make a one-off contribution, you will obtain relief on your total contributions, but as a general rule you must spread the relief over 10 years with one tenth in each of the 10 years.
+Top-up relief:
+If your relief is less than DKK 58,100 in 2024, you may, however, ’top up’ up to a total of DKK 58,100 in 2024 (DKK 56,100 in 2023) every year until you have obtained relief on all your contributions.
+When you receive payment:
+You pay income tax, but not labour market contributions, on payments.
+Old-age pension savings
+Old-age pension insurance
+Supplementary lump sum pension
+When you make a contribution:
+You do not get tax relief on your contributions.
+In 2024, you can contribute a total of DKK 9,100 (DKK 8,800 in 2023) a year into these three pension types. Contributions in excess of this will incur a charge of 20%. You may contribute the full amount of DKK 9,100 in 2024, even if you have converted an existing capital pension  into an old-age pension savings scheme or old-age pension insurance.
+Five year before you reach the state pension age (five-year rule)
+in 2024, you may contribute DKK 58,900 (DKK 56,900 in 2023) to all three types of pension schemes if you meet the requirements. Any amounts higher than the above will generate a tax of 40%. You may contribute the same amount after you reach the state pension age.
+If, for example, you reach state pension age in 2027, you may contribute DKK 58,900 in 2024.
+Contributions above the maximum amount
+You can obtain tax relief on contributions above the maximum of DKK 9,100 or DKK 58,900, if you make the contribution to a pension scheme providing a regular income or an annuity pension. The charge will be reduced to 4% for the contribution and not 20% or 40% respectively.
+When you receive payment:
+You do not have to pay tax or a charge when the scheme is paid out.
+If you contribute to your private pension scheme with an amount that is smaller or larger than what is stated on your preliminary income assessment, you should change your assessment. Remember that you should also change the amount in your preliminary income assessment for the following year.
+Change the amount in your preliminary income assessment
+Private annuity pension schemes and temporary old-age pension schemes
+Enter the amount in field 416. You find the field under ’Indbetaling til ratepension’ (Annuity pension contributions) -> ’Bidrag og præmie til privattegnede ratepensioner og ophørende alderspension’ (Contributions and premiums for private annuity pension schemes and temporary old-age pension schemes) field 416.
+Private lifelong old-age pension schemes
+Enter the amount in field 436. You find field 436 under ’Fradrag’ (Deductions) -> ’Fradrag i personlig indkomst’ (Deductions from personal income) -> ’Bidrag og præmier til andre pensionsordninger herunder til privattegnede livsvarige pensionsordninger’ (Contributions and premiums to other pension schemes including private lifelong old-age pension schemes) field 436.
+If you cash in your pension scheme and receive a one off-payment, you must pay either income tax or a charge.
+The following cases are not regarded as premature payment:
+You have been awarded early retirement pension
+You have become disabled and are therefore entitled to an insurance payment
+You are entitled to a surviving spouse or cohabiting partner pension
+You are entitled to a children’s pension
+You receive benefits from a capital pension, old-age insurance scheme or old-age savings scheme because of a life-threatening illness.
+Income tax or charge on premature payment
+Type of scheme
+%
+Contributions to early retirement benefit schemes
+Contributions to flex allowance schemes
+Ordinary income tax
+Annuity pension
+Temporary old-age pension (life annuity)
+Lifelong old-age pension (life annuity)
+Surviving spouse or cohabiting partner and children’s pension
+Charge of 60%
+Capital pension
+Supplementary one-off payment
+Charge of 52% (49.84% in 2013-2015)
+Own contributions to a capital pension before 1972 and returns on them are tax exempt
+Old-age insurance scheme
+Old-age pension savings
+Supplementary one-off payment
+Charge of 20%
+Return on assets from pension schemes are taxed at 15.3%. If you have a pension scheme with a bank or a pension provider, you are generally subject to the Danish Pension Investment Return Tax Act (Pensionsafkastbeskatningsloven). If you live abroad, you may be exempt from paying tax on the return from your pension scheme assets.
+For further legal information in Danish see
+our legal guide .

@@ -1,0 +1,47 @@
+URL: https://skat.dk/en-us/individuals/deductions-and-allowances/home-improvement-and-household-services/deduction-for-home-improvement-services-and-household-services-for-cross-border-workers
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Deutsch
+Deduction for home improvement services and household services for cross-border workers
+Cross-border workers are entitled to a tax deduction for home improvement services and household services according to the same rules as everyone else. However, certain requirements must be met in relation to the provider, documentation for the service provided and how you notify us of the deduction.
+Select Change your tax assessment notice/tax return and select field 460
+Home improvement services for cross-border workers must be carried out by a business registered for VAT in an EU/EEA country, and household services may also be carried out by a person who had turned 18 at the end of the income year and who was subject to full tax liability in an EU/EEA country.
+As a cross-border worker, you must have an invoice (from a business) or a written statement (from an individual) documenting the work.
+The documentation must contain the following information:
+Type of work
+Labour costs
+Danish CVR no. of supplier (business reg. no. or VAT no.) (businesses)
+Civil reg. no. (CPR) of service provider or similar international personal identification and full name and address (individuals)
+Dates when work was carried out
+Address where work was carried out
+The work must be paid electronically, and the payment must be documented by bank statements or receipts.
+You can claim the tax deduction for home improvement services and household services in two ways:
+Log on to E-tax (TastSelv)
+Select ’Ret årsopgørelsen/oplysningsskemaet’ (Change your tax assessment notice/tax return).
+For Danish property: Calculate the total labour costs for home improvement services by using the calculator next to box 460.
+For non-Danish property: Select ’Grænsegænger med fradrag’ (Cross-border worker with deduction), open the section and enter the total labour costs for home improvement services in box 460.
+Fill in box 460 of the form ‘Supplement to tax return for taxpayers with limited tax liability’ and send it to us along with your tax return.
+Form 04.031: Supplement to tax return for taxpayers with limited tax liability
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions about this subject?
+Call us
+before
+Kl.
+17:00
+72222780

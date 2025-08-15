@@ -1,0 +1,125 @@
+URL: https://skat.dk/en-us/individuals/b-income
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Deutsch
+B-income
+B-income is income on which tax and labour market contributions (AM-bidrag) have not been withheld by your employer, for example if you work freelance or have been paid a fee for giving a concert or a lecture.
+It is your responsibility to pay tax and labour market contributions on such income.
+Minor B-income: Pay tax using Dankort or online banking (in Danish)
+Regular B-income: Enter regular B-income in your preliminary income assessment, field 210
+If you have fixed B-income, it is easiest to pay the correct tax by entering your B-income in your preliminary income assessment (forskudsopgørelsen):
+in field 210
+if, for example,
+you get fees
+your income is earned as domestic help
+or
+in field 207
+if, for example
+you earn your income as a private daycare without being subsidies by the municipality
+you get free food and accommodation (if this is not reported in field 201)
+you get remunerations from associations of less then DKK 1,500 for jobs done
+you have other salary or fees that is not reported in other fields
+The amount you report is before labour market contributions (am-bidrag).
+Once you have reported your B-income in your preliminary income assessment, we will withhold tax by increasing your withholding rate and/or lowering your monthly allowance.
+If we are unable to include all your tax, you will have to pay the remaining tax by using giro transfer forms. You will know if you have to do so when you change your preliminary income assessment.
+Please note that you can't pay giro transfer forms by means of a Dankort debit card.
+When you pay B- tax in instalments, you pay the tax in 10 instalments. This means that you have to pay an instalment each month apart from June and December.
+B-tax can include regular B-tax, outstanding tax, interest on overdue payments and property value tax.
+Sign up for Nets direct debit service at betalingsservice.dk to register B-tax and labour market contributions (Danish-language webpage)
+Enter your civil registration number (CPR no.) and your bank details (registration no. and account no.).
+Re-enter your civil registration number in the field "16xxxxxx9xxxx25". The Xs represent your civil registration number.
+Confirm your registration and information using MitID to give your signature. You can only register for payment services related to your own account.
+How to sign up your personal taxes (B-tax, outstanding tax and (outstanding) labour market contributions at betalingsservice.dk
+Sign up for Nets direct debit service at betalingsservice.dk to register all personal taxes (Danish-language webpage)
+Enter your civil registration number (CPR no.) and your bank details (registration no. and account no.).
+Re-enter your civil registration number in the field "16xxxxxx9xxxx25". The Xs represent your civil registration number.
+Confirm your registration and information using MitID to give your signature. You can only register for payment services related to your own account.
+You can also sign up for Nets direct debit service (Betalingsservice) by providing the below information.
+Sign up your B-tax and labour market contributions
+B-tax may include regular B-tax, outstanding tax, interest on overdue payments and property value tax.
+PBS no.: 02056372
+Debtor group: 00001
+Customer no.: 16xxxxxx9xxxx25 (the Xs represent your civil registration number)
+Sign up all your personal taxes (B-tax, outstanding tax and (outstanding) labour market contributions)
+PBS no.: 03663833
+Debtor group: 00002
+Customer no.: 16xxxxxx9xxxx25 (the Xs represent your civil registration number)
+The deadline for signing up or deregistering for Nets direct debit is the sixth last banking days of the month at 9 am. See a calendar overview of deadlines at
+www.betalingsservice.dk
+.
+NOTE: If your outstanding tax is for previous years you may not be able to use Nets direct debit service. In that case, you must pay via E-tax (TastSelv).
+Then amount you report in field 207 of your preliminary income assessment (forskudsopgørelsen) will automatically be transferred to your tax assessment notice
+If your B-income was earned as a lump sum, you can pay tax and labour market contributions (AM-bidrag) in two ways:
+Pay tax using a dankort or via online banking (link in Danish)
+(The amount should always be rounded off). Find guidance in the section Calculating your B-tax and your labour market contribution on lump sums below.
+When you get your tax assessment notice (årsopgørelse) in March
+you should
+check or enter
+the amount you have to pay tax on (your B-income) in field 12 or 15.
+If you have any other personal income, your B-income will often not be transferred automatically to your tax assessment notice.
+or
+Correct your preliminary income assessment (field 210 or 207)
+Enter the amount you expect to earn as fees/B-income this year in field 210 or 207. (Don't deduct labour market contribution (AM-bidrag) from the amount.)
+Read how you do this in the section Paying tax on fixed B-income on this page. You can update your preliminary income assessment several times during the year, if your B-income or fees change.
+When you update your preliminary income assessment in these fields, we will make sure you pay tax by increasing your withholding rate (trækprocent) and/or reduce your monthly allowance and perhaps generate giro transfer forms.
+Enter B-income in your preliminary income assessment
+You are responsible for paying B-tax and labour market contribution (AM-bidrag) on your B-income. If you choose to pay both in one go, you calculate the tax and contribution as follows:
+First, you need to calculate the labour market contribution on your B-income. You do so by deducting 8% from your B-income.
+Next, you calculate the actual tax (B-tax) - after you have deducted the labour market contribution - using your withholding rate (trækprocent) that is stated on your preliminary income assessment (forskudsopgørelse).
+Finally, you add the B-tax and the labour market contribution and total of these two amounts is what you have to pay.
+You pay the amount by using dankort or via online banking (link in Danish)
+.
+Example
+Your B-income is DKK 1,000 and in your preliminary income assessment it says that your withholding rate is 38%.
+Taxes payable
+You have to pay....
+DKK
+Labour market contributions: DKK 1,000 (B-income) x 8% (labour market contributions) =
+80.00
+Tax: DKK 920 (B-income - labour market contributions) x 38% (withholding rate) =
+349.60
+Amount payable
+: DKK 80 (labour market contributions) DKK + 349.60 (tax) = the result should be rounded off
+430.00
+In this example you would have to make a payment of B-tax and labour market contribution of a total of DKK 430.00 of this B-income. Please note that the amount should be rounded off.  You can make the payment
+using dankort or online banking (in Danish)
+.
+You change or cancel your B-tax instalments and giro transfer forms in your preliminary income assessment by:
+Changing your income in field 210.
+Entering the amount of B-tax you have already paid in field 342.
+You may now discard the rest of the original giro transfer forms.
+Change your preliminary income assessment, fields 210 and 342
+If you have received giro transfer forms and have to pay from abroad, you need to use:
+IBAN no: DK94 30000007540531
+BIC/SWIFT code: DABADKKK
+In the ’Message for the recipient’ field (Meddelelse til modtager), please enter your civil registration number (CPR) and what the amount concerns.
+If the payment line does not appear from your giro transfer forms, you can:
+Log on to E-tax (TastSelv)
+Select
+Pay tax
+Select
+Pay B-tax
+in the menu on the left
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions to this subject?
+Call us
+before
+Kl.
+17:00
+72222780

@@ -1,0 +1,142 @@
+URL: https://skat.dk/en-us/individuals/shares-and-securities/buying-and-selling-shares-and-securities
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Dansk
+Buying and selling shares and securities
+You always have to check whether the information in your tax assessment notice is correct. This applies regardless of whether you buy or sell shares and other securities, or simply receive an annual dividend. The calculation system in E-tax (TastSelv) can calculate some of the information.
+Calculate and transfer gains and losses to your tax assessment notice
+You especially need to do something when you sell securities.
+When you sell shares and other securities, you are liable to pay tax on the gain. Gain on the sale of ordinary shares is taxed as income from shares.
+If you have incurred a loss by selling shares, you can deduct the loss from gains or dividends from other shares admitted for trading if we have been information about the purchase.
+There are
+exceptions if you purchased your shares before 1 January 2006
+.
+Always save the sales documentation.
+How to determine gain and loss on the sale of shares
+The general rule is that
+Gain and loss are determined according to the average cost method
+. In connection with the sale of share options and subscription rights, other rules may apply.
+First in, first out
+If you sell shares in the same company and with the same rights, where you purchased some before and some after 1 January 2006, the general rule is that the first ones purchased are regarded as the first ones sold.
+Loss on shares admitted for trading
+Your shares have been admitted for trading if they are tradedon a regulated market or a multilateral trading facility
+Read more about when shares are accepted for trade (Currently in Danish)
+.
+If you incur a loss when selling shares admitted for trading, you must declare the loss in box 66 in your tax assessment notice. The Tax Agency automatically deducts the loss against share dividends and gains on sales - but only against share dividends and gains that are income from shares and concern shares admitted for trading.
+You can only deduct losses on shares admitted for trading on a regulated market against share dividends and gains on sales of other shares admitted for trading on a regulated market.
+If your loss exceeds the total amount of your share dividends and gains (called income from shares), you will be entitled to deduct the remaining loss in the following order:
+The excess loss is automatically deducted from the sum of your cohabiting spouse’s share dividends and gains determined after deduction of your spouse’s loss. This transfer is mandatory.
+If there is still an excess loss, it will be carried forward to the subsequent years, where it is automatically set off first with you and then with your spouse. A loss carryforward must be set off in line with net gains etc. being realised in the subsequent income years.
+Read more about
+Conditions for deduction of loss on shares and investment certificates
+.
+Loss on shares not admitted for trading
+Your shares are not admitted for trading if they are not traded on a regulated market or a multilateral trading facility.
+Read more about when shares are accepted for trade (Currently in Danish)
+.
+If you incur a loss when selling shares not admitted for trading, you must declare the loss in box 67 in your tax assessment notice or in the tax return. Once you have declared the loss, it will automatically be set off against any positive income from shares. If the income from shares is subsequently negative, the tax value of the negative income from shares is calculated automatically. This negative tax amount is automatically deducted from your other taxes in your tax assessment notice.
+However, if you are married and cohabiting at the end of the year, your negative share income must first be set off against your spouse’s income from shares, if any, for the same year before a negative tax amount is calculated.
+A negative tax amount which exceeds your own tax liability for other income is set off against a cohabiting spouse’s tax liability for the same income year.
+If there is still an excess negative tax amount, it will automatically be set off against the tax in the subsequent years, first against your own tax and then your spouse’s tax.
+In 2025, the tax value of negative income from shares is calculated at 27% of the first DKK 67,500 and 42%. For spouses, the total threshold amount is DKK 135,000 in 2025. For 2024, the threshold amount is DKK 61,000 and DKK 122,000 for spouses.
+If you incur a loss on shares that are not admitted for trading, but have been admitted for trading on a regulated market or a multilateral trading facility during your ownership period, you must deduct the loss according to the rules applicable to shares admitted for trading on a regulated market.
+Tax on employee shares
+You must pay tax on gains (profit) on employee shares, and you may deduct losses in the same way as for ordinary shares.
+Read more about, for example, special schemes in
+Tax on employee shares
+.
+Sale of subscription rights is taxed as income from shares
+A subscription right is the right that entitles the shareholders of a company to subscribe for new shares in connection with an increase of a company’s share capital. If you do not want to exercise the subscription rights yourself, you may sell them. The gain is taxed as income from shares. Please note that special calculation rules apply.
+Read more in
+Subscription rights to new shares
+.
+Loss on share-based financial contracts
+If you incur a loss on share-based financial contracts and the contract or the underlying shares are admitted for trading on a regulated market, you may, on certain conditions, have the loss set off against gain on shares admitted for trading on a regulated market.
+This extended right of set-off only applies to losses ascertained from and including 2010. Read more in Danish about these conditions in our legal guide:
+Box 346 - Gain/loss on financial contracts and certain structured claims (in Danish).
+You need to inform the Tax Agency if you buy shares and other securities, unless that information reaches us automatically.  receive information about the purchase. This is a
+Condition for deduction of loss on shares and investment certificates
+When you make purchases via your bank or securities dealer in Denmark, this takes place automatically and you do not need to do anything yourself. Banks and securities dealers in Denmark are obliged to report the information to the Tax Agency.
+You must remember to declare the purchase to the Tax Agency if this concerns securities purchased abroad and placed in a foreign custody account.
+Save the receipt for purchase of securities. The receipt may be important if you sell the securities again.
+We automatically update any changes in Danish businesses (corporate events). Most often we also do so in non-Danish businesses.
+But sometime we do not receive sufficient information to calculate tax correctly on your securities, as non-Danish businesses are not under obligation to inform us of the changes they make.
+In such cases, we will send you a letter asking you to provide and enter the information we need. You can easily do this yourself in E-tax.
+Log on to E-tax and enter the missing information in your tax assessment notice
+Examples of changes in businesses
+Change of name
+Mergers (fusions)
+Demergers (change of the share composition)
+Share exchange (A and B shares)
+A security is transferred to another type of taxation
+When changes happen in a business and we have been able to update the information, we will let you know. In those cases, you do not have to do anything.
+Investment undertakings (previously distributing investment funds) are divided into share-based and bond-based investment undertakings.
+Share-based:
+In connection with the sale of share-based investment certificates, the rules on the sale of shares admitted for trading are applicable. This means that you are liable to pay tax on a gain on sale and that you can deduct any loss when you have sold the investment certificates. You can only deduct a loss if you have declared the purchase to the Tax Agency.
+Bond-based:
+A gain and a loss on sale are included in the income from capital. Net gain or net loss for the year may be aggregated with net gains and net losses on sales of claims that follow the rules of the Danish Gains on Securities and Foreign Currency Act (Kursgevinstloven) (for example, gain and loss on claims and/or debts denominated in foreign currency).
+You are only taxed on the gain if the aggregate amount exceeds DKK 2,000. You are also only entitled to deduct a loss if the total loss exceeds DKK 2,000.
+Shares and investment certificates issued by a bond-based investment company are only taxed on the gain when you sell them.
+In 2025, you must pay:
+27% tax on the first DKK 67,500 (2024: DKK 61,000) in income from shares
+42% on income from shares in excess of DKK 67,500 (2024: DKK 61,000).
+Income from shares consists of both dividends and gain (profit) from sale.
+If you are married
+If you are married and you live with your spouse at the end of the income year, the threshold amounts are twice the above. In 2025, you are liable to pay 27% on the first DKK 135,000 (27% on the first DKK 122,000 in 2024) on your total income from shares and 42% on income from shares in excess of DKK 135,600 (DKK 122,000 in 2024).
+Unregulated markets in Denmark
+Danish OTC (DKTC)
+First North (XFND)
+Regulated markets in Denmark
+Nasdaq OMX Copenhagen A/S (XCSE) - formerly Copenhagen Stock Exchange
+GXG Markets Official List
+Regulated markets within the EU/EEA
+The Danish Ministry of Taxation regards a market as a regulated market if it is entered in the list of regulated markets within the EU/EEA prepared by the independent Committee of European Securities Regulators (CESR).
+There is no direct link to the list. But there is still a search bar on the left-hand side where, under Keyword search, you can enter the name of the market to find out whether it is a regulated market:
+Regulated markets (MiFID database)
+Regulated markets outside the EU/EEA
+The Ministry of Taxation generally regards a market as regulated if the market:
+is a member of the World Federation of Exchanges or
+appears on a list which the Commission may publish according to Article 19(6) of the MiFID Directive CESR - Directive 2004/39/EC of 21 April 2004.
+An OTC (over-the-counter) exchange is not a regulated market.
+See a list of approved regulated markets outside the EU/EEA (Excel)
+There are several transitional rules on the taxation of shares and investment certificates. See whether you are covered by the rules. This means, for example, whether you are under the tax-free limit or have a right of deduction of loss.
+Transitional rules on shares and investment certificates purchased before 2006
+Transitional rules on the sale of investment certificates purchased before 19 January 1994
+Transitional rules on the sale of shares purchased before 19 May 1993
+Transitional rules on unutilised losses on shares from previous years
+Shareholders can claim refund of dividend tax if the dividend tax withheld exceeds the final dividend tax according to a double taxation agreement or current Danish tax law.
+You can make the claim online. In order to make such a claim, the shareholder must be liable to pay tax abroad or be exempt from tax in Denmark. Shareholders or agents (on behalf of shareholders) can make claims.
+Click here for further information and to make a claim for refund of dividend tax
+Since August 2015, all claims for refunds of dividend tax have been put on hold because of the alleged criminal offences related to such claims.
+Read more about the background to this decision
+(only available in Danish).
+On 17 March 2016, we resumed payment of refunds of dividend tax, provided supporting documentation is submitted.
+Please note that increased case processing time should still be expected.
+We regret any inconvenience this may have caused and we apologise for continued delays in the period ahead. According to section 69B of the Danish Withholding Tax Act (Kildeskatteloven), the Danish Tax Agency (Skattestyrelsen) has to pay interest on overdue refunds if case-processing time exceeds six months and the delay is due to circumstances which are not the fault of the recipient of the refund. Th Danish Tax Agency will pay any interest on overdue refunds if the conditions for this are met. You do not have to submit a claim for this interest.
+Your tax assessment notice holds alle the information we have about possible dividends and about loss and gains on your securities.
+Check it yourself and make relevant changes
+Read about how you report shares here on
+Investment and tax
+.
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions about this subject?
+Call us
+before
+Kl.
+17:00
+72222894

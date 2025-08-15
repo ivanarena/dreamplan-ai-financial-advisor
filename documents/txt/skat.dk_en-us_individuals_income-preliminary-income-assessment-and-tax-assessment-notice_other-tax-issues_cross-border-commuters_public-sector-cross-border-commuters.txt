@@ -1,0 +1,76 @@
+URL: https://skat.dk/en-us/individuals/income-preliminary-income-assessment-and-tax-assessment-notice/other-tax-issues/cross-border-commuters/public-sector-cross-border-commuters
+
+Skat
+Skat
+Log on as an individual with MitID
+Log on with E-tax password
+Authorised logon (for parents or advisors, etc.)
+Order E-tax password
+Please note that the tax assessment notice (årsopgørelsen) and your contact and payment information is now available in English at skat.dk/tastselv
+.
+Log on with MitID
+Log on with E-tax password (TastSelv-kode)
+Search
+What are you looking for?
+Don't enter personal information (such as your CPR no.). We save searches for statistical purposes to improve our search feature.
+Read aloud
+English
+Deutsch
+Public-sector cross-border commuters
+If you are a public-sector worker and you cross the Danish-Swedish or the Danish-German border to go to work, you need to be aware if you have worked more from home than you usually do. Work-from-home days can affect whether you only pay tax in your country of work or if you also have to pay tax in your country of residence.
+The first thing you should do is to calculate how many days you worked from home and how many days you worked in your country of work during 2022.
+If you have not worked from home, this guidance is not relevant for you. In that case, you should do what you normally do in relation to your tax assessment notice and your tax return.
+We need to know how much of your income relates to the days you were physically at your workplace and how much relates to the days you worked from home in Denmark. Please note that you need to go through the same process twice in TastSelv (E-tax) - once for each amount. See below.
+This is what you do
+Log on to E-tax and select
+Change your tax assessment notice/tax return
+First you report the income you earned on the days you worked in your country of work. Please note that there a several questions to be answered in Danish in this section of E-tax - you may therefore need help from a Danish-speaking person.
+Open the module ‘Udenlandsk lønindkomst’ (Non-Danish earned income)
+Select ‘Mit arbejde er udført for en offentlig, udenlandsk arbejdsgiver’ (My work was carried out for a public sector non-Danish employer)
+Select ‘Land’ (Country): Sverige/Tyskland (Sweden/Germany)
+Next, one of the questions will be: ‘Får du løn fra din offentlige arbejdsgiver i Sverige/Tyskland for arbejde udført i Danmark? (Do you get paid by your public sector employer in Sweden/Germany for work carried out in Denmark?) As you are about to report your income for working days carried out in your country of work, you should reply ‘Nej’ (No).
+Reply to the rest of the questions, for instance you have to enter your income for the days you worked in your country of work.
+Select ‘Gem’ (Save)
+Next, you report your income for the days you worked from home in Denmark.
+Select ‘Tilføj lønindkomst’ (Add earned income)
+Select ‘Mit arbejde er udført for offentlig, udenlandsk arbejdsgiver’ (My work was carried out for a non-Danish employer)
+Select ‘Land’ (Country): Sverige/Tyskland (Sweden/Germany)
+Next, one of the questions will be: ‘Får du løn fra din offentlige arbejdsgiver i Sverige/Tyskland for arbejde udført i Danmark? (Do you get paid by your public sector employer in Sweden/Germany for work carried out in Denmark?). As you are about to report your income for working days carried out in Denmark, you should reply ‘Ja’ (Yes).
+Reply to the rest of the questions, for instance you have to enter your income for the days you worked from home in Denmark.
+Select ‘Gem’ (Save)
+Finally, you accept the corrections you made to your tax assessment notice.
+When you have reported both incomes, you select ‘Overfør beløb’ (Transfer amount).
+‘Godkend’ (Accept) the corrections you made to your tax assessment notice.
+If you live in Denmark and usually work in Sweden, you will probably have outstanding tax (tax you need to pay) in Denmark if you worked a lot from home in 2020. As you have probably paid tax on all of your income in Sweden, you can apply to have the tax you overpaid in Sweden transferred to the Danish Tax Agency.
+You do so by writing to us.
+Log on to E-tax and select
+Contact
+>
+Write to us
+> Indsend/indberet til os (fx blanket/bilag) (Submit form/appendix etc. to us) > Andre blanketter/bilag (Other forms/appendices).
+Write ’Nordisk Træk’ (Nordic transfer) in the subject field.
+Write that you request a transfer of a tax refund.
+Write or attach information about your income and how many working days you had in both countries.
+Click ‘Send’
+If you have worked from home, you should ask the tax authorities in your country of residence how these days are to be taxed in your country of residence.
+As a general rule, your Danish public sector employer reports your full income to your tax assessment notice. You therefore need to inform us how many days you worked from home and how many days you were at your place of work. This will enable us to distribute your income correctly for taxation between the two countries according to the rules of the relevant double taxation agreement.
+This is what you do
+Log on to E-tax
+Select
+Change your tax assessment notice/tax return
+Next to box 11, click
+See where amount comes from
+Click ‘Send mail’ (Send email)
+The first thing you write is ’Offentlig arbejdsgiver, fordeling’ (Public sector employer, distribution) and you then provide the information about the distribution of your income. You need to inform us of the percentage-wise distribution of your income - in other words, how many work-from-home days you had as opposed to days at your workplace.
+Click ‘Send’.
+Please call us at (+45) 7222 2892 if you are subject to full tax liability in two countries at the same time (dual residency) so we can help you pay the correct tax.
+What does dual residency mean?
+An example of dual residency: You are employed by a business in Denmark and move to Germany but you keep working for the Danish business. This means that you have to pay tax (full tax liability) to both Denmark and Germany, even if you no longer live in Denmark.
+For further legal information in Danish see
+our legal guide .
+Do you have any other questions to this subject?
+Call us
+before
+Kl.
+17:00
+72222780

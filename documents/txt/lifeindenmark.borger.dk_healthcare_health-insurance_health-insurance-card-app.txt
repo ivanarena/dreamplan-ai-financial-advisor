@@ -1,0 +1,87 @@
+URL: https://lifeindenmark.borger.dk/healthcare/health-insurance/health-insurance-card-app
+
+Health insurance card app
+The health insurance card app is a digital version of the plastic health insurance card
+Read more and self-services
+What is the health insurance card app?
+The Danish health insurance card app (‘sundhedskort-app’) is a voluntary digital version of the plastic health insurance card.
+The health insurance card app is valid documentation of the citizen’s right to receive healthcare in Denmark, equal to the plastic health insurance card.
+In the health insurance card app, you can automatically view your children's health insurance cards until they turn 15 years old. Your information is automatically updated in the app if, for example, you change address, family doctor (GP) or surname.
+You might not be able to use the app everywhere. For instance, some libraries with self-service hours may still depend on the plastic health insurance cards for access, as it is uncertain whether they have updated their scanners to ones that can read the app.
+As the app is a part of the National Danish Health Insurance Programme, it is only valid in Denmark.
+Read more about the plastic health insurance card
+How do I get the app?
+You can download the health insurance card app from 32 European countries' versions of App Store and Google Play by searching for 'Sundhedskortet'.
+In order to get the health insurance card app, you need to have:
+a yellow plastic health insurance card
+a registered residential address in Denmark
+MitID (Danish eID)
+The health insurance card app is available in Danish and in English.
+Read more about the plastic health insurance card
+Read more about MitID
+Technical requirements
+The health insurance card app is available for both iPhone and Android. For security reasons, your phone must comply with the following requirements:
+iPhone: Operating system iOS 14 or higher
+Android: Operating system Android 9.0 (Pie) or higher.
+How do I use the app?
+Every time you use the app, you will be asked to use the same login as on your phone, before you can access the app.
+You use the health insurance card app in the same way as the plastic card. Scan the barcode in the app whenever you need to register at a service offered under the national health insurance scheme, just as you would with the plastic card.
+Note that not all scanning equipment is able to register the app. It does not negate your right to receive the healthcare service. However, it is advised that you bring your plastic card if there is any doubt whether the app can be used as registration. This is to ensure that your visit is registered in the correct and most efficient way.
+Reset your health insurance card app
+Start
+Start Reset your health insurance card app
+If you wish to reset your health insurance card app, go to the in-app menu:
+Press ‘Reset the health insurance card app’.
+In the menu that follows, press ‘Reset the health insurance card app’.
+Press 'Reset app' in the pop-up to complete the action.
+This action only deletes information about your health insurance card, not the app itself.
+You can recreate your digital health insurance card whenever you want by following the setup instructions in the app.
+In case you do not have access to your phone, it is possible to reset your health insurance card app through our online self-service. Note that you will need to log in with your MitID during the process.
+App only: Can you do without the plastic health insurance card?
+Start
+Start Can you do without the plastic health insurance card?
+It is up to you to decide if you want to receive the yellow plastic health insurance card or only use the app.
+You can do one of two things:
+Choose app only: Your current yellow plastic card still works, but you will no longer receive a new plastic card when, for instance, you move or change family doctor (GP).
+Choose app and plastic card: You can use the app, and you will automatically receive a new plastic card when, for instance, you move or change family doctor (GP).
+If you choose app only, you can easily change that decision and once again get a new yellow plastic card when you move or change doctor (GP).
+You can make your choice either in the health insurance card app or through the online self-service. Note that you will need to log in with your MitID during the process.
+Please note that your plastic card is connected to your CPR number, so if you change your CPR number, your plastic card with the old CPR number will no longer work.
+Your child's health insurance card is in your health insurance card app
+You are able to view your child's health insurance card in the app when:
+you have custody of your child
+your child is under the age of 15
+your child is registered in the Civil Registration System (CPR).
+When your child turns 13 years old, your child will have access to the health insurance card app with MitID. Your child's health insurance card will disappear from your health insurance card app when they turn 15 years old. Parents cannot view their children's address in the health insurance card app.
+If you believe that you cannot see your child's health insurance card in the app by mistake, please contact Citizen Service in the municipality where you live. They can help you find the information in the Civil Registration Office.
+You can log in to the Civil Registration System (CPR) yourself and see the information registered about you.
+Children with address protection
+If you cannot see information about your child's family doctor (GP), it is because the child is registered under address protection in the Civil Registration System (CPR).
+If your child has address protection, you can only see the following information in the app:
+barcode containing the child's civil registration number (CPR number)
+the child's CPR number
+the child's security group.
+If you suspect an error, please contact Citizen Service in the municipality where you live.
+Name and address protection
+If your own and your family doctor's (GP's) address do not appear in the health insurance card app, you are registered under address protection in the Civil Registration System (CPR).
+If you have name and address protection, you will only be able to see the following information in the app:
+barcode containing your civil registration number (CPR number)
+your CPR number
+your security group
+If you suspect an error, please contact Citizen Service in the municipality where you live.
+Read more about name and address protection
+Organ donation
+The first time you use the health insurance card app, you will receive a once-only pop-up from the National Centre for Organ Donation, named ‘Organdonation’. If you want to sign up to be an organ donor, you can do so here. Otherwise, close the pop-up by pressing ‘Luk’ (close).
+Legislation
+Law on health (in Danish)
+Executive Order on optional placement in security groups and issuance of health cards (in Danish)
+Please see also
+Information on the health insurance card app on the Agency for Digital Government’s website
+Written by the Agency for Digital Government
+Contact
++45 33 98 00 91
+(
+Phone hours
+)
+Write to the support team (formula in Danish)
+Last updated: 03 June 2025

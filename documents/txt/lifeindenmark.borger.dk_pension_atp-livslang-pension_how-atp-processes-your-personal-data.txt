@@ -1,0 +1,216 @@
+URL: https://lifeindenmark.borger.dk/pension/atp-livslang-pension/how-atp-processes-your-personal-data
+
+How ATP processes your personal data
+Read more and self-services
+Introduction
+Here you can read which data ATP Livslang Pension processes,
+how the data is processed and what rights you have when we process cases and
+inquiries concerning: .
+ATP Livslang Pension (ATP)
+Obligatorisk Pensionsordning
+(OP)
+Supplerende
+Arbejdsmarkedspension (SUPP).
+ATP Livslang Pension is responsible for processing the
+personal data that we have about you.
+Why is ATP Livslang Pension (Lifelong Pension) processes your personal data?
+We process your personal
+data for the following purposes:
+To be able to
+decide whether ATP Livslang Pension can be paid
+To be able to
+decide whether a lump sum from ATP Livslang Pension can be paid in case of
+death
+To collect ATP
+contributions.
+To train our
+employees and improve the customer service (if you call us and accept that we
+can record the conversation).
+What data do we process?
+We only collect relevant information about you to be able to
+process your case.
+We collect the following types of personal data about you:
+Common personal data
+We receive civil registration numbers and other basic
+data from the Danish Civil Register.
+We receive information about income, etc. from the
+Danish Tax Agency.
+We receive information about account numbers/NemKonto
+and any registrations/exemptions related to receiving Digital Post from the
+Danish Agency for Digitization.
+We receive ATP, OP and SUPP contributions from your employer,
+public authorities and unemployment insurance funds.
+We receive information about civil status, family
+relationships, contact details and tax identification number (TIN) from foreign and Danish authorities.
+Information submitted by you or your representative.
+How do we process your personal data?
+We process your personal
+data on the basis of:
+The Danish Act on the Danish Labour Market Supplementary Pension Scheme (in Danish)
+The General Data Protection Regulation for EU
+The Danish Data Protection Act (in Danish)
+We can obtain and coordinate data for case processing and
+for checking payments, etc. This can be done with the help from Udbetaling
+Danmark on the basis of special provisions in the Danish Udbetaling Danmark Act
+and established guidelines, including those for erasure of data.
+We may pass on information about you to other public authorities that
+according to the law are entitled to receive the information or authorities ATP
+Livslang Pension works together with. E.g., the Danish Tax Agency, Udbetaling
+Danmark, foreign authorities or banks.
+In the process of carrying out actuarial and statistical
+calculations a number of parameters are used which are based directly on
+personal data. Such parameters include mortality rates, marriage/cohabitant
+rates or estimate of the number of children per member. The calculations
+include, for example, the price for an ATP pension, or estimates of how much
+money ATP needs to set aside to ensure that all member pensions can be met in
+full. The results of the calculation are aggregated and anonymised so that
+personal information such as cpr numbers cannot be seen by end users.
+Identifying information about employers,
+including industry information, is stored in a database for the purposes of
+documenting employment for employees.
+Who do we pass on your personal data to?
+We can pass on information
+about you to others who are entitled to receive the information, such as
+authorities, institutions and relevant private companies.
+We pass on the following types of personal data about you:
+Common personal data
+We pass on information about reported contributions,
+retained labour market contributions, tax identification number (TIN), paid pensions and death benefit plus retained taxes and charges.
+We
+pass on information to municipalities for the purposes of updating the Civil
+Registration System (CPR).
+We
+pass on information to foreign authorities about reported contributions, payments,
+and identity data for the member and, if relevant, those entitled to receiving
+death benefits.
+We
+pass on information to Danish authorities about reported contributions and
+periods for the contributions plus additional information that the authorities
+need to process cases.
+We
+pass on information to authorities and private actors if we are obliged in accordance with other legislation.
+In some cases, we have to pass on your case to the Danish
+National Archives.
+Transfer of personal data to non-EU/EEA countries
+If you have previously lived or worked in a non-EU/EEA country or if you
+are currently or at a later date resident in or working in a non-EU/EEA
+country, we may need to transfer information about you to relevant authorities
+in that country so that they can process your case.
+Similarly, it may also be
+necessary to obtain information about you or your spouse/common-law partner
+plus your children, if relevant, in connection with payments.
+How long do we store your personal data?
+We store your information while processing your case and, as a rule,
+delete them 10 years after your death. The information can be stored for longer
+periods after the case has been concluded pursuant to the provisions in the
+Danish Limitation Act, the Danish Bookkeeping Act, and the Danish Archiving
+Act.
+If you have accepted that ATP Livslang Pension
+can record a conversation, it is deleted after two months. You can always have
+the conversation deleted earlier by contacting ATP Livslang Pension.
+Automated individual decisions
+We may make decisions that
+are solely based on automated data processing. The automated decisions are made
+by us obtaining information from public registers that is combined
+automatically with information in your case and which together determines
+whether you are entitled to pension payments and payment in case of death.
+How do we process the information you share via ATP's self-service?
+When you share your ATP information with a company or a public authority via ATP's self-service, ATP follows fixed procedures to ensure the correct handling and storage of your data.
+Sharing ATP information via ATP's self-service
+ATP provides a self-service solution on borger.dk, where you can share your ATP information with a company or a public authority.
+You choose the company or a public authority you want to share your ATP information with by entering their CVR number and following the instructions provided in the self-service on borger.dk. The company or the public authority can then retrieve your ATP information. They have 2 months to retrieve your information before the sharing ends.
+Note:
+ATP only provides the self-service and assumes no responsibility for how companies or public authorities use the information you share with them. ATP does not guarantee the accuracy or completeness of the information shared via the self-service. It is your responsibility to check the information before sharing it.
+Information you can share via ATP's self-service
+When you share your ATP information via ATP's self-service, you give them permission to see:
+When and how much you and your employers have paid into your ATP Livslang Pension.
+When and how much you and other entities such as the municipality, the state, or your unemployment insurance fund have paid into your ATP Livslang Pension.
+You choose the time period the information should cover – for example, the last 1 or 3 years.
+ATP information provides insight into your employment history:
+ATP is a mandatory pension scheme where you, your employer, the municipality, the state, or your unemployment insurance fund must continuously pay into as long as certain conditions are met. When you share information about your payments to ATP Livslang Pension, you give the recipient insight into your employment history.
+Storage period for shared information
+ATP stores the shared information for a limited period of time, depending on whether the company or the public authority has retrieved the information:
+If they have retrieved your information: ATP stores it for 1 year.
+If they have not retrieved your information: ATP stores it for 3 months.
+After these periods, ATP deletes the shared information from ATP's systems.
+Note that if the company or the public authority has already retrieved the information, they may still have access to it in their own systems even after the storage period has expired. Therefore, you need to contact them if you want them to delete your information.
+You can always see your own ATP information
+Even though ATP deletes the information you have shared, the information will still be available to you in ATP's self-service. This means that you can always see information about payments to your ATP Livslang Pension and choose to share the information again.
+You can stop sharing your ATP information
+If you regret sharing your ATP information with a company or a public authority, you can choose to stop sharing via ATP's self-service. If the company or the public authority has already retrieved your information before you stop sharing, they may still have access to your information in their own systems. Therefore, you need to contact them if you want them to delete your information.
+What are your rights?
+You can receive a copy of the data we process about you
+(insight). You can complain about us processing your personal data (objection).
+You may also request:
+to have your personal data corrected or erased
+to have the data sent to you or another party (data portability)
+that we suspend the processing of your data·
+And finally, you can object to us making automated
+decisions.
+If you ask to have your personal data erased, we may not be
+able to comply with your request.
+There may be conditions or limitations to the rights
+mentioned above. Therefore, it is not guaranteed that, for example, you have
+the right to have your personal data deleted in a specific context - this will
+depend on the specific circumstances in connection with the data processing.
+Among other things, this may be due to your personal data being used in a case
+involving a payment to a third party or for legal compliance reasons.
+If you have parental custody or parental
+responsibility for a child under the age of 18 and information about the child is included in
+the case, the child also has these rights.
+If you have questions
+If you have questions
+If you have any questions concerning
+your case or our processing of your personal data or if you want to use your
+rights, for example, to get access to or correct your personal data, you can
+contact ATP Livslang Pension.
+You can do so by calling (+45) 70 12 80 00 or writing to ATP
+Livslang Pension, Kongens Vænge 8, DK-3400 Hillerød. If you are writing about
+the processing of personal data, then please write “Personal data” in the
+title.
+Are you dissatisfied with the
+processing of your personal data
+You can contact the Data Protection Officer if you think
+That
+you have not received a satisfactory response to your request for access to
+your personal data
+That
+ATP Livslang Pension has not respected your rights.
+Contact the Data Protection Officer via
+borger.dk/atp-dpo-kontakt or call (+45) 70 11 12 13.
+If you disagree with the way in which we process your
+personal data, you can also submit a complaint to the Danish Data Protection
+Agency.
+Please note that the Danish Data Protection Agency is only a
+board of appeal regarding ATP Livslang Pension’s processing of personal data
+and not the handling of your case.
+If you disagree with our processing of your case, you must
+contact ATP Livslang Pension.
+Data Controller
+ATP Livslang Pension
+Konges Vænge 8,
+DK-3400 Hillerød
+CVR no. 43405810
+·
+Legal framework
+Lov om Arbejdsmarkedets Tillægspension
+Regulation no. 883/2004 - coordination of social
+insurance schemes
+Regulation no. 987/2009 - the implementation
+regulation
+Article 6(1)(e) of Databeskyttelsesforordningen
+(common personal data)
+Section
+11(1) of Databeskyttelsesloven (civil registration no.)
+Article
+45(1) of Databeskyttelsesforordningen (transfers to safe non-EU/EEA countries)
+article
+46(2)(a) of Databeskyttelsesforordningen (transfers to an unsafe non-EU/EEA
+country)
+Article
+49(1)(e) of Databeskyttelsesforordningen (transfers take place for legal
+compliance reasons)
+You can find the legal basis at:
+www.retsinformation.dk
+www.eur-lex.eu
+Written by ATP Livslang Pension

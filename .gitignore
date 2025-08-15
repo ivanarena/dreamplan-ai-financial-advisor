@@ -20,7 +20,6 @@ wheels/
 
 # RAG docs
 documents/html
-documents/txt
 documents/json
 
 todo.md
