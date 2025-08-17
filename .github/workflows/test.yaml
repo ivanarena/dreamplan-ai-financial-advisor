@@ -10,6 +10,12 @@ jobs:
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       CALCULATION_API_URL: ${{ secrets.CALCULATION_API_URL }}
+      DATABASE_URL: ${{ secrets.DATABASE_URL }}
+      user: ${{ secrets.user }}
+      password: ${{ secrets.password }}
+      host: ${{ secrets.host }}
+      port: ${{ secrets.port }}
+      dbname: ${{ secrets.dbname }}
 
     steps:
       - name: Checkout repository
